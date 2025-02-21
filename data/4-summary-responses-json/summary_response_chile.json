@@ -1,0 +1,333 @@
+[
+    {
+        "country": "chile",
+        "question": "period_start",
+        "answer": 2021
+    },
+    {
+        "country": "chile",
+        "question": "period_end",
+        "answer": 2025
+    },
+    {
+        "country": "chile",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Generar instancias de capacitaci\u00f3n locales para profesionales de la salud en relaci\u00f3n con el control de infecciones, el uso de antimicrobianos y la RAM,",
+            "111. Prevenir y controlar las infecciones asociadas a salud humana y a sanidad vegetal y animal",
+            "IV,1 Regular el uso de antimicrobianos en las personas.",
+            "El Plan Nacional contra la RAM de Chile 2017- 2020 contempl\u00f3 las mismas l\u00edneas estrat\u00e9gicas del Plan de Acci\u00f3n Mundial, logrando avances tanto en salud humana como en sanidad animal.",
+            "Los antimicrobianos constituyen medicamentos indispensables para tratar una serie de procesos infecciosos, tanto en humanos como en animales. Sin embargo, su uso lleva aparejado el riesgo de que los microorganismos, en su proceso natural de adaptaci\u00f3n, se tornen resistentes a \u00e9stos, poniendo en peligro la posibilidad de tratar las enfermedades.",
+            "El Plan Nacional contra la RAM de Chile 2017- 2020 contempl\u00f3 las mismas l\u00edneas estrat\u00e9gicas del Plan de Acci\u00f3n Mundial, logrando avances tanto en salud humana como en sanidad animal, gracias al trabajo conjunto de distintos organismos gubernamentales y en colaboraci\u00f3n con la academia y las sociedades cient\u00edficas.",
+            "El primer paso fue potenciar el tema de la resistencia a los antimicrobianos como una problem\u00e1tica de salud p\u00fablica trascendental que requiere del apoyo pol\u00edtico de m\u00faltiples sectores para su abordaje.",
+            "diversos cursos de formaci\u00f3n en RAM en salud humana ofrecidos por el Ministerio de Salud, sociedades cient\u00edficas, universidades y organismos internacionales",
+            "En Chile, desde 1982 se cuenta con el Programa de Vigilancia de las Infecciones Asociadas a la Atenci\u00f3n de Salud (IAAS), iniciativa que, adem\u00e1s de mantener un sistema de vigilancia espec\u00edfica para RAM de agentes asociados con IAAS por m\u00e1s de dos d\u00e9cadas, en los \u00faltimos a\u00f1os ha elaborado y actualizado diversos documentos regulatorios destinados a mejorar la vigilancia y contenci\u00f3n de la diseminaci\u00f3n de la RAM.",
+            "La aprobaci\u00f3n durante 2018 de la norma t\u00e9cnica de prevenci\u00f3n y diseminaci\u00f3n de agentes con resistencia a antimicrobianos de importancia en Salud P\u00fablica (ARAISP), cuyo objetivo es prevenir la diseminaci\u00f3n en forma end\u00e9mica o epid\u00e9mica de ARAISP y sus consecuencias en establecimientos de atenci\u00f3n cerrada.",
+            "En cuanto al uso de antimicrobianos en humanos, durante el periodo el Ministerio de Salud desarroll\u00f3 la Norma General T\u00e9cnica N'210 aprobada el 29 de diciembre de 2020, que corresponde a la actualizaci\u00f3n de la Norma General T\u00e9cnica N%43 sobre racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica, en la que se fortalece la creaci\u00f3n de Programas Responsables de la Optimizaci\u00f3n del uso de Antimicrobianos (PROA) en hospitales de mediana y alta complejidad y que permitir\u00e1, adem\u00e1s, monitorizar el consumo de estos f\u00e1rmacos en estos establecimientos de salud a nivel nacional.",
+            "35 corresponden a estudios efectuados en humanos",
+            "\u00bb Departamento de Enfermedades Transmisibles. (DIPRECE-MINSAL). \u00bb Instituto de Salud P\u00fablica (ISP). Ministerio de Salud. \u00bb Programa Nacional de Control de Infecciones Asociadas a la Atenci\u00f3n de Salud (IAAS) (DIGERA- MINSAD",
+            "La Comisi\u00f3n contra la Resistencia a los Antimicrobianos del Ministerio de Salud, conformada por distintos departamentos del Ministerio de Salud y del Instituto de Salud P\u00fablica, que tiene por funci\u00f3n contribuir a las acciones estipuladas en el Plan Nacional contra la RAM desde la perspectiva de la salud humana.",
+            "3. Prevenir y controlar las infecciones asociadas a la salud humana y a la sanidad animal y vegetal.",
+            "A trav\u00e9s de esta l\u00ednea estrat\u00e9gica se busca difundir inl. Fortalecer la 5 sobre la RAM para incentivar formaci\u00f3n y conocimientos concientiza cion y cambios en las actitudes respecto al uso de los antimicrobianos, tanto en poblaci\u00f3n general como en grupos la fo f\u00cdMacion respecto espec\u00edficos, como prescriptores, futuros prescriptores y trabajadores de salud en general",
+            "Este objetivo busca desarrollar conocimientos sobre la RAM y capacidades en el uso prudente y responsable de antimicrobianos, tanto en prescriptores en ejercicio como en nuevos.",
+            "Con este objetivo se busca fortalecer la vigilancia de la resistencia a los antimicrobianos en las infecciones asociadas a la atenci\u00f3n de salud mediante la recolecci\u00f3n y monitoreo de Agentes con Resistencia a los Antimicrobianos de Importancia en Salud P\u00fablica (ARAISP), que correlacione la informaci\u00f3n obtenida con el resultado sanitario, a trav\u00e9s de la evaluaci\u00f3n de indicadores epidemiol\u00f3gicos respecto de los principales s\u00edndromes cl\u00ednicos causados por dichos agentes en establecimientos de salud y su tendencia en el tiempo, y que permita establecer planes de mejora y medidas correctivas.",
+            "La prevenci\u00f3n y el control de las infecciones permiten disminuir el uso de antimicrobianos y la presi\u00f3n de selecci\u00f3n que \u00e9stos ejercen sobre los microorganismos. Todas las \u00e1reas de la salud humana, animal y vegetal deben trabajar en conjunto para evitar la aparici\u00f3n de enfermedades infecciosas como medida de acci\u00f3n contra la resistencia a los antimicrobianos.",
+            "Este objetivo busca prevenir y controlar las I|AAS mediante el fortalecimiento del trabajo del Programa Nacional de Control de Infecciones Asociadas a la Atenci\u00f3n de Salud (IAAS) en los hospitales del pa\u00eds en sus distintos \u00e1mbitos y componentes, con el prop\u00f3sito de mejorar los resultados en materia, tanto de prevenci\u00f3n de lAAS espec\u00edficas (en particular de aquellas que se asocian con mayor frecuencia a resistencia antimicrobiana de importancia en Salud P\u00fablica)",
+            "Este objetivo busca desarrollar estrategias para reducir el riesgo de infecci\u00f3n o de enfermedad provocadas por microorganismos espec\u00edficos, ya sea a trav\u00e9s de acciones de promoci\u00f3n de la salud, vacunaci\u00f3n o uso de medicamentos preventivos en poblaci\u00f3n vulnerable.",
+            "Otras l\u00edneas estrat\u00e9gicas del Programa que buscan prevenir nuevas infecciones son: las campa\u00f1as de comunicaci\u00f3n social para la prevenci\u00f3n del VIH y las ITS, de emisi\u00f3n anual; la implementaci\u00f3n de tamizaje a trav\u00e9s de test r\u00e1pido de lectura visual, disponible en los niveles primarios en todas las comunas del pa\u00eds; la estrategia de acceso a preservativos, la implementaci\u00f3n de Profilaxis Pre Exposici\u00f3n Sexual-PrEP, destinada a poblaciones de mayor vulnerabilidad y riesgo, entre otras.",
+            "Este objetivo busca desarrollar estrategias espec\u00edficas de control de infecciones en lugares donde residen personas mayores, tales como los Establecimientos de Larga Estad\u00eda de Adultos Mayores (ELEAM), En la actualidad estos establecimientos est\u00e1n sujetos a normativas que regulan las condiciones sanitarias y ambientales b\u00e1sicas para su funcionamiento, que dentro de sus objetivos, buscan evitar la producci\u00f3n y diseminaci\u00f3n de infecciones en esta poblaci\u00f3n.",
+            "IV.1 Regular el uso de antimicrobianos en las personas",
+            "Durante el pr\u00f3ximo periodo se requiere avanzar en la regulaci\u00f3n de la prescripci\u00f3n en la Atenci\u00f3n Primaria de Salud y en el desarrollo de estrategias para controlar el expendio de antimicrobianos en lugares no autorizados como ferias libres, internet y redes sociales.",
+            "Por otra parte, este objetivo tambi\u00e9n contempla la creaci\u00f3n de un repositorio de documentos de acceso p\u00fablico que integre, dentro de un mismo sitio, toda la informaci\u00f3n relevante respecto a los avances del Plan Nacional contra la RAM.",
+            "Decreto Exento N*132 de 2018. Ministerio de Salud. Aprueba Norma T\u00e9cnica n%203 sobre contenci\u00f3n de diseminaci\u00f3n de agentes con resistencia a los antimicrobianos de importancia en salud p\u00fablica (ARAISP) en establecimientos cerrados de salud",
+            "20. Resoluci\u00f3n Exenta N* 1146 de 2020. Ministerio de Salud. Aprueba 'Norma General T\u00e9cnica n%210 para la racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica'"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "111.6. Prevenir y controlar infecciones en la producci\u00f3n animal.",
+            "IV.2. Fortalecer los instrumentos regulatorios para disminuir el uso de antimicrobianos en animales de producci\u00f3n.",
+            "El Plan Nacional contra la RAM de Chile 2017- 2020 contempl\u00f3 las mismas l\u00edneas estrat\u00e9gicas del Plan de Acci\u00f3n Mundial, logrando avances tanto en salud humana como en sanidad animal.",
+            "el Ministerio de Agricultura y sus servicios apoyan constantemente a los productores en el uso prudente, juicioso y responsable de los antibi\u00f3ticos",
+            "El Plan Nacional contra la RAM de Chile 2017- 2020 contempl\u00f3 las mismas l\u00edneas estrat\u00e9gicas del Plan de Acci\u00f3n Mundial, logrando avances tanto en salud humana como en sanidad animal, gracias al trabajo conjunto de distintos organismos gubernamentales y en colaboraci\u00f3n con la academia y las sociedades cient\u00edficas.",
+            "A estas actividades promovidas por los organismos gubernamentales se ha sumado fuertemente el \u00e1mbito acad\u00e9mico, desde las universidades y sociedades cient\u00edficas, hasta asociaciones de investigadores de salud humana y animal mediante la organizaci\u00f3n y participaci\u00f3n en conferencias, seminarios y talleres sobre RAM, entre otras actividades.",
+            "durante los \u00faltimos a\u00f1os destac\u00f3 el trabajo realizado por el Servicio Agr\u00edcola y Ganadero (SAG), en atenci\u00f3n a la recomendaci\u00f3n de la OIE a los paises miembros de recabar informaci\u00f3n cuantitativa respecto de la venta de antimicrobianos, que permita establecer patrones de utilizaci\u00f3n.",
+            "En el a\u00f1o 2019 se estableci\u00f3 la primera mesa de trabajo intersectorial para enfrentar la resistencia bacteriana en peque\u00f1os animales.",
+            "En producci\u00f3n de animales acu\u00e1ticos, el Instituto de Fomento Pesquero (IFOP) ha desarrollado un programa de investigaci\u00f3n cient\u00edfica llamado 'Vigilancia de la resistencia de los agentes pat\u00f3genos a los antimicrobianos de uso habitual en la salmonicultura nacional' que se ha ido desarrollando por etapas (actualmente etapa VI).",
+            "Grupo interministerial para la Re- sistencia a los antimicrobianos en la cadena alimentaria (GIRAM) | \u00bb Agencia Chilena para la Calidad e Inocuidad Alimentaria (ACHI- PIA). Ministerio de Agricultura. SEGUNDA ETAPA \u00bb Servicio Agr\u00edcola y Ganadero (SAG). Divisi\u00f3n de Protecci\u00f3n Agr\u00ed- cola y Forestal y Divisi\u00f3n de Protecci\u00f3n Pecuaria. Ministerio de Agricultura.",
+            "Mesa intersectorial de resistencia a los antimicrobianos en animales peque\u00f1os, iniciativa que re\u00fane a la Oficina de Zoonosis y Control de Vectores del Ministerio de Salud, el Colegio M\u00e9dico Veterinario, Facultades de Medicina Veterinaria de distintas universidades, el Programa de Tenencia Responsable de Animales de Compa\u00f1\u00eda de la Subsecretar\u00eda de Desarrollo Regional y Administrativo, participantes del SAG, ISP y otras sociedades cient\u00edficas.",
+            "3. Prevenir y controlar las infecciones asociadas a la salud humana y a la sanidad animal y vegetal.",
+            "Por otra parte, se continuar\u00e1 y fortalecer\u00e1 el desarrollo de programas de inducci\u00f3n y formaci\u00f3n continua para la actualizaci\u00f3n de competencias de prescriptores de antimicrobianos y otros profesionales usuarios y aplicadores de antimicrobianos en salud humana, animal y vegetal.",
+            "El fortalecimiento de los laboratorios tambi\u00e9n incluye a aquellos que operan en los \u00e1mbitos de sanidad animal, sanidad vegetal e inocuidad alimentaria, en los cuales se requiere la estandarizaci\u00f3n de las pautas para las pruebas de susceptibilidad y la conformaci\u00f3n de una red integrada que permita la gesti\u00f3n de datos \u00f3ptima y continua y su transferencia al sistema integrado de vigilancia.",
+            "Este objetivo busca ampliar la vigilancia de microorganismos pat\u00f3genos causantes de enfermedades en animales de producci\u00f3n de alimentos hacia la vigilancia de la resistencia a los antimicrobianos que \u00e9stos presentan, de modo de contribuir a optimizar el uso de los antimicrobianos en la producci\u00f3n animal y permitir, adem\u00e1s, detectar la emergencia de nuevos mecanismos de resistencia y sus determinantes, que podr\u00edan entrar en la cadena alimentaria.",
+            "Este objetivo busca promover el bienestar animal y las buenas pr\u00e1cticas ganaderas en la producci\u00f3n animal, tendientes a mantener a los animales en un nivel \u00f3ptimo de salud y bienestar durante todo el ciclo productivo, a fin de evitar ambientes propicios para el desarrollo de enfermedades.",
+            "Esta l\u00ednea estrat\u00e9gica busca fortalecer el marco normativo adem\u00e1s del monitoreo y fiscalizaci\u00f3n del uso prudente y responsable de los antimicrobianos tanto en salud humana como en animales y agricultura.",
+            "IV.2. Fortalecer los instrumentos regulatorios para disminuir el uso de antimicrobianos en animales de producci\u00f3n",
+            "14, Resoluci\u00f3n Exenta N*5571 de 2017. Servicio Agr\u00edcola y Ganadero. Establece requisitos para la declaraci\u00f3n de venta de antimicrobianos [Internet] [fecha de descarga: 8 de diciembre de 2020].",
+            "Servicio Nacional de Pesca y Acuicultura. Manual de buenas pr\u00e1cticas en el uso de antimicrobianos y antiparasitarios en salmonicultura chilena [Internet]. 2015 [fecha de descarga: 9 de diciembre de 2020]."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "111.5. Incorporar medidas regulatorias en relaci\u00f3n con la disposici\u00f3n final de residuos que contengan antimicrobianos.",
+            "V.4, Desarrollar investigaci\u00f3n sobre microorganismos ambientales en relaci\u00f3n a la RAM.",
+            "con un car\u00e1cter intersectorial y bajo el enfoque de Una Salud, lo que permite desarrollar estrategias no s\u00f3lo desde el sector salud propiamente tal, sino tambi\u00e9n desde otros relacionados al uso de antimicrobianos y a sus consecuencias ecol\u00f3gicas.",
+            "Los nuevos desaf\u00edos que enfrentamos en materia de biodiversidad y cambio clim\u00e1tico ameritan una respuesta oportuna y el compromiso de todos los sectores involucrados.",
+            "El rol que juega el medio ambiente en la aparici\u00f3n y propagaci\u00f3n de la resistencia a los antimicrobianos es vital.",
+            "El fen\u00f3meno de la resistencia antimicrobiana, RAM, es, en cierta medida, comparable con el cambio clim\u00e1tico. Tambi\u00e9n tiene su origen en la conducta poco responsable de nuestra especie y puede acarrear consecuencias graves. Por ejemplo, la administraci\u00f3n excesiva o el mal uso de antibi\u00f3ticos en animales de compa\u00f1\u00eda y los posibles traspasos de enfermedades a la poblaci\u00f3n por contacto estrecho o la contaminaci\u00f3n de suelos y agua; la incorporaci\u00f3n masiva en el sector agr\u00edcola, especialmente en la extinci\u00f3n de plagas con pesticidas y control de microbios en la industria c\u00e1mica; o el uso intensivo de sustancias farmacol\u00f3gicas en el desarrollo de especies acu\u00edcolas para el consumo humano, Todas son situaciones donde se pone en riesgo la sostenibilidad de los sistemas agroalimentarios y se amenaza la salud, por la contaminaci\u00f3n de productos y del medioambiente con bacterias resistentes o residuos de antimicrobianos.",
+            "El uso excesivo de los antimicrobianos en la industria alimentaria ha contribuido a acelerar la velocidad del desarrollo de RAM, lo que pone en riesgo la sostenibilidad de los sistemas agroalimentarios y amenaza la salud a trav\u00e9s de la contaminaci\u00f3n de los productos y el medioambiente con bacterias resistentes o residuos de antimicrobianos.",
+            "el decreto incorpora la vigilancia en matrices ambientales, tales como agua y alimentos",
+            "12 publicaciones sobre resistencia a antimicrobianos desde el \u00e1mbito medioambiental (fundamentalmente estudios en aguas superficiales).",
+            "A trav\u00e9s de este objetivo se busca difundir contenido que permita informar y crear conciencia en la poblaci\u00f3n general sobre la prevenci\u00f3n de infecciones y el uso correcto de los antimicrobianos, tanto en humano como en animales y vegetales, a trav\u00e9s de una perspectiva ecol\u00f3gica.",
+            "A trav\u00e9s de este objetivo se incorporar\u00e1n microorganismos seleccionados a un sistema integrado de vigilancia de la RAM que unifique la informaci\u00f3n proveniente del ambito de salud humana, animal, vegetal y del medio ambiente, bajo el principio de 'Una Salud' y que permita la provisi\u00f3n efectiva de datos.",
+            "La prevenci\u00f3n de las infecciones debe darse tanto al interior de los establecimientos de salud como en los \u00e1mbitos comunitarios, lo que incluye las medidas de higiene y sanidad ambiental para evitar la exposici\u00f3n a microorganismos pat\u00f3genos.",
+            "A trav\u00e9s de este objetivo se busca disminuir el riesgo de la poblaci\u00f3n de adquirir infecciones en los ambientes comunitarios, a trav\u00e9s de acciones de higiene y saneamiento ambiental.",
+            "Con este objetivo se busca, evitar la contaminaci\u00f3n del medioambiente con Residuos de Establecimientos de Atenci\u00f3n de Salud (REAS) que contengan antimicrobianos y fortalecer la regulaci\u00f3n de 'lodos' para mejorar los est\u00e1ndares del manejo, an\u00e1lisis y aplicaci\u00f3n de lodos al suelo, en el contexto de la cadena alimentaria.",
+            "En el \u00e1mbito vegetal se contempla regular el uso de fertilizantes de origen animal y plaguicidas con acci\u00f3n antimicrobiana, incorpor\u00e1ndolos a un listado de evaluaci\u00f3n de su impacto en la emergencia de resistencia a los antimi-",
+            "V.4. Desarrollar investigaci\u00f3n sobre microorganismos ambientales en relaci\u00f3n a la RAM"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "11.6. Fortalecer la vigilancia de la resistencia a los antimicrobianos en microorganismos pat\u00f3genos de animales de producci\u00f3n de alimentos.",
+            "IV.4. Regular el uso de antimicrobianos en agricultura.",
+            "A trav\u00e9s de este documento, nuestro ministerio releva el desaf\u00edo global de la seguridad e inocuidad alimentaria al que nos enfrentamos de modo permanente, impactando a los consumidores, productores y a toda la sociedad, tanto por sus efectos en la salud humana como la sanidad animal y vegetal.",
+            "el Ministerio de Agricultura y sus servicios apoyan constantemente a los productores en el uso prudente, juicioso y responsable de los antibi\u00f3ticos, con el objetivo de mantener los est\u00e1ndares de calidad que nos posicionan como l\u00edderes a nivel mundial.",
+            "la incorporaci\u00f3n masiva en el sector agr\u00edcola, especialmente en la extinci\u00f3n de plagas con pesticidas y control de microbios en la industria c\u00e1mica; o el uso intensivo de sustancias farmacol\u00f3gicas en el desarrollo de especies acu\u00edcolas para el consumo humano, Todas son situaciones donde se pone en riesgo la sostenibilidad de los sistemas agroalimentarios y se amenaza la salud, por la contaminaci\u00f3n de productos y del medioambiente con bacterias resistentes o residuos de antimicrobianos.",
+            "El uso de estos f\u00e1rmacos en animales de producci\u00f3n de alimentos terrestres y acu\u00e1ticos es fundamental para la salud y el bienestar animal ya que permite combatir las enfermedades infecciosas, lo que adem\u00e1s se relaciona con la seguridad alimentaria.",
+            "As\u00ed, en abril del 2017 se firm\u00f3 un acuerdo de cooperaci\u00f3n entre el Ministerio de Salud, el Ministerio de Agricultura y el Ministerio de Econom\u00eda, a trav\u00e9s del Servicio Nacional de Pesca y Acuicultura, para hacer frente a la RAM.",
+            "Estas actividades de difusi\u00f3n han sido especialmente relevantes durante la semana mundial para la concientizaci\u00f3n sobre el uso de antibi\u00f3ticos, que se desarrolla cada a\u00f1o durante noviembre.",
+            "Por su parte, SERNAPESCA cuenta actualmente con un programa de certificaci\u00f3n 'libre de uso de antimicrobianos' aplicado a la industria de la salmonicultura",
+            "En el a\u00f1o 2019 se estableci\u00f3 la primera mesa de trabajo intersectorial para enfrentar la resistencia bacteriana en peque\u00f1os animales.",
+            "En producci\u00f3n de animales acu\u00e1ticos, el Instituto de Fomento Pesquero (IFOP) ha desarrollado un programa de investigaci\u00f3n cient\u00edfica llamado 'Vigilancia de la resistencia de los agentes pat\u00f3genos a los antimicrobianos de uso habitual en la salmonicultura nacional' que se ha ido desarrollando por etapas (actualmente etapa VI).",
+            "Grupo interministerial para la Re- sistencia a los antimicrobianos en la cadena alimentaria (GIRAM) | \u00bb Agencia Chilena para la Calidad e Inocuidad Alimentaria (ACHI- PIA). Ministerio de Agricultura. SEGUNDA ETAPA \u00bb Servicio Agr\u00edcola y Ganadero (SAG). Divisi\u00f3n de Protecci\u00f3n Agr\u00ed- cola y Forestal y Divisi\u00f3n de Protecci\u00f3n Pecuaria. Ministerio de Agricultura.",
+            "Grupo interministerial para la Resistencia a los Antimicrobianos en la cadena alimentaria (GIRAM), liderada por ACHIPIA y que re\u00fane a los referentes p\u00fablicos y privados relacionados con las cadenas productivas.",
+            "Concienciaci\u00f3n para el uso prudente y responsable de antimicrobianos en la producci\u00f3n agropecuaria y acuicultura",
+            "El fortalecimiento de los laboratorios tambi\u00e9n incluye a aquellos que operan en los \u00e1mbitos de sanidad animal, sanidad vegetal e inocuidad alimentaria, en los cuales se requiere la estandarizaci\u00f3n de las pautas para las pruebas de susceptibilidad y la conformaci\u00f3n de una red integrada que permita la gesti\u00f3n de datos \u00f3ptima y continua y su transferencia al sistema integrado de vigilancia.",
+            "Este objetivo busca ampliar la vigilancia de microorganismos pat\u00f3genos causantes de enfermedades en animales de producci\u00f3n de alimentos hacia la vigilancia de la resistencia a los antimicrobianos que \u00e9stos presentan, de modo de contribuir a optimizar el uso de los antimicrobianos en la producci\u00f3n animal y permitir, adem\u00e1s, detectar la emergencia de nuevos mecanismos de resistencia y sus determinantes, que podr\u00edan entrar en la cadena alimentaria.",
+            "Este objetivo busca promover el bienestar animal y las buenas pr\u00e1cticas ganaderas en la producci\u00f3n animal, tendientes a mantener a los animales en un nivel \u00f3ptimo de salud y bienestar durante todo el ciclo productivo, a fin de evitar ambientes propicios para el desarrollo de enfermedades.",
+            "Esta l\u00ednea estrat\u00e9gica busca fortalecer el marco normativo adem\u00e1s del monitoreo y fiscalizaci\u00f3n del uso prudente y responsable de los antimicrobianos tanto en salud humana como en animales y agricultura.",
+            "Este objetivo apunta a fortalecer los instrumentos regulatorios y herramientas de buenas pr\u00e1cticas orientadas a fomentar el uso prudente y responsable de antimicrobianos, incluida la reducci\u00f3n de su uso.",
+            "14, Resoluci\u00f3n Exenta N*5571 de 2017. Servicio Agr\u00edcola y Ganadero. Establece requisitos para la declaraci\u00f3n de venta de antimicrobianos [Internet] [fecha de descarga: 8 de diciembre de 2020]."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "se busca integrar los hallazgos de la vigilancia de RAM desarrollados en los distintos \u00e1mbitos a trav\u00e9s de la generaci\u00f3n de un reporte peri\u00f3dico"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 6,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "chile",
+        "question": 7,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "chile",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El grupo coordinador del Plan Nacional contra la Resistencia a los Antimicrobianos de Chile est\u00e1 formado por integrantes de distintos Ministerios del pa\u00eds, quienes representan los puntos focales para el plan en sus propias instituciones y que conforman el grupo interministerial de coordinaci\u00f3n del Plan Nacional.",
+            "Chile enfrent\u00f3 el desaf\u00edo de implementar un Plan Nacional contra la Resistencia a los Antimicrobianos con enfoque de Una Salud a partir del 2017, formulando un Plan Nacional intersectorial que estableci\u00f3 compromisos interministeriales para avanzar en los lineamientos estrat\u00e9gicos establecidos.",
+            "Generar un plan de trabajo transversal en esta tem\u00e1tica, con proyecci\u00f3n de cinco a\u00f1os, bajo una mirada interministerial, adem\u00e1s de la colaboraci\u00f3n de diversos actores del mundo p\u00fablico y privado",
+            "En 2016 el pa\u00eds fue pionero en Am\u00e9rica Latina en formular un Plan Nacional intersectorial estableciendo compromisos interministeriales para avanzar en las estrategias formuladas.",
+            "As\u00ed, en abril del 2017 se firm\u00f3 un acuerdo de cooperaci\u00f3n entre el Ministerio de Salud, el Ministerio de Agricultura y el Ministerio de Econom\u00eda, a trav\u00e9s del Servicio Nacional de Pesca y Acuicultura, para hacer frente a la RAM.",
+            "En el a\u00f1o 2019 se estableci\u00f3 la primera mesa de trabajo intersectorial para enfrentar la resistencia bacteriana en peque\u00f1os animales.",
+            "la primera mesa corresponde a la Comisi\u00f3n contra la Resistencia a los Antimicrobianos del Ministerio de Salud, coordinada por la Secretaria T\u00e9cnica del plan; la segunda, al Grupo interministerial para la Implementaci\u00f3n del Plan de Acci\u00f3n Nacional coordinada por ACHIPIA.",
+            "Mesa intersectorial",
+            "Grupo interministerial para la Re- sistencia a los antimicrobianos en la cadena alimentaria (GIRAM)",
+            "Este compromiso de colaboraci\u00f3n ha permitido instalar una Mesa Interministerial que operar\u00e1 en el periodo de implementaci\u00f3n del plan bajo la coordinaci\u00f3n del Ministerio de Salud.",
+            "se espera comenzar con la descentralizaci\u00f3n de las acciones a trav\u00e9s de la conformaci\u00f3n de Mesas Intersectoriales Regionales lideradas por las Secretar\u00edas Regionales Ministeriales de Salud",
+            "Para el cumplimiento de este objetivo se crear\u00e1 un comit\u00e9 cient\u00edfico-t\u00e9cnico que gestione el an\u00e1lisis, la discusi\u00f3n y la difusi\u00f3n de los resultados del programa de vigilancia de RAM."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1,2 Promover en las y los docentes la incorporaci\u00f3n de las tem\u00e1ticas de resistencia y uso prudente y responsable de los antimicrobianos en \u00e1mbitos educacionales.",
+            "En relaci\u00f3n con la formaci\u00f3n profesional, los contenidos educativos sobre RAM sistem\u00e1ticos y con enfoque interdisciplinario son a\u00fan escasos, pero han surgido variadas iniciativas de formaci\u00f3n presencial y en l\u00ednea respecto al uso de antimicrobianos en medicina humana y veterinaria, tales como el Diplomado sobre buen uso de antimicrobianos en acuicultura, que surgi\u00f3 bajo la colaboraci\u00f3n de SERNAPESCA y la Facultad de Medicina Veterinaria de la Universidad de Chile y diversos cursos de formaci\u00f3n en RAM en salud humana ofrecidos por el Ministerio de Salud, sociedades cient\u00edficas, universidades y organismos internacionales.",
+            "Fortalecer la concientizaci\u00f3n y la formaci\u00f3n respecto a la RAM en la comunidad en general y en grupos espec\u00edficos.",
+            "A trav\u00e9s de esta l\u00ednea estrat\u00e9gica se busca difundir inl. Fortalecer la 5 sobre la RAM para incentivar formaci\u00f3n y conocimientos concientiza cion y cambios en las actitudes respecto al uso de los antimicrobianos, tanto en poblaci\u00f3n general como en grupos espec\u00edficos, como prescriptores, futuros prescriptores y trabajadores de salud en general.",
+            "Para esto se requiere, por un lado, incorporar la RAM como tem\u00e1tica relevante en los planes de estudio de las carreras profesionales y t\u00e9cnicas de salud, especialmente en medicina humana, medicina veterinaria, odontolog\u00eda, obstetricia, adem\u00e1s de qu\u00edmica y farmacia, de modo de sensibilizar a los futuros prescriptores y dispensadores de antimicrobianos sobre la RAM y las acciones para controlar su emergencia."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "I. Fortalecer la concientizaci\u00f3n y la formaci\u00f3n respecto a la RAM, tanto de la comunidad en general como de grupos especificos",
+            "todo esto apoyado con una comunicaci\u00f3n efectiva a la poblaci\u00f3n y una adecuada formaci\u00f3n profesional para evitar el mal uso de los antimicrobianos",
+            "Diversas campa\u00f1as comunicacionales del Servicio Agr\u00edcola y Ganadero (SAG), del Servicio Nacional de Pesca y Acuicultura (SERNAPESCA), de la Agencia Chilena para la Inocuidad y la Calidad Alimentaria (ACHIPIA) y del Ministerio de Salud (MINSAD fueron desplegadas cada a\u00f1o a trav\u00e9s de diversos medios de comunicaci\u00f3n, con el objetivo de informar a la poblaci\u00f3n general, a los productores y a los prescriptores sobre la importancia del uso responsable y prudente de los antibi\u00f3ticos.",
+            "El Plan Nacional 2017-2020 empuj\u00f3 fuertemente el inter\u00e9s en la tem\u00e1tica de la resistencia a antimicrobianos, expresado no s\u00f3lo en la activa participaci\u00f3n de instituciones gubernamentales, asociaciones cient\u00edficas y centros de formaci\u00f3n profesional en conferencias, seminarios y talleres relacionados, junto a campa\u00f1as comunicacionales de concientizaci\u00f3n;",
+            "A trav\u00e9s de este objetivo se busca difundir contenido que permita informar y crear conciencia en la poblaci\u00f3n general sobre la prevenci\u00f3n de infecciones y el uso correcto de los antimicrobianos, tanto en humano como en animales y vegetales, a trav\u00e9s de una perspectiva ecol\u00f3gica. Estas actividades se refieren a campa\u00f1as informativas peri\u00f3dicas a trav\u00e9s de medios de comunicaci\u00f3n y redes sociales, desarrolladas integradamente por los organismos p\u00fablicos responsables del Plan Nacional contra la RAM.",
+            "Desarrollar e implementar estrategias comunicacionales educativas dirigidas a la comunidad",
+            "Otras l\u00edneas estrat\u00e9gicas del Programa que buscan prevenir nuevas infecciones son: las campa\u00f1as de comunicaci\u00f3n social para la prevenci\u00f3n del VIH y las ITS, de emisi\u00f3n anual;"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Agradecimientos al proyecto 'Trabajando Juntos para combatir la Resistencia a los Antimicrobianos', coordinado por la Organizaci\u00f3n Panamericana de la Salud (OPS), la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) y financiado por la Uni\u00f3n Europea.",
+            "A partir de entonces, los pa\u00edses han elaborado Planes de Acci\u00f3n Nacionales bajo los lineamientos de los organismos internacionales, con un car\u00e1cter intersectorial y bajo el enfoque de Una Salud, lo que permite desarrollar estrategias no s\u00f3lo desde el sector salud propiamente tal, sino tambi\u00e9n desde otros relacionados al uso de antimicrobianos y a sus consecuencias ecol\u00f3gicas.",
+            "El Plan Nacional contra la RAM de Chile 2017- 2020 contempl\u00f3 las mismas l\u00edneas estrat\u00e9gicas del Plan de Acci\u00f3n Mundial, logrando avances tanto en salud humana como en sanidad animal, gracias al trabajo conjunto de distintos organismos gubernamentales y en colaboraci\u00f3n con la academia y las sociedades cient\u00edficas.",
+            "La Organizaci\u00f3n Mundial de la Salud (OMS) ha instruido a los paises miembros a elaborar Planes Nacionales para enfrentar los desaf\u00edos derivados de la resistencia a los antimicrobianos (RAM), desde una perspectiva multisectorial y definiendo objetivos a partir de cinco lineamientos estrat\u00e9gicos orientados a sensibilizar y educar a actores clave y poblaci\u00f3n general sobre la RAM.",
+            "Adem\u00e1s, durante 2019 nuestro pa\u00eds tuvo a su cargo la organizaci\u00f3n de la Conferencia Mundial sobre Sanidad de Animales Acu\u00e1ticos de la Organizaci\u00f3n Internacional de Sanidad Animal (OIE), actividad que complementa los esfuerzos por posicionar el tema en todas las \u00e1reas del pa\u00eds.",
+            "a fines de 2020 se inici\u00f3 la participaci\u00f3n en el proyecto conjunto entre CDC, OPS y Argentina, Iniciativa Red de Redes para RAM que busca fortalecer la capacidad de detecci\u00f3n de eventos de RAM de importancia para la salud p\u00fablica y facilitar una respuesta r\u00e1pida para la contenci\u00f3n de ciertos agentes con resistencia antimicrobiana de inter\u00e9s",
+            "en 2018, en la organizaci\u00f3n del taller internacional 'Desarrollo de competencias en la vigilancia de la resistencia a los antimicrobianos entre las econom\u00edas APEC', organizado por ACHIPIA y la Facultad de Ciencias Veterinarias y Pecuarias de la Universidad de Chile",
+            "ISP particip\u00f3 en la organizaci\u00f3n del taller internacional 'Desarrollo de competencias en la vigilancia de la resistencia a los antimicrobianos entre las econom\u00edas APEC'"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "11,1. Desarrollar un sistema de vigilancia integrada sobre RAM en microorganismos seleccionados.",
+            "Fortalecer la vigilancia de laboratorio en relaci\u00f3n con la RAM.",
+            "generar sinergias para el desarrollo de un programa de vigilancia integrada de la Resistencia Antimicrobiana, que cubra toda la cadena alimentaria y nos permita con sus resultados tomar nuevas medidas de prevenci\u00f3n.",
+            "La vigilancia de la resistencia antimicrobiana constituye una herramienta esencial para obtener una visi\u00f3n global de bacterias y mecanismos de resistencia cr\u00edticos, cuyos resultados permitan evaluar estrategias para contener la diseminaci\u00f3n de la RAM.",
+            "Los estudios de vigilancia pueden proporcionar valiosa informaci\u00f3n para detectar tendencias en el tipo de microorganismo y la frecuencia de algunos pat\u00f3genos en ciertos ecosistemas (causantes de infecciones en humanos y en los mecanismos de resistencia antimicrobiana) y desarrollar intervenciones espec\u00edficas y adaptadas a cada contexto.",
+            "la vigilancia de la RAM y en el control de las infecciones que permita una disminuci\u00f3n de la necesidad de utilizar antimicrobianos",
+            "el decreto incorpora la vigilancia en matrices ambientales, tales como agua y alimentos, y la vigilancia de brotes de enfermedades de cualquier etiolog\u00eda transmisible, incluyendo brotes producidos por enfermedades transmitidas por alimentos (ETA) y por infecciones asociadas a la atenci\u00f3n de salud (IAAS)",
+            "Dentro de los avances m\u00e1s importantes en cuanto a vigilancia de la RAM, se encuentra la aprobaci\u00f3n del nuevo Reslamento sobre Notificaci\u00f3n de Enfermedades Transmisibles de Declaraci\u00f3n Obligatoria y su Vigilancia, el que ampl\u00eda el n\u00famero de agentes etiol\u00f3gicos sujetos a vigilancia de susceptibilidad a antimicrobianos que han",
+            "a fines de 2020 se inici\u00f3 la participaci\u00f3n en el proyecto conjunto entre CDC, OPS y Argentina, Iniciativa Red de Redes para RAM que busca fortalecer la capacidad de detecci\u00f3n de eventos de RAM de importancia para la salud p\u00fablica y facilitar una respuesta r\u00e1pida para la contenci\u00f3n de ciertos agentes con resistencia antimicrobiana de inter\u00e9s",
+            "durante los \u00faltimos a\u00f1os destac\u00f3 el trabajo realizado por el Servicio Agr\u00edcola y Ganadero (SAG), en atenci\u00f3n a la recomendaci\u00f3n de la OIE a los paises miembros de recabar informaci\u00f3n cuantitativa respecto de la venta de antimicrobianos, que permita establecer patrones de utilizaci\u00f3n.",
+            "que permitir\u00e1, adem\u00e1s, monitorizar el consumo de estos f\u00e1rmacos en estos establecimientos de salud a nivel nacional",
+            "En producci\u00f3n de animales acu\u00e1ticos, el Instituto de Fomento Pesquero (IFOP) ha desarrollado un programa de investigaci\u00f3n cient\u00edfica llamado 'Vigilancia de la resistencia de los agentes pat\u00f3genos a los antimicrobianos de uso habitual en la salmonicultura nacional' que se ha ido desarrollando por etapas (actualmente etapa VI).",
+            "2. Fortalecer el sistema nacional de vigilancia de la resistencia a los antimicrobianos.",
+            "Esta l\u00ednea estrat\u00e9gica busca aunar los actuales esfuerzos y actividades de vigilancia de la RAM que forman parte del sistema nacional de vigilancia, desde la perspectiva de 'Una Salud', y reforzar las actividades del actual sistema de vigilancia de la RAM en salud humana.",
+            "A trav\u00e9s de este objetivo se incorporar\u00e1n microorganismos seleccionados a un sistema integrado de vigilancia de la RAM que unifique la informaci\u00f3n proveniente del ambito de salud humana, animal, vegetal y del medio ambiente, bajo el principio de 'Una Salud' y que permita la provisi\u00f3n efectiva de datos.",
+            "En los pr\u00f3ximos a\u00f1os se busca ampliar las capacidades de la red de laboratorio de tuberculosis para realizar la vigilancia universal de la tuberculosis resistente a f\u00e1rmacos desde la primera muestra, mediante la ampliaci\u00f3n de la cobertura de pruebas moleculares para el diagn\u00f3stico inicial de tuberculosis, adem\u00e1s de reforzar el estudio de los mecanismos de resistencia a trav\u00e9s de la utilizaci\u00f3n de t\u00e9cnicas de secuenciamiento gen\u00e9tico.",
+            "Este objetivo contempla implementar un sistema de monitoreo del consumo de antimicrobianos que permita una mejor gesti\u00f3n para el control de su uso, vigilando la prescripci\u00f3n y uso de los antimicrobianos en la industria de animales de producci\u00f3n terrestre y acu\u00e1ticos, adem\u00e1s de animales de compa\u00f1\u00eda.",
+            "Por una parte, se busca integrar los hallazgos de la vigilancia de RAM desarrollados en los distintos \u00e1mbitos a trav\u00e9s de la generaci\u00f3n de un reporte peri\u00f3dico, que a su vez asegure la debida protecci\u00f3n de informaci\u00f3n sensible, tanto para salud humana como para la industria productora de alimentos de origen animal y vegetal.",
+            "Estos antecedentes, permitir\u00edan el dise\u00f1o de programas de vigilancia de RAM en el medio ambiente basada en impactos y riesgos de acuerdo a pat\u00f3genos identificados con potencial RAM",
+            "Decreto Exento N*16, de 2019. Ministerio de Salud. Modifica Norma T\u00e9cnica n*%175 sobre 'vgilancia nacional de resistencia a los antimicrobianos en agentes que pueden producir infecciones asociadas'",
+            "Instituto de Fomento Pesquero. IFOP realizar\u00e1 difusi\u00f3n de resultados del Programa de Vigilancia de Resistencia Bacteriana en acuicultura v\u00eda streaming [Internet]. 2020 [fecha de descarga: 08 de marzo de 2021]."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Il. Fortalecer el sistema nacional de vigilancia de la resistencia a los antimicrobianos",
+            "Dentro de los avances m\u00e1s importantes en cuanto a vigilancia de la RAM, se encuentra la aprobaci\u00f3n del nuevo Reslamento sobre Notificaci\u00f3n de Enfermedades Transmisibles de Declaraci\u00f3n Obligatoria y su Vigilancia, el que ampl\u00eda el n\u00famero de agentes etiol\u00f3gicos sujetos a vigilancia de susceptibilidad a antimicrobianos",
+            "a fines de 2020 se inici\u00f3 la participaci\u00f3n en el proyecto conjunto entre CDC, OPS y Argentina, Iniciativa Red de Redes para RAM que busca fortalecer la capacidad de detecci\u00f3n de eventos de RAM de importancia para la salud p\u00fablica y facilitar una respuesta r\u00e1pida para la contenci\u00f3n de ciertos agentes con resistencia antimicrobiana de inter\u00e9s",
+            "2. Fortalecer el sistema nacional de vigilancia de la resistencia a los antimicrobianos.",
+            "Esta l\u00ednea estrat\u00e9gica busca aunar los actuales esfuerzos y actividades de vigilancia de la RAM que forman parte del sistema nacional de vigilancia, desde la perspectiva de 'Una Salud', y reforzar las actividades del actual sistema de vigilancia de la RAM en salud humana. De esta manera se pretende mejorar la capacidad de detecci\u00f3n de la RAM y dar respuesta precoz e integrada frente a situaciones de riesgo.",
+            "El sistema de vigilancia comenzar\u00e1 en una cadena productiva de alimentos priorizada, integrada con muestras cl\u00ednicas aisladas de pacientes, para extenderse paulatinamente a otros microorganismos de relevancia y cadenas productivas."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Generar instancias de capacitaci\u00f3n locales para profesionales de la salud en relaci\u00f3n con el control de infecciones, el uso de antimicrobianos y la RAM,",
+            "111. Prevenir y controlar las infecciones asociadas a salud humana y a sanidad vegetal y animal",
+            "Chile, adem\u00e1s, tiene una larga historia en cuanto a vigilancia de microorganismos resistentes, control de infecciones nosocomiales e implementaci\u00f3n de medidas de higiene y saneamiento.",
+            "prevenir la aparici\u00f3n de infecciones y controlarlas una vez que aparecen (particularmente en ambientes hospitalarios)",
+            "En Chile, desde 1982 se cuenta con el Programa de Vigilancia de las Infecciones Asociadas a la Atenci\u00f3n de Salud (IAAS), iniciativa que, adem\u00e1s de mantener un sistema de vigilancia espec\u00edfica para RAM de agentes asociados con IAAS por m\u00e1s de dos d\u00e9cadas, en los \u00faltimos a\u00f1os ha elaborado y actualizado diversos documentos regulatorios destinados a mejorar la vigilancia y contenci\u00f3n de la diseminaci\u00f3n de la RAM.",
+            "La aprobaci\u00f3n durante 2018 de la norma t\u00e9cnica de prevenci\u00f3n y diseminaci\u00f3n de agentes con resistencia a antimicrobianos de importancia en Salud P\u00fablica (ARAISP), cuyo objetivo es prevenir la diseminaci\u00f3n en forma end\u00e9mica o epid\u00e9mica de ARAISP y sus consecuencias en establecimientos de atenci\u00f3n cerrada.",
+            "3. Prevenir y controlar las infecciones asociadas a la salud humana y a la sanidad animal y vegetal.",
+            "La prevenci\u00f3n de las infecciones debe darse tanto al interior de los establecimientos de salud como en los \u00e1mbitos comunitarios, lo que incluye las medidas de higiene y sanidad ambiental para evitar la exposici\u00f3n a microorganismos pat\u00f3genos.",
+            "A trav\u00e9s de este objetivo se busca disminuir el riesgo de la poblaci\u00f3n de adquirir infecciones en los ambientes comunitarios, a trav\u00e9s de acciones de higiene y saneamiento ambiental.",
+            "En cuanto a la tuberculosis, en el pa\u00eds se desarrollan una serie de estrategias destinadas a la pesquisa precoz y tratamiento oportuno de los casos de contagio en la comunidad a trav\u00e9s de tamizaje poblacional, enfocado en grupos vulnerables para la enfermedad, reforzamiento de la red de laboratorio a trav\u00e9s del avance tecnol\u00f3gico hacia las t\u00e9cnicas de biolog\u00eda molecular y el acceso universal y gratuito al tratamiento directamente observado.",
+            "Este objetivo busca desarrollar estrategias espec\u00edficas de control de infecciones en lugares donde residen personas mayores, tales como los Establecimientos de Larga Estad\u00eda de Adultos Mayores (ELEAM), En la actualidad estos establecimientos est\u00e1n sujetos a normativas que regulan las condiciones sanitarias y ambientales b\u00e1sicas para su funcionamiento, que dentro de sus objetivos, buscan evitar la producci\u00f3n y diseminaci\u00f3n de infecciones en esta poblaci\u00f3n.",
+            "la creaci\u00f3n de un reglamento por parte del MINSAL que establezca las condiciones de higiene y seguridad de los lugares de mantenci\u00f3n de mascotas",
+            "Decreto Exento N*132 de 2018. Ministerio de Salud. Aprueba Norma T\u00e9cnica n%203 sobre contenci\u00f3n de diseminaci\u00f3n de agentes con resistencia a los antimicrobianos de importancia en salud p\u00fablica (ARAISP) en establecimientos cerrados de salud"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 15,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "chile",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "IV. Regular y monitorizar el uso de los antimicrobianos",
+            "Dicha medida establece que los laboratorios nacionales de producci\u00f3n farmac\u00e9utica y los establecimientos importadores deber\u00e1n declarar anualmente la cantidad absoluta, en kilogramos, de antimicrobianos activos comercializados durante el a\u00f1o. En la misma l\u00ednea, se aprueba una segunda norma que establece requisitos para el registro, la comercializaci\u00f3n y el uso de antimicrobianos en el \u00e1rea veterinaria, destacando la incorporaci\u00f3n del requerimiento de explicitar la finalidad de uso, la condici\u00f3n de venta bajo receta m\u00e9dica.",
+            "durante el periodo el Ministerio de Salud desarroll\u00f3 la Norma General T\u00e9cnica N'210 aprobada el 29 de diciembre de 2020, que corresponde a la actualizaci\u00f3n de la Norma General T\u00e9cnica N%43 sobre racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica, en la que se fortalece la creaci\u00f3n de Programas Responsables de la Optimizaci\u00f3n del uso de Antimicrobianos (PROA) en hospitales de mediana y alta complejidad y que permitir\u00e1, adem\u00e1s, monitorizar el consumo de estos f\u00e1rmacos en estos establecimientos de salud a nivel nacional",
+            "4. Regular y vigilar el uso de los antimicrobianos.",
+            "Si bien en Chile la adquisici\u00f3n de antimicrobianos est\u00e1 regulada a trav\u00e9s de la autorizaci\u00f3n de la comercializaci\u00f3n a trav\u00e9s del registro sanitario, la condici\u00f3n de venta con receta m\u00e9dica retenida y la fiscalizaci\u00f3n de las farmacias, a\u00fan es necesario avanzar en el uso prudente y responsable de los antimicrobianos por parte de los prescriptores.",
+            "Durante el pr\u00f3ximo periodo se requiere avanzar en la regulaci\u00f3n de la prescripci\u00f3n en la Atenci\u00f3n Primaria de Salud y en el desarrollo de estrategias para controlar el expendio de antimicrobianos en lugares no autorizados como ferias libres, internet y redes sociales."
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "111.5. Incorporar medidas regulatorias en relaci\u00f3n con la disposici\u00f3n final de residuos que contengan antimicrobianos.",
+            "IV.2. Fortalecer los instrumentos regulatorios para disminuir el uso de antimicrobianos en animales de producci\u00f3n.",
+            "promover la regulaci\u00f3n y el uso responsable y prudente de antimicrobianos",
+            "en los \u00faltimos a\u00f1os ha elaborado y actualizado diversos documentos regulatorios destinados a mejorar la vigilancia y contenci\u00f3n de la diseminaci\u00f3n de la RAM",
+            "La aprobaci\u00f3n durante 2018 de la norma t\u00e9cnica de prevenci\u00f3n y diseminaci\u00f3n de agentes con resistencia a antimicrobianos de importancia en Salud P\u00fablica (ARAISP), cuyo objetivo es prevenir la diseminaci\u00f3n en forma end\u00e9mica o epid\u00e9mica de ARAISP y sus consecuencias en establecimientos de atenci\u00f3n cerrada.",
+            "se aprueba la norma que establece los requisitos para la venta de antimicrobianos de uso veterinario en Chile. Dicha medida establece que los laboratorios nacionales de producci\u00f3n farmac\u00e9utica y los establecimientos importadores deber\u00e1n declarar anualmente la cantidad absoluta, en kilogramos, de antimicrobianos activos comercializados durante el a\u00f1o. En la misma l\u00ednea, se aprueba una segunda norma que establece requisitos para el registro, la comercializaci\u00f3n y el uso de antimicrobianos en el \u00e1rea veterinaria.",
+            "durante el periodo el Ministerio de Salud desarroll\u00f3 la Norma General T\u00e9cnica N'210 aprobada el 29 de diciembre de 2020, que corresponde a la actualizaci\u00f3n de la Norma General T\u00e9cnica N%43 sobre racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica, en la que se fortalece la creaci\u00f3n de Programas Responsables de la Optimizaci\u00f3n del uso de Antimicrobianos (PROA) en hospitales de mediana y alta complejidad",
+            "4. Regular y vigilar el uso de los antimicrobianos.",
+            "es necesario reforzar la normativa sanitaria de forma de garantizar que los residuos de antimicrobianos sean manejados de manera adecuada en los establecimientos de atenci\u00f3n de salud, incluyendo los establecimientos veterinarios.",
+            "Esta l\u00ednea estrat\u00e9gica busca fortalecer el marco normativo adem\u00e1s del monitoreo y fiscalizaci\u00f3n del uso prudente y responsable de los antimicrobianos tanto en salud humana como en animales y agricultura.",
+            "Este objetivo apunta a fortalecer los instrumentos regulatorios y herramientas de buenas pr\u00e1cticas orientadas a fomentar el uso prudente y responsable de antimicrobianos, incluida la reducci\u00f3n de su uso.",
+            "el dise\u00f1o de acciones de promoci\u00f3n y medidas de concientizaci\u00f3n adecuadas en materia medio ambiental y del fortalecimiento del marco normativo nacional en estas materias.",
+            "Decreto Exento N*16, de 2019. Ministerio de Salud. Modifica Norma T\u00e9cnica n*%175 sobre 'vgilancia nacional de resistencia a los antimicrobianos en agentes que pueden producir infecciones asociadas'",
+            "Decreto Exento N*132 de 2018. Ministerio de Salud. Aprueba Norma T\u00e9cnica n%203 sobre contenci\u00f3n de diseminaci\u00f3n de agentes con resistencia a los antimicrobianos de importancia en salud p\u00fablica (ARAISP) en establecimientos cerrados de salud"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "111.5. Incorporar medidas regulatorias en relaci\u00f3n con la disposici\u00f3n final de residuos que contengan antimicrobianos.",
+            "IV. Regular y monitorizar el uso de los antimicrobianos",
+            "la Asamblea Mundial de la Salud destac\u00f3 la Resistencia a los Antimicrobianos (RAM) como una grave amenaza para la salud mundial e inst\u00f3 a los pa\u00edses miembros a desarrollar Planes de Acci\u00f3n Nacionales a partir de un Plan de Acci\u00f3n Global para combatir la RAM, reconociendo como principales l\u00edneas estrat\u00e9gicas el uso prudente y responsable de los antimicrobianos",
+            "promover la regulaci\u00f3n y el uso responsable y prudente de antimicrobianos",
+            "La aprobaci\u00f3n en 2018 de la actualizaci\u00f3n de la Norma T\u00e9cnica de prevenci\u00f3n de Infecci\u00f3n en Herida Operatoria, que regula, entre otros aspectos, el uso profil\u00e1ctico de antibi\u00f3ticos",
+            "se aprueba la norma que establece los requisitos para la venta de antimicrobianos de uso veterinario en Chile. Dicha medida establece que los laboratorios nacionales de producci\u00f3n farmac\u00e9utica y los establecimientos importadores deber\u00e1n declarar anualmente la cantidad absoluta, en kilogramos, de antimicrobianos activos comercializados durante el a\u00f1o. En la misma l\u00ednea, se aprueba una segunda norma que establece requisitos para el registro, la comercializaci\u00f3n y el uso de antimicrobianos en el \u00e1rea veterinaria, destacando la incorporaci\u00f3n del requerimiento de explicitar la finalidad de uso, la condici\u00f3n de venta bajo receta m\u00e9dica, la definici\u00f3n de situaciones en que aplica la venta bajo receta retenida y la prohibici\u00f3n expl\u00edcita de uso de antimicrobianos como promotores de crecimiento.",
+            "el Ministerio de Salud desarroll\u00f3 la Norma General T\u00e9cnica N'210 aprobada el 29 de diciembre de 2020, que corresponde a la actualizaci\u00f3n de la Norma General T\u00e9cnica N%43 sobre racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica, en la que se fortalece la creaci\u00f3n de Programas Responsables de la Optimizaci\u00f3n del uso de Antimicrobianos (PROA) en hospitales de mediana y alta complejidad",
+            "4. Regular y vigilar el uso de los antimicrobianos.",
+            "En la actualidad estos establecimientos est\u00e1n sujetos a normativas que regulan las condiciones sanitarias y ambientales b\u00e1sicas para su funcionamiento, que dentro de sus objetivos, buscan evitar la producci\u00f3n y diseminaci\u00f3n de infecciones en esta poblaci\u00f3n.",
+            "Esta l\u00ednea estrat\u00e9gica busca fortalecer el marco normativo adem\u00e1s del monitoreo y fiscalizaci\u00f3n del uso prudente y responsable de los antimicrobianos tanto en salud humana como en animales y agricultura.",
+            "se requiere avanzar en la regulaci\u00f3n de la prescripci\u00f3n en la Atenci\u00f3n Primaria de Salud y en el desarrollo de estrategias para controlar el expendio de antimicrobianos en lugares no autorizados como ferias libres, internet y redes sociales.",
+            "Decreto Exento N*132 de 2018. Ministerio de Salud. Aprueba Norma T\u00e9cnica n%203 sobre contenci\u00f3n de diseminaci\u00f3n de agentes con resistencia a los antimicrobianos de importancia en salud p\u00fablica (ARAISP) en establecimientos cerrados de salud",
+            "Resoluci\u00f3n Exenta N* 1146 de 2020. Ministerio de Salud. Aprueba 'Norma General T\u00e9cnica n%210 para la racionalizaci\u00f3n del uso de antimicrobianos en la atenci\u00f3n cl\u00ednica'"
+        ]
+    },
+    {
+        "country": "chile",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "promover la investigaci\u00f3n en RAM, buscando impulsar proyectos cient\u00edficos que sean relevantes para la creaci\u00f3n de nuevo conocimiento en microorganismos, generar mecanismos de resistencia a los antimicrobianos y proveer soluciones alternativas al uso de \u00e9stos."
+        ]
+    }
+]
