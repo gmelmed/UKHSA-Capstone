@@ -1,0 +1,100 @@
+{
+    "period": "2021-2025",
+    "questions": [
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Human Health'?",
+            "answer": "yes",
+            "supporting_text": "The NAP includes strategies to prevent and control infections associated with health care and to strengthen the national surveillance system for antimicrobial resistance."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Animal Health'?",
+            "answer": "yes",
+            "supporting_text": "The NAP addresses the prevention and control of infections in animal production and includes actions to regulate the use of antimicrobials in animals."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Environment'?",
+            "answer": "yes",
+            "supporting_text": "The NAP emphasizes the importance of environmental factors in the emergence of antimicrobial resistance and includes actions to manage waste containing antimicrobials."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Agriculture/Food Security'?",
+            "answer": "yes",
+            "supporting_text": "The NAP includes strategies to regulate the use of antimicrobials in agriculture and promote food safety."
+        },
+        {
+            "question": "Does the NAP include any mechanisms for progress reporting to track how its objectives are being met, such as an annual or semi-annual progress report, a dashboard displaying the status, or similar documents/tools?",
+            "answer": "yes",
+            "supporting_text": "The NAP outlines the need for annual or biannual operational plans to evaluate and adjust activities."
+        },
+        {
+            "question": "Does the NAP include any specific, time-bound targets to track progress?",
+            "answer": "yes",
+            "supporting_text": "The NAP sets specific objectives and timelines for various actions related to antimicrobial resistance."
+        },
+        {
+            "question": "Does the NAP specify any budget allocation assigned for the strategies/policies/goals/actions directed at tackling AMR?",
+            "answer": "no",
+            "supporting_text": "The document does not specify any budget allocation for the strategies outlined."
+        },
+        {
+            "question": "Does the NAP establish a multisectoral committee or task force for AMR coordination?",
+            "answer": "yes",
+            "supporting_text": "The NAP establishes a multisectoral committee involving various ministries for the coordination of AMR actions."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to training and educational initiatives to increase awareness about AMR \u2013 in school curricula or professional training programs for doctors and pharmacists?",
+            "answer": "yes",
+            "supporting_text": "The NAP promotes the incorporation of AMR topics into educational curricula and training programs for health professionals."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to public awareness campaigns in combating AMR, such as media involvement and community engagement?",
+            "answer": "yes",
+            "supporting_text": "The NAP includes plans for public awareness campaigns to inform the community about the responsible use of antimicrobials."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to international collaboration and support for AMR initiatives, such as partnerships with organizations like WHO, FAO, and OIE?",
+            "answer": "yes",
+            "supporting_text": "The NAP acknowledges collaboration with international organizations such as WHO, FAO, and OIE in combating AMR."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to data collection and analysis for AMR surveillance, such as developing surveillance systems, data collection tools, setting up laboratories for AMR monitoring, or other similar actions?",
+            "answer": "yes",
+            "supporting_text": "The NAP outlines the development of an integrated surveillance system for AMR across human, animal, and environmental health."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to developing the capacity to detect and report newly emerged resistance that may constitute a public health emergency of international concern, as required by the International Health Regulations (2005)?",
+            "answer": "yes",
+            "supporting_text": "The NAP emphasizes the need to strengthen capacities for detecting and reporting antimicrobial resistance."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to specific prevention strategies such as sanitation, hygiene measures, and infection control?",
+            "answer": "yes",
+            "supporting_text": "The NAP includes strategies for preventing infections associated with health care and improving hygiene measures."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to implementing the standards outlined in the OIE Terrestrial and Aquatic Animal Health Codes or the FAO/WHO Codex Alimentarius Code of Practice to Minimize and Contain Antimicrobial Resistance?",
+            "answer": "yes",
+            "supporting_text": "The NAP incorporates actions to align with international standards for antimicrobial use in animal health."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to regulating the distribution, prescription, and dispensation of antibiotics, such as developing or maintaining essential medicine lists for antibiotics?",
+            "answer": "yes",
+            "supporting_text": "The NAP includes regulations for the prescription and distribution of antimicrobials in both human and veterinary medicine."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to strengthening the legislative and regulatory framework for AMR, including laws and regulations for antimicrobial use?",
+            "answer": "yes",
+            "supporting_text": "The NAP aims to strengthen the regulatory framework governing the use of antimicrobials."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to requiring the rational use of antibiotics through regulations/laws?",
+            "answer": "yes",
+            "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics."
+        },
+        {
+            "question": "Does the NAP include any strategy/policy/goal/action related to participating in international collaborative research to support the development of new medicines, diagnostic tools, and vaccines?",
+            "answer": "yes",
+            "supporting_text": "The NAP promotes participation in international research initiatives to develop new solutions for AMR."
+        }
+    ]
+}
