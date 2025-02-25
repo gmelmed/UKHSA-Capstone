@@ -2,54 +2,97 @@
     {
         "country": "netherlands",
         "question": "period_start",
-        "answer": 2015
+        "answer": 2016
     },
     {
         "country": "netherlands",
         "question": "period_end",
-        "answer": "null"
+        "answer": 2016
     },
     {
         "country": "netherlands",
         "question": 1,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "The approach to antibiotic resistance we propose in this letter addresses all domains where human health is threatened by antibiotic-resistant bacteria; healthcare, animals, food and environment.",
+            "Good implementation of the WHO Global Action Plan on antimicrobial resistance in the coming years is of great importance. We support the WHO, FAO and OIE in these efforts. In concrete terms, this includes a specific financial contribution from the Ministry of Health, Welfare and Sport to the WHO, and strategic secondments to the WHO.",
+            "Antibiotic resistance is one of the Cabinet's priorities during this presidency.",
+            "The specific objective is reaching consensus on surveillance of resistant bacteria and antibiotic use in human healthcare, as a basis for developing infection prevention measures and promoting prudent use of antibiotics.",
+            "Avoidable harm and mortality among patients due to infections caused by resistant bacteria must be prevented wherever possible. To this end, the further development and spread of (multi)resistance must be managed as much as possible, in order to ensure that effective treatment of infections with antibiotics remains possible in future.",
+            "1. A significant further reduction in the emergence and spread of multiresistant bacteria in healthcare becomes visible during the next five years.",
+            "The measures are in line with Health Council recommendations on antibiotic use in hospitals with regard to antibiotic stewardship, monitoring of prophylactic use and surveillance.",
+            "In curative and long-term care, we see countless examples of innovation in the domain of infection prevention and prevention of spread.",
+            "Increasing public awareness of the problem and increasing knowledge about how antibiotics work and should be used. A national campaign must raise public awareness and give people more knowledge on which to base their own choices.",
+            "In the fall we will launch an easily accessible general public awareness campaign. As part of this effort, we will distribute a special issue of the comic Luke and Lucy, Auntie Biotica, in GP waiting rooms as quickly as possible after the summer holidays. This special issue is an initiative of the Belgian Committee for the Coordination of Antimicrobial Policy (BAPCOC) and addresses appropriate use of antibiotics via accessible information for the general public."
+        ]
     },
     {
         "country": "netherlands",
         "question": 2,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "The main focus within the approach to antibiotic resistance in the Netherlands itself lies in healthcare and animal farming.",
+            "we also motivate our partners to reduce antibiotic resistance in animal farming within their countries. We introduce them to our policies based on the precautionary principle and the practice of reducing antibiotic usage in animal farming in the Netherlands.",
+            "Furthermore, we will strive for reduction of the use of critical antibiotics in animals. From a public health perspective, a ban on the use of last resort antibiotics (such as carbapenems) for the treatment of animals will be addressed, with reference to the current legislative process of relevant EU regulations.",
+            "Therefore, the goal is reduction and prudent use of antibiotics in animal farming in order to limit the development of resistance where possible.",
+            "The use of antibiotics critical to public health (3rd and 4th generation cephalosporins and fluoroquinolones) has been reduced to almost zero in the major animal farming sectors - a gratifying result. Resistance levels of bacteria in livestock have also dropped in recent years. Our current goal focuses on a 70% reduction compared with 2009. The sectors and veterinarians will need to do everything in their power to further reduce antibiotic use. In order to achieve a further reduction, effort is needed specifically on: Additional measures by sectors/veterinarians and strong continuation of implementation of the current policy. The large animal farming sectors face the challenge of stimulating farmers and veterinarians in the 'action area' (red) and the 'warning area' (orange) to shift towards the 'target area' (green) of restrained and prudent antibiotic use.",
+            "In 2015 we will work together with stakeholders to develop a new policy to prevent the introduction and spread of carbapenem-resistance in animal farming and in the food chain.",
+            "While developing a new policy, attention will also be given to the effect of antibiotic use in animals on the environment (see paragraph 5 on the environment in this letter).",
+            "At the very least, the implementation of the action plan must encompass measurement of the occurrence of resistant bacteria and the presence of (traces of) antibiotics in the environment. To this end, measurements will be performed in waste water from health facilities and residential areas, in waste water treatment plants and in manure, among other places. The Ministry of Economic Affairs has commissioned research into the presence of antibiotic residues in manure."
+        ]
     },
     {
         "country": "netherlands",
         "question": 3,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "The approach to antibiotic resistance we propose in this letter addresses all domains where human health is threatened by antibiotic-resistant bacteria; healthcare, animals, food and environment.",
+            "While developing a new policy, attention will also be given to the effect of antibiotic use in animals on the environment (see paragraph 5 on the environment in this letter).",
+            "While developing a new policy, attention will also be given to the effect of antibiotic use in animals on the environment (see paragraph 5 on the environment in this letter).",
+            "Despite these uncertainties, the research by ZonMw and the recommendations by the RIVM show that the environment does play a role in the transmission of antibiotic resistance. This outcome provides ample reason to initiate a number of activities.",
+            "At the very least, the implementation of the action plan must encompass measurement of the occurrence of resistant bacteria and the presence of (traces of) antibiotics in the environment."
+        ]
     },
     {
         "country": "netherlands",
         "question": 4,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "we also motivate our partners to reduce antibiotic resistance in animal farming within their countries. We introduce them to our policies based on the precautionary principle and the practice of reducing antibiotic usage in animal farming in the Netherlands.",
+            "Furthermore, we will strive for reduction of the use of critical antibiotics in animals.",
+            "Therefore, the goal is reduction and prudent use of antibiotics in animal farming in order to limit the development of resistance where possible.",
+            "The sectors and veterinarians will need to do everything in their power to further reduce antibiotic use. In order to achieve a further reduction, effort is needed specifically on: - Additional measures by sectors/veterinarians and strong continuation of implementation of the current policy. The large animal farming sectors face the challenge of stimulating farmers and veterinarians in the 'action area' (red) and the 'warning area' (orange) to shift towards the 'target area' (green) of restrained and prudent antibiotic use.",
+            "In 2015 we will work together with stakeholders to develop a new policy to prevent the introduction and spread of carbapenem-resistance in animal farming and in the food chain.",
+            "An effective approach to antibiotic resistance and the food chain requires greater knowledge about the transmission route, and the specific attribution of food to antibiotic resistance."
+        ]
     },
     {
         "country": "netherlands",
         "question": 5,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "Naturally, we will monitor the implementation of the multi-annual agenda and inform Parliament on its progress at regular intervals.",
+            "We will regularly inform Parliament of the progress of the approach to antibiotic resistance. We propose to send an initial progress report in late December 2015."
+        ]
     },
     {
         "country": "netherlands",
         "question": 6,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "A significant further reduction in the emergence and spread of multiresistant bacteria in healthcare becomes visible during the next five years. [...] The number of avoidable healthcare-associated infections will be reduced by 50% in five years, compared with a baseline defined by the relevant actors. [...] During the next five years, the objective is to achieve a reduction of at least 50% in the use of incorrectly prescribed antibiotics across the entire healthcare chain.",
+            "Our current goal focuses on a 70% reduction compared with 2009.",
+            "This action plan must result in an advisory report on the most effective management measures by mid 2016.",
+            "This action plan must result in an advisory report on the most effective management measures by mid 2016."
+        ]
     },
     {
         "country": "netherlands",
         "question": 7,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "this includes a specific financial contribution from the Ministry of Health, Welfare and Sport to the WHO"
+        ]
     },
     {
         "country": "netherlands",
@@ -66,32 +109,63 @@
     {
         "country": "netherlands",
         "question": 10,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "A communication strategy targeted towards professionals and the general public will be developed, aimed at raising awareness on the urgency of the problem, and personal responsibility.",
+            "In October 2014, a campaign aimed at raising public awareness 'Ziekmakers zie je niet' ('You can't see what makes you ill') was commissioned by the Ministry of Health, Welfare and Sport. A follow-up campaign will be launched in the summer of 2015.",
+            "A multi-annual communication strategy will be developed targeting all: the public, professionals and administrators.",
+            "Increasing public awareness of the problem and increasing knowledge about how antibiotics work and should be used. A national campaign must raise public awareness and give people more knowledge on which to base their own choices.",
+            "The general public, professionals and administrators are the main target group in the communication strategy.",
+            "In the fall we will launch an easily accessible general public awareness campaign. As part of this effort, we will distribute a special issue of the comic Luke and Lucy, Auntie Biotica, in GP waiting rooms as quickly as possible after the summer holidays. This special issue is an initiative of the Belgian Committee for the Coordination of Antimicrobial Policy (BAPCOC) and addresses appropriate use of antibiotics via accessible information for the general public."
+        ]
     },
     {
         "country": "netherlands",
         "question": 11,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "Therefore, international cooperation is a priority when dealing with antibiotic resistance.",
+            "We support the WHO, FAO and OIE in these efforts. In concrete terms, this includes a specific financial contribution from the Ministry of Health, Welfare and Sport to the WHO, and strategic secondments to the WHO.",
+            "The Netherlands is actively involved in the action packages antibiotic resistance and zoonotic diseases. Together with our fellow 'leading countries' in the antibiotic resistance action package, the Netherlands strives to strengthen and improve coordination of technical assistance provided to countries who request it. Naturally, this is done based on demand and in close consultation with the WHO. Additionally, the leading countries develop an approach specifically for countries where combating and preventing antibiotic resistance is still in its infancy. In doing so, we contribute to the implementation of the WHO antimicrobial resistance Global Action Plan and other international guidelines.",
+            "3. During the next five years, international cooperation with other EU countries regarding antibiotic resistance will be promoted, in order to realise an infrastructure that allows for the joint management of reducing the development and spread of antibiotic resistance.",
+            "Therefore, we focus strongly on continued monitoring and research. Subsequently, the reduction of transmission of resistant bacteria via food can be pursued at the international level.",
+            "We support and cooperate in international initiatives designed to develop new business models. An existing example is the project 'DRIVE-AB', which is funded via the European Innovative Medicines Initiative and is also part of the WHO Global Action Plan on antimicrobial resistance.",
+            "Two communication activities will be deployed at the international level: - 1. During the previously mentioned meeting of the Global Health Security Agenda in South Korea in September 2015. - 2. In preparation of the European Antibiotic Awareness day in November 2015."
+        ]
     },
     {
         "country": "netherlands",
         "question": 12,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "the National Institute for Public Health and the Environment (RIVM) was recently appointed as WHO Collaborating Centre for Antimicrobial Resistance Epidemiology and Surveillance. This means the RIVM provides technical support to WHO member states in creating and strengthening surveillance of resistant bacteria, following the Dutch model.",
+            "Additionally, nursing homes and hospitals will participate in regional surveillance, as recommended by the Health Council (appendix 4) and the regional containment of resistance.",
+            "Efforts are also necessary in the domain of surveillance. Effective control of infectious diseases requires timely and adequate insight into who becomes ill where, when and why, and how the underlying infections spread.",
+            "From 2002 onwards, the Netherlands has monitored the occurrence of antibiotic resistance in animals and food. From 2014, all European member states are monitoring for resistant bacteria in animals and food thanks to mandatory European regulations.",
+            "At the very least, the implementation of the action plan must encompass measurement of the occurrence of resistant bacteria and the presence of (traces of) antibiotics in the environment.",
+            "At the very least, the implementation of the action plan must encompass measurement of the occurrence of resistant bacteria and the presence of (traces of) antibiotics in the environment. To this end, measurements will be performed in waste water from health facilities and residential areas, in waste water treatment plants and in manure, among other places."
+        ]
     },
     {
         "country": "netherlands",
         "question": 13,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "the RIVM provides technical support to WHO member states in creating and strengthening surveillance of resistant bacteria, following the Dutch model."
+        ]
     },
     {
         "country": "netherlands",
         "question": 14,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "The recent report on hygiene and infection prevention in nursing homes (appendix 3) leads to the conclusion that greater efforts are required on behalf of long-term care institutions.",
+            "4. The number of avoidable healthcare-associated infections will be reduced by 50% in five years, compared with a baseline defined by the relevant actors.",
+            "Consumers can also prevent exposure to resistant bacteria by preparing food in a hygienic manner. The Netherlands Nutrition Centre informs consumers about general hygiene guidelines that can contribute to general food safety.",
+            "In curative and long-term care, we see countless examples of innovation in the domain of infection prevention and prevention of spread.",
+            "Providing concrete advice on the prevention of bacterial infections. Themes include food safety, hygiene, transmission of (resistant) bacteria via pets and the importance of following instructions about the use of antibiotics and hygiene guidelines.",
+            "the follow-up to the public awareness campaign by the Netherlands Nutrition Centre ('Ziekmakers zie je niet', 'You can't see what makes you ill'), which focuses on raising awareness, improving knowledge and providing concrete recommendations for both kitchen hygiene and preparing and storing food in order to reduce pathogens"
+        ]
     },
     {
         "country": "netherlands",
@@ -108,19 +182,28 @@
     {
         "country": "netherlands",
         "question": 17,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "Continuation of more stringent NVWA (the Netherlands Food and Consumer Product Safety Authority) inspections and enforcement of restricted antibiotic use in animal farming and identification and control of illegal activities.",
+            "In the context of a recently proposed European Regulation on veterinary medicines, we pursue measures that contribute to a major reduction of the use of these substances in Europe."
+        ]
     },
     {
         "country": "netherlands",
         "question": 18,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "During the next five years, the objective is to achieve a reduction of at least 50% in the use of incorrectly prescribed antibiotics across the entire healthcare chain, relative to a baseline determined with stakeholders.",
+            "Continuation of more stringent NVWA (the Netherlands Food and Consumer Product Safety Authority) inspections and enforcement of restricted antibiotic use in animal farming and identification and control of illegal activities.",
+            "For example, we propose mandatory susceptibility testing prior to use of these medicines to be included in this new Regulation. Additionally, we aim for a general ban on the use of last resort antibiotics (such as carbapenems) in animals in this Regulation."
+        ]
     },
     {
         "country": "netherlands",
         "question": 19,
-        "answer": "no",
-        "supporting_chunks": []
+        "answer": "yes",
+        "supporting_chunks": [
+            "We support and cooperate in international initiatives designed to develop new business models. An existing example is the project 'DRIVE-AB', which is funded via the European Innovative Medicines Initiative and is also part of the WHO Global Action Plan on antimicrobial resistance."
+        ]
     }
 ]
