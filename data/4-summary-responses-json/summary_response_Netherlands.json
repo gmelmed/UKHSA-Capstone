@@ -1,100 +1,128 @@
-{
-    "period": "2015-2019",
-    "questions": [
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Human Health'?",
-            "answer": "yes",
-            "supporting_text": "The approach to antibiotic resistance addresses all domains where human health is threatened by antibiotic-resistant bacteria; healthcare, animals, food and environment."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Animal Health'?",
-            "answer": "yes",
-            "supporting_text": "The goal is reduction and prudent use of antibiotics in animal farming in order to limit the development of resistance where possible."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Environment'?",
-            "answer": "yes",
-            "supporting_text": "Knowledge about the development of, the occurrence of and the spread of antibiotic resistance in people and animals, but also in the environment (soil, water and air) is crucial to controlling antibiotic resistance."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to the priority sector of 'Agriculture/Food Security'?",
-            "answer": "yes",
-            "supporting_text": "An effective approach to antibiotic resistance and the food chain requires greater knowledge about the transmission route, and the specific attribution of food to antibiotic resistance."
-        },
-        {
-            "question": "Does the NAP include any mechanisms for progress reporting to track how its objectives are being met, such as an annual or semi-annual progress report, a dashboard displaying the status, or similar documents/tools?",
-            "answer": "yes",
-            "supporting_text": "We will monitor the implementation of the multi-annual agenda and inform Parliament on its progress at regular intervals."
-        },
-        {
-            "question": "Does the NAP include any specific, time-bound targets to track progress?",
-            "answer": "yes",
-            "supporting_text": "Actors agree to the following goals: A significant further reduction in the emergence and spread of multiresistant bacteria in healthcare becomes visible during the next five years."
-        },
-        {
-            "question": "Does the NAP specify any budget allocation assigned for the strategies/policies/goals/actions directed at tackling AMR?",
-            "answer": "no",
-            "supporting_text": "The document does not specify any budget allocation for the strategies or actions."
-        },
-        {
-            "question": "Does the NAP establish a multisectoral committee or task force for AMR coordination?",
-            "answer": "no",
-            "supporting_text": "The document does not mention the establishment of a multisectoral committee or task force."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to training and educational initiatives to increase awareness about AMR \u2013 in school curricula or professional training programs for doctors and pharmacists?",
-            "answer": "yes",
-            "supporting_text": "A communication strategy targeted towards professionals and the general public will be developed, aimed at raising awareness on the urgency of the problem."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to public awareness campaigns in combating AMR, such as media involvement and community engagement?",
-            "answer": "yes",
-            "supporting_text": "A national campaign must raise public awareness and give people more knowledge on which to base their own choices."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to international collaboration and support for AMR initiatives, such as partnerships with organizations like WHO, FAO, and OIE?",
-            "answer": "yes",
-            "supporting_text": "We support the WHO, FAO and OIE in these efforts."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to data collection and analysis for AMR surveillance, such as developing surveillance systems, data collection tools, setting up laboratories for AMR monitoring, or other similar actions?",
-            "answer": "yes",
-            "supporting_text": "The National Institute for Public Health and the Environment (RIVM) was recently appointed as WHO Collaborating Centre for Antimicrobial Resistance Epidemiology and Surveillance."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to developing the capacity to detect and report newly emerged resistance that may constitute a public health emergency of international concern, as required by the International Health Regulations (2005)?",
-            "answer": "yes",
-            "supporting_text": "The Netherlands strives to strengthen and improve coordination of technical assistance provided to countries who request it."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to specific prevention strategies such as sanitation, hygiene measures, and infection control?",
-            "answer": "yes",
-            "supporting_text": "Greater efforts are required on behalf of long-term care institutions to improve hygiene and infection prevention."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to implementing the standards outlined in the OIE Terrestrial and Aquatic Animal Health Codes or the FAO/WHO Codex Alimentarius Code of Practice to Minimize and Contain Antimicrobial Resistance?",
-            "answer": "yes",
-            "supporting_text": "In Europe, we strive for reduction of the use of critical antibiotics in animals."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to regulating the distribution, prescription, and dispensation of antibiotics, such as developing or maintaining essential medicine lists for antibiotics?",
-            "answer": "yes",
-            "supporting_text": "The document discusses the need for prudent and restricted use in animal farming and other animal species."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to strengthening the legislative and regulatory framework for AMR, including laws and regulations for antimicrobial use?",
-            "answer": "yes",
-            "supporting_text": "The approach will focus on the further reduction of the risks of the development and spread of resistance in animal farming to public health and animal health."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to requiring the rational use of antibiotics through regulations/laws?",
-            "answer": "yes",
-            "supporting_text": "The sectors and veterinarians will need to do everything in their power to further reduce antibiotic use."
-        },
-        {
-            "question": "Does the NAP include any strategy/policy/goal/action related to participating in international collaborative research to support the development of new medicines, diagnostic tools, and vaccines?",
-            "answer": "yes",
-            "supporting_text": "We support and cooperate in international initiatives designed to develop new business models."
-        }
-    ]
-}
+[
+    {
+        "answer_full": "2015",
+        "supporting_text": null,
+        "country": "netherlands",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2019",
+        "supporting_text": null,
+        "country": "netherlands",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The approach to antibiotic resistance addresses all domains where human health is threatened by antibiotic-resistant bacteria; healthcare, animals, food and environment.",
+        "country": "netherlands",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The goal is reduction and prudent use of antibiotics in animal farming in order to limit the development of resistance where possible.",
+        "country": "netherlands",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Knowledge about the development of, the occurrence of and the spread of antibiotic resistance in people and animals, but also in the environment (soil, water and air) is crucial to controlling antibiotic resistance.",
+        "country": "netherlands",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "An effective approach to antibiotic resistance and the food chain requires greater knowledge about the transmission route, and the specific attribution of food to antibiotic resistance.",
+        "country": "netherlands",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "We will monitor the implementation of the multi-annual agenda and inform Parliament on its progress at regular intervals.",
+        "country": "netherlands",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Actors agree to the following goals: A significant further reduction in the emergence and spread of multiresistant bacteria in healthcare becomes visible during the next five years.",
+        "country": "netherlands",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any budget allocation for the strategies or actions.",
+        "country": "netherlands",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention the establishment of a multisectoral committee or task force.",
+        "country": "netherlands",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A communication strategy targeted towards professionals and the general public will be developed, aimed at raising awareness on the urgency of the problem.",
+        "country": "netherlands",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A national campaign must raise public awareness and give people more knowledge on which to base their own choices.",
+        "country": "netherlands",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "We support the WHO, FAO and OIE in these efforts.",
+        "country": "netherlands",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The National Institute for Public Health and the Environment (RIVM) was recently appointed as WHO Collaborating Centre for Antimicrobial Resistance Epidemiology and Surveillance.",
+        "country": "netherlands",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The document discusses the need for timely and adequate insight into who becomes ill where, when and why, and how the underlying infections spread.",
+        "country": "netherlands",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The recent report on hygiene and infection prevention in nursing homes leads to the conclusion that greater efforts are required on behalf of long-term care institutions.",
+        "country": "netherlands",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "In Europe, we strive for reduction of the use of critical antibiotics in animals.",
+        "country": "netherlands",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The document mentions the need for prudent and restricted use in other animal sectors along with reduction of critical antibiotic use.",
+        "country": "netherlands",
+        "question": 16
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any legislative or regulatory framework for AMR.",
+        "country": "netherlands",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The sectors and veterinarians will need to do everything in their power to further reduce antibiotic use.",
+        "country": "netherlands",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "We support and cooperate in international initiatives designed to develop new business models.",
+        "country": "netherlands",
+        "question": 19
+    }
+]

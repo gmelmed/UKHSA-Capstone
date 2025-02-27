@@ -1,0 +1,128 @@
+[
+    {
+        "answer_full":"2015",
+        "supporting_text":null,
+        "country":"netherlands",
+        "question":"period_start"
+    },
+    {
+        "answer_full":"2019",
+        "supporting_text":null,
+        "country":"netherlands",
+        "question":"period_end"
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The approach to antibiotic resistance addresses all domains where human health is threatened by antibiotic-resistant bacteria; healthcare, animals, food and environment.",
+        "country":"netherlands",
+        "question":1
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The goal is reduction and prudent use of antibiotics in animal farming in order to limit the development of resistance where possible.",
+        "country":"netherlands",
+        "question":2
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"Knowledge about the development of, the occurrence of and the spread of antibiotic resistance in people and animals, but also in the environment (soil, water and air) is crucial to controlling antibiotic resistance.",
+        "country":"netherlands",
+        "question":3
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"An effective approach to antibiotic resistance and the food chain requires greater knowledge about the transmission route, and the specific attribution of food to antibiotic resistance.",
+        "country":"netherlands",
+        "question":4
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"We will regularly inform Parliament of the progress of the approach to antibiotic resistance.",
+        "country":"netherlands",
+        "question":5
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"Actors agree to the following goals: A significant further reduction in the emergence and spread of multiresistant bacteria in healthcare becomes visible during the next five years.",
+        "country":"netherlands",
+        "question":6
+    },
+    {
+        "answer_full":"no",
+        "supporting_text":"The document does not specify any budget allocation for the strategies or actions.",
+        "country":"netherlands",
+        "question":7
+    },
+    {
+        "answer_full":"no",
+        "supporting_text":"The document does not mention the establishment of a multisectoral committee or task force.",
+        "country":"netherlands",
+        "question":8
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"A communication strategy targeted towards professionals and the general public will be developed, aimed at raising awareness on the urgency of the problem.",
+        "country":"netherlands",
+        "question":9
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"A national campaign must raise public awareness and give people more knowledge on which to base their own choices.",
+        "country":"netherlands",
+        "question":10
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"We support the WHO, FAO and OIE in these efforts.",
+        "country":"netherlands",
+        "question":11
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The National Institute for Public Health and the Environment (RIVM) was recently appointed as WHO Collaborating Centre for Antimicrobial Resistance Epidemiology and Surveillance.",
+        "country":"netherlands",
+        "question":12
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The Netherlands strives to strengthen and improve coordination of technical assistance provided to countries who request it.",
+        "country":"netherlands",
+        "question":13
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"Greater efforts are required on behalf of long-term care institutions to improve hygiene and infection prevention.",
+        "country":"netherlands",
+        "question":14
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"In Europe, we strive for reduction of the use of critical antibiotics in animals.",
+        "country":"netherlands",
+        "question":15
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The document discusses the need for prudent and restricted use in animal farming and other animal species.",
+        "country":"netherlands",
+        "question":16
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The approach will focus on the further reduction of the risks of the development and spread of resistance in animal farming to public health and animal health.",
+        "country":"netherlands",
+        "question":17
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"The sectors and veterinarians will need to do everything in their power to further reduce antibiotic use.",
+        "country":"netherlands",
+        "question":18
+    },
+    {
+        "answer_full":"yes",
+        "supporting_text":"We support and cooperate in international initiatives designed to develop new business models.",
+        "country":"netherlands",
+        "question":19
+    }
+]
