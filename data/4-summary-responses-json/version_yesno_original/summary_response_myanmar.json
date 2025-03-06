@@ -1,0 +1,128 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "myanmar",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "myanmar",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including improving awareness of AMR amongst the general public and professionals.",
+        "country": "myanmar",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to animal health, such as establishing a national AMR surveillance system that integrates animal health.",
+        "country": "myanmar",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for environmental surveillance for AMR in various settings, including hospitals and animal production units.",
+        "country": "myanmar",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses agricultural practices and the use of antimicrobials in food production sectors.",
+        "country": "myanmar",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the roles and responsibilities of the National AMR Coordinating Centre (NACC) to monitor and evaluate the implementation of different strategic interventions.",
+        "country": "myanmar",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies that by 2022, a national early warning system will be in place to identify the emergence of resistance in priority pathogens.",
+        "country": "myanmar",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document mentions that detailed planning along with the budget allotted for the respective activities will be done in due course by national stakeholders.",
+        "country": "myanmar",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a National Multi-Sectoral Steering Committee (NMSC) for antimicrobial resistance.",
+        "country": "myanmar",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans to revise curricula in undergraduate medical and veterinary education to incorporate AMR and related topics.",
+        "country": "myanmar",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines plans for nationwide evidence-based awareness campaigns targeting the general public and professionals.",
+        "country": "myanmar",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions collaboration with WHO, FAO, and OIE for technical support in various activities.",
+        "country": "myanmar",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes establishing a national AMR surveillance system and building laboratory capacity for high-quality microbiological data.",
+        "country": "myanmar",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aims to develop a national early warning system to identify the emergence of resistance in priority pathogens.",
+        "country": "myanmar",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives related to establishing a national infection prevention and control programme.",
+        "country": "myanmar",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to develop guidelines for AMR surveillance, incorporating standards from OIE and WHO.",
+        "country": "myanmar",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the development of an essential medicines list with special reference to the use of antimicrobial agents.",
+        "country": "myanmar",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for a National AMR Containment and Use Policy and related regulatory frameworks.",
+        "country": "myanmar",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans for a comprehensive evidence-based formal antimicrobial stewardship programme at the national level.",
+        "country": "myanmar",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP envisions collaborations with national and international agencies for the implementation of a strategic research agenda.",
+        "country": "myanmar",
+        "question": 19
+    }
+]

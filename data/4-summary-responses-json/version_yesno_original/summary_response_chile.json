@@ -13,13 +13,13 @@
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP mentions specific actions in the human health sector, including the prevention and control of infections associated with health care.",
+        "supporting_text": "The NAP includes strategies to prevent and control infections associated with health care and to strengthen the national surveillance system for antimicrobial resistance.",
         "country": "chile",
         "question": 1
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP includes actions to prevent and control infections in animal production and companion animals.",
+        "supporting_text": "The NAP outlines actions to prevent and control infections in animal production and companion animals.",
         "country": "chile",
         "question": 2
     },
@@ -31,25 +31,25 @@
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP addresses the regulation of antimicrobial use in agriculture and promotes sustainable practices.",
+        "supporting_text": "The NAP includes strategies to regulate the use of antimicrobials in agriculture and promote responsible practices.",
         "country": "chile",
         "question": 4
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP outlines the need for annual or biannual operational plans to evaluate and adjust activities.",
+        "supporting_text": "The NAP mentions the need for annual or biannual operational plans to evaluate and adjust activities.",
         "country": "chile",
         "question": 5
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP sets specific objectives and timelines for various actions related to antimicrobial resistance.",
+        "supporting_text": "The NAP outlines specific objectives and actions to be implemented within the 2021-2025 timeframe.",
         "country": "chile",
         "question": 6
     },
     {
         "answer_full": "no",
-        "supporting_text": "The document does not mention specific budget allocations for the strategies outlined.",
+        "supporting_text": "The document does not specify any budget allocation for the strategies outlined.",
         "country": "chile",
         "question": 7
     },
@@ -67,31 +67,31 @@
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP includes plans for public awareness campaigns to inform about the responsible use of antimicrobials.",
+        "supporting_text": "The NAP includes plans for public awareness campaigns to inform the community about AMR.",
         "country": "chile",
         "question": 10
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP acknowledges collaboration with international organizations like WHO and FAO.",
+        "supporting_text": "The NAP acknowledges collaboration with international organizations like WHO, FAO, and OIE.",
         "country": "chile",
         "question": 11
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP outlines the development of an integrated surveillance system for AMR.",
+        "supporting_text": "The NAP emphasizes the development of an integrated surveillance system for AMR.",
         "country": "chile",
         "question": 12
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP emphasizes the need for capacity building in detecting and reporting AMR.",
+        "supporting_text": "The NAP includes objectives to strengthen the capacity for detection and reporting of AMR.",
         "country": "chile",
         "question": 13
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP includes strategies for infection control and hygiene measures to prevent AMR.",
+        "supporting_text": "The NAP outlines strategies for infection prevention and control in health care settings.",
         "country": "chile",
         "question": 14
     },
@@ -103,7 +103,7 @@
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP includes regulations for the prescription and distribution of antimicrobials.",
+        "supporting_text": "The NAP includes actions to regulate the prescription and use of antimicrobials.",
         "country": "chile",
         "question": 16
     },
@@ -121,7 +121,7 @@
     },
     {
         "answer_full": "yes",
-        "supporting_text": "The NAP encourages participation in international research collaborations for AMR.",
+        "supporting_text": "The NAP encourages participation in international research initiatives related to AMR.",
         "country": "chile",
         "question": 19
     }

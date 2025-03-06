@@ -1,0 +1,309 @@
+[
+    {
+        "country": "argentina",
+        "question": "period_start",
+        "answer": 2010
+    },
+    {
+        "country": "argentina",
+        "question": "period_end",
+        "answer": "null"
+    },
+    {
+        "country": "argentina",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que los antimicrobianos son medicamentos esenciales para la salud humana y animal, y su aplicaci\u00f3n ha permitido salvar millones de vidas.",
+            "Que entre los objetivos del MINISTERIO DE SALUD se encuentran los de formular, programar y coordinar las acciones vinculadas al sistema de vigilancia epidemiol\u00f3gica; coordinar las acciones vinculadas a la prevenci\u00f3n y control de las enfermedades; entender, a partir de los registros espec\u00edficos, en los estudios de recursos disponibles, oferta, demanda y necesidad, as\u00ed como el diagn\u00f3stico de situaci\u00f3n necesaria para la planificaci\u00f3n estrat\u00d8gica de la prevenci\u00f3n y el control en el sector salud y formular, dirigir y coordinar las campa\u00e6as nacionales de promoci\u00f3n y protecci\u00f3n de la salud.",
+            "Que resulta necesario aprobar una Estrategia Nacional para el Control de la Resistencia Antimicrobiana a fin de garantizar un uso responsable de los mismos, a trav\u00d8s de un balance entre minimizar su utilizaci\u00f3n innecesaria sin comprometer la salud de las personas.",
+            "2. Vigilancia de la resistencia antimicrobiana en salud humana\n5. Regulaci\u00f3n del uso de antimicrobianos en salud humana\n7. Uso responsable de antimicrobianos en salud humana\n9. Prevenci\u00f3n y control de infecciones asociadas al cuidado de la salud humana",
+            "En salud humana, el uso indiscriminado de antibi\u00f3ticos en el \u00e1mbito hospitalario o su administraci\u00f3n en infecciones ambulatorias que en realidad no los requieren, sumado a la automedicaci\u00f3n, al incumplimiento de la posolog\u00eda, la inadecuada composici\u00f3n de las presentaciones que se fabrican, la no aplicaci\u00f3n de las restricciones de venta bajo receta archivada en las farmacias, la insuficiente inversi\u00f3n en innovaci\u00f3n para estos productos observada en los \u00faltimos a\u00f1os, y las dificultades en el diagn\u00f3stico oportuno de las infecciones causadas por microorganismos resistentes, son las principales causas del crecimiento exponencial de este fen\u00f3meno.",
+            "El problema de la RAM en salud humana tiene un fuerte correlato con la sanidad animal.",
+            "2. VIGILANCIA DE LA RESISTENCIA ANTIMICROBIANA EN SALUD HUMANA",
+            "Evaluar las pr\u00e1cticas de prescripci\u00f3n de agentes antimicrobianos y recomendaciones de uso prudente;",
+            "2.3. L\u00edneas estrat\u00e9gicas para la vigilancia de la RAM en salud humana",
+            "a) Continuar realizando el Curso de Actualizaci\u00f3n en Antimicrobianos 'Dra. Alicia Rossi' con cupo para 110 profesionales y el Curso anual de Epidemiolog\u00eda Molecular con cupo de 18 profesionales;",
+            "b) Armonizaci\u00f3n de las estrategias de vigilancia de RAM en salud humana y animal;",
+            "El acceso se refiere a la utilizaci\u00f3n efectiva de antimicrobianos en salud humana, incluyendo la prescripci\u00f3n profesional y el consumo por parte del usuario final.",
+            "El uso adecuado refiere a la calidad tanto de la prescripci\u00f3n como de la provisi\u00f3n del servicio farmac\u00d8utico, en t\u00d8rminos de uso de la medicaci\u00f3n apropiada a la necesidad cl\u00ednica, en las dosis correspondientes a los requerimientos individuales de cada paciente, por el per\u00edodo adecuado de tiempo.",
+            "El monitoreo del uso adecuado permitir\u00e1 determinar la calidad de provisi\u00f3n de los servicios sanitarios vinculados con los antimicrobianos e identificar necesidades de capacitaci\u00f3n de los equipos de salud, as\u00ed como tambi\u00e9n dise\u00f1ar acciones espec\u00edficas seg\u00fan \u00e1reas geogr\u00e1ficas o de conocimiento, incluyendo la revisi\u00f3n y eventual adecuaci\u00f3n de las recomendaciones de utilizaci\u00f3n.",
+            "5.2. Situaci\u00f3n actual de la regulaci\u00f3n del uso de antimicrobianos en salud humana",
+            "5.3. L\u00edneas estrat\u00d8gicas para la regulaci\u00f3n del uso de antimicrobianos en salud humana a) Implementaci\u00f3n de medidas que promuevan el uso adecuado de antimicrobianos seg\u0153n preceptos",
+            "- b) Sensibilizar y capacitar a los integrantes de la Red de ANMAT FEDERAL sobre la efectiva dispensa bajo receta archivada de los medicamentos antibi\u00f3ticos de uso sist\u00d8mico;",
+            "7. USO RESPONSABLE DE ANTIMICROBIANOS EN SALUD HUMANA",
+            "La mayor parte de los antimicrobianos usados en salud humana se destina al tratamiento de infecciones ambulatorias, a\u0153n cuando muchas de ellas son de etiolog\u00eda viral y no requieren antibi\u00f3ticos.",
+            "7.3. L\u00edneas estrat\u00d8gicas para el uso responsable de antimicrobianos en salud humana",
+            "9. PREVENCI\u00d3N Y CONTROL DE INFECCIONES ASOCIADAS AL CUIDADO DE LA SALUD HUMANA",
+            "El Programa Nacional de Epidemiolog\u00eda y Control de Infecciones Hospitalarias tiene sede en el Instituto Nacional de Epidemiolog\u00eda (INE-ANLIS), y fue creado por Resoluci\u00f3n 2885/83 del entonces Ministerio de Acci\u00f3n Social, con el prop\u00f3sito de 'contribuir a la reducci\u00f3n de la morbimortalidad por IACS y a mejorar la calidad de atenci\u00f3n en los hospitales del pa\u00eds'.",
+            "9.3. L\u00edneas estrat\u00d8gicas para la prevenci\u00f3n y control de infecciones en salud humana",
+            "9.4. Acciones espec\u00edficas para la prevenci\u00f3n y control de infecciones en salud humana",
+            "Generar laboratorios con diagn\u00f3sticos protocolizados y trabajo en red para determinar el nivel de resistencia de bacterias aisladas de animales de consumo y la emergencia de mecanismos de resistencia a antimicrobianos cr\u00edticos en la salud humana y animal, como as\u00ed tambi\u00e9n el uso adecuado de antimicrobianos;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la distribuci\u00f3n de alimentos contaminados y la migraci\u00f3n de los animales han contribuido a la diseminaci\u00f3n de microorganismos resistentes, encontr\u00c6ndose claramente documentada la relaci\u00f3n entre animales de consumo y emergencia de la resistencia antimicrobiana en salud humana.",
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente y de la detecci\u00f3n precoz y el control de las infecciones en hospitales y en establecimientos agropecuarios.",
+            "3. Vigilancia de la resistencia antimicrobiana en salud animal y producci\u00f3n agroalimentaria\n6. Regulaci\u00f3n del uso de antimicrobianos en salud animal y producci\u00f3n agroalimentaria\n8. Uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria\n10. Prevenci\u00f3n y control de infecciones en salud animal y producci\u00f3n agroalimentaria",
+            "El problema de la RAM en salud humana tiene un fuerte correlato con la sanidad animal. Las enfermedades transmitidas por alimentos de origen animal son causa importante de morbimortalidad en todo el mundo.",
+            "En el \u00c6mbito de la producci\u00f3n animal, se utilizan antimicrobianos para el tratamiento de las infecciones en animales de forma individual o colectiva.",
+            "de la detecci\u00f3n precoz y el control de las infecciones en hospitales y establecimientos agropecuarios.",
+            "- Llevar a cabo an\u00c6lisis de riesgos orientados a la protecci\u00f3n de salud de los seres humanos y la sanidad de los animales;",
+            "d) Armonizaci\u00f3n de estrategias de vigilancia de RAM en salud humana, animal y ambiental.",
+            "t) Elaborar y difundir un reporte anual conjunto con los perfiles de resistencia de bacterias zoon\u00f3ticas e indicadoras de origen animal y los mismos g\u00d8rmenes de origen humano;",
+            "3. VIGILANCIA DE LA RESISTENCIA ANTIMICROBIANA EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "3.4. Acciones espec\u00edficas para la vigilancia de la RAM en salud animal y producci\u00f3n agroalimentaria",
+            "La Direcci\u00f3n Nacional de Agroqu\u00edmicos, Productos Veterinarios y Alimentos del SENASA ser\u00c6 responsable de: a) Realizar un seguimiento anual del volumen de venta de antibi\u00f3ticos, con la colaboraci\u00f3n de las c\u00c6maras industriales de productos veterinarios y los colegios profesionales;",
+            "6. REGULACI\u00d3N DEL USO DE ANTIMICROBIANOS EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "6.3. L\u00edneas estrat\u00e9gicas para la regulaci\u00f3n del uso de antimicrobianos en salud animal y producci\u00f3n agroalimentaria",
+            "8. USO RESPONSABLE DE ANTIMICROBIANOS EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "El uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria refiere a la implementaci\u00f3n de medidas y recomendaciones pr\u00e1cticas para mejorar la sanidad y el bienestar animal y, al mismo tiempo, prevenir y/o reducir la emergencia y propagaci\u00f3n de bacterias resistentes a los antimicrobianos en animales y en humanos.",
+            "8.3. L\u00edneas estrat\u00d8gicas para el uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria",
+            "10. PREVENCI\u00d3N Y CONTROL DE INFECCIONES EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "La ganader\u00eda desempe\u00e6a un importante papel para la seguridad e inocuidad alimentaria y la nutrici\u00f3n de los seres humanos. El desarrollo de los sistemas productivos ha derivado en una creciente demanda de alternativas profil\u00c6cticas y terap\u00d8uticas, y los antimicrobianos se han transformado en herramientas esenciales para el tratamiento y control de las enfermedades infecciosas de los animales.",
+            "10.3. L\u00edneas estrat\u00d8gicas para la prevenci\u00f3n y control de infecciones en salud animal\n\na) Desarrollo de programas de gesti\u00f3n, prevenci\u00f3n y control de enfermedades infecciosas asociadas con resistencia a los antimicrobianos en medicina veterinaria, contemplando la bioseguridad de establecimientos de producci\u00f3n intensiva en cuanto a infraestructura y equipamiento adecuado para las pr\u00e1cticas de prevenci\u00f3n y control de infecciones;",
+            "- d) Generar laboratorios con diagn\u00f3sticos protocolizados y trabajo en red para determinar el nivel de resistencia de bacterias aisladas de animales de consumo y la emergencia de mecanismos de resistencia a antimicrobianos cr\u00edticos en la salud humana y animal, como as\u00ed tambi\u00e9n el uso adecuado de antimicrobianos;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "d) Armonizaci\u00f3n de estrategias de vigilancia de RAM en salud humana, animal y ambiental.",
+            "La vigilancia de la RAM es el seguimiento activo y sostenido en el tiempo de la prevalencia de la resistencia de las bacterias en los animales, los alimentos y el ambiente;",
+            "f) Realizar estudios espec\u00edficos sobre el comportamiento de antimicrobianos vehiculizados en diferentes matrices biol\u00f3gicas (agua o alimento, pre-mezcla o n\u00facleo concentrado) y sobre el impacto de su uso en el medio ambiente de los sistemas de producci\u00f3n;",
+            "La regulaci\u00f3n tiene impacto en la vigilancia del uso de agentes antimicrobianos y en su uso racional y prudente en sanidad animal y producci\u00f3n agroalimentaria, mediante mecanismos de registro de productos, regulaci\u00f3n de su uso y en el control de residuos o contaminantes en los alimentos de ese origen.",
+            "d) Incremento del conocimiento farmacol\u00f3gico y farmacot\u00d8cnico sobre el comportamiento de las formulaciones antibi\u00f3ticas, vehiculizadas en matrices biol\u00f3gicas y en los animales, considerando el impacto en el medio ambiente;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la distribuci\u00f3n de alimentos contaminados y la migraci\u00f3n de los animales han contribuido a la diseminaci\u00f3n de microorganismos resistentes, encontr\u00c6ndose claramente documentada la relaci\u00f3n entre animales de consumo y emergencia de la resistencia antimicrobiana en salud humana.",
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente y de la detecci\u00f3n precoz y el control de las infecciones en hospitales y en establecimientos agropecuarios.",
+            "3. Vigilancia de la resistencia antimicrobiana en salud animal y producci\u00f3n agroalimentaria\n6. Regulaci\u00f3n del uso de antimicrobianos en salud animal y producci\u00f3n agroalimentaria\n8. Uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria\n10. Prevenci\u00f3n y control de infecciones en salud animal y producci\u00f3n agroalimentaria",
+            "La RAM ha aparecido tambi\u00d8n en bacterias comensales presentes en el tracto intestinal de los animales, tales como Enterococcus y Escherichia coli, las que pueden ser transmitidas por los alimentos y actuar como reservorios de genes de resistencia, transfiri\u00d8ndolos a bacterias pat\u00f3genas o zoon\u00f3ticas de importancia para la salud p\u0153blica.",
+            "En el \u00c6mbito de la producci\u00f3n animal, se utilizan antimicrobianos para el tratamiento de las infecciones en animales de forma individual o colectiva.",
+            "de la detecci\u00f3n precoz y el control de las infecciones en hospitales y establecimientos agropecuarios.",
+            "3. VIGILANCIA DE LA RESISTENCIA ANTIMICROBIANA EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "3.4. Acciones espec\u00edficas para la vigilancia de la RAM en salud animal y producci\u00f3n agroalimentaria",
+            "La Direcci\u00f3n Nacional de Agroqu\u00edmicos, Productos Veterinarios y Alimentos del SENASA ser\u00c6 responsable de: a) Realizar un seguimiento anual del volumen de venta de antibi\u00f3ticos, con la colaboraci\u00f3n de las c\u00c6maras industriales de productos veterinarios y los colegios profesionales;",
+            "6. REGULACI\u00d3N DEL USO DE ANTIMICROBIANOS EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "6.3. L\u00edneas estrat\u00e9gicas para la regulaci\u00f3n del uso de antimicrobianos en salud animal y producci\u00f3n agroalimentaria",
+            "8. USO RESPONSABLE DE ANTIMICROBIANOS EN SALUD ANIMAL Y PRODUCCI\u00d3N AGROALIMENTARIA",
+            "El uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria refiere a la implementaci\u00f3n de medidas y recomendaciones pr\u00e1cticas para mejorar la sanidad y el bienestar animal y, al mismo tiempo, prevenir y/o reducir la emergencia y propagaci\u00f3n de bacterias resistentes a los antimicrobianos en animales y en humanos.",
+            "8.3. L\u00edneas estrat\u00e9gicas para el uso responsable de antimicrobianos en salud animal y producci\u00f3n agroalimentaria",
+            "b) ... uso de antimicrobianos en grandes animales y en alimentos de origen agropecuario, y su implicancia en la salud humana;",
+            "La ganader\u00eda desempe\u00e6a un importante papel para la seguridad e inocuidad alimentaria y la nutrici\u00f3n de los seres humanos.",
+            "Desarrollar normativas para llevar adelante los programas de prevenci\u00f3n y control de infecciones entre el Ministerio de Agricultura, Ganader\u00eda y Pesca, el Ministerio de Salud, las universidades y los colegios profesionales;",
+            "- d) Generar laboratorios con diagn\u00f3sticos protocolizados y trabajo en red para determinar el nivel de resistencia de bacterias aisladas de animales de consumo y la emergencia de mecanismos de resistencia a antimicrobianos cr\u00edticos en la salud humana y animal, como as\u00ed tambi\u00e9n el uso adecuado de antimicrobianos;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "una Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana, con la misi\u00f3n de verificar el cumplimiento de la Estrategia aprobada en el art\u00edculo 1\u00b0",
+            "Analiza y confecciona un informe anual con los datos relevantes de la vigilancia, el cual se difunde a los laboratorios participantes de la Red, a todos los efectores de salud del pa\u00eds y a la Organizaci\u00f3n Panamericana de la Salud/Organizaci\u00f3n Mundial de la Salud; y se publica con acceso libre en el sitio www.antimicrobianos.com.ar;",
+            "t) Elaborar y difundir un reporte anual conjunto con los perfiles de resistencia de bacterias zoon\u00f3ticas e indicadoras de origen animal y los mismos g\u00d8rmenes de origen humano;",
+            "Estas instituciones reportan al Programa la informaci\u00f3n relevante de la vigilancia a trav\u00d8s de un sistema inform\u00c6tico especialmente dise\u00e6ado, el cual puede generar reportes autom\u00c6ticos e inmediatos de indicadores propios."
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 6,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "argentina",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "g) Proveer insumos para el Programa Nacional de Control de Calidad en Bacteriolog\u00eda con asignaci\u00f3n presupuestaria espec\u00edfica;",
+            "Proveer insumos para el desarrollo de nuevas metodolog\u00edas diagn\u00f3sticas para g\u00d8rmenes multirresistentes con asignaci\u00f3n presupuestaria espec\u00edfica;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "la creaci\u00f3n en el \u00c6mbito de la SECRETAR\u00cdA DE PROMOCI\u00d3N Y PROGRAMAS SANITARIOS del MINISTERIO DE SALUD, de la Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana.",
+            "ARTICULO 2\u00b0 - Cr\u00d8ase en el \u00c6mbito de la SECRETAR'A DE PROMOCI\u00d3N Y PROGRAMAS SANITARIOS del MINISTERIO DE SALUD, una Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana",
+            "La Estrategia fue elaborada bajo la coordinaci\u00f3n de la Secretar\u00eda de Promoci\u00f3n y Programas Sanitarios del Ministerio de Salud, y con la participaci\u00f3n de las siguientes entidades: - Ministerio de Salud: Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud (ANLIS), Administraci\u00f3n Nacional de Medicamentos, Alimentos y Tecnolog\u00eda M\u00e9dica (ANMAT) y el Programa REMEDIAR. - Ministerio de Agricultura, Ganader\u00eda y Pesca: Servicio Nacional de Sanidad y Calidad Agro-alimentaria (SENASA) e Instituto Nacional de Tecnolog\u00eda Agropecuaria (INTA). - Universidades Nacionales de La Plata y del Centro de la Provincia de Buenos Aires. - Representaci\u00f3n para las Am\u00e9ricas de la Organizaci\u00f3n Mundial de Sanidad Animal (OIE). - Sociedad Argentina de Infectolog\u00eda (SADI) y Sociedad Argentina de Terapia Intensiva (SATI)",
+            "Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana",
+            "Art\u00edculo 5': Facultase a la Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana a convocar a otros organismos estatales, sociedades cient\u00edficas, entidades de la sociedad civil, acad\u00d8micos, funcionarios y/o expertos en la materia cuando as\u00ed lo estime oportuno y conveniente en pos de cumplir con sus objetivos."
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Continuar realizando el Curso de Actualizaci\u00f3n en Antimicrobianos 'Dra. Alicia Rossi' con cupo para 110 profesionales y el Curso anual de Epidemiolog\u00eda Molecular con cupo de 18 profesionales;",
+            "c) Incorporar la tem\u00c6tica de la RAM en la curr\u00edcula de las carreras de ciencias de la Salud, en trabajo conjunto con AFACIMERA;",
+            "c) Incorporar la tem\u00c6tica de la RAM en la curr\u00edcula de las carreras de veterinaria, en trabajo conjunto con el Consejo Nacional de Decanos de Ciencias Veterinarias;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "formular, dirigir y coordinar las campa\u00e6as nacionales de promoci\u00f3n y protecci\u00f3n de la salud.",
+            "Crear conciencia entre las partes interesadas.",
+            "b) Fortalecimiento de las acciones de comunicaci\u00f3n y difusi\u00f3n oportuna de la informaci\u00f3n de la RAM;",
+            "e) Desarrollar herramientas de comunicaci\u00f3n y difusi\u00f3n oportuna de la informaci\u00f3n con los principales resultados, conclusiones y recomendaciones, destinada a los distintos actores involucrados en la utilizaci\u00f3n de antimicrobianos y a la comunidad en general.",
+            "a) Elaborar materiales de difusi\u00f3n (folletos, afiches, art\u00edculos, etc.) y realizar campa\u00e6as en medios de comunicaci\u00f3n;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que los organismos internacionales dedicados a salud (Organizaci\u00f3n Mundial de la Salud - OMS y Organizaci\u00f3n Mundial de Sanidad Animal - OIE) han instado, recientemente, a los pa\u00edses a elaborar planes y a adoptar medidas para enfrentarlo, bajo el concepto de 'Una Salud', con una visi\u00f3n integral de la sanidad animal y la salud p\u00fablica a escala mundial.",
+            "Los organismos internacionales dedicados a salud (Organizaci\u00f3n Mundial de la Salud - OMS y Organizaci\u00f3n Mundial de Sanidad Animal - OIE) han instado recientemente a los pa\u00edses a elaborar planes y a adoptar medidas para enfrentarlo, bajo el concepto de 'Una Salud', con una visi\u00f3n integral de la sanidad animal y la salud p\u00fablica a escala mundial.",
+            "Representaci\u00f3n para las Am\u00e9ricas de la Organizaci\u00f3n Mundial de Sanidad Animal (OIE).",
+            "b) Participaci\u00f3n en instancias internacionales de discusi\u00f3n sobre las pr\u00e1cticas reguladoras para la sanidad animal.",
+            "Invitase a las siguientes entidades a participar de la Comisi\u00f3n Nacional para el Control de la Resistencia Antimicrobiana en calidad de Miembro Invitado, a trav\u00d8s de su m\u00c6xima autoridad o de un representante por ella designado: ... Organizaci\u00f3n Mundial de Sanidad Animal (OIE); y Organizaci\u00f3n Panamericana de la Salud (OPS)."
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica.",
+            "2. Vigilancia de la resistencia antimicrobiana en salud humana\n3. Vigilancia de la resistencia antimicrobiana en salud animal y producci\u00f3n agroalimentaria\n4. Vigilancia del uso de antimicrobianos",
+            "La vigilancia de la RAM en salud humana consiste en recoger, procesar, analizar, interpretar y difundir de manera sistem\u00c6tica y continua datos comparables y validados de la resistencia antimicrobiana.",
+            "La Red WHONET se encuentra dedicada espec\u00edficamente a recoger datos cl\u00ednicos de rutina de sensibilidad a los antibi\u00f3ticos y funciona desde 1989 bajo la coordinaci\u00f3n del Servicio de Antimicrobianos del Instituto Nacional de Enfermedades Infecciosas (INEI-ANLIS). Esta Red est\u00e1 integrada actualmente por 96 hospitales de todas las jurisdicciones del pa\u00eds. Para garantizar la calidad de los resultados de la vigilancia, los laboratorios participantes cuentan con procedimientos estandarizados de laboratorio, manuales de control de calidad interno, programas de control de calidad externo y de capacitaci\u00f3n del personal, y provisi\u00f3n continua de actualizaciones bibliogr\u00e1ficas y de cepas de referencia.",
+            "La Red SIREVA-Argentina lleva a cabo la vigilancia de los agentes bacterianos causantes de neumon\u00eda y de meningitis: Streptococcus pneumoniae, Neisseria meningitidis y Haemophilus influenzae. Esta red, coordinada en forma conjunta por los servicios de Bacteriolog\u00eda Cl\u00ednica y de Antimicrobianos del INEI-ANLIS, provee informaci\u00f3n epidemiol\u00f3gica de la distribuci\u00f3n de serotipos y sensibilidad a los antimicrobianos en aislamientos de infecciones invasivas en la poblaci\u00f3n general.",
+            "j) Elaborar e incorporar al Bolet\u00edn un resumen ejecutivo con indicadores seleccionados de la RAM, integrando la informaci\u00f3n proveniente de la vigilancia armonizada entre salud humana y animal;",
+            "La vigilancia de la RAM es el seguimiento activo y sostenido en el tiempo de la prevalencia de la resistencia de las bacterias en los animales, los alimentos y el ambiente; y constituye una faceta cr\u00edtica de la estrategia de sanidad animal y seguridad alimentaria destinada a limitar su propagaci\u00f3n y a optimizar la elecci\u00f3n de antimicrobianos con fines terap\u00d8uticos.",
+            "b) Comparar los resultados con datos obtenidos en estudios previos, cuando sea posible; c) Determinar la prevalencia de RAM por especie animal y por regi\u00f3n geogr\u00e1fica; d) Correlacionar el consumo de antimicrobianos con la RAM;",
+            "No existe en la actualidad un programa de vigilancia del uso de antimicrobianos que integre las distintas fuentes de informaci\u00f3n existentes, tanto p\u0153blicas como privadas.",
+            "La vigilancia permitir\u00c6 establecer el grado de adecuaci\u00f3n del uso de antimicrobianos a protocolos, gu\u00edas, pautas o esquemas terap\u00d8uticos definidos.",
+            "Desarrollar la vigilancia del uso de antimicrobianos y consolidar informaci\u00f3n proveniente de los usos humano, animal y agropecuario;",
+            "Recopilar y analizar resultados de los sistemas de vigilancia y trazabilidad de productos veterinarios para la realizaci\u00f3n de an\u00e1lisis de riesgos y creaci\u00f3n de perfiles de riesgo;",
+            "En referencia a la vigilancia, en 1995 se implement\u00f3 a modo piloto el Sistema Intensificado de Vigilancia Epidemiol\u00f3gica Nacional de Infecciones Hospitalarias (SIVENIH) que involucr\u00f3 a 25 hospitales p\u00fablicos y privados del pa\u00eds, voluntariamente adheridos, quienes recolectaron y analizaron datos de vigilancia durante 2 a\u00f1os.",
+            "El Programa VIHDA actualmente integra a diversas instituciones de salud del pa\u00eds en una red dedicada a la prevenci\u00f3n, vigilancia y control continuo y sistematizado de las IACS, lo que le permite a cada instituci\u00f3n disponer de sus propios indicadores de manera instant\u00c6nea para actuar inmediatamente al respecto.",
+            "e) Servicios de laboratorio y de diagn\u00f3stico que permitan la detecci\u00f3n exacta y oportuna de microorganismos resistentes para fundamentar la prescripci\u00f3n de antimicrobianos; f) Estrategia de vigilancia para posibilitar la detecci\u00f3n y contenci\u00f3n precoces de infecciones por microorganismos multirresistentes emergentes;",
+            "c) Implementaci\u00f3n de laboratorios de diagn\u00f3stico en red que permitan la identificaci\u00f3n de microorganismos resistentes a antimicrobianos y el monitoreo de las infecciones.",
+            "Generar laboratorios con diagn\u00f3sticos protocolizados y trabajo en red para determinar el nivel de resistencia de bacterias aisladas de animales de consumo y la emergencia de mecanismos de resistencia a antimicrobianos cr\u00edticos en la salud humana y animal, como as\u00ed tambi\u00e9n el uso adecuado de antimicrobianos;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente y de la detecci\u00f3n precoz y el control de las infecciones en hospitales y en establecimientos agropecuarios.",
+            "La vigilancia de la RAM en salud humana consiste en recoger, procesar, analizar, interpretar y difundir de manera sistem\u00c6tica y continua datos comparables y validados de la resistencia antimicrobiana. La vigilancia permite: - Detectar la aparici\u00f3n de nuevos mecanismos de resistencia;",
+            "Desarrolla m\u00e9todos diagn\u00f3sticos para la detecci\u00f3n precoz de mecanismos de RAM;",
+            "Emite alertas por correo electr\u00f3nico de la emergencia nacional y regional de mecanismos de resistencia potencialmente pand\u00d8micos.",
+            "c) Desarrollo de un procedimiento de evaluaci\u00f3n preferencial de nuevos antimicrobianos o nuevas formulaciones y m\u00e9todos r\u00e1pidos de diagn\u00f3stico para infecciones resistentes.",
+            "e e) Implementar un procedimiento \u00c6gil de revisi\u00f3n de nuevos m\u00d8todos diagn\u00f3sticos para la detecci\u00f3n precoz de RAM y de nuevos principios activos o nuevas formulaciones de los existentes para tratamiento de las infecciones, con la cooperaci\u00f3n de ANLIS y SADI.",
+            "f) Estrategia de vigilancia para posibilitar la detecci\u00f3n y contenci\u00f3n precoces de infecciones por microorganismos multirresistentes emergentes;",
+            "Generar laboratorios con diagn\u00f3sticos protocolizados y trabajo en red para determinar el nivel de resistencia de bacterias aisladas de animales de consumo y la emergencia de mecanismos de resistencia a antimicrobianos cr\u00edticos en la salud humana y animal"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente y de la detecci\u00f3n precoz y el control de las infecciones en hospitales y en establecimientos agropecuarios.",
+            "9. Prevenci\u00f3n y control de infecciones asociadas al cuidado de la salud humana",
+            "1. Retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s de la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente, y de la detecci\u00f3n precoz y el control de las infecciones en hospitales y establecimientos agropecuarios.",
+            "Desde hace m\u00c6s de diez a\u00e6os, el SENASA lleva adelante un Programa de Control de Residuos, Contaminantes e Higiene de Alimentos de origen animal.",
+            "Por esta raz\u00f3n, las medidas de prevenci\u00f3n y control de infecciones son fundamentales para contener la propagaci\u00f3n de la RAM.",
+            "9.3. L\u00edneas estrat\u00e9gicas para la prevenci\u00f3n y control de infecciones en salud humana",
+            "9.3.2. Promoci\u00f3n de la aplicaci\u00f3n de las normas de prevenci\u00f3n y control de infecciones en establecimientos de salud (higiene de manos, precauciones de barrera, asepsia, desinfecci\u00f3n y esterilizaci\u00f3n, higiene ambiental y manejo de residuos), y capacitaci\u00f3n sobre el control y la prevenci\u00f3n de infecciones en entornos comunitarios.",
+            "Desarrollar normativas para llevar adelante los programas de prevenci\u00f3n y control de infecciones entre el Ministerio de Agricultura, Ganader\u00eda y Pesca, el Ministerio de Salud, las universidades y los colegios profesionales; Propiciar el cumplimiento de normas b\u00e1sicas de bioseguridad, higiene y desinfecci\u00f3n del personal, equipamiento y ambiente productivo afectados a las producciones intensivas;",
+            "Propiciar el cumplimiento de normas b\u00c6sicas de bioseguridad, higiene y desinfecci\u00f3n del personal, equipamiento y ambiente productivo afectados a las producciones intensivas;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Elaborar una gu\u00eda de buena pr\u00e1ctica para la prescripci\u00f3n y uso de antimicrobianos y otros productos veterinarios, en l\u00ednea con las referencias internacionales;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente.",
+            "5. Regulaci\u00f3n del uso de antimicrobianos en salud humana",
+            "la no aplicaci\u00f3n de las restricciones de venta bajo receta archivada en las farmacias",
+            "1. Retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s de la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente",
+            "El objetivo de la regulaci\u00f3n farmac\u00d8utica es garantizar la eficacia, seguridad y calidad de los productos farmac\u00d8uticos que utiliza la poblaci\u00f3n.",
+            "La regulaci\u00f3n del uso de antimicrobianos tiene impacto en los siguientes aspectos: ... antibi\u00f3ticos de uso sist\u00d8mico (oral u parenteral) a trav\u00d8s de la determinaci\u00f3n de la condici\u00f3n de dispensa al p\u0153blico como 'venta bajo receta archivada';",
+            "5.3. L\u00edneas estrat\u00e9gicas para la regulaci\u00f3n del uso de antimicrobianos en salud humana a) Implementaci\u00f3n de medidas que promuevan el uso adecuado de antimicrobianos seg\u00fan preceptos; - b) Capacitaci\u00f3n para el cumplimiento de las Resoluciones 3835/69 y 378/70 sobre la venta de antimicrobianos bajo receta archivada a trav\u00e9s de su verificaci\u00f3n en las inspecciones a las farmacias;",
+            "b) Sensibilizar y capacitar a los integrantes de la Red de ANMAT FEDERAL sobre la efectiva dispensa bajo receta archivada de los medicamentos antibi\u00f3ticos de uso sist\u00d8mico;",
+            "c) Establecer que toda comercializaci\u00f3n de antibi\u00f3ticos se realice a cargo de un profesional matriculado;",
+            "Por estos motivos se generaron hace tiempo los programas institucionales de salvaguarda de los antimicrobianos (conocidos en ingl\u00d8s como 'Antimicrobial Stewardship Programs'). Estos programas buscan mejorar la utilizaci\u00f3n de estos medicamentos en los hospitales a trav\u00d8s de tres acciones: a) optimizar los resultados cl\u00ednicos; b) reducir los efectos adversos, incluyendo la resistencia, y c) garantizar una terapia costo-efectiva.",
+            "b) Concientizar a la poblaci\u00f3n y a los profesionales m\u00e9dicos y farmac\u00e9uticos involucrados acerca de la exigencia de la venta bajo receta archivada de los antimicrobianos;",
+            "b) Intensificaci\u00f3n de los controles de comercializaci\u00f3n de formulaciones antimicrobianas;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos.",
+            "5. Regulaci\u00f3n del uso de antimicrobianos en salud humana\n6. Regulaci\u00f3n del uso de antimicrobianos en salud animal y producci\u00f3n agroalimentaria",
+            "1. Retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s de la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente",
+            "5. REGULACI\u00d3N DEL USO DE ANTIMICROBIANOS EN SALUD HUMANA - El objetivo de la regulaci\u00f3n farmac\u00d8utica es garantizar la eficacia, seguridad y calidad de los productos farmac\u00d8uticos que utiliza la poblaci\u00f3n.",
+            "La autoridad reguladora nacional es la Administraci\u00f3n Nacional de Medicamentos, Alimentos y Tecnolog\u00eda M\u00d8dica (ANMAT), y su \u00c6mbito de aplicaci\u00f3n es la importaci\u00f3n/exportaci\u00f3n y el tr\u00c6nsito federal de los medicamentos. Sin embargo, en la organizaci\u00f3n federal del pa\u00eds, las provincias conservan el poder de regulaci\u00f3n y fiscalizaci\u00f3n dentro de sus jurisdicciones. Esto motiv\u00f3 la necesidad de crear un espacio de coordinaci\u00f3n denominado ANMAT FEDERAL. El objetivo del Plan ANMAT FEDERAL es fortalecer las capacidades nacionales y provinciales de regulaci\u00f3n, fiscalizaci\u00f3n y vigilancia de los productos para la salud (medicamentos, alimentos y tecnolog\u00eda), a trav\u00d8s de la conformaci\u00f3n de una red con referentes en cada jurisdicci\u00f3n.",
+            "En relaci\u00f3n a la publicidad de los antimicrobianos, \u00d8sta se encuentra prohibida desde 1964 a partir del Art. 19 de la Ley Nacional de Medicamentos N' 16.463, que establece que 'Queda prohibido: (inciso d) Toda forma de anuncio al p\u0153blico de los productos cuyo expendio s\u00f3lo haya sido autorizado bajo receta'.",
+            "Generar instrumentos reguladores que faciliten las actividades de control, por ejemplo, ampliando a los antimicrobianos lo establecido por la Disposici\u00f3n 38/90 de la entonces Subsecretar\u00eda de Administraci\u00f3n de Servicios y Programas de Salud para los sicotr\u00f3picos y estupefacientes.",
+            "Desarrollo o actualizaci\u00f3n de regulaciones sobre el uso de antimicrobianos, destinadas a preservar la sensibilidad bacteriana como recurso no renovable;",
+            "Intensificaci\u00f3n de los controles de comercializaci\u00f3n de formulaciones antimicrobianas; Regulaci\u00f3n del uso de antimicrobianos en funci\u00f3n de la informaci\u00f3n que se obtenga del programa de vigilancia, y el correspondiente an\u00e1lisis de riesgos;",
+            "b) Elaboraci\u00f3n, implementaci\u00f3n y actualizaci\u00f3n de directrices de prevenci\u00f3n y control de infecciones, incluyendo el control de la resistencia a los antimicrobianos;",
+            "Desarrollar normativas para llevar adelante los programas de prevenci\u00f3n y control de infecciones entre el Ministerio de Agricultura, Ganader\u00eda y Pesca, el Ministerio de Salud, las universidades y los colegios profesionales;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Que la mencionada Estrategia apunta a retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s del fortalecimiento de la vigilancia cl\u00ednica, microbiol\u00f3gica y farmac\u00d8utica, la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente.",
+            "5. Regulaci\u00f3n del uso de antimicrobianos en salud humana",
+            "1. Retrasar o impedir la emergencia y diseminaci\u00f3n de bacterias resistentes a trav\u00d8s de la regulaci\u00f3n y fiscalizaci\u00f3n de la comercializaci\u00f3n de antimicrobianos, de la promoci\u00f3n del consumo racional y prudente",
+            "5. REGULACI\u00d3N DEL USO DE ANTIMICROBIANOS EN SALUD HUMANA",
+            "La regulaci\u00f3n del uso de antimicrobianos tiene impacto en los siguientes aspectos: - Eficacia e indicaciones terap\u00d8uticas debidamente demostradas; - Restricciones apropiadas aplicando criterios cient\u00edficos de seguridad al acceso libre a los productos... antibi\u00f3ticos de uso sist\u00d8mico (oral u parenteral) a trav\u00d8s de la determinaci\u00f3n de la condici\u00f3n de dispensa al p\u0153blico como 'venta bajo receta archivada';",
+            "En relaci\u00f3n a la publicidad de los antimicrobianos, \u00d8sta se encuentra prohibida desde 1964 a partir del Art. 19 de la Ley Nacional de Medicamentos N' 16.463, que establece que 'Queda prohibido: (inciso d) Toda forma de anuncio al p\u0153blico de los productos cuyo expendio s\u00f3lo haya sido autorizado bajo receta'. 5.3. L\u00edneas estrat\u00d8gicas para la regulaci\u00f3n del uso de antimicrobianos en salud humana a) Implementaci\u00f3n de medidas que promuevan el uso adecuado de antimicrobianos seg\u0153n preceptos",
+            "Generar instrumentos reguladores que faciliten las actividades de control, por ejemplo, ampliando a los antimicrobianos lo establecido por la Disposici\u00f3n 38/90 de la entonces Subsecretar\u00eda de Administraci\u00f3n de Servicios y Programas de Salud para los sicotr\u00f3picos y estupefacientes (Leyes 17.818 y 19.303), por la cual se exige que la venta que realicen los Laboratorios a las Droguer\u00edas y \u00d8stas a las Farmacias, debe ser facturada (con factura y remito) en forma separada de cualquier otro medicamento, consignando los n\u0153meros de partida y de serie de fabricaci\u00f3n;",
+            "Desarrollo o actualizaci\u00f3n de regulaciones sobre el uso de antimicrobianos, destinadas a preservar la sensibilidad bacteriana como recurso no renovable; y Fortalecer los controles de venta indiscriminada y uso de antibi\u00f3ticos; Establecer que toda comercializaci\u00f3n de antibi\u00f3ticos se realice a cargo de un profesional matriculado;",
+            "Por estos motivos se generaron hace tiempo los programas institucionales de salvaguarda de los antimicrobianos (conocidos en ingl\u00d8s como 'Antimicrobial Stewardship Programs'). Estos programas buscan mejorar la utilizaci\u00f3n de estos medicamentos en los hospitales a trav\u00d8s de tres acciones: a) optimizar los resultados cl\u00ednicos; b) reducir los efectos adversos, incluyendo la resistencia, y c) garantizar una terapia costo-efectiva.",
+            "b) Concientizar a la poblaci\u00f3n y a los profesionales m\u00e9dicos y farmac\u00e9uticos involucrados acerca de la exigencia de la venta bajo receta archivada de los antimicrobianos;",
+            "b) Intensificaci\u00f3n de los controles de comercializaci\u00f3n de formulaciones antimicrobianas;",
+            "b) Elaboraci\u00f3n, implementaci\u00f3n y actualizaci\u00f3n de directrices de prevenci\u00f3n y control de infecciones, incluyendo el control de la resistencia a los antimicrobianos;",
+            "Desarrollar normativas para llevar adelante los programas de prevenci\u00f3n y control de infecciones entre el Ministerio de Agricultura, Ganader\u00eda y Pesca, el Ministerio de Salud, las universidades y los colegios profesionales;"
+        ]
+    },
+    {
+        "country": "argentina",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "3. Promover la innovaci\u00f3n en antimicrobianos, promotores del crecimiento no-antibi\u00f3ticos y pruebas diagn\u00f3sticas para la identificaci\u00f3n y la caracterizaci\u00f3n de bacterias resistentes."
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "answer_full": "2015",
+        "supporting_text": null,
+        "country": "norway",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "norway",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific goals for human health, such as reducing antibiotic use in the total inhabitants by 30 percent.",
+        "country": "norway",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines goals for food-producing animals, including reducing antibiotic use in terrestrial animals by at least 10 percent.",
+        "country": "norway",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes goals for mapping antibiotic resistant bacteria in representative environments and studying the effects of other drivers of resistance.",
+        "country": "norway",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions related to antibiotic use in food-producing animals and household pets.",
+        "country": "norway",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP states that the interdepartmental working group will follow up implementation and review the status at mid-point and towards the end of the strategy period.",
+        "country": "norway",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific targets, such as reducing antibiotic prescriptions for respiratory infections by 20 percent compared to 2012.",
+        "country": "norway",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document states that the description of measures is limited to those that can be implemented within applicable budget frameworks.",
+        "country": "norway",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the continuation of an interdepartmental working group to follow up on the implementation of the strategy.",
+        "country": "norway",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for improved understanding and competence regarding the use of antibiotics among prescribers and the general population.",
+        "country": "norway",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans for mass media campaigns to educate the public about antibiotic resistance.",
+        "country": "norway",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP states the importance of international cooperation and mentions working with WHO, FAO, and OIE.",
+        "country": "norway",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for mapping antibiotic resistant bacteria and improving monitoring systems.",
+        "country": "norway",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for improved monitoring and analysis of incidences of resistant bacteria.",
+        "country": "norway",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes improved infection control measures as a focus area.",
+        "country": "norway",
+        "question": 14
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specifically mention adherence to OIE or FAO/WHO standards.",
+        "country": "norway",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the need for improved prescribing practices and monitoring of antibiotic prescriptions.",
+        "country": "norway",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for updated therapeutic recommendations and norms to maintain good prescribing practices.",
+        "country": "norway",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of responsible use of antibiotics and adherence to technical guidelines.",
+        "country": "norway",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP states that Norway will participate actively in international research collaborations for new antibiotics and diagnostic methods.",
+        "country": "norway",
+        "question": 19
+    }
+]
