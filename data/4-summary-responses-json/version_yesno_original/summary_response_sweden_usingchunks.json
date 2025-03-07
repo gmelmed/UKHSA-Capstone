@@ -1,0 +1,243 @@
+[
+    {
+        "country": "sweden",
+        "question": "period_start",
+        "answer": 2020
+    },
+    {
+        "country": "sweden",
+        "question": "period_end",
+        "answer": 2023
+    },
+    {
+        "country": "sweden",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The overarching objective of the Swedish Strategy to Combat Antibiotic Resistance is to preserve the possibility of effective treatment of bacterial infections in humans and animals.",
+            "the overarching goal continuing to be to preserve the possibility of effective treatment of bacterial infections in humans and animals.",
+            "effective measures are taken to prevent infections and infection transmission and to minimise the spread of multi-resistant bacteria",
+            "The Government expects a high level of compliance with vaccination, monitoring and health programmes to be maintained to promote human and animal health and consequently reduce the need for antibiotics.",
+            "The Government expects - antibiotics to continue only to be used after being prescribed by professionals who are authorised to prescribe antibiotics",
+            "## Objective 4: Increased knowledge for preventing and managing bacterial infections and antibiotic resistance with new methods",
+            "The Government expects existing diagnostics and treatments to be developed and optimised in line with the needs and priorities of healthcare organisations.",
+            "The Government expects staff in health and social care, dentistry and the animal and food sector to have good knowledge of the issue of resistance, antibiotics and antimicrobial agents, infection prevention and control practices and the One Health concept.",
+            "Strama, a national working group within the Swedish national system for knowledge management in healthcare, to support national efforts of the entities responsible for healthcare and to coordinate the regional Strama groups in working towards prudent and responsible use of antibiotics",
+            "regional health authorities, healthcare providers and management of relevant organizations to create the necessary conditions for responsible use of antibiotics and reduced spread of infection",
+            "Effective infection prevention and control programmes such as good healthcare hygiene and other preventive measures, reduce the spread of infectious diseases in society and in health and social care.",
+            "The Public Health Agency of Sweden is tasked with working to ensure that the possibility of using antibiotics effectively in humans and animals is maintained."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "In the food chain, antibiotic resistance is a threat to animal health and animal welfare, to food safety, trade and economic development. Excessive use of antibiotics in animal production increases the risk of spread of resistant bacteria.",
+            "The overarching objective of the Swedish Strategy to Combat Antibiotic Resistance is to preserve the possibility of effective treatment of bacterial infections in humans and animals.",
+            "the ability to systematically monitor the long-term trends regarding infections in humans and animals, the resistance situation and sale and use of antibiotics to be maintained, coordinated and developed",
+            "The Government expects - \u00b7 relevant actors in animal production, veterinary medicine and the food chain to have access to expertise on hygiene and infection prevention and control in order to ensure good animal health and safe food",
+            "it is important that antibiotics and other antimicrobial agents are used only when they are of benefit, that the right type of antibiotic is used and that treatment recommendations are developed, kept up to date and followed. To reduce the growth of resistance, antibiotics must also be used responsibly in animal husbandry.",
+            "data to be available regarding reasons for prescribing of medicines in veterinary medicine in order to enable checking or supervision of compliance with treatment recommendations.",
+            "staff in health and social care, dentistry and the animal and food sector to have good knowledge of the issue of resistance, antibiotics and antimicrobial agents, infection prevention and control practices and the One Health concept",
+            "For the animal sector there are groupings with similar objectives such as Strama VL (Veterinary and Food) and the Swedish Veterinary Association for Infection Prevention and Control.",
+            "OIE has prepared a strategy to support Member Countries on AMR related efforts and responsible use of antimicrobial agents in animal production.",
+            "Healthy animals are an overarching goal in Swedish animal production. Strategies based on improving animal",
+            "Sweden to press for the expansion, development and use of harmonised global surveillance systems for antibiotic resistance and antibiotic use in humans and animals and, where appropriate, also for foods and the environment.",
+            "Sweden to support a global phase-out of the use of antibiotics as growth promoters in animal production and of other routine use of antibiotics in groups of animals",
+            "A corresponding approach with vaccination programmes, infection prevention and control programmes and rules for hygiene procedures is used to keep animals healthy in Sweden.",
+            "The Public Health Agency of Sweden is tasked with working to ensure that the possibility of using antibiotics effectively in humans and animals is maintained. The National Veterinary Institute likewise has a remit to take action to ensure responsible use of antibiotics in the veterinary and food sector through Strama VL.",
+            "The Swedish Board of Agriculture has developed regulations on the use of antibiotics in animals."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "In addition, emissions of antimicrobial substances to the environment can lead to the development and spread of antibiotic resistance and can have an adverse impact on ecosystems.",
+            "Swedish efforts should continue to be based on a broad, crosssectoral One Health perspective, involving multiple areas such as human and animal health, the environment, research, education, trade and international development cooperation.",
+            "access to data on antibiotic resistance and the sale and use of antibiotics and other antimicrobial agents in all sectors, as well as data on healthcare-associated infections and the emission of antibiotics to the environment is improved",
+            "emissions of antibiotics and antimicrobial substances to the environment are minimised.",
+            "The emission of antibiotics and other antimicrobial agents to the environment can contribute to increased resistance. Advanced treatment of waste water is one way of reducing the dispersal of antibiotics, resistant bacteria and other antimicrobial agents to the environment. Minimising emissions from the manufacturing of antibiotics and other antimicrobial agents can also contribute to reduced dispersal to the environment.",
+            "antibiotics that are not used to be returned to pharmacies and disposed of in an environmentally correct manner. Responsible manufacturing and use of antibiotics and other antimicrobial agents, as well as correct waste management, reduce the risk of antibiotic resistance developing and spreading in the environment.",
+            "the Knowledge Centre for Pharmaceuticals in the Environment at the Medical Products Agency to collate and disseminate knowledge on the development and spread of antibiotic resistance in the environment, as well as the risks to the environment and to human and animal health.",
+            "Knowledge of the role of the environment in the development and spread of antibiotic resistance and what effects can occur in the environment is also increasing. To prevent emissions of antibiotic residues to the environment, there is a need for emissions from manufacturing to be minimised, for people throughout the world to have access to clean water and sanitation and for discarded antibiotics to be collected and managed in an environmentally sound way.",
+            "Sweden to push for environmental data to form part of the basis for the approval process of antibiotics and be made available to governmental agencies and other relevant stakeholders. The data should be used for the assessment of environmental risks of development and spread of antibiotic resistance.",
+            "Many different measures are required to deal with emissions of antibiotics to the environment. In addition to work in progress to promote responsible use of antibiotics, the Government in 2018 launched a three-year programme to install advanced wastewater treatment. The aim is to reduce emissions of pharmaceutical residues, including antibiotics, from wastewater treatment plants."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Antibiotics are also important to cure diseases in animals and to ensure food security.",
+            "In the food chain, antibiotic resistance is a threat to animal health and animal welfare, to food safety, trade and economic development. Excessive use of antibiotics in animal production increases the risk of spread of resistant bacteria.",
+            "Bacteria that are resistant to antibiotics pose an increasing threat to health and food production across the world.",
+            "The Government expects relevant actors in animal production, veterinary medicine and the food chain to have access to expertise on hygiene and infection prevention and control in order to ensure good animal health and safe food.",
+            "it is therefore important that antibiotics and other antimicrobial agents are used only when they are of benefit, that the right type of antibiotic is used and that treatment recommendations are developed, kept up to date and followed. To reduce the growth of resistance, antibiotics must also be used responsibly in animal husbandry.",
+            "consumers to be aware that food from producers who work to achieve good animal health and use antibiotics only when they are really needed contributes to counteracting the spread of resistant bacteria in society",
+            "For the animal sector there are groupings with similar objectives such as Strama VL (Veterinary and Food) and the Swedish Veterinary Association for Infection Prevention and Control.",
+            "FAO has developed its own action plan to support the food and agriculture sectors in particular in implementing the global action plan.",
+            "Agriculture is relatively more important in low-income countries than in high-income countries. Adverse effects of antibiotic resistance in food production therefore pose a threat to the goal of abolishing hunger and several other goals in the 2030 Agenda for Sustainable Development.",
+            "Sweden to support WHO, FAO, OIE and UNEP in efforts to tackle AMR, in accordance with the global action plan on AMR and equivalent documents in the agriculture and food sectors",
+            "Sweden to support a global phase-out of the use of antibiotics as growth promoters in animal production and of other routine use of antibiotics in groups of animals",
+            "Sweden also has a programme for surveillance of antibiotic resistance in bacteria from animals and in food.",
+            "The Public Health Agency of Sweden is tasked with working to ensure that the possibility of using antibiotics effectively in humans and animals is maintained. The National Veterinary Institute likewise has a remit to take action to ensure responsible use of antibiotics in the veterinary and food sector through Strama VL.",
+            "As a result of close cooperation between government agencies and the livestock industry, Sweden became the first country in the world to prohibit the use of antibiotics for growth-promoting purposes in 1986. Sweden also contributed strongly to the introduction of a corresponding ban in the EU in 2006. Today there is broad consensus among Swedish animal health organisations, animal health professionals and animal keepers on responsible use of antibiotics. In addition, the Swedish Board of Agriculture has developed regulations on the use of antibiotics in animals."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The results from surveillance of resistance and antibiotic use in humans and animals are presented annually in a joint report by the Swedish National Veterinary Institute and the Public Health Agency of Sweden."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "An example is the national '250 target' in primary care (fewer than 250 antibiotic prescriptions issued per 1,000 inhabitants per year), which was introduced in 2009."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 7,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "sweden",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The Government expects a national collaborative function with relevant government agencies and other stakeholders to coordinate overarching national efforts.",
+            "A national collaborative function currently comprising 25 government agencies and other organisations coordinates national efforts against antibiotic resistance since 2012."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "antibiotic resistance, infection prevention and control and healthcare hygiene to be included in relevant basic education and professional training."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objective 5: Improved awareness and understanding in society of antibiotic resistance and countermeasures",
+            "It is beneficial that many parties in Sweden are working to disseminate knowledge about antibiotic resistance and preventive measures through their channels and networks.",
+            "A high level of awareness of the problem of antibiotic resistance among relevant professions and industries, managements of healthcare organisations, the general public and decision makers is an important element in efforts towards responsible use of antibiotics.",
+            "the collaborative function hosts the sector-wide communication platform 'Save Antibiotics', and an annual Antibiotics Forum, in which a broad group of stakeholders meet."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objective 7: Leadership within the EU and international cooperation",
+            "Sweden should continue to pursue the issue of antibiotic resistance at the international and EU levels.",
+            "Swedish efforts to combat antibiotic resistance at the national, EU and international levels need to be long-term and sustainable and be based on effective initiatives in all relevant areas. Sweden should continue to show leadership in international efforts, in line with the Swedish Policy for Global Development, global commitments made under the 2030 Agenda for Sustainable Development and EU activities. The strategy is based on ongoing Swedish efforts to combat antibiotic resistance, on the global action plan on antimicrobial resistance adopted by the WHO, the FAO action plan, the OIE strategy and on other relevant plans and strategies such as the EU Action Plan against Antimicrobial Resistance.",
+            "It is based on developments in several areas, in particular internationally with increased engagement within the UN system.",
+            "These challenges cannot be solved by individual nations; they require coordinated international cooperation spanning multiple sectors, also including low-income countries and their particular circumstances. The EU is an important platform in international research cooperation for Sweden.",
+            "This objective signifies that Sweden continues to show international leadership in efforts to tackle antimicrobial resistance and urges responsible use of antimicrobial agents around the world. Antibiotic resistance and other antimicrobial resistance (AMR) is a global problem that requires all countries to contribute to its solution. Large international organisations such as WHO, FAO, OIE and UNEP are platforms for these efforts.",
+            "Sweden should contribute to other countries' efforts on reducing the development of resistance and curbing spread.",
+            "The Government expects Sweden to continue to support WHO, FAO, OIE and UNEP in efforts to tackle AMR, in accordance with the global action plan on AMR and equivalent documents in the agriculture and food sectors.",
+            "Sweden to continue to build alliances with other countries to pursue the AMR issue at a high political level with the aim of highlighting important overarching issues from a One Health perspective; Sweden to take part in Nordic cooperation on AMR",
+            "The Public Health Agency of Sweden supports the expansion of the Global Antimicrobial Resistance Surveillance System through its WHO Collaborating Centre.",
+            "Sweden was also one of the initiators of the international research cooperation Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) that was launched in 2010. Ever since, Sweden has played a leading role in this cooperation, in part through the secretariat being located at the Swedish Research Council. Sweden is also a member of the Global AMR R&D Hub, a collaboration platform for research policy issues in the area of resistance."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objective 1: Increased knowledge through enhanced surveillance\n\nThis objective signifies that\n\n- \u00b7   access to data on antibiotic resistance and the sale and use of antibiotics and other antimicrobial agents in all sectors, as well as data on healthcare-associated infections and the emission of antibiotics to the environment is improved\n- \u00b7   the outcome and cost-effectiveness of various measures is evaluated, using continuous data collection.",
+            "Sweden to employ effective systems for early detection, collation, analysis and reporting of antibiotic resistance and healthcare-associated infections",
+            "Sweden to press for the expansion, development and use of harmonised global surveillance systems for antibiotic resistance and antibiotic use in humans and animals and, where appropriate, also for foods and the environment.",
+            "Surveillance is essential in order to draw up and evaluate relevant measures against antibiotic resistance and is the basis for recommendations on the treatment of infectious diseases. Diagnostics with routine taking of samples forms the basis of surveillance in the Swedish healthcare system. This, combined with automated, daily collation of laboratory results, produces clinically relevant resistance data."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Sweden to employ effective systems for early detection, collation, analysis and reporting of antibiotic resistance and healthcare-associated infections"
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "effective measures are taken to prevent infections and infection transmission and to minimise the spread of multi-resistant bacteria",
+            "The Government expects personnel in relevant organisations to have and apply knowledge of antibiotic resistance, infection transmission and the importance of a high level of compliance with basic hygiene practices as part of systematic and evidence-based infection prevention efforts.",
+            "reducing the spread of infectious diseases and consequently the need for antibiotics relies on acute awareness of the importance of good hygiene and preventive measures.",
+            "To prevent emissions of antibiotic residues to the environment, there is a need for emissions from manufacturing to be minimised, for people throughout the world to have access to clean water and sanitation and for discarded antibiotics to be collected and managed in an environmentally sound way.",
+            "Effective infection prevention and control programmes such as good healthcare hygiene and other preventive measures, reduce the spread of infectious diseases in society and in health and social care."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The strategy is based on ongoing Swedish efforts to combat antibiotic resistance, on the global action plan on antimicrobial resistance adopted by the WHO, the FAO action plan, the OIE strategy and on other relevant plans and strategies such as the EU Action Plan against Antimicrobial Resistance.",
+            "Sweden to continue to support WHO, FAO, OIE and UNEP in efforts to tackle AMR, in accordance with the global action plan on AMR and equivalent documents in the agriculture and food sectors"
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The Government expects antibiotics to continue only to be used after being prescribed by professionals who are authorised to prescribe antibiotics.",
+            "Evidence-based national treatment recommendations provide important support to physicians and veterinarians as well as a reference point to follow up prescription. Prescribing targets that are developed in consideration of current treatment recommendations and the possibility of follow-up can be a useful tool in efforts to combat antibiotic resistance.",
+            "Effectively regulated sale of antibiotics both for veterinary and human use fosters responsible use of antibiotics."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Sweden to push for the development of regulations to steer towards minimised emissions of antibiotics to the environment in pharmaceutical production",
+            "the Swedish Board of Agriculture has developed regulations on the use of antibiotics in animals."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "public procurement to be used as a strategic tool to attain the goals of the strategy, for example by setting requirements for animal welfare, responsible use of antibiotics and reduced environmental impact of antibiotics.",
+            "The Government expects antibiotics to continue only to be used after being prescribed by professionals who are authorised to prescribe antibiotics.",
+            "In Sweden, where antibiotics are available on prescription only, prescribers have a heavy responsibility for responsible use.",
+            "regional health authorities, healthcare providers and management of relevant organizations to create the necessary conditions for responsible use of antibiotics and reduced spread of infection",
+            "Sweden to urge effective cooperation on responsible use of antibiotics in animal production under EU free trade agreements to counteract antibiotic resistance",
+            "The interdisciplinary organization Strama has promoted responsible use of antibiotics since it was formed in 1995. The Strama model is based on peer-to-peer feedback to prescribers, in particular how their prescribing relates to established treatment recommendations and set targets.",
+            "Effectively regulated sale of antibiotics both for veterinary and human use fosters responsible use of antibiotics."
+        ]
+    },
+    {
+        "country": "sweden",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Sweden to take part in international research cooperation in the field of antibiotic resistance and related areas",
+            "In 2017 the European Commission adopted a crosssectoral action plan with the objectives that the EU should become a best practise region in activities to tackle AMR, to boost research, development and innovation and further shape the global agenda in the context of AMR.",
+            "The importance of international cooperation and coordination in the area of research is highlighted under Objective 4 in the present strategy.",
+            "Sweden was also one of the initiators of the international research cooperation Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) that was launched in 2010."
+        ]
+    }
+]

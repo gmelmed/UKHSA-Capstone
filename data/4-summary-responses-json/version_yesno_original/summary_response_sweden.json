@@ -1,0 +1,128 @@
+[
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "sweden",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "sweden",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including infection prevention and control measures.",
+        "country": "sweden",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines measures for responsible use of antibiotics in animal husbandry and veterinary care.",
+        "country": "sweden",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the minimization of emissions of antibiotics and antimicrobial substances to the environment.",
+        "country": "sweden",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of antibiotic resistance in food production and its impact on food security.",
+        "country": "sweden",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes provisions for annual reports on the results from surveillance of resistance and antibiotic use.",
+        "country": "sweden",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific targets such as the national '250 target' for antibiotic prescriptions.",
+        "country": "sweden",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any budget allocations for the strategies.",
+        "country": "sweden",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions a national collaborative function comprising 25 government agencies and other organizations.",
+        "country": "sweden",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the expectation that antibiotic resistance and infection prevention will be included in relevant basic education and professional training.",
+        "country": "sweden",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for coordinated communication initiatives to raise public awareness about antibiotic resistance.",
+        "country": "sweden",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP states that Sweden will support WHO, FAO, and OIE in efforts to tackle AMR.",
+        "country": "sweden",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for improved data collection and surveillance systems for antibiotic resistance.",
+        "country": "sweden",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of early detection and reporting of antibiotic resistance.",
+        "country": "sweden",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives focused on infection prevention and control measures in healthcare and veterinary settings.",
+        "country": "sweden",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and practices to minimize and contain antimicrobial resistance.",
+        "country": "sweden",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the importance of responsible prescribing and regulation of antibiotics.",
+        "country": "sweden",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for a strong legislative framework to support responsible antibiotic use.",
+        "country": "sweden",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics.",
+        "country": "sweden",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP highlights Sweden's participation in international research cooperation on antibiotic resistance.",
+        "country": "sweden",
+        "question": 19
+    }
+]
