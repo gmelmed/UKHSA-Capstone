@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "peru",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "peru",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Plan Nacional para enfrentar la resistencia a los antimicrobianos en el per\u00edodo 2017 - 2021 es un documento basado en el enfoque de 'Una Salud' con la finalidad de articular e integrar una respuesta multisectorial a la amenaza que representa el incremento del uso inadecuado de los antimicrobianos.",
+        "country": "peru",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona acciones espec\u00edficas en el sector de salud humana, incluyendo la mejora de la concienciaci\u00f3n y la comprensi\u00f3n sobre la resistencia a los antimicrobianos.",
+        "country": "peru",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye estrategias espec\u00edficas para la salud animal, como la vigilancia y el control de la resistencia antimicrobiana en animales.",
+        "country": "peru",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP aborda la vigilancia de la resistencia antimicrobiana en el medio ambiente, incluyendo la evaluaci\u00f3n de la presencia de antimicrobianos en aguas residuales.",
+        "country": "peru",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona acciones espec\u00edficas para la agricultura y la seguridad alimentaria, incluyendo la vigilancia de residuos de antimicrobianos en productos agr\u00edcolas.",
+        "country": "peru",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye un Plan de Seguimiento y Evaluaci\u00f3n que establece mecanismos para monitorear el progreso de las acciones implementadas.",
+        "country": "peru",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP establece objetivos estrat\u00e9gicos con plazos espec\u00edficos para su cumplimiento entre 2017 y 2021.",
+        "country": "peru",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "El NAP no menciona objetivos cuantitativos espec\u00edficos para la prevalencia de la resistencia antimicrobiana o el uso de antimicrobianos.",
+        "country": "peru",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye un Plan Operacional y Presupuestal que detalla la asignaci\u00f3n de recursos para las acciones propuestas.",
+        "country": "peru",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye un an\u00e1lisis de los requerimientos presupuestarios para las actividades propuestas.",
+        "country": "peru",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP establece un grupo nacional de coordinaci\u00f3n multisectorial para abordar la resistencia antimicrobiana.",
+        "country": "peru",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de establecer regulaciones y normativas para el uso de antimicrobianos.",
+        "country": "peru",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye acciones para sensibilizar y capacitar a los profesionales de la salud sobre la resistencia a los antimicrobianos.",
+        "country": "peru",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la importancia de campa\u00f1as de comunicaci\u00f3n para aumentar la conciencia p\u00fablica sobre la resistencia a los antimicrobianos.",
+        "country": "peru",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la colaboraci\u00f3n internacional y el apoyo a iniciativas de AMR en coordinaci\u00f3n con organizaciones como la OMS y la FAO.",
+        "country": "peru",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye acciones para establecer sistemas de vigilancia y herramientas de recolecci\u00f3n de datos para el monitoreo de la resistencia antimicrobiana.",
+        "country": "peru",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de desarrollar capacidades para detectar y reportar resistencias emergentes.",
+        "country": "peru",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye medidas de prevenci\u00f3n y control de infecciones asociadas a la atenci\u00f3n en salud.",
+        "country": "peru",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la implementaci\u00f3n de est\u00e1ndares internacionales para el control de la resistencia antimicrobiana.",
+        "country": "peru",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye acciones para regular la distribuci\u00f3n y prescripci\u00f3n de antimicrobianos.",
+        "country": "peru",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de promover el uso racional de antimicrobianos a trav\u00e9s de regulaciones.",
+        "country": "peru",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la importancia de la investigaci\u00f3n colaborativa internacional para el desarrollo de nuevas herramientas y medicamentos.",
+        "country": "peru",
+        "question": 22
+    }
+]

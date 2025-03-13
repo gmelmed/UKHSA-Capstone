@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "chile",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "chile",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes a One Health approach, stating that it allows for the development of strategies not only from the health sector but also from other sectors related to antimicrobial use and its ecological consequences.",
+        "country": "chile",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions aimed at preventing infections associated with health care and controlling antimicrobial resistance in human health.",
+        "country": "chile",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to prevent and control infections in animals, including those in production and companion animals.",
+        "country": "chile",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the environmental impact of antimicrobial resistance and includes strategies for monitoring and controlling environmental contamination.",
+        "country": "chile",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions aimed at regulating the use of antimicrobials in agriculture and promoting responsible practices in food production.",
+        "country": "chile",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for annual or biannual operational plans that allow for continuous planning and evaluation of proposed activities.",
+        "country": "chile",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific objectives and timelines for the implementation of its strategies.",
+        "country": "chile",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives related to monitoring and reducing the prevalence of antimicrobial resistance and the use of antimicrobials.",
+        "country": "chile",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify budget allocations for the strategies or actions outlined.",
+        "country": "chile",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not include an assessment of future budget requirements for the activities.",
+        "country": "chile",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of a multisectoral committee to coordinate actions against antimicrobial resistance.",
+        "country": "chile",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen regulatory frameworks for the use of antimicrobials.",
+        "country": "chile",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP promotes the incorporation of AMR topics into educational curricula and training programs for health professionals.",
+        "country": "chile",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines plans for public awareness campaigns to inform the community about the responsible use of antimicrobials.",
+        "country": "chile",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP acknowledges collaboration with international organizations such as WHO, FAO, and OIE in combating AMR.",
+        "country": "chile",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives for developing integrated surveillance systems for AMR across various sectors.",
+        "country": "chile",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need to strengthen capacities for detecting and reporting new resistance patterns.",
+        "country": "chile",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for preventing infections through improved sanitation and hygiene measures.",
+        "country": "chile",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP refers to the implementation of international standards and guidelines for AMR control.",
+        "country": "chile",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to regulate the distribution and prescription of antibiotics.",
+        "country": "chile",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics.",
+        "country": "chile",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP promotes participation in international research collaborations to develop new solutions for AMR.",
+        "country": "chile",
+        "question": 22
+    }
+]
