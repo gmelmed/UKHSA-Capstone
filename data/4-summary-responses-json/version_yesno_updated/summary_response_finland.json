@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "finland",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "finland",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The control of antimicrobial resistance calls for extensive operations comprising society as a whole, taking both humans, animals, plants, foodstuffs, and the environment into consideration in line with the One Health approach.",
+        "country": "finland",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including preparing national recommendations for infection prevention at hospitals and long-term care facilities.",
+        "country": "finland",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to enhancing the surveillance of resistance related to animal pathogens and producing targeted information on the resistance situation to veterinarians and animal owners.",
+        "country": "finland",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the environmental impacts of antimicrobial substances and the need for monitoring and controlling their release into the environment.",
+        "country": "finland",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the use of antimicrobials in food production and includes actions to monitor and control antimicrobial use in agriculture.",
+        "country": "finland",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a model for the follow-up of the implementation of the actions and mentions the annual task of assessing the implementation of the programme.",
+        "country": "finland",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets objectives and records actions to achieve the objectives, indicating a structured approach to tracking progress.",
+        "country": "finland",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "finland",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not mention specific budget allocations for the strategies or actions.",
+        "country": "finland",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not provide an assessment of future budget requirements.",
+        "country": "finland",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the consolidation of operations of the national expert group (MTKA) for AMR coordination.",
+        "country": "finland",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aims to enhance legislative development on antimicrobials, veterinary medicines, and medicated feeds at the EU and national level.",
+        "country": "finland",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to enhance training of professionals and education of the general public regarding antimicrobial resistance.",
+        "country": "finland",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP proposes to increase public education on the significance of tourism in the spreading of antimicrobial resistance.",
+        "country": "finland",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of international cooperation and commitment to the prevention of AMR across all sectors.",
+        "country": "finland",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to develop real-time notification and reporting systems for antimicrobial resistance.",
+        "country": "finland",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP highlights the need for rapid identification of extremely resistant antimicrobial bacteria to launch control measures.",
+        "country": "finland",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to prepare national recommendations for infection prevention at hospitals and long-term care facilities.",
+        "country": "finland",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aims to enhance administrative cooperation and ensure the inclusion of combat against AMR in the legislation of the appropriate administrative sectors.",
+        "country": "finland",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to prepare a national antimicrobial manual for outpatient healthcare covering choices, dosage, and duration of treatment.",
+        "country": "finland",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the prudent use of antimicrobials and includes actions to promote rational use in both human and veterinary medicine.",
+        "country": "finland",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP proposes applied R&D projects focusing on AMR diagnostics and infectious disease diagnostics.",
+        "country": "finland",
+        "question": 22
+    }
+]

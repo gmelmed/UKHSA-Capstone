@@ -1,0 +1,298 @@
+[
+    {
+        "country": "norway",
+        "question": "period_start",
+        "answer": 2015
+    },
+    {
+        "country": "norway",
+        "question": "period_end",
+        "answer": 2020
+    },
+    {
+        "country": "norway",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The strong connections between human, animal, and fish health and the environment call for a crossdisciplinary approach. This strategy therefore aims to examine in a holistic way the use of antibiotics and other drivers of resistance, the development and spread of resistance among humans, animals, in food and in the natural environment.",
+            "The Government intends to accomplish this through better scientific understanding and by increasing the understanding among both prescribers and the general public about antibiotics and their use.",
+            "A considerable effort is needed to generate a better and more comprehensive understanding of the extent of antibiotic resistance in humans, food, animals and in the environment.",
+            "This reaffirms that the problem of antibiotic resistance must be addressed through strong cooperation between the various sectors.",
+            "ensure that guidelines for the use of antibiotics are up-to-date, and that information campaigns lead to compliance with the recommendations, in conjunction with relevant professional bodies within the human and animal health sectors.",
+            "The government will: - help to develop better diagnostic methods for infectious diseases and alternative treatment strategies in the areas of both human and animal health, through participation in international research collaborations.",
+            "The WHO is the key normative body in the field of human health, and is the natural authority in the fight against antibiotic resistance, in close collaboration with the UN's Food and Agriculture Organization (FAO) and the World Organization for Animal Health (OIE).",
+            "The objective is to expand today's systems by standardizing, improving and extending the monitoring of both antibiotic use and antibiotic resistance to encompass humans, animals, food and the external environment.",
+            "Combating antibiotic resistance requires the efforts of many sectors. The four government ministries behind this strategy have sectoral responsibility for their respective goals and underlying agencies.",
+            "There is broad international agreement that antibiotic resistance represents a danger to both human and animal health.",
+            "In May 2015 the World Health Organization adopted a global action plan against antibiotic resistance in close cooperation with the World Organization for Animal Health (OIE) and the Food and Agriculture Organization (FAO).",
+            "Studies of Norwegian fish farming have been undertaken to examine the development of antibiotic resistance in both pathogenic bacteria and in environmental sediments."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Improve the level of understanding and competence regarding the use of antibiotics, among the general population as well as among prescribers",
+            "Treat and eradicate infections caused by resistant bacteria",
+            "1. Antibiotic use in the total inhabitants will be reduced by 30 percent, measured in DDD 6 /1000 inhabitants/day, as compared with 2012.",
+            "The government will: - \u00b7 carry out mapping of antibiotic resistant bacteria in humans, in food, in relevant animal populations and in sentinel environments.",
+            "The government will: - \u00b7 assure that studies are carried out on the burden of disease resulting from antibiotic resistance and associated economic costs.",
+            "The government will: - carry out county by county infection control conferences for municipality physicians and other health personnel within the municipality health and care services, with particular attention to technical guidelines for prescription of antibiotics.",
+            "The government will: - introduce a requirement to include a diagnostic code on all antibiotic prescriptions for people.",
+            "General protection against the spread of infection is an important part of the preventive health effort, and is firmly embedded in the Norwegian legislative and regulatory framework.",
+            "The government will: - \u00b7 help to develop better diagnostic methods for infectious diseases and alternative treatment strategies in the areas of both human and animal health, through participation in international research collaborations.",
+            "The government will: - \u00b7 assess the expedience of screening for other selected microbial resistance properties, in addition to methicillin-resistant Staphylococcus aureus (MRSA), in connection with admission to healthcare institutions.",
+            "So far, the focus has been on the human side, but a broader 'one health' perspective is currently under consideration.",
+            "On the human side, much of the infrastructure needed to monitor antibiotic use and antibiotic resistance, as well as hospital infections, is already in place.",
+            "Around 85 per cent of all antibiotics intended for use in humans are prescribed by general practitioners, while 7-10 per cent is prescribed in hospitals and the remainder in other healthcare institutions, like nursing homes.",
+            "Monitoring in Norway shows that the problem of resistance is increasing, even though the situation is better than in many other countries. With some infections, such as tuberculosis and gonorrhea, antibiotic resistance is already a major problem."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Medicines and animal health",
+            "Mapping of resevoirs of antibiotic resistant bacteria will be carried out in the most relevant animal populations and plants important to food safety.",
+            "The government will: - \u00b7 carry out mapping of antibiotic resistant bacteria in humans, in food, in relevant animal populations and in sentinel environments.",
+            "The Government will: - \u00b7 in coordination with the business community, start the process to phase out the use of narasin as a food additive for poultry, as long as this does not have a negative effect on animal health and well-being or lead to greater use of antibiotics for treatment.",
+            "The veterinary medicine register (VetReg), which was established in 2011, will be developed so that animal health personnel can see their colleagues' prescribing practices, similar to what is planned for doctors.",
+            "The government will ensure that guidelines for the use of antibiotics are up-to-date, and that information campaigns lead to compliance with the recommendations, in conjunction with relevant professional bodies within the human and animal health sectors.",
+            "In the area of animal health, we need an overarching emergency response to control not only diseases caused by resistant bacteria in Norway, but also diseases which may be brought into the country from abroad.",
+            "The government will: - \u00b7 help to develop better diagnostic methods for infectious diseases and alternative treatment strategies in the areas of both human and animal health, through participation in international research collaborations.",
+            "work to ensure that LA-MRSA does not establish itself in the Norwegian pig populations.",
+            "The government will: - \u00b7 work to strengthen the normative role of the WHO, FAO and OIE in the field of antibiotic resistance, and support the implementation by the organizations and their member states of the measures stipulated in the global action plan, initially in the area of monitoring and surveillance.",
+            "On the veterinary side, too, much of the infrastructure for monitoring antibiotic use and antibiotic resistance is already in place. The field is regulated through legislation, statutory regulations, guidelines and therapy recommendations.",
+            "Consumption of antibiotics by Norwegian livestock is among the lowest in Europe. In the period 1995-2013 consumption by terrestrial animals decreased by 35 per cent. For food-producing animals alone, the reduction came to 38 per cent.",
+            "Intensified monitoring and effective infection prevention measures, including limited use of antibiotics, is crucial to prevent the spread of such bacteria.",
+            "The industry has implemented a number of measures to reduce the incidence of resistant bacteria in Norwegian poultry flocks.",
+            "The development and use of effective vaccines has been, and still is, the most important strategy to avoid the need for antibiotics in fish farming."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "To understand how nature can spread resistance to various environments, it will be important to map the presence of resistance in the bacterial population in soil, fresh water, the ocean, sediments, wild and domestic animals.",
+            "Mapping of antibiotic resistant bacteria will be carried out in representative environments and selected organisms in animals, water and soil with varying degrees of exposure to antibiotics.",
+            "We need better scientific understanding concerning the degree of antibiotic resistance to be found in various environments. Such mapping needs to be carried out on a regular basis in order to follow development and spread, and is essential for assessing the impact of measures to limit its development.",
+            "The Government will: - \u00b7  initiate studies to explore the effects of resistancepromotors other than antibiotics, including disinfectants, biocides and heavy metals, in the natural environment.",
+            "implement measures to cleanse environments of concentrations of resistant bacteria, if new knowledge and cost/benefit evaluations indicate this would be expedient.",
+            "The objective is to expand today's systems by standardizing, improving and extending the monitoring of both antibiotic use and antibiotic resistance to encompass humans, animals, food and the external environment.",
+            "Environment (E): The role of the environment as a driver for the selection for and spread of AMR.",
+            "In 2014 Gen\u00d8k launched a research project aimed at identifying the presence of the antibiotic resistant gene nptll in variously exposed soil samples from cultivated fields.",
+            "Data indicate that the aquaculture industry contributes to the spread and maintenance of antibiotic resistance in the marine environment.",
+            "Bacteria populations in nature (soil, water, sediments) can be exposed to other microbes and/or DNA from the manmade environment. Such exposure creates opportunities for the exchange of genetic material."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Mapping of resevoirs of antibiotic resistant bacteria will be carried out in the most relevant animal populations and plants important to food safety. The use of antibiotics in terrestrial animals used for food production will be reduced by at least 10 percent compared with 2013.",
+            "The government will: - \u00b7 carry out mapping of antibiotic resistant bacteria in humans, in food, in relevant animal populations and in sentinel environments. - \u00b7 assess whether new infection control measures are warranted in the overall food chain, including in the risk assessment carried out by the Scientific Committee for Food Safety (VKM).",
+            "assess whether new infection control measures are warranted in the overall food chain, including in the risk assessment carried out by the Scientific Committee for Food Safety (VKM).",
+            "Official authorities work through the Norwegian Food Safety Authority (Mattilsynet) to assure good and appropriate prescription practices among veterinarians and aqua medicine biologists who work in fish farming.",
+            "In addition, efforts should be made to introduce an international ban on the use of antibiotics to enhance growth in food production.",
+            "The Norwegian Food Safety Authority (NFSA) has overall responsibility for ensuring compliance with the regulations throughout the entire food production chain. Through the NFSA's monitoring and control programs (OK programs), antibiotic resistance in animals and food is surveyed.",
+            "Intensified monitoring and effective infection prevention measures, including limited use of antibiotics, is crucial to prevent the spread of such bacteria.",
+            "The industry has implemented a number of measures to reduce the incidence of resistant bacteria in Norwegian poultry flocks."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "ensure that selected Norwegian Foreign Service missions provide annual reports on the respective countries' efforts regarding antibiotic resistance.",
+            "The government will: - continue the interdepartmental working group that will follow up implementation of the strategy. - review the status at mid-point and towards the end of the strategy period."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The overarching goals for the period 2015-2020 include measurable and verifiable goals such as 'Reduce the total use of antibiotics' and 'More appropriate use of antibiotics.'",
+            "- 1. Antibiotic use in the total inhabitants will be reduced by 30 percent, measured in DDD 6 /1000 inhabitants/day, as compared with 2012.\n- 3. Prescription of antibiotics will be reduced from an average today of 450 prescriptions per 1000 inhabitants per year to 250 prescriptions per 1000 inhabitants per year.\n- 4. Prescription of antibiotics for respiratory infections will be reduced by 20 percent, measured in DDD/1000 inhabitants/day, compared to 2012.\n- 4. The use of antibiotics in terrestrial animals used for food production will be reduced by at least 10 percent compared with 2013.\n- 5. The use of antibiotics in household pets will be reduced by at least 30 percent compared with 2013."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The overarching goals for the period 2015-2020 include 'Reduce the total use of antibiotics' and 'More appropriate use of antibiotics,' which are measurable and verifiable.",
+            "1. Antibiotic use in the total inhabitants will be reduced by 30 percent, measured in DDD 6 /1000 inhabitants/day, as compared with 2012."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 9,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "norway",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "norway",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The government will: continue the interdepartmental working group that will follow up implementation of the strategy."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The government will: - \u00b7  assess whether to expand the Prescription Register, establish a national microbiological data base, and develop a better suited set of regulations, thereby assuring better real-time access to data.",
+            "The government will: - work for a ban on veterinarians being able to profit financially from the sale of antibiotics, in an EU context and otherwise where such a ban would be expedient.",
+            "Efforts to prevent and limit antibiotic resistance are regulated by means of legislation, statutory regulations and guidelines."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 13,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "norway",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The Government intends to accomplish this through better scientific understanding and by increasing the understanding among both prescribers and the general public about antibiotics and their use.",
+            "Mass media campaigns to educate the public about antibiotic resistance have been carried out in Belgium and France with positive results.",
+            "ensure that guidelines for the use of antibiotics are up-to-date, and that information campaigns lead to compliance with the recommendations, in conjunction with relevant professional bodies within the human and animal health sectors.",
+            "In order for countries to build a robust, shared understanding of the problem, a communications effort is required that does not presume prior medical knowledge.",
+            "assess the need to initiate, in collaboration with other agencies, a time-limited international communications campaign to promote understanding of the challenges associated with antibiotic resistance and, through this, create a shared international understanding of the issue beyond the human and animal health, food and agriculture sectors.",
+            "The plan has five strategic goals: 1) increase awareness and understanding of antibiotic resistance"
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The fight against antibiotic resistance calls for international cooperation.",
+            "Strengthen normative international collaboration",
+            "This strategy is consistent with the Global Action Plan against antibiotic resistance that was approved at the World Health Assembly in May 2015 and a resolution from FAO in June 2015.",
+            "The government will: - \u00b7 help to develop better diagnostic methods for infectious diseases and alternative treatment strategies in the areas of both human and animal health, through participation in international research collaborations.",
+            "## 2.6. Strengthen normative international collaboration\n\nAntibiotic resistance is not a challenge that can be resolved nationally. Resistant bacteria from other parts of the world may also find their way to Norway. A long-lasting and effective international response is a prerequisite for sustainable results in Norway.",
+            "The government will: - \u00b7  work to strengthen the normative role of the WHO, FAO and OIE in the field of antibiotic resistance, and support the implementation by the organizations and their member states of the measures stipulated in the global action plan, initially in the area of monitoring and surveillance.",
+            "The government will: - assess the need to initiate, in collaboration with other agencies, a time-limited international communications campaign to promote understanding of the challenges associated with antibiotic resistance and, through this, create a shared international understanding of the issue beyond the human and animal health, food and agriculture sectors.",
+            "Sweden leads the Council-initiated Joint Programming Initiative on Antimicrobial Resistance (JPI-AMR), in which Norway participates along with 18 European countries and Canada.",
+            "ensure that Norwegian competence with respect to sustainability and responsible aquaculture is made available to developing countries, including expertise on vaccine development.",
+            "In May 2015 the World Health Organization adopted a global action plan against antibiotic resistance in close cooperation with the World Organization for Animal Health (OIE) and the Food and Agriculture Organization (FAO)."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Mapping of antibiotic resistant bacteria will be carried out in representative environments and selected organisms in animals, water and soil with varying degrees of exposure to antibiotics.",
+            "The government will: - \u00b7  carry out mapping of antibiotic resistant bacteria in humans, in food, in relevant animal populations and in sentinel environments. - \u00b7  assess whether to expand the Prescription Register, establish a national microbiological data base, and develop a better suited set of regulations, thereby assuring better real-time access to data. - \u00b7  assess the establishment of a project to set up a national microbiological data base, with the purpose of continuous monitoring of instances of antibiotic resistance and the occurrence of microbes that often lead to inappropriate use of antibiotics.",
+            "To assure good monitoring of prescriptions, good prescription registers are an important tool. These registers currently provide good oversight concerning the use of various antibiotics with respect to age, sex and geographic location. However, they do not include information concerning diagnoses, so it is not currently possible to determine which antibiotics are used against various infections in humans.",
+            "The government will investigate the creation of a system for feedback to GPs and animal health personnel with regard to the use of antibiotics in their own practices, including the offer of peer assessment of antibiotic prescribing practices.",
+            "improve the monitoring and analysis of incidences of resistant bacteria, both in clinical isolates (from infections), capacity of the healthy portion of the population to act as carriers and, in particular, incidences of infection associated with the health services.",
+            "work to strengthen the normative role of the WHO, FAO and OIE in the field of antibiotic resistance, and support the implementation by the organizations and their member states of the measures stipulated in the global action plan, initially in the area of monitoring and surveillance.",
+            "The objective is to expand today's systems by standardizing, improving and extending the monitoring of both antibiotic use and antibiotic resistance to encompass humans, animals, food and the external environment.",
+            "Surveillance (C): Standardization and extension of surveillance systems to establish a global surveillance program on antibiotic resistance and antibiotic use.",
+            "The FHI operates the Norwegian Surveillance System for Communicable Diseases (MSIS). This health register is intended to help monitor infectious diseases in people in Norway through the continuous and systematic collection, analysis, interpretation and reporting of information on incidences of communicable diseases.",
+            "The Norwegian Surveillance Program for Antibiotic Resistance in Microbes from feed, animals and nutrients (NORM-VET), which was set up in 2000 and is coordinated by the Veterinary Institute.",
+            "The plan has five strategic goals: 1) increase awareness and understanding of antibiotic resistance, 2) increase knowledge through monitoring and research, 3) reduce incidences of infection, 4) optimize use of antimicrobial agents, and 5) secure sustainable investments in the work to combat antibiotic resistance.",
+            "In Norway, the first cases of LA-MRSA (livestock-associated methicillin-resistant Staphylococcus aureus) were identified in pigs in 2013. To obtain an overview of how widespread the bacterium is in Norwegian pig farms, the NFSA carries out a survey of breeding sow populations numbering more than 10 pigs (around 1,000 herds)."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The government will: improve the monitoring and analysis of incidences of resistant bacteria, both in clinical isolates (from infections), capacity of the healthy portion of the population to act as carriers and, in particular, incidences of infection associated with the health services.",
+            "The FHI operates the Norwegian Surveillance System for Communicable Diseases (MSIS). This health register is intended to help monitor infectious diseases in people in Norway through the continuous and systematic collection, analysis, interpretation and reporting of information on incidences of communicable diseases. The duty to report applies to around 60 diseases, several of which are associated with antibiotic resistance."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Infection prevention and control measures ....................15",
+            "we must improve our efforts at improving hygiene in hospitals, nursing homes and in society",
+            "The government will: ... assess whether new infection control measures are warranted in the overall food chain, including in the risk assessment carried out by the Scientific Committee for Food Safety (VKM).",
+            "assess the need for changing recommendations concerning kitchen hygiene and risk communications on food handling in the context of emergence of resistant bacteria.",
+            "Official regulations concerning infection prevention in health and support services include requirements that institutions' infection control programs shall include written guidelines on the use of antibiotics.",
+            "## 2.4. Improved infection control",
+            "General protection against the spread of infection is an important part of the preventive health effort, and is firmly embedded in the Norwegian legislative and regulatory framework. The regulations relating to the control of infectious diseases stipulate that all institutions included in the municipal health and social care service, as well as the specialist health service, shall have an infection control program.",
+            "The government will: - \u00b7 implement measures to cleanse environments of concentrations of resistant bacteria, if new knowledge and cost/benefit evaluations indicate this would be expedient.",
+            "strive to integrate the issue of antibiotic resistance into initiatives relating to disease monitoring and infection prevention to which Norway contributes.",
+            "Interventions (F): Designing and testing interventions to prevent acquisition, transmission and infection caused by AMR.",
+            "This helps to ensure that necessary infection prevention and control measures are implemented.",
+            "The plan has five strategic goals: 1) increase awareness and understanding of antibiotic resistance, 2) increase knowledge through monitoring and research, 3) reduce incidences of infection, 4) optimize use of antimicrobial agents, and 5) secure sustainable investments in the work to combat antibiotic resistance.",
+            "Intensified monitoring and effective infection prevention measures, including limited use of antibiotics, is crucial to prevent the spread of such bacteria.",
+            "Other important factors include breeding for increased resistance to disease, better operating routines to produce more robust stocks, stricter standards for water circulation at fish farms and improved hygiene for infection prevention and control.",
+            "According to the NFSA and the public health authorities, good hand and kitchen hygiene will protect us against antibiotic resistant bacteria."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This strategy is consistent with the Global Action Plan against antibiotic resistance that was approved at the World Health Assembly in May 2015 and a resolution from FAO in June 2015.",
+            "The government will: - work to strengthen the normative role of the WHO, FAO and OIE in the field of antibiotic resistance, and support the implementation by the organizations and their member states of the measures stipulated in the global action plan, initially in the area of monitoring and surveillance.",
+            "In May 2015 the World Health Organization adopted a global action plan against antibiotic resistance in close cooperation with the World Organization for Animal Health (OIE) and the Food and Agriculture Organization (FAO). This will now be implemented. The global action plan stipulates, among other things, that each country should draw up national strategies for efforts in this field."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The government will: - \u00b7  assess whether to expand the Prescription Register, establish a national microbiological data base, and develop a better suited set of regulations, thereby assuring better real-time access to data.",
+            "Official regulations concerning infection prevention in health and support services include requirements that institutions' infection control programs shall include written guidelines on the use of antibiotics.",
+            "The government will: - \u00b7 introduce a requirement to include a diagnostic code on all antibiotic prescriptions for people."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The main goal of this strategy is to reduce the total use of antibiotics and to assure responsible use of antibiotics in all sectors.",
+            "ii) that antibiotics are only used when they are needed",
+            "Prescribing doctors, dentists and veterinarians are responsible for appropriate clinical diagnosis and for assessing whether treatment with antibiotics is necessary and prudent. Prescribers must take responsibility for explaining to their patients and customers why and when antibiotics should not be used.",
+            "Official regulations concerning infection prevention in health and support services include requirements that institutions' infection control programs shall include written guidelines on the use of antibiotics.",
+            "Responsible use should follow technical guidelines for the use of antibiotics. The focus on responsible use must be expanded to maintain current good practices in Norway.",
+            "The government will introduce a requirement to include a diagnostic code on all antibiotic prescriptions for people.",
+            "The government will: - work for a ban on veterinarians being able to profit financially from the sale of antibiotics, in an EU context and otherwise where such a ban would be expedient.",
+            "Efforts to prevent and limit antibiotic resistance are regulated by means of legislation, statutory regulations and guidelines."
+        ]
+    },
+    {
+        "country": "norway",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The fight against antibiotic resistance calls for international cooperation. We must see to it that new antibiotics and diagnostics are developed.",
+            "Contribute internationally to the development of vaccines, new antibiotics and diagnostic tools",
+            "4. Be a driver in international and normative work to improve access, responsible use, and development of new antibiotics, vaccines and better diagnostic tools.",
+            "The government will: - \u00b7 help to develop better diagnostic methods for infectious diseases and alternative treatment strategies in the areas of both human and animal health, through participation in international research collaborations.",
+            "the government will: ... work to promote an approach that combines enhanced access, more responsible use and the development of new antibiotics and diagnostic methods.",
+            "The government will: - participate actively in the international debate about incentive schemes for the development of new antibiotics, while supporting efforts to develop vaccines.",
+            "consider increasing contributions to research that can lead to new or better antibiotics and diagnostic methods, including through the JPI-AMR."
+        ]
+    }
+]

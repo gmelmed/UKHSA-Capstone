@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "canada",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2027",
+        "supporting_text": null,
+        "country": "canada",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The action plan establishes FPT commitments on AMR over the next 5 years (2023 to 2027). Ten priority actions will guide Canada's multi-sectoral and multi-jurisdictional efforts across 5 pillars: research and innovation; surveillance; stewardship; infection prevention and control (IPC); and leadership.",
+        "country": "canada",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "In human health, AMU is trending downward overall with a more than 25% decrease in both community and healthcare sectors from 2017 to 2021.",
+        "country": "canada",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Antimicrobials are essential to keep animals healthy and to help maintain a safe and secure food supply.",
+        "country": "canada",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Action related to AMR and the environment is an increasing area of priority.",
+        "country": "canada",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The agriculture sector will be a critical partner in helping balance the need to preserve the effectiveness of antimicrobials for human and animal health with the need for safe and affordable food products.",
+        "country": "canada",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Regular public reporting on progress will help partners adjust interventions over time and ensure best practices are shared with domestic and international stakeholders.",
+        "country": "canada",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Collaboration with partners is required to understand what data gaps need to be addressed to ensure baselines and other metrics can be adapted to different sectors and be used to inform actions.",
+        "country": "canada",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Establish baselines and targets for national, provincial and territorial levels of AMR and appropriate AMU in human health.",
+        "country": "canada",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any budget allocation for the strategies or actions.",
+        "country": "canada",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "canada",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The PHAC AMR Task Force will work closely with the FPT AMR Steering Committee, First Nations, Inuit and M\u00e9tis partners, and other partners across sectors to develop an effective network of networks approach.",
+        "country": "canada",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Health Canada introduced multiple regulatory and policy changes to strengthen the oversight and responsible use of MIAs in animals.",
+        "country": "canada",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Professional education, training and ongoing development in the human health and veterinary sectors and in agriculture and agri-food practices should consistently include AMR and AMU.",
+        "country": "canada",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Foster understanding of the risks of AMR and the importance of appropriate use of antimicrobials in humans and animals amongst the public, patients and producers through awareness/education campaigns.",
+        "country": "canada",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Canada will continue to play a leadership role in key international fora such as the Global AMR Research and Development Hub.",
+        "country": "canada",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Surveillance is closely linked to other pillars such as, research and innovation, stewardship, and IPC, as it supports and informs actions, reveals trends and gaps, and helps measure the effect of interventions.",
+        "country": "canada",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The modernization of surveillance infrastructure is integral to a coordinated response to AMR.",
+        "country": "canada",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategies that can help prevent the transmission of antimicrobial-resistant pathogens include addressing information gaps, updating and promoting uptake of infection prevention guidelines.",
+        "country": "canada",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Canada has strong technical knowledge and experience with integrated AMR/AMU surveillance systems and research.",
+        "country": "canada",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Health Canada introduced multiple regulatory and policy changes to strengthen the oversight and responsible use of MIAs in animals.",
+        "country": "canada",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The development and dissemination of guidelines and other appropriate stewardship tools and standards will allow stakeholders to integrate stewardship programs into their daily operations.",
+        "country": "canada",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Canada must continue to strengthen its multidisciplinary research and innovation on AMR to support mitigation efforts and help secure access to antimicrobials and other health-related products.",
+        "country": "canada",
+        "question": 22
+    }
+]
