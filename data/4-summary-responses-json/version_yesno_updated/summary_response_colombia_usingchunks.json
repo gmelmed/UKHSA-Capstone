@@ -1,0 +1,395 @@
+[
+    {
+        "country": "colombia",
+        "question": "period_start",
+        "answer": 2018
+    },
+    {
+        "country": "colombia",
+        "question": "period_end",
+        "answer": 2019
+    },
+    {
+        "country": "colombia",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el presente documento responde a los elementos estrat\u00e9gicos definidos en el mismo, para atender a los riesgos derivados de la resistencia a los antimicrobianos, en la salud humana y animal, el control fitosanitario, y su impacto al medio ambiente.",
+            "Es en este marco, que el Ministerio de Salud y Protecci\u00f3n Social (MSPS) se adhiere a la iniciativa, y da inicio al dise\u00f1o del Plan Nacional de Respuesta a la Resistencia a Antimicrobianos, a trav\u00e9s de un proceso participativo, en el cual se involucran diferentes sectores y actores, relacionados tanto con la salud humana como la salud animal, el control fitosanitario y el ambiente.",
+            "4. Optimizar el uso de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Esta situaci\u00f3n pone en evidencia la necesidad de desarrollar procesos y acciones intersectoriales de forma articulada, de tal manera que las iniciativas sectoriales (salud humana, salud animal, medio ambiente y agricultura) se integren en un plan nacional.",
+            "Este evento encendi\u00f3 las alarmas, no s\u00f3lo en el sector salud sino tambi\u00e9n en el agropecuario, esto dada la importancia del antimicrobiano, pero tambi\u00e9n, al considerarse como fuente probable de esta resistencia, el intenso uso de colistina en la crianza de animales para uso alimentario.",
+            "En lo que respecta al sector agropecuario, las normas vigentes que incluyen aspectos regulatorios sobre los antimicrobianos y su uso son: Resoluci\u00f3n 1326 de 1981, 'Por la cual se adoptan disposiciones para la utilizaci\u00f3n y comercializaci\u00f3n de productos antimicrobianos de uso veterinario'. Esta norma, actualmente en revisi\u00f3n, reza en su considerando: 'Que es necesario reglamentar el uso de los productos antimicrobianos utilizados en los animales dom\u00e9sticos'.",
+            "Esto demuestra la relaci\u00f3n de localizaci\u00f3n, serotipos, los patrones electrofor\u00e9ticos (PFGE, siglas en ingl\u00e9s de Pulsedfield Gel Electrophoresis) y los perfiles de resistencia antimicrobiana, resultados que apoyan la necesidad de realizar la integraci\u00f3n de los diferentes sectores y actores hacia la contenci\u00f3n de la resistencia antimicrobiana.",
+            "El Ministerio de Salud y Protecci\u00f3n Social se dio a la tarea de movilizar diferentes sectores relacionados que pudiesen dar soporte a las acciones necesarias. [...] el INS dio a conocer informaci\u00f3n disponible de la resistencia antimicrobiana a nivel institucional [...] para su integraci\u00f3n con la vigilancia en la cadena agroalimentaria y vigilancia de la IAAS.",
+            "se hace necesario tener en cuenta que el plano de las acciones operativas que reflejar\u00e1n los resultados agregados de la Naci\u00f3n, se hacen realidad en los territorios. Por lo tanto, uno de los elementos que fundamentan la construcci\u00f3n del presente Plan Nacional de Respuesta a la Resistencia a Antimicrobianos, tiene que ver con el enfoque intersectorial que debe ser tenido en cuenta para orientar de manera exitosa las estrategias que apunten a la intervenci\u00f3n de la g\u00e9nesis del problema (usos de antimicrobianos en la producci\u00f3n agropecuaria y la salud humana).",
+            "La conformaci\u00f3n de esta mesa y su funcionamiento, estar\u00e1 determinada a trav\u00e9s de un reglamento interno, que se alinear\u00e1 con los mecanismos de funcionamiento de la Comisi\u00f3n Intersectorial de Salud P\u00fablica, en el cual se definir\u00e1n aspectos como: Miembros permanentes, Invitados, Periodicidad de las sesiones, Coordinaci\u00f3n de la mesa.",
+            "la Submesa de Uso Racional de Medicamentos tiene como prop\u00f3sito promover el uso \u00f3ptimo de los medicamentos y otros productos antimicrobianos a los diferentes sectores, incluyendo la salud humana y la cadena agropecuaria.",
+            "Finalmente, se adelantan acciones para involucrar al sector agropecuario en el trabajo por el uso \u00f3ptimo de los antimicrobianos, particularmente en lo que se refiere a su empleo en la promoci\u00f3n del crecimiento de animales y el control fitosanitario.",
+            "L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Identificar y propiciar la creaci\u00f3n de alianzas estrat\u00e9gicas con actores del sector (salud humana, salud animal y control fitosanitario) y extra-sectoriales",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana, animal y el control fitosanitario.",
+            "Adecuar e incluir dentro de los programas de formaci\u00f3n y capacitaci\u00f3n de t\u00e9cnicos y profesionales de salud humana y ciencias agropecuarias, temas relacionados con la prevenci\u00f3n de infecciones, uso racional de antimicrobianos y control de infecciones.",
+            "Conformar un grupo t\u00e9cnico multisectorial responsable de la articulaci\u00f3n de la vigilancia de la resistencia que incluya la vigilancia sanitaria, epidemiol\u00f3gica y por laboratorio.",
+            "relacionadas con RAM  (salud humana, salud  animal,  el control  fitosanitario y ambiente)",
+            "Desarrollar estrategias educativas para fomentar la prevenci\u00f3n y control de infecciones en los diferentes actores del sector salud y agropecuario",
+            "L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "mecanismos para garantizar el acceso a productos antimicrobianos de calidad, para la salud humana, la salud animal y el control producci\u00f3n agropecuaria.",
+            "Generar estrategias de articulaci\u00f3n con los actores relacionados (p\u00fablicos y privados), que promuevan la calidad de los antimicrobianos para la salud humana, animal y",
+            "4. Promover la correcta dispensaci\u00f3n de antimicrobianos de uso agropecuario por parte de los establecimientos de comercio de insumos agropecuarios.",
+            "Fortalecer las directrices terap\u00e9uticas para normalizar el uso de agentes antimicrobianos en seres humanos, animales y vegetales",
+            "Definir estrategias para la conservaci\u00f3n del espectro de acci\u00f3n los nuevos agentes antimicrobianos de uso humano, animal y en el control",
+            "El desarrollo de los planes operativos se realizar\u00e1: - \uf0b7 Por cada sector responsable - o Salud - o Agricultura - o Medio ambiente",
+            "la resistencia antimicrobiana, como se ha mencionado es un problema de salud p\u00fablica complejo, por lo anterior, tambi\u00e9n se beneficia del desarrollo de acciones y estrategias intersectoriales y articuladas."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "4. Optimizar el uso de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "En Colombia se ha identificado la relevancia de la resistencia a los antimicrobianos.",
+            "Desde 1997, el Grupo de Microbiolog\u00eda del INS, implement\u00f3 un sistema de vigilancia basado en el laboratorio para el programa de enfermedad diarreica aguda (EDA), con el fin de determinar la circulaci\u00f3n de serotipos y resistencia a los antimicrobianos de agentes bacterianos como Salmonella spp., Shigella spp y Vibrio cholerae.",
+            "El Ministerio de Salud y Protecci\u00f3n Social de Colombia ha propiciado, junto con las partes interesadas, el establecimiento de acuerdos y metodolog\u00edas para la aplicaci\u00f3n de vigilancia integrada de la resistencia a los antimicrobianos en el pa\u00eds y desde luego con el seguimiento a las recomendaciones de OMS.",
+            "A pesar de la expresa prohibici\u00f3n de la venta de medicamentos como los antimicrobianos sin la presentaci\u00f3n de la f\u00f3rmula m\u00e9dica, estos productos a\u00fan pueden ser adquiridos sin prescripci\u00f3n en el territorio nacional.",
+            "el Ministerio de Salud y Protecci\u00f3n Social ha desarrollado la propuesta de Pol\u00edtica de Prevenci\u00f3n, Vigilancia y Control de Infecciones Asociadas a la Atenci\u00f3n en Salud y Resistencia a los Antimicrobianos.",
+            "La Submesa de Prevenci\u00f3n y Control, liderada por la Subdirecci\u00f3n de Enfermedades Transmisibles de la Direcci\u00f3n de Promoci\u00f3n y Prevenci\u00f3n.",
+            "Por otra parte, esta mesa ha desarrollado vigilancia de la resistencia de los eventos de inter\u00e9s en salud p\u00fablica.",
+            "Los eventos de ETA, EDA, TB, VIH, infecci\u00f3n respiratoria aguda (IRA) y meningitis bacteriana, cuentan en la actualidad con protocolos de vigilancia en salud p\u00fablica, y de estos \u00fanicamente, en los eventos de ETA, EDA, Tuberculosis, Meningitis Bacteriana, VIH e IRA se realizan pruebas de sensibilidad.",
+            "se ha identificado la necesidad de revisar y ampliar estos protocolos, as\u00ed como actualizarlos a las necesidades del Plan Nacional de Respuesta a la Resistencia a los Antimicrobianos",
+            "En cuanto al uso \u00f3ptimo de los antibi\u00f3ticos a nivel hospitalario, la Subdirecci\u00f3n de Enfermedades Transmisibles de la Direcci\u00f3n de Promoci\u00f3n y Prevenci\u00f3n ya ha adelantado acciones en instituciones prestadoras de salud, para abordar de manera integral el manejo de las infecciones, incluyendo componentes de prevenci\u00f3n y control, junto con programas de uso adecuado de los antimicrobianos.",
+            "\uf0fc L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Nivel de reducci\u00f3n de la incidencia de infecciones prevenibles, en particular, la incidencia de infecciones resistentes a los antimicrobianos en la atenci\u00f3n en salud.",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana, animal y el control fitosanitario.",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana",
+            "Fortalecer los conceptos de prevenci\u00f3n y control de infecciones, y uso racional de antimicrobianos, como componentes b\u00e1sicos de la formaci\u00f3n t\u00e9cnica y profesional y herramientas para el ejercicio profesional, en el \u00e1mbito de la salud",
+            "Incluir en la agenda p\u00fablica de la Comisi\u00f3n Intersectorial de Vigilancia en Salud P\u00fablica, el fortalecimiento de la vigilancia integrada de los RAM.",
+            "Asegurar la cobertura nacional de los sistemas de vigilancia.",
+            "Contar con programa y directrices de prevenci\u00f3n y control de infecciones asociadas a la atenci\u00f3n en salud implementados en todos los niveles del sistema.",
+            "Dise\u00f1ar estrategias para promover las buenas pr\u00e1cticas cl\u00ednicas en el personal de salud frente al uso de medicamentos",
+            "L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Fortalecer la vigilancia del uso de antimicrobianos a nivel hospitalario.",
+            "Generar estrategias de articulaci\u00f3n con los actores relacionados (p\u00fablicos y privados), que promuevan la calidad de los antimicrobianos para la salud humana",
+            "Fortalecer las directrices terap\u00e9uticas para normalizar el uso de agentes antimicrobianos en seres humanos",
+            "Desarrollar programas de optimizaci\u00f3n del uso de los antimicrobianos en instituciones prestadoras de salud del pa\u00eds.",
+            "Definir estrategias para la conservaci\u00f3n del espectro de acci\u00f3n los nuevos agentes antimicrobianos de uso humano"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el presente documento responde a los elementos estrat\u00e9gicos definidos en el mismo, para atender a los riesgos derivados de la resistencia a los antimicrobianos, en la salud humana y animal",
+            "Es en este marco, que el Ministerio de Salud y Protecci\u00f3n Social (MSPS) se adhiere a la iniciativa, y da inicio al dise\u00f1o del Plan Nacional de Respuesta a la Resistencia a Antimicrobianos, a trav\u00e9s de un proceso participativo, en el cual se involucran diferentes sectores y actores, relacionados tanto con la salud humana como la salud animal, el control fitosanitario y el ambiente.",
+            "4. Optimizar el uso de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "la situaci\u00f3n se ha derivado principalmente de la resistencia cruzada determinada por el uso veterinario de la misma como factor de crecimiento en procesos intensivos de producci\u00f3n animal.",
+            "Resoluci\u00f3n 1326 de 1981 , 'Por  la  cual  se  adoptan  disposiciones  para  la  utilizaci\u00f3n  y comercializaci\u00f3n de productos antimicrobianos de uso veterinario'. Esta norma, actualmente en revisi\u00f3n,  reza  en  su  considerando:  'Que  es  necesario  reglamentar  el  uso  de  los  productos antimicrobianos utilizados en los animales dom\u00e9sticos'.",
+            "A la fecha no se cuenta con informaci\u00f3n consolidada sobre las cantidades de antimicrobianos utilizadas en el \u00e1mbito agropecuario. Sin embargo, son conocidos algunos aspectos cr\u00edticos que merecen atenci\u00f3n para promover el uso \u00f3ptimo de estos productos.",
+            "En cuanto a las ETA, se han realizado estudios en el pa\u00eds, en los que se evidencia que las bacterias transmitidas por los alimentos son resistentes a m\u00faltiples f\u00e1rmacos, siendo \u00e9stas aisladas en granjas y productos av\u00edcolas.",
+            "Finalmente, se adelantan acciones para involucrar al sector agropecuario en el trabajo por el uso \u00f3ptimo de los antimicrobianos, particularmente en lo que se refiere a su empleo en la promoci\u00f3n del crecimiento de animales y el control fitosanitario.",
+            "\uf0fc L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana, animal y el control fitosanitario.",
+            "Adecuar e incluir dentro de los programas de formaci\u00f3n y capacitaci\u00f3n de t\u00e9cnicos y profesionales de salud humana y ciencias agropecuarias, temas relacionados con la prevenci\u00f3n de infecciones, uso racional de antimicrobianos y control de infecciones.",
+            "relacionadas con RAM  (salud humana, salud  animal,  el control  fitosanitario y ambiente)",
+            "Monitorear la calidad e inocuidad de los productos antimicrobianos en la cadena de producci\u00f3n agropecuaria hasta el consumidor final.",
+            "Desarrollar estrategias educativas para fomentar la prevenci\u00f3n y control de infecciones en los diferentes actores del sector salud y agropecuario",
+            "Generar estrategias de articulaci\u00f3n con la industria pecuaria que promuevan los procesos de prevenci\u00f3n, control de infecciones",
+            "L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Establecer actividades de vigilancia y monitoreo del uso de productos antimicrobianos en la salud animal",
+            "que promuevan la calidad de los antimicrobianos para la salud humana, animal y",
+            "4. Promover la correcta dispensaci\u00f3n de antimicrobianos de uso agropecuario por parte de los establecimientos de comercio de insumos agropecuarios.",
+            "Fortalecer las directrices terap\u00e9uticas para normalizar el uso de agentes antimicrobianos en seres humanos, animales y vegetales",
+            "Dise\u00f1ar estrategias para promover el uso \u00f3ptimo de antimicrobianos en el sector agropecuario.",
+            "Definir estrategias para la conservaci\u00f3n del espectro de acci\u00f3n los nuevos agentes antimicrobianos de uso humano, animal y en el control"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el presente documento responde a los elementos estrat\u00e9gicos definidos en el mismo, para atender a los riesgos derivados de la resistencia a los antimicrobianos, en la salud humana y animal, el control fitosanitario, y su impacto al medio ambiente.",
+            "el control fitosanitario y el ambiente",
+            "se convoque de manera especial a los sectores de la salud, el medio ambiente y la agricultura",
+            "relacionadas con RAM  (salud humana, salud  animal,  el control  fitosanitario y ambiente)",
+            "Implementar la estrategia de  entornos saludables en todos los  niveles del sistema.",
+            "Fortalecer la normatividad frente al recurso h\u00eddrico y el saneamiento, para disminuir la incidencia de las infecciones.",
+            "Fortalecer e incentivar los programas y directrices de prevenci\u00f3n y control de enfermedades de contaminaci\u00f3n ambiental.",
+            "El desarrollo de los planes operativos se realizar\u00e1: - \uf0b7 Por cada sector responsable - o Salud - o Agricultura - o Medio ambiente"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "4. Optimizar el uso de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "la situaci\u00f3n se ha derivado principalmente de la resistencia cruzada determinada por el uso veterinario de la misma como factor de crecimiento en procesos intensivos de producci\u00f3n animal.",
+            "Este evento encendi\u00f3 las alarmas, no s\u00f3lo en el sector salud sino tambi\u00e9n en el agropecuario, esto dada la importancia del antimicrobiano, pero tambi\u00e9n, al considerarse como fuente probable de esta resistencia, el intenso uso de colistina en la crianza de animales para uso alimentario.",
+            "En lo que respecta al sector agropecuario, las normas vigentes que incluyen aspectos regulatorios sobre los antimicrobianos y su uso son: - \uf0b7 Resoluci\u00f3n 1326 de 1981 , 'Por la cual se adoptan disposiciones para la utilizaci\u00f3n y comercializaci\u00f3n de productos antimicrobianos de uso veterinario'. Esta norma, actualmente en revisi\u00f3n, reza en su considerando: 'Que es necesario reglamentar el uso de los productos antimicrobianos utilizados en los animales dom\u00e9sticos'.",
+            "Resoluci\u00f3n 1966 de 1984, 'Por la cual se reglamenta el uso de productos o sustancias antimicrobianas como promotores de crecimiento o mejoradores de la eficiencia alimenticia'.",
+            "En cuanto a las ETA, se han realizado estudios en el pa\u00eds, en los que se evidencia que las bacterias transmitidas por los alimentos son resistentes a m\u00faltiples f\u00e1rmacos, siendo \u00e9stas aisladas en granjas y productos av\u00edcolas.",
+            "el Ministerio de Salud y Protecci\u00f3n Social ha desarrollado la propuesta de Pol\u00edtica de Prevenci\u00f3n, Vigilancia y Control de Infecciones Asociadas a la Atenci\u00f3n en Salud y Resistencia a los Antimicrobianos. Tambi\u00e9n cuenta con el Modelo de la Vigilancia Integrada de la Resistencia en la Cadena Agroalimentaria.",
+            "se hace necesario tener en cuenta que el plano de las acciones operativas que reflejar\u00e1n los resultados agregados de la Naci\u00f3n, se hacen realidad en los territorios. Por lo tanto, uno de los elementos que fundamentan la construcci\u00f3n del presente Plan Nacional de Respuesta a la Resistencia a Antimicrobianos, tiene que ver con el enfoque intersectorial que debe ser tenido en cuenta para orientar de manera exitosa las estrategias que apunten a la intervenci\u00f3n de la g\u00e9nesis del problema (usos de antimicrobianos en la producci\u00f3n agropecuaria y la salud humana).",
+            "La Submesa del Sistema Integrado de Vigilancia encuentra conformada por las siguientes entidades: [...] Ministerio de Agricultura y Desarrollo Rural",
+            "Adicionalmente, esta submesa ha sido encargada por parte del Comit\u00e9 Nacional del Codex Alimentarius, presidido por el Ministerio de Comercio, Industria y Turismo, de lo correspondiente a la resistencia antimicrobiana para lo relacionado con la inocuidad de alimentos.",
+            "la Submesa de Uso Racional de Medicamentos tiene como prop\u00f3sito promover el uso \u00f3ptimo de los medicamentos y otros productos antimicrobianos a los diferentes sectores, incluyendo la salud humana y la cadena agropecuaria.",
+            "Finalmente, se adelantan acciones para involucrar al sector agropecuario en el trabajo por el uso \u00f3ptimo de los antimicrobianos, particularmente en lo que se refiere a su empleo en la promoci\u00f3n del crecimiento de animales y el control fitosanitario.",
+            "L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Adecuar e incluir dentro de los programas de formaci\u00f3n y capacitaci\u00f3n de t\u00e9cnicos y profesionales de salud humana y ciencias agropecuarias, temas relacionados con la prevenci\u00f3n de infecciones, uso racional de antimicrobianos y control de infecciones.",
+            "Monitorear la calidad e inocuidad de los productos antimicrobianos en la cadena de producci\u00f3n agropecuaria hasta el consumidor final.",
+            "Desarrollar estrategias educativas para fomentar la prevenci\u00f3n y control de infecciones en los diferentes actores del sector salud y agropecuario",
+            "Generar estrategias de articulaci\u00f3n con la industria pecuaria que promuevan los procesos de prevenci\u00f3n, control de infecciones",
+            "Establecer actividades de vigilancia y monitoreo del uso de productos antimicrobianos en la producci\u00f3n agropecuaria.",
+            "Promover la correcta dispensaci\u00f3n de antimicrobianos de uso agropecuario por parte de los establecimientos de comercio de insumos agropecuarios.",
+            "Gestionar alianzas estrat\u00e9gicas con actores del sector productivo para promover el cumplimiento de la regulaci\u00f3n del uso de los antimicrobianos en el sector agropecuario.",
+            "Dise\u00f1ar estrategias para promover el uso \u00f3ptimo de antimicrobianos en el sector agropecuario.",
+            "El desarrollo de los planes operativos se realizar\u00e1: - \uf0b7 Por cada sector responsable - o Salud - o Agricultura - o Medio ambiente",
+            "The Establishment of the Colombian Integrated Program for Antimicrobial Resistance Surveillance (COIPARS): A Pilot Project on Poultry Farms, Slaughterhouses and Retail Market."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "se encargar\u00e1n de las estrategias de financiamiento del mismo, junto con los procesos intr\u00ednsecos de monitoreo seguimiento y evaluaci\u00f3n, los cuales son parte fundamental de su implementaci\u00f3n.",
+            "el seguimiento a la implementaci\u00f3n de los planes operativos, deber\u00e1 realizarse de manera articulada, tanto a nivel territorial, como a nivel central, este \u00faltimo a trav\u00e9s de la Mesa de Gobernanza.",
+            "junto  con  el  Plan  de  seguimiento  y  supervisi\u00f3n."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Nivel de reducci\u00f3n en la incidencia de resistencia a los antimicrobianos, con base en datos recolectados a trav\u00e9s de programas de vigilancia integrada.",
+            "El plan operativo debe ser factible, realizable y medible. Por lo anterior, se recomienda la siguiente estructura: ... 1.1.1.9. Cronograma de ejecuci\u00f3n (Trimestral) ... 1.1.1.10. Indicador de seguimiento ... 1.1.1.11. Meta"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Nivel de reducci\u00f3n del consumo global de antimicrobianos en humanos y de reducci\u00f3n del volumen de uso de antimicrobianos en la producci\u00f3n de alimentos.",
+            "Nivel de reducci\u00f3n en la incidencia de resistencia a los antimicrobianos, con base en datos recolectados a trav\u00e9s de programas de vigilancia integrada."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1.1.1.8. Presupuesto"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Realizar una evaluaci\u00f3n de los recursos necesarios para la implementaci\u00f3n de las actividades propuestas en el plan, de acuerdo a las competencias de cada uno de",
+            "1.1.1.8. Presupuesto"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Es una iniciativa apoyada por la OMS/OPS y la FAO.",
+            "El Ministerio de Salud y Protecci\u00f3n Social se dio a la tarea de movilizar diferentes sectores relacionados que pudiesen dar soporte a las acciones necesarias.",
+            "se decidi\u00f3 constituci\u00f3n y formalizaci\u00f3n de una Mesa de Gobernanza",
+            "La conformaci\u00f3n de esta mesa y su funcionamiento, estar\u00e1 determinada a trav\u00e9s de un reglamento interno, que se alinear\u00e1 con los mecanismos de funcionamiento de la Comisi\u00f3n Intersectorial de Salud P\u00fablica.",
+            "Adicionalmente, esta submesa ha sido encargada por parte del Comit\u00e9 Nacional del Codex Alimentarius, presidido por el Ministerio de Comercio, Industria y Turismo, de lo correspondiente a la resistencia antimicrobiana para lo relacionado con la inocuidad de alimentos.",
+            "Este documento se someti\u00f3 a la valoraci\u00f3n y ajuste por parte de los diferentes sectores involucrados, particularmente con la participaci\u00f3n del Ministerio de Agricultura y Desarrollo Rural, INS, CORPOICA, ICA, INVIMA, OPS/OMS y este Ministerio.",
+            "Establecer un espacio intersectorial nacional para la coordinaci\u00f3n y la evaluaci\u00f3n del funcionamiento del sistema de vigilancia de la RAM",
+            "Conformar la mesa de gobernanza, a trav\u00e9s de una invitaci\u00f3n directa a los tomadores de decisi\u00f3n de los puntos focales del plan, y a los actores invitados priorizados",
+            "Compromiso transectorial\n- Establecimiento de una mesa de gobernanza",
+            "Es en este marco, la Mesa de Gobernanza se considera como el espacio que permitir\u00e1 convocar los sectores para plantear las sinergias, y a su vez, que \u00e9stas sean trasferidas y operativizadas en el nivel territorial de manera articulada."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En t\u00e9rminos reglamentarios, a nivel nacional existen normas que regulan la fabricaci\u00f3n y el expendio de antimicrobianos, as\u00ed como de otros medicamentos para uso humano.",
+            "A pesar de la expresa prohibici\u00f3n de la venta de medicamentos como los antimicrobianos sin la presentaci\u00f3n de la f\u00f3rmula m\u00e9dica, estos productos a\u00fan pueden ser adquiridos sin prescripci\u00f3n en el territorio nacional.",
+            "Resoluci\u00f3n 1966 de 1984, 'Por la cual se reglamenta el uso de productos o sustancias antimicrobianas como promotores de crecimiento o mejoradores de la eficiencia alimenticia'. El punto principal se refiere a la negaci\u00f3n del registro como promotor de crecimiento / mejorador de la eficiencia alimenticia de una sustancia antimicrobiana que ya se encuentre registrada como agente terap\u00e9utico en la misma especie animal.",
+            "Debilidades en la regulaci\u00f3n y fiscalizaci\u00f3n de la venta de antibi\u00f3ticos sin f\u00f3rmula m\u00e9dica.",
+            "la regulaci\u00f3n respecto a la venta de antibi\u00f3ticos en las droguer\u00edas se viene analizando con el fin de identificar las falencias en su implementaci\u00f3n junto con los posibles mecanismos para fortalecerla.",
+            "Fortalecer la normativa vigente sanitaria, y de inocuidad en producci\u00f3n animal",
+            "Fortalecer la normativa vigente sanitaria, y de inocuidad en producci\u00f3n animal",
+            "Fortalecer la normatividad del procesamiento y comercializaci\u00f3n de alimentos, dispositivos m\u00e9dicos, medicamentos y otros productos antimicrobianos",
+            "Realizar un diagn\u00f3stico del marco normativo correspondiente a la producci\u00f3n almacenamiento y distribuci\u00f3n de antimicrobianos para la salud humana y animal",
+            "Desarrollar o fortalecer legislaci\u00f3n y/o programas que propenden por la aplicaci\u00f3n de las buenas pr\u00e1cticas de manufactura en la producci\u00f3n de antimicrobianos de consumo",
+            "Definir estrategias de fiscalizaci\u00f3n de la dispensaci\u00f3n de antimicrobianos en farmacias y droguer\u00edas del pa\u00eds.",
+            "Gestionar alianzas estrat\u00e9gicas con actores del sector productivo para promover el cumplimiento de la regulaci\u00f3n del uso de los antimicrobianos en el sector agropecuario."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1. Mejorar el conocimiento de la resistencia a los antimicrobianos a trav\u00e9s de una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas, y la concienciaci\u00f3n al respecto.",
+            "L\u00ednea Estrat\u00e9gica 1: Comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas para la concienciaci\u00f3n y comprensi\u00f3n de la resistencia a los antimicrobianos.",
+            "L\u00ednea Estrat\u00e9gica 1: Comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas para la concienciaci\u00f3n y comprensi\u00f3n de la resistencia a los antimicrobianos.",
+            "Incluir en las actividades del entorno educativo (primaria y secundaria), acciones orientadas a brindar herramientas que promuevan el cuidado y el autocuidado para la prevenci\u00f3n de infecciones y uso adecuado de antimicrobianos.",
+            "Fortalecer los conceptos de prevenci\u00f3n y control de infecciones, y uso racional de antimicrobianos, como componentes b\u00e1sicos de la formaci\u00f3n t\u00e9cnica y profesional y herramientas para el ejercicio profesional, en el \u00e1mbito de la salud",
+            "Desarrollar estrategias educativas para fomentar la prevenci\u00f3n y control de infecciones en los diferentes actores del sector salud y agropecuario. Dise\u00f1ar e implementar estrategias de formaci\u00f3n continua para los trabajadores de la salud humana y animal, la producci\u00f3n pecuaria y agr\u00edcola, en los temas de prevenci\u00f3n y control de infecciones y contenci\u00f3n de la resistencia antimicrobiana."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1. Mejorar el conocimiento de la resistencia a los antimicrobianos a trav\u00e9s de una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas, y la concienciaci\u00f3n al respecto.",
+            "Adicionalmente y con apoyo de la Asociaci\u00f3n Colombiana de Infectolog\u00eda, llev\u00f3 a cabo la Propuesta de Estrategia de Uso Adecuado de Antimicrobianos en Comunidad.",
+            "La Direcci\u00f3n de Medicamentos y Tecnolog\u00edas en Salud cuenta con informaci\u00f3n acerca de las necesidades espec\u00edficas de informaci\u00f3n que existen en la comunidad y se han analizado potenciales estrategias de comunicaci\u00f3n.",
+            "L\u00ednea Estrat\u00e9gica 1: Comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas para la concienciaci\u00f3n y comprensi\u00f3n de la resistencia a los antimicrobianos.",
+            "L\u00ednea Estrat\u00e9gica 1: Comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n efectivas para la concienciaci\u00f3n y comprensi\u00f3n de la resistencia a los antimicrobianos.",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana, animal y el control fitosanitario.",
+            "Implementar las estrategias de comunicaci\u00f3n orientadas a sensibilizar a la poblaci\u00f3n general acerca de la problem\u00e1tica de la resistencia antimicrobiana y los riesgos que esto representa para la salud humana, animal y el control fitosanitario.",
+            "Desarrollar mecanismos de informaci\u00f3n acerca del consumo de antimicrobianos a nivel comunitario."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Este documento expone el Plan Estrat\u00e9gico Nacional de Respuesta a la Resistencia a los Antimicrobianos, en atenci\u00f3n a la iniciativa de la Organizaci\u00f3n Mundial de la Salud, dada por el Plan de Acci\u00f3n Mundial sobre la Resistencia a los Antimicrobianos.",
+            "Es una iniciativa apoyada por la OMS/OPS y la FAO.",
+            "El dise\u00f1o del Plan Nacional de Respuesta a la Resistencia a los Antimicrobianos, que realiza Colombia, est\u00e1 enmarcado en el Plan de Acci\u00f3n Mundial sobre Resistencia a los Antimicrobianos propuesto por la OMS.",
+            "La Oficina Regional de la OMS para el Mediterr\u00e1neo Oriental ha identificado una serie de medidas valiosas para la contenci\u00f3n de la resistencia y brinda apoyo a los pa\u00edses para que formulen pol\u00edticas, estrategias y planes nacionales sist\u00e9micos relacionados con el tema.",
+            "En este sentido el Ministerio de Salud y Protecci\u00f3n Social de Colombia ha propiciado, junto con las partes interesadas, el establecimiento de acuerdos y metodolog\u00edas para la aplicaci\u00f3n de vigilancia integrada de la resistencia a los antimicrobianos en el pa\u00eds y desde luego con el seguimiento a las recomendaciones de OMS.",
+            "Colombia, a trav\u00e9s del Ministerio de Salud y Protecci\u00f3n Social, acept\u00f3 el reto propuesto por la OMS en su Plan de Acci\u00f3n Global.",
+            "Este documento se someti\u00f3 a la valoraci\u00f3n y ajuste por parte de los diferentes sectores involucrados, particularmente con la participaci\u00f3n del Ministerio de Agricultura y Desarrollo Rural, INS, CORPOICA, ICA, INVIMA, OPS/OMS y este Ministerio."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "2. Reforzar los conocimientos y la base cient\u00edfica a trav\u00e9s de la vigilancia y la investigaci\u00f3n.",
+            "La Organizaci\u00f3n Panamericana de la Salud (OPS), que act\u00faa como Oficina Regional de la OMS para las Am\u00e9ricas, es quien se encarga de coordinar la recopilaci\u00f3n de toda la informaci\u00f3n y datos posibles relacionados con la resistencia antimicrobiana en todos los hospitales y laboratorios de 21 pa\u00edses de la regi\u00f3n.",
+            "Desde 1997, el Grupo de Microbiolog\u00eda del INS, implement\u00f3 un sistema de vigilancia basado en el laboratorio para el programa de enfermedad diarreica aguda (EDA), con el fin de determinar la circulaci\u00f3n de serotipos y resistencia a los antimicrobianos de agentes bacterianos como Salmonella spp., Shigella spp y Vibrio cholerae. A este se sum\u00f3 la vigilancia de Enfermedades Trasmitidas por Alimentos (ETA). Posteriormente, en el a\u00f1o 2012, se estableci\u00f3 la vigilancia de resistencia antimicrobiana en IAAS.",
+            "se ha implementado el reporte de la resistencia a trav\u00e9s del programa Whonet, y se ha incluido la notificaci\u00f3n de las infecciones asociadas a dispositivos en la base de datos del mismo aplicativo.",
+            "Desde el 2014 el ICA realiza el monitoreo de la Resistencia Antimicrobiana en Producci\u00f3n Primaria Pecuaria basada en el laboratorio, para Salmonella, Enterococcus spp, Escherichia coli y Staphylococcus spp recuperados en huevos y leche. Adem\u00e1s, se tiene proyectado realizar vigilancia en otras especies de inter\u00e9s en el consumo humano, priorizando seguimiento en bacterias de importancia en salud p\u00fablica. Por su parte, el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA) realiza la vigilancia basada en el laboratorio de enteropat\u00f3genos recuperados en productos alimenticios. Cada instituci\u00f3n ha implementado m\u00e9todos armonizados e instrumentos automatizados para vigilar la resistencia a los antimicrobianos.",
+            "El INS dio a conocer informaci\u00f3n disponible de la resistencia antimicrobiana a nivel institucional desde el a\u00f1o 1997 por medio del informe de la vigilancia pasiva de SIREVA. Tambi\u00e9n comunic\u00f3 la evaluaci\u00f3n de consumo de antimicrobianos a nivel institucional desde 2012. Finalmente, informaron resultados de la vigilancia de los microorganismos trazadores identificados en enfermedad trasmitida por alimentos (ETA) y enfermedad diarreica aguda (EDA), para su integraci\u00f3n con la vigilancia en la cadena agroalimentaria y vigilancia de la IAAS.",
+            "La Submesa del Sistema Integrado de Vigilancia encuentra conformada por las siguientes entidades: - INS: vigilancia ETAS y EDA y Laboratorio - ICA: Laboratorio y Registro - INVIMA: Direcci\u00f3n de Alimentos y Bebidas, Oficina del Laboratorio de Control de Calidad y Direcci\u00f3n de Medicamentos y Productos Biol\u00f3gicos - Ministerio de Salud y Protecci\u00f3n Social: Grupo de Inocuidad y Calidad de Alimentos y Grupo Vigilancia en Salud P\u00fablica - Ministerio de Agricultura y Desarrollo Rural",
+            "Esta submesa ya cuenta con un documento borrador en el cual se desarrolla la vigilancia integrada, que ha sido socializado con las diferentes instituciones, definiendo los componentes que hacen parte de esta vigilancia, como son: - Vigilancia de pat\u00f3genos trazadores por laboratorio - Vigilancia de factores de riesgo asociados al evento - Estudios e investigaciones - Vigilancia ocupacional - Situaci\u00f3n de alerta en salud p\u00fablica por RAM - Vigilancia epidemiol\u00f3gica",
+            "Los eventos de ETA, EDA, TB, VIH, infecci\u00f3n respiratoria aguda (IRA) y meningitis bacteriana, cuentan en la actualidad con protocolos de vigilancia en salud p\u00fablica, y de estos \u00fanicamente, en los eventos de ETA, EDA, Tuberculosis, Meningitis Bacteriana, VIH e IRA se realizan pruebas de sensibilidad.",
+            "L\u00ednea Estrat\u00e9gica 2: Desarrollo de la vigilancia y la investigaci\u00f3n para fortalecer la base cient\u00edfica y los conocimientos de la resistencia a los antimicrobianos.",
+            "Incluir en la agenda p\u00fablica de la Comisi\u00f3n Intersectorial de Vigilancia en Salud P\u00fablica, el fortalecimiento de la vigilancia integrada de los RAM. Conformar un grupo t\u00e9cnico multisectorial responsable de la articulaci\u00f3n de la vigilancia de la resistencia que incluya la vigilancia sanitaria, epidemiol\u00f3gica y por laboratorio.",
+            "articulaci\u00f3n de la vigilancia de la resistencia que incluya la vigilancia sanitaria, epidemiol\u00f3gica y por laboratorio. Formular y desarrollar los lineamientos de trabajo para mejorar y articular el funcionamiento de los sistemas de vigilancia, incluyendo los mecanismos para el an\u00e1lisis de datos, la generaci\u00f3n de informes y la gesti\u00f3n de alertas.",
+            "Integrar los datos generados por los sistemas de vigilancias de la RAM para el an\u00e1lisis de la informaci\u00f3n",
+            "Asegurar la cobertura nacional de los sistemas de vigilancia.",
+            "Fortalecer las capacidades de los laboratorios nacionales de referencia (INVIMA, INS, ICA) para la vigilancia de la RAM.",
+            "Actualizar el diagn\u00f3stico de las capacidades de los laboratorios nacionales de referencia para la vigilancia de la resistencia. Disponer de un plan de acci\u00f3n para el seguimiento del fortalecimiento de las capacidades para vigilancia de la RAM por parte de la Comisi\u00f3n Nacional de la Red.",
+            "7.1  Desarrollar e implementar el  modelo de vigilancia de estudios",
+            "8.1 Realizar el diagn\u00f3stico e incluir en un repositorio nacional los estudios y dem\u00e1s investigaci\u00f3n que se han desarrollado en los \u00faltimos 10 a\u00f1os en temas con RAM",
+            "Establecer actividades de vigilancia y monitoreo del uso de productos antimicrobianos",
+            "The Establishment of the Colombian Integrated Program for Antimicrobial Resistance Surveillance (COIPARS): A Pilot Project on Poultry Farms, Slaughterhouses and Retail Market."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "se ha implementado el reporte de la resistencia a trav\u00e9s del programa Whonet, y se ha incluido la notificaci\u00f3n de las infecciones asociadas a dispositivos en la base de datos del mismo aplicativo.",
+            "Por otra parte, esta mesa ha desarrollado vigilancia de la resistencia de los eventos de inter\u00e9s en salud p\u00fablica.",
+            "Incluir en la agenda p\u00fablica de la Comisi\u00f3n Intersectorial de Vigilancia en Salud P\u00fablica, el fortalecimiento de la vigilancia integrada de los RAM. Conformar un grupo t\u00e9cnico multisectorial responsable de la articulaci\u00f3n de la vigilancia de la resistencia que incluya la vigilancia sanitaria, epidemiol\u00f3gica y por laboratorio.",
+            "Disponer de un plan de acci\u00f3n para el seguimiento del fortalecimiento de las capacidades para vigilancia de la RAM por parte de la Comisi\u00f3n Nacional de la Red."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "3. Reducir la incidencia de las infecciones con medidas eficaces de saneamiento, higiene y prevenci\u00f3n de la infecci\u00f3n.",
+            "Decreto 677 de 1995 , 'Por  el  cual  se  reglamenta  parcialmente  el  R\u00e9gimen  de  Registros  y Licencias, el Control de Calidad, as\u00ed como el R\u00e9gimen de Vigilancia Sanitaria de Medicamentos, Cosm\u00e9ticos, Preparaciones Farmac\u00e9uticas a base de Recursos Naturales, Productos de Aseo, Higiene y Limpieza y otros productos de uso dom\u00e9stico y se dictan otras disposiciones sobre la materia'.",
+            "el Ministerio de Salud y Protecci\u00f3n Social ha desarrollado la propuesta de Pol\u00edtica de Prevenci\u00f3n, Vigilancia y Control de Infecciones Asociadas a la Atenci\u00f3n en Salud y Resistencia a los Antimicrobianos.",
+            "\uf0fc Submesa de Prevenci\u00f3n y Control, liderada por la Subdirecci\u00f3n de Enfermedades Transmisibles de la Direcci\u00f3n de Promoci\u00f3n y Prevenci\u00f3n.",
+            "la Submesa de Prevenci\u00f3n y Control ha desarrollado avances desde la Direcci\u00f3n de Promoci\u00f3n y Prevenci\u00f3n del Ministerio de Salud y Protecci\u00f3n Social frente a la construcci\u00f3n y validaci\u00f3n de la Pol\u00edtica y el Programa de Prevenci\u00f3n, Vigilancia y control de IAAS y Resistencia a los Antimicrobianos",
+            "la Subdirecci\u00f3n de Enfermedades Transmisibles de la Direcci\u00f3n de Promoci\u00f3n y Prevenci\u00f3n ya ha adelantado acciones en instituciones prestadoras de salud, para abordar de manera integral el manejo de las infecciones, incluyendo componentes de prevenci\u00f3n y control",
+            "\uf0fc L\u00ednea Estrat\u00e9gica 3: Saneamiento, higiene y prevenci\u00f3n para reducir la incidencia de las infecciones.",
+            "Fortalecer los conceptos de prevenci\u00f3n y control de infecciones, y uso racional de antimicrobianos, como componentes b\u00e1sicos de la formaci\u00f3n t\u00e9cnica y profesional y herramientas para el ejercicio profesional, en el \u00e1mbito de la salud",
+            "L\u00ednea Estrat\u00e9gica 3: Saneamiento, higiene y prevenci\u00f3n para reducir la incidencia de las infecciones.",
+            "Desarrollar estrategias educativas para fomentar la prevenci\u00f3n y control de infecciones en los diferentes actores del sector salud y agropecuario",
+            "Generar estrategias de articulaci\u00f3n con la industria pecuaria que promuevan los procesos de prevenci\u00f3n, control de infecciones",
+            "Fortalecer la normatividad frente al recurso h\u00eddrico y el saneamiento, para disminuir la incidencia de las infecciones.",
+            "L\u00ednea Estrat\u00e9gica 3: Saneamiento, higiene y prevenci\u00f3n"
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Entre ellos se encuentra la iniciativa incluida en la Resoluci\u00f3n de la 68\u00aa Asamblea Mundial de la Salud celebrada en mayo de 2015 que aprob\u00f3 el Plan de Acci\u00f3n Mundial sobre Resistencia a los Antimicrobianos (7), el Plan de Acci\u00f3n sobre Resistencia a los Antimicrobianos de la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) (3), la Estrategia sobre la Resistencia a los Agentes Antimicrobianos de la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) (2)",
+            "Adicionalmente, esta submesa ha sido encargada por parte del Comit\u00e9 Nacional del Codex Alimentarius, presidido por el Ministerio de Comercio, Industria y Turismo, de lo correspondiente a la resistencia antimicrobiana para lo relacionado con la inocuidad de alimentos."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En t\u00e9rminos reglamentarios, a nivel nacional existen normas que regulan la fabricaci\u00f3n y el expendio de antimicrobianos, as\u00ed como de otros medicamentos para uso humano. Dentro de estas se encuentran: - Decreto 677 de 1995, 'Por el cual se reglamenta parcialmente el R\u00e9gimen de Registros y Licencias, el Control de Calidad, as\u00ed como el R\u00e9gimen de Vigilancia Sanitaria de Medicamentos...'. Adem\u00e1s, se establece la condici\u00f3n de comercializaci\u00f3n de los medicamentos como: venta libre, control especial, uso hospitalario \u00fanicamente y bajo f\u00f3rmula m\u00e9dica. Los antibi\u00f3ticos pertenecen a este \u00faltimo r\u00e9gimen.",
+            "Decreto 3050 de 2005 , 'Por el cual se reglamenta el expendio de medicamentos.' En su art\u00edculo 1\u00b0 \u00e9ste consagra que todo medicamento que para su venta requiera la f\u00f3rmula m\u00e9dica, s\u00f3lo podr\u00e1 ser expendido en droguer\u00edas y farmacias-droguer\u00edas.",
+            "su texto incluye una obligaci\u00f3n que determina que su venta se haga con la prescripci\u00f3n escrita del profesional (m\u00e9dico veterinario, m\u00e9dico veterinario zootecnista) con matr\u00edcula profesional vigente.",
+            "Debilidades en la regulaci\u00f3n y fiscalizaci\u00f3n de la venta de antibi\u00f3ticos sin f\u00f3rmula m\u00e9dica.",
+            "la regulaci\u00f3n respecto a la venta de antibi\u00f3ticos en las droguer\u00edas se viene analizando con el fin de identificar las falencias en su implementaci\u00f3n junto con los posibles mecanismos para fortalecerla.",
+            "Definir estrategias de fiscalizaci\u00f3n de la dispensaci\u00f3n de antimicrobianos en farmacias y droguer\u00edas del pa\u00eds.",
+            "Elaborar gu\u00edas de manejo de uso de medicamentos y otros productos antimicrobianos, dirigida a profesionales de la salud humana y las ciencias agropecuarias",
+            "Restricci\u00f3n de la venta de antibi\u00f3ticos en farmacias de Bogot\u00e1, Colombia: estudio descriptivo."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "4. Optimizar el uso de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "A nivel nacional existen normas que regulan la fabricaci\u00f3n y el expendio de antimicrobianos, as\u00ed como de otros medicamentos para uso humano. Dentro de estas se encuentran: - Decreto 677 de 1995, 'Por el cual se reglamenta parcialmente el R\u00e9gimen de Registros y Licencias...'. Adem\u00e1s, se establece la condici\u00f3n de comercializaci\u00f3n de los medicamentos como: venta libre, control especial, uso hospitalario \u00fanicamente y bajo f\u00f3rmula m\u00e9dica. Los antibi\u00f3ticos pertenecen a este \u00faltimo r\u00e9gimen.",
+            "Decreto 3050 de 2005 , 'Por el cual se reglamenta el expendio de medicamentos.' En su art\u00edculo 1\u00b0 \u00e9ste consagra que todo medicamento que para su venta requiera la f\u00f3rmula m\u00e9dica, s\u00f3lo podr\u00e1 ser expendido en droguer\u00edas y farmacias-droguer\u00edas.",
+            "su texto incluye una obligaci\u00f3n que determina que su venta se haga con la prescripci\u00f3n escrita del profesional (m\u00e9dico veterinario, m\u00e9dico veterinario zootecnista) con matr\u00edcula profesional vigente.",
+            "Adicionalmente y con apoyo de la Asociaci\u00f3n Colombiana de Infectolog\u00eda, llev\u00f3 a cabo la Propuesta de Estrategia de Uso Adecuado de Antimicrobianos en Comunidad.",
+            "\uf0fc Submesa de Uso Racional de Medicamentos, liderada por la Direcci\u00f3n de Medicamentos y Tecnolog\u00edas en Salud.",
+            "La Submesa de Uso Racional de Medicamentos tiene como prop\u00f3sito promover el uso \u00f3ptimo de los medicamentos y otros productos antimicrobianos a los diferentes sectores, incluyendo la salud humana y la cadena agropecuaria.",
+            "la regulaci\u00f3n respecto a la venta de antibi\u00f3ticos en las droguer\u00edas se viene analizando con el fin de identificar las falencias en su implementaci\u00f3n junto con los posibles mecanismos para fortalecerla.",
+            "\uf0fc L\u00ednea Estrat\u00e9gica 4: Uso \u00f3ptimo de los antimicrobianos en la salud humana, salud animal y el control fitosanitario.",
+            "Fortalecer los conceptos de prevenci\u00f3n y control de infecciones, y uso racional de antimicrobianos, como componentes b\u00e1sicos de la formaci\u00f3n t\u00e9cnica y profesional y herramientas para el ejercicio profesional, en el \u00e1mbito de la salud",
+            "Dise\u00f1ar estrategias para promover las buenas pr\u00e1cticas cl\u00ednicas en el personal de salud frente al uso de medicamentos",
+            "Fortalecer la normativa vigente sanitaria, y de inocuidad en producci\u00f3n animal",
+            "Fortalecer la normatividad frente al recurso h\u00eddrico y el saneamiento, para disminuir la incidencia de las infecciones. relacionados (p\u00fablicos y privados), que promuevan los procesos de prevenci\u00f3n y control de infecciones, y la promoci\u00f3n del buen uso de los antimicrobianos",
+            "Implementar mecanismos de evaluaci\u00f3n del consumo de antimicrobianos.",
+            "Desarrollar o fortalecer legislaci\u00f3n y/o programas que propenden por la aplicaci\u00f3n de las buenas pr\u00e1cticas de manufactura en la producci\u00f3n de antimicrobianos de consumo",
+            "Definir estrategias de fiscalizaci\u00f3n de la dispensaci\u00f3n de antimicrobianos en farmacias y droguer\u00edas del pa\u00eds.",
+            "Gestionar alianzas estrat\u00e9gicas con actores del sector productivo para promover el cumplimiento de la regulaci\u00f3n del uso de los antimicrobianos en el sector agropecuario.",
+            "Restricci\u00f3n de la venta de antibi\u00f3ticos en farmacias de Bogot\u00e1, Colombia: estudio descriptivo."
+        ]
+    },
+    {
+        "country": "colombia",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "aumentar la inversi\u00f3n en nuevos medicamentos, medios de diagn\u00f3stico, vacunas y otras intervenciones.",
+            "Colombia, a trav\u00e9s del Ministerio de Salud y Protecci\u00f3n Social, acept\u00f3 el reto propuesto por la OMS en su Plan de Acci\u00f3n Global. Fue as\u00ed como en mayo de este a\u00f1o, en el marco de la visita oficial de la Ministra de Salud, Deporte y Bienestar del Reino de los Pa\u00edses Bajos a este ministerio, se acept\u00f3 la invitaci\u00f3n a participar del paquete de resistencia en el marco de la Global Health Security Agenda -GHSA.",
+            "L\u00ednea Estrat\u00e9gica 5: Formulaci\u00f3n de argumentos econ\u00f3micos para la inversi\u00f3n en intervenciones: nuevos medicamentos, medios de diagn\u00f3stico, vacunas y otros.",
+            "Nivel de incremento en la inversi\u00f3n sostenible en la capacidad de contrarrestar la resistencia a los antimicrobianos, incluyendo el desarrollo de nuevos medicamentos, m\u00e9todos diagn\u00f3sticos y otras intervenciones.",
+            "Priorizar en la agenda p\u00fablica la investigaci\u00f3n relacionada con RAM para contribuir en su financiaci\u00f3n"
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2018",
+        "supporting_text": null,
+        "country": "costa_rica",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "costa_rica",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El enfoque 'una salud' reconoce que la salud de los seres humanos est\u00e1 interrelacionada con la de los animales; agricultura y medio ambiente.",
+        "country": "costa_rica",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El objetivo general es vigilar, contener y controlar de forma integrada la resistencia a los antimicrobianos que abarque salud humana.",
+        "country": "costa_rica",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El objetivo general incluye la salud animal en la vigilancia y control de la resistencia a los antimicrobianos.",
+        "country": "costa_rica",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El enfoque incluye la salud ambiental como parte de la vigilancia y control de la resistencia a los antimicrobianos.",
+        "country": "costa_rica",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona el uso de antimicrobianos en la producci\u00f3n agr\u00edcola y su impacto en la salud humana, animal y ambiental.",
+        "country": "costa_rica",
+        "question": 5
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona un mecanismo espec\u00edfico para el reporte de progreso en el documento.",
+        "country": "costa_rica",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se especifican objetivos concretos y con plazos en el documento.",
+        "country": "costa_rica",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se mencionan objetivos cuantitativos espec\u00edficos para la prevalencia de RAM o el uso de antimicrobianos.",
+        "country": "costa_rica",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se detalla ninguna asignaci\u00f3n presupuestaria en el documento.",
+        "country": "costa_rica",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se incluye una evaluaci\u00f3n de los requisitos presupuestarios futuros.",
+        "country": "costa_rica",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Ministerio de Salud conform\u00f3 la Comisi\u00f3n Nacional de Lucha contra la resistencia Antimicrobiana.",
+        "country": "costa_rica",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP se sustenta en la Ley General de Salud y otras normativas relacionadas con la vigilancia y control de la RAM.",
+        "country": "costa_rica",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se incluye la capacitaci\u00f3n sobre RAM en los programas de formaci\u00f3n de profesionales de salud.",
+        "country": "costa_rica",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se establece un programa permanente de comunicaci\u00f3n p\u00fablica sobre la RAM.",
+        "country": "costa_rica",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP se elabora siguiendo las recomendaciones de la OMS, FAO y OIE.",
+        "country": "costa_rica",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona el establecimiento de un equipo de trabajo para coordinar la vigilancia de la RAM.",
+        "country": "costa_rica",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se busca desarrollar la capacidad de laboratorio para la vigilancia de la RAM.",
+        "country": "costa_rica",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se establecen medidas de saneamiento, higiene y prevenci\u00f3n de infecciones.",
+        "country": "costa_rica",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona el cumplimiento de lineamientos internacionales como el Codex Alimentarius.",
+        "country": "costa_rica",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se exige el uso de receta m\u00e9dica para dispensar antibi\u00f3ticos en humanos.",
+        "country": "costa_rica",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona la necesidad de regular el uso de antimicrobianos en la salud humana, animal y vegetal.",
+        "country": "costa_rica",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se busca aumentar la inversi\u00f3n en nuevos medicamentos y diagn\u00f3sticos.",
+        "country": "costa_rica",
+        "question": 22
+    }
+]
