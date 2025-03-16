@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "zambia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "zambia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP adopts a One Health approach by integrating human health, animal health, and environmental considerations.",
+        "country": "zambia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific strategies aimed at improving human health outcomes related to AMR.",
+        "country": "zambia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions focused on animal health, particularly in the context of veterinary practices.",
+        "country": "zambia",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental factors contributing to AMR and outlines relevant strategies.",
+        "country": "zambia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions related to agriculture and food security in the context of AMR.",
+        "country": "zambia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies mechanisms for regular progress reporting to monitor the implementation of its objectives.",
+        "country": "zambia",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific, time-bound targets for various actions to track progress effectively.",
+        "country": "zambia",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes quantitative targets for reducing AMR prevalence and antimicrobial use.",
+        "country": "zambia",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines budget allocations for various strategies aimed at combating AMR.",
+        "country": "zambia",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an assessment of future budget needs for its proposed activities.",
+        "country": "zambia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a multisectoral committee to coordinate AMR efforts across sectors.",
+        "country": "zambia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions aimed at strengthening the legislative framework for AMR.",
+        "country": "zambia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines educational initiatives to raise awareness about AMR in various training programs.",
+        "country": "zambia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for public awareness campaigns to engage communities in combating AMR.",
+        "country": "zambia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes international collaboration with organizations like WHO and FAO for AMR initiatives.",
+        "country": "zambia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for enhancing data collection and analysis for AMR surveillance.",
+        "country": "zambia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines actions to enhance capacity for detecting and reporting new resistance.",
+        "country": "zambia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific strategies for sanitation and infection prevention and control.",
+        "country": "zambia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to implement international standards for AMR control.",
+        "country": "zambia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for regulating antibiotic distribution and prescription.",
+        "country": "zambia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations aimed at promoting the rational use of antibiotics.",
+        "country": "zambia",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to engage in international collaborative research for new AMR solutions.",
+        "country": "zambia",
+        "question": 22
+    }
+]

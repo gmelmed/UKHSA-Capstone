@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "namibia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "namibia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The One Health approach, in which human, animal and environmental health, agriculture and food production sectors work together, is fundamental in implementing this Action Plan to effectively respond to the threat of AMR.",
+        "country": "namibia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including optimizing the use of antimicrobial medicines in human health.",
+        "country": "namibia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to optimize the use of antimicrobial medicines in animal health.",
+        "country": "namibia",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health by including actions related to water quality testing and monitoring for AMR.",
+        "country": "namibia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies related to agricultural practices and food safety, including monitoring antimicrobial use in food production.",
+        "country": "namibia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A Monitoring and Evaluation (M&E) framework has been developed to assess the extent to which the desired strategic objectives of the NAAP have been achieved.",
+        "country": "namibia",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The pathway to implementation focuses on priority activities for the next two years in order to tackle the multiple tasks of this NAAP.",
+        "country": "namibia",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "namibia",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention any specific budget allocation for the strategies or actions.",
+        "country": "namibia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "namibia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the establishment of a governance structure for multi-sectoral collaboration and communication on AMR.",
+        "country": "namibia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to regulate the suppliers of antimicrobials to ensure authorized procurement.",
+        "country": "namibia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the incorporation of rational antimicrobial use and integration of IPC, WASH, vaccination, and biosecurity in health professional curricula.",
+        "country": "namibia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to promote awareness on AMR in both human and animal health sectors at health facility and community levels.",
+        "country": "namibia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions linking and sharing information with international data sharing and collaboration networks on AMR and antimicrobial use.",
+        "country": "namibia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the implementation of an integrated and coordinated national surveillance program for human and animal health.",
+        "country": "namibia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strengthening laboratory capacity to ensure quality AMR data.",
+        "country": "namibia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to reduce the incidence of infection through effective hygiene and IPC measures.",
+        "country": "namibia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to ensure compliance with international standards and guidelines for AMR control.",
+        "country": "namibia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulating the suppliers of antimicrobials to ensure authorized procurement.",
+        "country": "namibia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to ensure rational and appropriate use of antimicrobials at the health facility and community level.",
+        "country": "namibia",
+        "question": 21
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify participation in international collaborative research for new medicines or tools.",
+        "country": "namibia",
+        "question": 22
+    }
+]

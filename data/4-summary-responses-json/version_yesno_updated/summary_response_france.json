@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "france",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "france",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP represents the sector-specific operational deployment in human health of the 2016 'One Health' interministerial roadmap for controlling antibiotic resistance, which links human, animal and ecosystem health.",
+        "country": "france",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including measures for infection prevention and control and antibiotic stewardship.",
+        "country": "france",
+        "question": 2
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The 2022-2025 National Strategy for Preventing Infections and Antibiotic Resistance only relates to human health.",
+        "country": "france",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes measures aimed at developing a sense of 'environmental preservation' in infection and antibiotic resistance prevention measures.",
+        "country": "france",
+        "question": 4
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not explicitly mention strategies or actions targeting agriculture or food security.",
+        "country": "france",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "An annual report on the implemented measures will be published by the MSS, including the monitoring and impact indicators included in this document.",
+        "country": "france",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets ambitious targets for 2025, such as reducing the use of antibiotics in community care across France by 25% compared to 2019.",
+        "country": "france",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific targets for reducing antibiotic prescriptions and monitoring antibiotic resistance data.",
+        "country": "france",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify budget allocations for the strategies or actions.",
+        "country": "france",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not contain an assessment of future budget requirements.",
+        "country": "france",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions a national steering committee for preventing infections and antibiotic resistance, which includes various stakeholders.",
+        "country": "france",
+        "question": 11
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not explicitly mention strengthening the legislative and regulatory framework for AMR.",
+        "country": "france",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes measures to improve education on the prevention of infections and antibiotic resistance from an early age.",
+        "country": "france",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes implementing a national and regional health promotion campaign focusing on antibiotic stewardship and the consequences of antibiotic resistance.",
+        "country": "france",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions contributing to France's international influence and visibility in the fight against antibiotic resistance.",
+        "country": "france",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes measures for improving national coverage of antibiotic resistance data collection.",
+        "country": "france",
+        "question": 16
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specifically mention developing capacity for detecting and reporting newly emerged resistance.",
+        "country": "france",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of infection prevention and control measures, including hygiene practices.",
+        "country": "france",
+        "question": 18
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not explicitly mention implementing international standards and guidelines for AMR control.",
+        "country": "france",
+        "question": 19
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify actions related to regulating the distribution or prescription of antibiotics.",
+        "country": "france",
+        "question": 20
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not mention regulations or laws requiring the rational use of antibiotics.",
+        "country": "france",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages cross-cutting, collaborative and interdisciplinary research in the field of preventing infections and antibiotic resistance.",
+        "country": "france",
+        "question": 22
+    }
+]
