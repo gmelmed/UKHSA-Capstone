@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "oman",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2028",
+        "supporting_text": null,
+        "country": "oman",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The plan is focusing on five major elements with defined objectives, activities and monitoring tools by adopting the One Health approach.",
+        "country": "oman",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, including promoting rational use of antimicrobial agents at all healthcare levels.",
+        "country": "oman",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions targeting animal health, such as prohibiting the use of Critically Important Antibiotics in animals and requiring prescriptions for antimicrobials used in food animals.",
+        "country": "oman",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not explicitly mention strategies or actions targeting the environment.",
+        "country": "oman",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to agriculture, such as monitoring antimicrobial usage in food animals and implementing standards published by OIE.",
+        "country": "oman",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions that annual reports of all activities should be submitted to the National AMR committee.",
+        "country": "oman",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any time-bound targets.",
+        "country": "oman",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not provide quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "oman",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention any specific budget allocation for the strategies.",
+        "country": "oman",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "oman",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of a National AMR Committee composed of various stakeholders for coordination.",
+        "country": "oman",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes legalizations to link dispensing of all antimicrobial agents to a prescription and to prohibit over-the-counter sales.",
+        "country": "oman",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to include the importance of rational use of antimicrobials in the curricula of nursing, pharmacy, dental, medical, and veterinary schools.",
+        "country": "oman",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions conducting regular national campaigns to increase awareness among healthcare workers, veterinary professionals, and the public.",
+        "country": "oman",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for international collaboration with organizations such as WHO, FAO, and OIE.",
+        "country": "oman",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes establishing a national reference center for antimicrobial resistance capable of systematic data collection and analysis.",
+        "country": "oman",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to upgrade laboratory capacity to identify newly or emerging mechanisms of resistance.",
+        "country": "oman",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes activities to ensure high standards of infection prevention and control to minimize the risk of infection.",
+        "country": "oman",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions adapting the FAO/WHO Codex Alimentarius Code of practice to minimize and contain AMR in animal health and agriculture sectors.",
+        "country": "oman",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes legalizations to link dispensing of all antimicrobial agents to a prescription.",
+        "country": "oman",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes legal requirements for manufacturers to collect and report data on antimicrobial distribution.",
+        "country": "oman",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for collaborative research sectors including healthcare, drug regulatory agencies, and veterinary care.",
+        "country": "oman",
+        "question": 22
+    }
+]
