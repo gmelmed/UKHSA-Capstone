@@ -1,0 +1,349 @@
+[
+    {
+        "country": "malta",
+        "question": "period_start",
+        "answer": 2020
+    },
+    {
+        "country": "malta",
+        "question": "period_end",
+        "answer": 2025
+    },
+    {
+        "country": "malta",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "AMR is not only a challenge in human healthcare but equally impacts on animal health and the environment. This complex, inter-related, problem requires concerted efforts by various stakeholders from a multitude of sectors - including healthcare specialists, veterinarians, pharmacists, educationalists, policy makers, legislative bodies, agriculture, industry and the public.",
+            "This reflects the wider action plans on this important issue of the Food and Agriculture Organization (FAO)'s, World Organisation for Animal Health Organisation and World Health Organisation (WHO)'s.",
+            "5.1 Legislation regulating Human Health and Animal Sector",
+            "It recognizes the interconnectedness of humans, animals and the environment and adopts a whole of Government, a whole of society and a comprehensive One Health Approach to AMR, recognizing the complexity of the issue.",
+            "The Strategy is a cross-sectoral response to the threat of AMR in Malta. Its focus lies in controlling and possibly reversing current AMR trends. The aims, objectives and actions needed to achieve this vision have been informed by a review of national and international literature as well as expert advice from key stakeholders.",
+            "The Strategy recognises the interconnectedness of humans, animals and the environment. In view of the complexity of the issue, it adopts a whole of Government, a whole of society and a comprehensive One Health Approach to AMR.",
+            "The WHO, in its Global Action Plan on Antimicrobial Resistance (2015), which was subsequently adopted by the World Animal Health Organisation (OIE) and the Food and Agriculture Organisation, the United Nations Political Declaration on AMR (2016) and the European Union One Health Action Plan against Antimicrobial Resistance (2011) as amended in 2016 through 'A European One Health Action Plan against Antimicrobial Resistance (AMR)' highlight the efforts necessary to address this global treat.",
+            "The NAC has representation from various professional groups involved in the prescribing and dispensing of antibiotics, addressing both Human Health and Animal Health.",
+            "## 5.3 Interventions to address AMR in Animal Health and the Environment",
+            "The guiding principle leading the Strategy is that of One Health. This principle recognises the inextricable link between humans, animals and the environment and emphasis that achieving optimal health outcomes for people and animals requires the collaboration and cooperation of Human Health, Animal Health and the environment.",
+            "Implement effective One Health antimicrobial stewardship practices across Human and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing and administering of antimicrobials.",
+            "Implement effective antimicrobial stewardship practices across Human Health and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing, administering and disposal of antimicrobials.",
+            "Introduce specific measures to improve antibiotic prescribing and use in the community, hospitals and veterinary practice (including delayed prescribing in the case of human medicine), and formal systems of access by primary care stakeholders to specialists in infectious diseases/microbiology for both human and animal health.",
+            "Strengthen relevant surveillance and feedback systems on antibiotic use and resistance in human and Animal Health as well as the environment.",
+            "3.4 Establish and implement a nationally representative and coordinated programme for surveillance of antimicrobial usage in hospitals, the community, environment, animal and aquatic medicine and agriculture, in both food and non-food, and aquatic production, including by sector and by antibiotic (broad and narrow).",
+            "Improve infection prevention and control measures across Human Health and Animal Health settings to help prevent infections and the spread of antimicrobial resistance.",
+            "Expand educational Animal Health campaigns aimed specifically at farmers, animal and pet owners emphasising the risks of non-prescribed use of antibiotics or acquisition of antibiotics from unlicensed sources as well as the benefits and costeffectiveness of greater hygiene.",
+            "The Strategy supports a collaborative effort through a One Health Approach to enhance those practices that encourage the appropriate and prudent use of antibiotics, change those practices that have contributed to the development of resistance and implement new initiatives to reduce inappropriate antibiotic usage and resistance."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This Strategy and Action Plan focuses on improvements in surveillance, stewardship measures for the proper use of antibiotics, infection prevention and control as well as education and research.",
+            "5.2 Interventions to address AMR in Human Health",
+            "The main strategic aims of the AMR Strategy are to: 1. Strengthen the infrastructure needed to address the AMR situation through adequate support of the inter-sectoral coordinating mechanism (ICM), appropriate legislation and strengthening of relevant surveillance and feedback systems in Human and Animal Health as well as the environment.",
+            "With the aim of maintaining efficacy of antibiotics for both humans and animals for the long term and to improve Human and Animal Health, the Strategy sets priorities for future actions, whilst highlighting good practice initiatives which are already being implemented to address AMR.",
+            "Malta is not immune to the significant challenge of AMR. Indeed, in common with most Mediterranean countries, several drug-bug resistance combinations are locally prevalent in significantly greater proportions than other EU regions, especially northern countries, which tend to report lower resistance. These local challenges manifest themselves in Human Health - at hospital and community settings - as well as in the animal sector.",
+            "Most of its past activities have focused on Human Health.",
+            "## 5.2 Interventions to address AMR in Human Health",
+            "The Infection Control Department (ICD) at MDH coordinates all activities related to the prevention and control of HAI in the hospital.",
+            "The aim of this Strategy is to provide a plan of action for Malta, designed to ensure the efficacy of antibiotics for the long term. This focuses on the appropriate use of antibiotics and minimising the development and spread of AMR, thereby improving Human and Animal Health.",
+            "Introduce appropriate legislation to establish minimum standards for infection prevention and control in Human Healthcare and residential care institutions.",
+            "Implement effective antimicrobial stewardship practices across Human Health and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing, administering and disposal of antimicrobials.",
+            "Introduce specific measures to improve antibiotic prescribing and use in the community, hospitals and veterinary practice (including delayed prescribing in the case of human medicine), and formal systems of access by primary care stakeholders to specialists in infectious diseases/microbiology for both human and animal health.",
+            "Strengthen relevant surveillance and feedback systems on antibiotic use and resistance in human and Animal Health as well as the environment.",
+            "3.3 Focus surveillance on priority organisms and drug-bug combinations most relevant to Human Health (Table 1).",
+            "Improve infection prevention and control measures across Human Health and Animal Health settings to help prevent infections and the spread of antimicrobial resistance.",
+            "Enhance the knowledge and awareness on AMR among healthcare and veterinary professionals by ensuring the availability of continuing professional education activities, on AMR and prudent use of antibiotics, not sponsored by industry.",
+            "- 5.7 Set up a help-line dedicated to infections and antibiotic use, manned by appropriate healthcare professionals, to allow the public to phone and discuss basic issues so as to provide reassurance and support.",
+            "The Strategy supports a collaborative effort through a One Health Approach to enhance those practices that encourage the appropriate and prudent use of antibiotics, change those practices that have contributed to the development of resistance and implement new initiatives to reduce inappropriate antibiotic usage and resistance.",
+            "Malta is not immune from the significant challenges from AMR that all countries are facing, which - unless effectively addressed - will have significant patient safety consequences.",
+            "the launch of a hospital wide AMR Strategy in 2010. The cornerstone of the initiative was a policy of Root Cause Analysis and subsequent corrective action.",
+            "Trends of antibiotic consumption within MDH have stabilized in recent years, especially in high consuming units such as intensive care, nephrology and haematology, where antibiotic stewardship programmes have been successfully introduced."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the Ministry of Agriculture Fisheries and Animal Rights in tandem with the Ministry for Health is launching a 'Strategy and Action Plan for the Prevention and Containment of Antimicrobial Resistance intended to target the years 2020 - 2025'.",
+            "The strategy focuses on measures such as improved hygiene and biosecurity in farms which will help farmers in reducing risks to overall animal health, increase cost effectively and at the same time ensuring a more prudent and controlled use of antimicrobials.",
+            "5.3 Interventions to address AMR in Animal Health",
+            "5.3 Interventions to address AMR in Animal Health",
+            "The main strategic aims of the AMR Strategy are to: ... 3. Introduce overarching measures to ensure appropriate antibiotic prescribing and use in community, hospitals and veterinary practice and in both Human and Animal Health sectors.",
+            "With the aim of maintaining efficacy of antibiotics for both humans and animals for the long term and to improve Human and Animal Health, the Strategy sets priorities for future actions.",
+            "These local challenges manifest themselves in Human Health - at hospital and community settings - as well as in the animal sector.",
+            "Detailed information on antibiotic use in animals in Malta is also significantly limited. Malta started providing sales data of antimicrobials to the European Medicines Authority's European Surveillance of Veterinary Antimicrobial Consumption (ESVAC) network in 2018 for the year 2017.",
+            "Legislation directly related to AMR is limited. Current legislation requires that all antibiotics used for human patients (including topical formulations) as well as food animals, should be Prescription Only Medicines.",
+            "The Regulation on transmissible animal diseases ('Animal Health Law') of March 2016 sets out a legal basis for monitoring animal pathogens resistant to antibiotics.",
+            "## 5.3 Interventions to address AMR in Animal Health and the Environment",
+            "Each year all registered local distributors of veterinary medicinal products and distributors of medicated feed are required to supply the VPRD with information on the sales of antibiotics for that year.",
+            "The tool can help with the reduction of antimicrobial usage and to improve the general land-dwelling Animal Health situation.",
+            "Implement effective One Health antimicrobial stewardship practices across Human and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing and administering of antimicrobials.",
+            "Implement effective One Health antimicrobial stewardship practices across Human and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing and administering of antimicrobials.",
+            "Introduce, with urgency, legislation that would regulate on antimicrobial use in veterinary practice so as to ensure full compliance with all EU Medicine Veterinary legislation and EU Directive 2001/82/EC.",
+            "Set and monitor qualitative and quantitative targets for improvement of prescribing at national level and introduce systems to identify, benchmark and follow up high-end prescribers in community, hospital and veterinary settings.",
+            "Strengthen relevant surveillance and feedback systems on antibiotic use and resistance in human and Animal Health as well as the environment.",
+            "3.4 Establish and implement a nationally representative and coordinated programme for surveillance of antimicrobial usage in hospitals, the community, environment, animal and aquatic medicine and agriculture, in both food and non-food, and aquatic production, including by sector and by antibiotic (broad and narrow).",
+            "3.9 Establish a sentinel AMR surveillance programme in animals to capture data generated from routine tests undertaken by veterinarians, slaughter houses as well as the public health laboratory.",
+            "5.1 Enhance the knowledge and awareness on AMR among healthcare and veterinary professionals by ensuring the availability of continuing professional education activities, on AMR and prudent use of antibiotics, not sponsored by industry.",
+            "Expand educational Animal Health campaigns aimed specifically at farmers, animal and pet owners emphasising the risks of non-prescribed use of antibiotics or acquisition of antibiotics from unlicensed sources as well as the benefits and costeffectiveness of greater hygiene.",
+            "Information on AMR in isolates of animal origin remains extremely sparse and restricted to a limited set of isolates tested annually at the National Veterinary Laboratory in compliance with Commission Implementing Decision 652/2013 (EU).",
+            "Absence of appropriate legislation in Animal Health that provides the necessary tools for effective intervention and regulation, especially in food animal husbandry."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The main strategic aims of the AMR Strategy are to: ... strengthen  relevant  surveillance  and  feedback  systems  in  Human  and  Animal Health as well as the environment.",
+            "Action targeting pharmaceuticals in the environment is also being developed and addressed at EU level. Article 8 of Directive 2008/105/EC (amended by Directive 2013/39/EU) obliges the European Commission to develop a strategic approach to water pollution from pharmaceutical substances. The Strategy, which is in its final stages of drafting, includes tackling antimicrobial resistance as a key aim.",
+            "Nevertheless, there are some local concerns regarding threats posed by abuse, overuse, misuse, environmental and ecological issues, antimicrobial residues and AMR.",
+            "## 5.3 Interventions to address AMR in Animal Health and the Environment",
+            "Currently, surface water is periodically monitored for pollutants of concern, including antibiotics, by the Environment and Resource Authority (ERA).",
+            "The guiding principle leading the Strategy is that of One Health. This principle recognises the inextricable link between humans, animals and the environment and emphasis that achieving optimal health outcomes for people and animals requires the collaboration and cooperation of Human Health, Animal Health and the environment.",
+            "1.8 Review and/or establish legislation to ensure adequate wastewater treatment systems to prevent discharge of antibiotics into the environment.",
+            "2.12 Ensure proper mechanisms to enhance the prevention of the introduction of pests and to ensure the implementation of good agricultural practices and integrated pest management (IPM), thereby continuing to discourage the use of antibiotics in crop production and plant protection.",
+            "3.4.2 Establish a comprehensive programme for at-source monitoring of antimicrobial residues in the environment, including soils and irrigation water.",
+            "However, additional actions need to be implemented, particularly in community and environment settings."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the Ministry of Agriculture Fisheries and Animal Rights in tandem with the Ministry for Health is launching a 'Strategy and Action Plan for the Prevention and Containment of Antimicrobial Resistance intended to target the years 2020 - 2025'.",
+            "The strategy focuses on measures such as improved hygiene and biosecurity in farms which will help farmers in reducing risks to overall animal health, increase cost effectively and at the same time ensuring a more prudent and controlled use of antimicrobials.",
+            "5.3 Interventions to address AMR in Animal Health",
+            "Detailed information on antibiotic use in animals in Malta is also significantly limited. Malta started providing sales data of antimicrobials to the European Medicines Authority's European Surveillance of Veterinary Antimicrobial Consumption (ESVAC) network in 2018 for the year 2017.",
+            "Regulation 60 of Subsidiary Legislation 437.47 requires all antimicrobial Veterinary Medicinal Products to be obtained following a veterinarian's prescription.",
+            "Various legislation is in place in relation to Animal Health as per EU/EC regulations, directives, actions and decisions.",
+            "## 5.3 Interventions to address AMR in Animal Health and the Environment",
+            "The aim of this Strategy is to provide a plan of action for Malta, designed to ensure the efficacy of antibiotics for the long term. This focuses on the appropriate use of antibiotics and minimising the development and spread of AMR, thereby improving Human and Animal Health.",
+            "Introduce, with urgency, legislation that would regulate on antimicrobial use in veterinary practice so as to ensure full compliance with all EU Medicine Veterinary legislation and EU Directive 2001/82/EC.",
+            "Encourage farmers' cooperatives and other similar associations to explore models for the provision of farm veterinary services to achieve more cost-effective economies of scale.",
+            "3.4 Establish and implement a nationally representative and coordinated programme for surveillance of antimicrobial usage in hospitals, the community, environment, animal and aquatic medicine and agriculture, in both food and non-food, and aquatic production, including by sector and by antibiotic (broad and narrow).",
+            "Improve hygiene standards in farms to prevent cross-transmission of animal pathogens.",
+            "Expand educational Animal Health campaigns aimed specifically at farmers, animal and pet owners emphasising the risks of non-prescribed use of antibiotics or acquisition of antibiotics from unlicensed sources as well as the benefits and costeffectiveness of greater hygiene."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Implementation and evaluation of the Strategy will be supported by an Implementation Plan that provides the detail of specific actions, targets, time frames and indicators.",
+            "3.5 Strengthen systems to feedback data on antimicrobial resistance and antibiotic consumption used in human and animal care and produce an annual AMR report for Malta.",
+            "4.4 Establish structure, process and outcome Key Performance Indicators (KPIs) to allow monitoring and evaluation of IPC activities and structures of healthcare facilities at national and institutional level, to ensure uniformity in competence and output."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the Ministry for Health is launching a 'Strategy and Action Plan for the Prevention and Containment of Antimicrobial Resistance intended to target the years 2020 - 2025'",
+            "Implementation and evaluation of the Strategy will be supported by an Implementation Plan that provides the detail of specific actions, targets, time frames and indicators. The Plan will be developed during 2018-2019 in consultation with stakeholders. Implementation will take a staged approach over the period 2018-2025.",
+            "Set and monitor qualitative and quantitative targets for improvement of prescribing at national level and introduce systems to identify, benchmark and follow up high-end prescribers in community, hospital and veterinary settings.",
+            "4.4 Establish structure, process and outcome Key Performance Indicators (KPIs) to allow monitoring and evaluation of IPC activities and structures of healthcare facilities at national and institutional level, to ensure uniformity in competence and output."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Set and monitor qualitative and quantitative targets for improvement of prescribing at national level and introduce systems to identify, benchmark and follow up high-end prescribers in community, hospital and veterinary settings."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 9,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "malta",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "malta",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Strengthen the infrastructure needed to address the AMR situation through adequate support of the inter-sectoral coordinating mechanism (ICM)",
+            "Subsidiary Legislation 465.08 of 2008 established the National Antibiotic Committee (NAC), a committee that serves as the Intersectoral Coordinating Mechanism for Malta.",
+            "Owners: Intersectoral Co-Ordinating Mechanism (Superintendence of Public Health through the National Antimicrobial Committee)"
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The use and administration of antimicrobials needs a proper holistic regulatory framework intended to prevent the abuse, misuse, and overuse of antimicrobials.",
+            "Strengthen the infrastructure needed to address the AMR situation through adequate support of the inter-sectoral coordinating mechanism (ICM), appropriate legislation and strengthening of relevant surveillance and feedback systems in Human and Animal Health as well as the environment.",
+            "Current legislation requires that all antibiotics used for human patients (including topical formulations) as well as food animals, should be Prescription Only Medicines.",
+            "Various legislation is in place in relation to Animal Health as per EU/EC regulations, directives, actions and decisions. EU guidelines have been adopted and adapted as needed. However, there is lack of legislation covering prescription, distribution, marketing, dispensing and retail of all veterinary medicinal products including antibiotics for animals.",
+            "The Veterinary Surgeon Council has issued a series of documents as a guide for Professional Conduct which draws attention to the legal and ethical obligations related to the prudent use of veterinary medicinal products. It is obligatory to adhere to this guidance and sanctions may be taken against veterinarians who do not follow it.",
+            "Review current relevant legislation to strengthen governance to prevent and counteract AMR and address the gaps in legislation and regulation to ensure leadership, engagement and accountability for actions to combat antimicrobial resistance.",
+            "Ensure the necessary legislation and infrastructure to address AMR and implement effective strategies. The following actions are required to ensure a more robust legislative framework: - 1.1 Review and update legislation relevant to antimicrobial usage and antimicrobial resistance and its enforcement.",
+            "Introduce, with urgency, legislation that would regulate on antimicrobial use in veterinary practice so as to ensure full compliance with all EU Medicine Veterinary legislation and EU Directive 2001/82/EC.",
+            "Lack of effective legislation, especially setting minimum IPC standards for hospitals and nursing homes. Absence of appropriate legislation in Animal Health that provides the necessary tools for effective intervention and regulation, especially in food animal husbandry."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Foster improved awareness and education on AMR among healthcare professionals, veterinary professionals, livestock keepers, animal owners and the public, as well as the measures needed to prevent it.",
+            "The main role of the NAC has been primarily educational, both in terms of guideline development as well as educational campaigns aimed at both healthcare professionals as well as the public.",
+            "Education on AMR of healthcare professionals at undergraduate levels is somewhat heterogeneous. In the MD course run by the University of Malta, there has been a significant increase in IPC related lectures and tutorials (medical students receive more than 15 hours on IPC) but at the same time there has been a reduction in contact time on antimicrobial agent pharmacology.",
+            "Efforts have been made to include or increase emphasis on subjects related with AMR in this course. Furthermore, there is a proposal to include veterinary medicinal products (with an emphasis on AMR) in the undergraduate programme leading to a degree in pharmacy to bridge some of the gap between education and industry thus enhancing interest in the subject.",
+            "Increase awareness and understanding of the use of antibiotics to treat and prevent infections through education and training.",
+            "Ensure inclusion of AMR, prudent antibiotic use and infection prevention and control as a defined contact time during undergraduate courses for healthcare professionals, with particular attention to avoiding fragmentation or inconsistencies through improved inter-linking or centralised modules.",
+            "Include topics on AMR, hygiene and antibiotic use in the curricula of primary and secondary schools to ensure children are educated about the problem from an early age.",
+            "Coverage of IPC and antibiotic stewardship in some undergraduate courses."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This could be reached through a proper awareness program amongst all those involved including livestock breeders and veterinarians.",
+            "Foster improved awareness and education on AMR among healthcare professionals, veterinary professionals, livestock keepers, animal owners and the public, as well as the measures needed to prevent it.",
+            "The main role of the NAC has been primarily educational, both in terms of guideline development as well as educational campaigns aimed at both healthcare professionals as well as the public.",
+            "Education of the public has so far been primarily in relation to the European Antibiotic Awareness Day. The lack of a dedicated budget and resources causes planning challenges. Dissemination of information has relied on billboards as well as media opportunities through radio and TV talk shows.",
+            "Increase awareness and understanding of the use of antibiotics to treat and prevent infections through education and training.",
+            "5.6 Address literacy, on AMR and correct antibiotic use among both the public and journalists by developing and implementing regular campaigns making full use of conventional and social media platforms.",
+            "5.7 Set up a help-line dedicated to infections and antibiotic use, manned by appropriate healthcare professionals, to allow the public to phone and discuss basic issues so as to provide reassurance and support.",
+            "Impact of previous initiatives aimed at over-the-counter (OTC) and public awareness, albeit on a limited scale.",
+            "Past NAC experience in organising activities for European Antibiotic Awareness Day."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This reflects the wider action plans on this important issue of the Food and Agriculture Organization (FAO)'s, World Organisation for Animal Health Organisation and World Health Organisation (WHO)'s.",
+            "Objective 7: International partnerships and collaboration",
+            "The Strategy aligns with the World Health Organisation (WHO) Global Action Plan on Antimicrobial Resistance, the EU Action Plan on Antimicrobial Resistance as well as National legislation.",
+            "The Strategy aligns with the WHO Global Action Plan on Antimicrobial Resistance, the EU Action on Antimicrobial Resistance as well as National Legislation.",
+            "These Strategies emphasise the importance of national, regional, and international collaboration for the control and spread of resistance.",
+            "Since 2016, Malta started giving sales data on antimicrobials to the OIE and also started participating in the ESVAC project on the sales of antimicrobials in 2018.",
+            "Interdisciplinary collaboration which needs to be facilitated at various levels including national, through a whole of government approach, and international is critical between the numerous stakeholders.",
+            "Strengthen international partnerships and collaboration on regional and global efforts to respond to AMR.",
+            "Ensure that antibiotics listed within the WATCH and RESERVE groups of the AWaRE list of antibiotics, issued by WHO, are targeted by stewardship programmes, at national and institutional levels.",
+            "Strengthen international partnerships and collaboration on regional, European and global efforts to respond to antimicrobial resistance.",
+            "It will involve many stakeholders and require a high level of cross sectoral cooperation at both the national and international levels."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This Strategy and Action Plan focuses on improvements in surveillance, stewardship measures for the proper use of antibiotics, infection prevention and control as well as education and research.",
+            "5.2.1   AMR surveillance",
+            "5.3.1   AMR surveillance",
+            "Strengthen the infrastructure needed to address the AMR situation through adequate support of the inter-sectoral coordinating mechanism (ICM), appropriate legislation and strengthening of relevant surveillance and feedback systems in Human and Animal Health as well as the environment.",
+            "Between 2001 and 2010, European countries collected resistance data through the European Antimicrobial Resistance Surveillance System (EARSS). As of 2011, EARSS, whose new acronym is EARS-Net, has become fully integrated in the ECDC database (TESSy). The EU additionally established the European Surveillance of Antimicrobial Consumption (ESAC) to monitor the consumption of antibiotics in both the inpatient and outpatient sectors.",
+            "It is legally empowered to collect wholesaler antibiotic sales data.",
+            "The Regulation on transmissible animal diseases ('Animal Health Law') of March 2016 sets out a legal basis for monitoring animal pathogens resistant to antibiotics.",
+            "The surveillance of AMR at MDH is already well established and on par (if not above average) to that performed in most EU hospitals. This relates both to day to day surveillance and outbreak detection as well as monitoring of trends. Regular feedback of data is communicated to decision makers as well as healthcare workers.",
+            "AMR surveillance in animals is currently very restricted and carried out by the National Veterinary Laboratory only on resistance of Salmonella species in poultry (layers and broilers) and swine as well as for E. coli under Decision 2013/652.",
+            "As of 2017 the process for data collection, reporting and evaluation has been reviewed and data analysis intensified. As of 2018 the data collected is more reflective of the local situation.",
+            "Develop nationally coordinated One Health surveillance of AMR and antimicrobial usage.",
+            "Strengthen relevant surveillance and feedback systems on antibiotic use and resistance in human and Animal Health as well as the environment.",
+            "3.2 Strengthen surveillance systems of antibiotic resistance, especially in primary care and in veterinary practice.",
+            "3.9 Establish a sentinel AMR surveillance programme in animals to capture data generated from routine tests undertaken by veterinarians, slaughter houses as well as the public health laboratory.",
+            "7.2. Participate in international surveillance initiatives.",
+            "Information on AMR in isolates of animal origin remains extremely sparse and restricted to a limited set of isolates tested annually at the National Veterinary Laboratory in compliance with Commission Implementing Decision 652/2013 (EU).",
+            "Extensive surveillance data on antimicrobial resistance in governmental hospitals."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Coordinated surveillance is essential to understand the magnitude, distribution and impact of resistant organisms and antimicrobial usage, identify emerging resistance and trends, and determine associations between usage and resistance."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This Strategy and Action Plan focuses on improvements in surveillance, stewardship measures for the proper use of antibiotics, infection prevention and control as well as education and research.",
+            "The strategy focuses on measures such as improved hygiene and biosecurity in farms which will help farmers in reducing risks to overall animal health, increase cost effectively and at the same time ensuring a more prudent and controlled use of antimicrobials.",
+            "5.2.3   Infection Prevention and Control (IPC)",
+            "4. Improve Infection Prevention and Control (IPC) through national coordination and oversight, implementation of effective IPC multi-modal strategies in all healthcare facilities (with the control of CRE designated as a national priority) and foster hygiene standards in farms to prevent cross-transmission of animal pathogens.",
+            "The Infection Control Department (ICD) at MDH coordinates all activities related to the prevention and control of HAI in the hospital. It also provides technical assistance, when requested by other public hospitals, each of which now have an appointed Practice Nurse in IPC. The ICD has developed a comprehensive set of policies and Standard Operating Procedures that are also used by the other public hospitals, is active in IPC education and organises an annual national conference. The Unit also adopts a Plan-Do-Study-Act approach utilising Root Cause Analysis tools to identify and address causative factors for serious infections, such as MRSA bacteraemia. In addition, a strong emphasis is placed on process audits including hand hygiene facilities and performance, management of central lines, peripheral venous cannula care, compliance with contact precautions, and environmental cleaning amongst others.",
+            "Improve infection prevention and control measures across Human Health and Animal Health settings to help prevent infections and the spread of AMR.",
+            "1.5 Introduce appropriate legislation to establish minimum standards for infection prevention and control in Human Healthcare and residential care institutions.",
+            "Improve infection prevention and control measures across Human Health and Animal Health settings to help prevent infections and the spread of antimicrobial resistance.",
+            "5.5 Undertake specific awareness and education campaigns to veterinarians, including safe disposal of waste generated by veterinary practice, appropriate use of disinfectants in clinics and infection prevention and control measures.",
+            "Expand educational Animal Health campaigns aimed specifically at farmers, animal and pet owners emphasising the risks of non-prescribed use of antibiotics or acquisition of antibiotics from unlicensed sources as well as the benefits and costeffectiveness of greater hygiene.",
+            "As a direct consequence of numerous initiatives within this department to improve infection prevention and control practices, incidence of MDR A. baumannii has reduced significantly.",
+            "Presence of dedicated Infection Prevention and Control (IPC) personnel in acute care and rehabilitation hospitals."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This reflects the wider action plans on this important issue of the Food and Agriculture Organization (FAO)'s, World Organisation for Animal Health Organisation and World Health Organisation (WHO)'s.",
+            "Introduce, with urgency, legislation that would regulate on antimicrobial use in veterinary practice so as to ensure full compliance with all EU Medicine Veterinary legislation and EU Directive 2001/82/EC."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Introduce overarching measures to ensure appropriate antibiotic prescribing and use in community, hospitals and veterinary practice and in both Human and Animal Health sectors.",
+            "Current legislation requires that all antibiotics used for human patients (including topical formulations) as well as food animals, should be Prescription Only Medicines.",
+            "Implement effective One Health antimicrobial stewardship practices across Human and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing and administering of antimicrobials.",
+            "1.1 Review and update legislation relevant to antimicrobial usage and antimicrobial resistance and its enforcement.",
+            "Implement effective antimicrobial stewardship practices across Human Health and Animal Health settings to ensure the appropriate and prudent prescribing, dispensing, administering and disposal of antimicrobials.",
+            "Set and monitor qualitative and quantitative targets for improvement of prescribing at national level and introduce systems to identify, benchmark and follow up high-end prescribers in community, hospital and veterinary settings."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The use and administration of antimicrobials needs a proper holistic regulatory framework intended to prevent the abuse, misuse, and overuse of antimicrobials.",
+            "This could be reached through a proper awareness program amongst all those involved including livestock breeders and veterinarians.",
+            "Introduce overarching measures to ensure appropriate antibiotic prescribing and use in community, hospitals and veterinary practice and in both Human and Animal Health sectors.",
+            "Current legislation requires that all antibiotics used for human patients (including topical formulations) as well as food animals, should be Prescription Only Medicines.",
+            "The Veterinary Surgeon Council has issued a series of documents as a guide for Professional Conduct which draws attention to the legal and ethical obligations related to the prudent use of veterinary medicinal products. It is obligatory to adhere to this guidance and sanctions may be taken against veterinarians who do not follow it.",
+            "Review current relevant legislation to strengthen governance to prevent and counteract AMR and address the gaps in legislation and regulation to ensure leadership, engagement and accountability for actions to combat antimicrobial resistance.",
+            "The following actions are required to ensure a more robust legislative framework: - 1.1 Review and update legislation relevant to antimicrobial usage and antimicrobial resistance and its enforcement.",
+            "Introduce, with urgency, legislation that would regulate on antimicrobial use in veterinary practice so as to ensure full compliance with all EU Medicine Veterinary legislation and EU Directive 2001/82/EC.",
+            "Set and monitor qualitative and quantitative targets for improvement of prescribing at national level and introduce systems to identify, benchmark and follow up high-end prescribers in community, hospital and veterinary settings.",
+            "4.1 Implement and enforce national IPC regulations that include minimum/core infection prevention and control standards for primary, tertiary, rehabilitation and residential settings, and establish plans to monitor and evaluate their effectiveness."
+        ]
+    },
+    {
+        "country": "malta",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "5. Encourage and support innovation, research and networking in areas relevant to AMR.",
+            "Strengthen international partnerships and collaboration on regional and global efforts to respond to AMR.",
+            "Strengthen international partnerships and collaboration on regional, European and global efforts to respond to antimicrobial resistance."
+        ]
+    }
+]
