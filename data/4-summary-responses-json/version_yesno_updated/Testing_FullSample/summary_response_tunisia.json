@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2019",
+        "supporting_text": null,
+        "country": "tunisia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "tunisia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "La Tunisie s'est engag\u00e9e \u00e0 mettre en \u0153uvre ce plan d'action national \u00e0 travers une d\u00e9marche multisectorielle et ce, selon l'approche \u00ab One Health \u00bb int\u00e9grant sant\u00e9 humaine, animale et environnement.",
+        "country": "tunisia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP mentionne des actions sp\u00e9cifiques dans le secteur de la sant\u00e9 humaine, y compris la sensibilisation et la communication sur la r\u00e9sistance aux antimicrobiens.",
+        "country": "tunisia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP inclut des actions sp\u00e9cifiques pour la sant\u00e9 animale, notamment le renforcement de la bios\u00e9curit\u00e9 et l'am\u00e9lioration de la disponibilit\u00e9 des vaccins.",
+        "country": "tunisia",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP aborde la n\u00e9cessit\u00e9 de r\u00e9duire la contamination de l'environnement par des mesures de bios\u00e9curit\u00e9 et de gestion des effluents d'\u00e9levage.",
+        "country": "tunisia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP mentionne des actions pour am\u00e9liorer la bios\u00e9curit\u00e9 en milieu v\u00e9t\u00e9rinaire et la gestion des antibiotiques dans l'agriculture.",
+        "country": "tunisia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP pr\u00e9voit un plan de suivi et d'\u00e9valuation pour mesurer l'avancement des actions et des objectifs.",
+        "country": "tunisia",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP inclut des objectifs sp\u00e9cifiques et des d\u00e9lais pour la mise en \u0153uvre des actions.",
+        "country": "tunisia",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "Le NAP ne mentionne pas de cibles quantitatives sp\u00e9cifiques pour la pr\u00e9valence de la RAM ou l'utilisation des antimicrobiens.",
+        "country": "tunisia",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP mentionne l'engagement du gouvernement \u00e0 financer le projet et \u00e0 allouer un budget sp\u00e9cifique.",
+        "country": "tunisia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "Le NAP ne contient pas d'\u00e9valuation d\u00e9taill\u00e9e des besoins budg\u00e9taires futurs pour les activit\u00e9s.",
+        "country": "tunisia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP a \u00e9t\u00e9 \u00e9labor\u00e9 par un comit\u00e9 technique multidisciplinaire de lutte contre l'antibior\u00e9sistance.",
+        "country": "tunisia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP souligne la n\u00e9cessit\u00e9 de renforcer et d'appliquer les textes de loi existants concernant l'utilisation des antibiotiques.",
+        "country": "tunisia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP pr\u00e9voit l'int\u00e9gration de la RAM dans les programmes de formation des professionnels de sant\u00e9.",
+        "country": "tunisia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP inclut des campagnes de sensibilisation pour le grand public et les professionnels de la sant\u00e9.",
+        "country": "tunisia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP a \u00e9t\u00e9 \u00e9labor\u00e9 en coop\u00e9ration avec l'OMS, l'OIE et la FAO.",
+        "country": "tunisia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP pr\u00e9voit la cr\u00e9ation d'une unit\u00e9 nationale de surveillance et d'un laboratoire national de r\u00e9f\u00e9rence.",
+        "country": "tunisia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP inclut des mesures pour renforcer la surveillance et la d\u00e9tection des r\u00e9sistances \u00e9mergentes.",
+        "country": "tunisia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP pr\u00e9voit des mesures d'assainissement, d'hygi\u00e8ne et de pr\u00e9vention des infections.",
+        "country": "tunisia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP fait r\u00e9f\u00e9rence \u00e0 l'importance de se conformer aux normes internationales pour le contr\u00f4le de la RAM.",
+        "country": "tunisia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP souligne la n\u00e9cessit\u00e9 de r\u00e9glementer la distribution et la prescription des antibiotiques.",
+        "country": "tunisia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP met l'accent sur l'importance de l'utilisation rationnelle des antibiotiques.",
+        "country": "tunisia",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Le NAP encourage la collaboration internationale pour la recherche sur les nouveaux m\u00e9dicaments et outils diagnostiques.",
+        "country": "tunisia",
+        "question": 22
+    }
+]

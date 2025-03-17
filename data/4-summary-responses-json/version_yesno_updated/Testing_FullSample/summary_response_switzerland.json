@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "switzerland",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2024",
+        "supporting_text": null,
+        "country": "switzerland",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a One Health approach that integrates human health, animal health, and environmental considerations.",
+        "country": "switzerland",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions aimed at improving human health outcomes related to antimicrobial resistance.",
+        "country": "switzerland",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses animal health through targeted strategies to reduce antimicrobial use in livestock.",
+        "country": "switzerland",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions focused on environmental protection and reducing AMR in environmental contexts.",
+        "country": "switzerland",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to promote sustainable agricultural practices that minimize AMR risks.",
+        "country": "switzerland",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies the establishment of a reporting mechanism to monitor progress on its objectives.",
+        "country": "switzerland",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific targets with deadlines to measure progress in combating AMR.",
+        "country": "switzerland",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes quantitative targets for reducing AMR prevalence and monitoring antimicrobial use.",
+        "country": "switzerland",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines budget allocations for various strategies aimed at addressing AMR.",
+        "country": "switzerland",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an assessment of future budget needs for its proposed activities.",
+        "country": "switzerland",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a multisectoral task force to coordinate AMR efforts across sectors.",
+        "country": "switzerland",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions aimed at enhancing the legislative framework governing antimicrobial use.",
+        "country": "switzerland",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of training and educational initiatives to raise awareness about AMR.",
+        "country": "switzerland",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines plans for public awareness campaigns to engage communities in combating AMR.",
+        "country": "switzerland",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP highlights the importance of international collaboration with organizations like WHO and FAO.",
+        "country": "switzerland",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for enhancing data collection and surveillance systems for AMR.",
+        "country": "switzerland",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines actions to strengthen capacity for detecting and reporting new resistance patterns.",
+        "country": "switzerland",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific strategies for sanitation and infection prevention to combat AMR.",
+        "country": "switzerland",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP commits to implementing international standards for AMR control.",
+        "country": "switzerland",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the distribution and prescription of antibiotics.",
+        "country": "switzerland",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics.",
+        "country": "switzerland",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to engage in international research collaborations for AMR solutions.",
+        "country": "switzerland",
+        "question": 22
+    }
+]

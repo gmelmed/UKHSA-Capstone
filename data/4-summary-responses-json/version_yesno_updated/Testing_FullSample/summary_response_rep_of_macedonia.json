@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2012",
+        "supporting_text": null,
+        "country": "rep_of_macedonia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2016",
+        "supporting_text": null,
+        "country": "rep_of_macedonia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The intersectorial nature of AMR problem gives specific meaning to this Strategy, through integration of all relevant sectors.",
+        "country": "rep_of_macedonia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Specific objectives include information and education of patients and community for the importance of prudent use of antibiotics.",
+        "country": "rep_of_macedonia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes activities related to the control of supply and use of antibiotics for animals.",
+        "country": "rep_of_macedonia",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify distinct strategies targeting the environment.",
+        "country": "rep_of_macedonia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes monitoring of the use of antibiotics in animals and guidelines for veterinary medicine.",
+        "country": "rep_of_macedonia",
+        "question": 5
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention specific mechanisms for progress reporting.",
+        "country": "rep_of_macedonia",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify time-bound targets for tracking progress.",
+        "country": "rep_of_macedonia",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not provide quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "rep_of_macedonia",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify budget allocations for the strategies.",
+        "country": "rep_of_macedonia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "rep_of_macedonia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Intersectorial Commission for control of AMR shall be established by the Government of the Republic of Macedonia.",
+        "country": "rep_of_macedonia",
+        "question": 11
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention specific strategies for strengthening the legislative framework.",
+        "country": "rep_of_macedonia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Promotion of education and training of health professionals on AMR problem is included.",
+        "country": "rep_of_macedonia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Information and education of patients and community for the importance of prudent use of antibiotics is included.",
+        "country": "rep_of_macedonia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions cooperation with international institutions for AMR data and research.",
+        "country": "rep_of_macedonia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strengthening the system for AMR surveillance and control is one of the specific objectives.",
+        "country": "rep_of_macedonia",
+        "question": 16
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify actions related to developing capacity for detecting newly emerged resistance.",
+        "country": "rep_of_macedonia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes measures for infection control and prevention.",
+        "country": "rep_of_macedonia",
+        "question": 18
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention specific international standards or guidelines for AMR control.",
+        "country": "rep_of_macedonia",
+        "question": 19
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify regulations for the distribution or prescription of antibiotics.",
+        "country": "rep_of_macedonia",
+        "question": 20
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention regulations requiring rational use of antibiotics.",
+        "country": "rep_of_macedonia",
+        "question": 21
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify participation in international collaborative research.",
+        "country": "rep_of_macedonia",
+        "question": 22
+    }
+]

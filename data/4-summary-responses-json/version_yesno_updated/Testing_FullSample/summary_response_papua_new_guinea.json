@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2019",
+        "supporting_text": null,
+        "country": "papua_new_guinea",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "papua_new_guinea",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP is a multi-stakeholder plan for the sectors directly impacted by AMR; including human health, animal health, and the environment.",
+        "country": "papua_new_guinea",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, including improving awareness and understanding of antimicrobial resistance.",
+        "country": "papua_new_guinea",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen the animal health sector, including establishing baseline information for AMR in animals.",
+        "country": "papua_new_guinea",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health as part of the One Health approach, recognizing the connection between human, animal, and environmental health.",
+        "country": "papua_new_guinea",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to food safety and the use of antimicrobials in agriculture.",
+        "country": "papua_new_guinea",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines that progress reports will be compiled by the AMR Secretariat for presentation to the National AMR Steering Committee annually.",
+        "country": "papua_new_guinea",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify time-bound targets for tracking progress.",
+        "country": "papua_new_guinea",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "papua_new_guinea",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a cost summary indicating the total cost and funded amounts for the operational plan.",
+        "country": "papua_new_guinea",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a total cost summary and identifies funded and unfunded amounts for various activities.",
+        "country": "papua_new_guinea",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a National AMR Steering Committee for coordinating efforts to address AMR.",
+        "country": "papua_new_guinea",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen regulations for responsible use of antimicrobials.",
+        "country": "papua_new_guinea",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to develop educational programs on AMR for schools and health professionals.",
+        "country": "papua_new_guinea",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to conduct awareness campaigns and engage communities in combating AMR.",
+        "country": "papua_new_guinea",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions collaboration with WHO, FAO, and OIE for AMR initiatives.",
+        "country": "papua_new_guinea",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen surveillance and laboratory capacity for AMR.",
+        "country": "papua_new_guinea",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for capacity building to detect and report AMR.",
+        "country": "papua_new_guinea",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen sanitation, hygiene, and infection prevention and control across all sectors.",
+        "country": "papua_new_guinea",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "papua_new_guinea",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen regulations for the responsible use of antimicrobials.",
+        "country": "papua_new_guinea",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to promote rational use of antibiotics.",
+        "country": "papua_new_guinea",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to promote research and development in AMR.",
+        "country": "papua_new_guinea",
+        "question": 22
+    }
+]

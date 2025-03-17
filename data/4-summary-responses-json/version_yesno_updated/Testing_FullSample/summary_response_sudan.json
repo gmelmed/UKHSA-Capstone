@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2018",
+        "supporting_text": null,
+        "country": "sudan",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "sudan",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes a One Health approach through coherent, comprehensive and integrated multi-sectoral cooperation and actions, as human, animal and environmental health are interconnected.",
+        "country": "sudan",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including setting up an integrated National Surveillance System of AMR in Sudan.",
+        "country": "sudan",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the establishment and implementation of an active and integrated AMR surveillance plan for animal, agriculture and environment sectors.",
+        "country": "sudan",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health by promoting good practices at all steps of production and processing of foods from animal and plant sources.",
+        "country": "sudan",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for strengthening disease prevention and bio-security in animals, food, and agriculture.",
+        "country": "sudan",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a monitoring and evaluation plan to track progress on its strategic objectives.",
+        "country": "sudan",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific interventions with timelines for implementation.",
+        "country": "sudan",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "sudan",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an operational plan and budget section detailing financial allocations for various strategies.",
+        "country": "sudan",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a budget section that assesses future financial needs for its activities.",
+        "country": "sudan",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of a multisectorial AMR communication committee as a central coordinative body.",
+        "country": "sudan",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to review and update policies and regulations on the use and access to antimicrobials.",
+        "country": "sudan",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes initiatives to incorporate AMR and related topics as core components of health and veterinary professionals' education and training.",
+        "country": "sudan",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a comprehensive communication program for awareness and behavior change targeting various stakeholders.",
+        "country": "sudan",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP acknowledges the role of WHO, FAO, and OIE in supporting the development of the plan.",
+        "country": "sudan",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the establishment of a National Surveillance System of AMR in Sudan.",
+        "country": "sudan",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for a robust surveillance system to monitor emerging resistance.",
+        "country": "sudan",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for infection prevention and control at national, state, and healthcare facility levels.",
+        "country": "sudan",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "sudan",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the development of the National Essential Medicines List and Standard Treatment Guidelines.",
+        "country": "sudan",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antimicrobials.",
+        "country": "sudan",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP promotes investment in AMR research activities.",
+        "country": "sudan",
+        "question": 22
+    }
+]

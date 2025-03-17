@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "nauru",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "nauru",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions a Tripartite One-Health Approach to strengthen national AMR laboratory network in human, animal health and food safety sectors.",
+        "country": "nauru",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, such as improving awareness and understanding of AMR across all institutions and sectors.",
+        "country": "nauru",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to optimize the use of antimicrobial medicines in animal health.",
+        "country": "nauru",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health through strategies related to waste management and the impact of antimicrobials.",
+        "country": "nauru",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to food safety and hygiene, as well as promoting good practices in animal husbandry.",
+        "country": "nauru",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines regular monitoring and evaluation of the national action plan, including quarterly meetings to discuss progress.",
+        "country": "nauru",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific activities linked to indicators and targets to help implement the National Action Plan on AMR.",
+        "country": "nauru",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "nauru",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for sustainable investment and a budget for the implementation of the action plan.",
+        "country": "nauru",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a Costing and M&E Framework to assist in submitting for annual budgetary requirements.",
+        "country": "nauru",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP proposes the establishment of a National AMR Committee to coordinate actions.",
+        "country": "nauru",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to review and update the National Medicines Policy and legislation regarding antimicrobial use.",
+        "country": "nauru",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes developing an educational program for schools on AMR and rational use.",
+        "country": "nauru",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines plans for awareness campaigns and training for community leaders and NGOs.",
+        "country": "nauru",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP acknowledges support from WHO and other development partners in its implementation.",
+        "country": "nauru",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to develop an AMR surveillance system and strengthen laboratory capacity.",
+        "country": "nauru",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes strengthening laboratory capacity for AMR surveillance.",
+        "country": "nauru",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for infection prevention and control and promoting hygiene measures.",
+        "country": "nauru",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international guidelines and standards for AMR control.",
+        "country": "nauru",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to review and update the Essential Medicines List for antibiotics.",
+        "country": "nauru",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to enforce rational use of antimicrobials.",
+        "country": "nauru",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for collaboration in research and development related to AMR.",
+        "country": "nauru",
+        "question": 22
+    }
+]

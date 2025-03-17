@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2019",
+        "supporting_text": null,
+        "country": "syria",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2024",
+        "supporting_text": null,
+        "country": "syria",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP is tricyclic consistent with a 'One Health' approach involving human and non-human sectors.",
+        "country": "syria",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including improving AMR awareness among authorities and the public.",
+        "country": "syria",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions aimed at controlling antimicrobial use in animals and reinforcing OIE biosafety laws.",
+        "country": "syria",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health through the involvement of the Ministry of Environment and actions related to environmental health.",
+        "country": "syria",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to controlling antimicrobial use in agriculture and food security.",
+        "country": "syria",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a monitoring and evaluation plan to track progress.",
+        "country": "syria",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific activities and timelines for implementation over the next five years.",
+        "country": "syria",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "syria",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify budget allocations for the strategies or actions.",
+        "country": "syria",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not contain an assessment of future budget requirements.",
+        "country": "syria",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a National Multi-sectoral Coordination Group for AMR control.",
+        "country": "syria",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to reinforce available related legislations that were neglected during the years of conflict.",
+        "country": "syria",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to include AMR awareness in school curricula and training for healthcare professionals.",
+        "country": "syria",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for public awareness campaigns about AMR.",
+        "country": "syria",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions collaboration with WHO, FAO, and OIE for AMR initiatives.",
+        "country": "syria",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to initiate an AMR surveillance system.",
+        "country": "syria",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes capacity building for laboratories to detect and report AMR.",
+        "country": "syria",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for improving infection prevention and control (IPC) in healthcare systems.",
+        "country": "syria",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to reinforce OIE biosafety laws in the veterinary world.",
+        "country": "syria",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to regulate the dispensing of antibiotics and maintain essential medicine lists.",
+        "country": "syria",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to control the use of antibiotics in the community and restrict dispensing to prescription-based practices.",
+        "country": "syria",
+        "question": 21
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify participation in international collaborative research for new medicines or vaccines.",
+        "country": "syria",
+        "question": 22
+    }
+]

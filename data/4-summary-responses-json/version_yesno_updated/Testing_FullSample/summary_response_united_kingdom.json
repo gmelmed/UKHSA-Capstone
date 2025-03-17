@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2024",
+        "supporting_text": null,
+        "country": "united_kingdom",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2029",
+        "supporting_text": null,
+        "country": "united_kingdom",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aims to preserve the effectiveness of antimicrobials for future generations by taking a One Health approach across people, animals, food and the environment.",
+        "country": "united_kingdom",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including infection prevention and control, public engagement, and education.",
+        "country": "united_kingdom",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to support the veterinary profession and improve antimicrobial stewardship in animal health.",
+        "country": "united_kingdom",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to implement effective waste management and wastewater treatment methods to minimize dissemination of AMR into the environment.",
+        "country": "united_kingdom",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP supports efforts to optimise the use of antimicrobials in farming globally.",
+        "country": "united_kingdom",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A short report summarising progress made against the NAP will be published annually.",
+        "country": "united_kingdom",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific targets such as preventing any increase in drug-resistant infections and reducing total antibiotic use in human populations by 5%.",
+        "country": "united_kingdom",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets targets for preventing increases in specific drug-resistant infections and reducing total antibiotic use.",
+        "country": "united_kingdom",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify budget allocations for the strategies or actions.",
+        "country": "united_kingdom",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "united_kingdom",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Oversight will be provided by a UK-wide, intersectoral AMR strategy board.",
+        "country": "united_kingdom",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to promote responsible antimicrobial use and stewardship in healthcare and agriculture.",
+        "country": "united_kingdom",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to work with schools and educators to consider guidance and information on IPC and AMR.",
+        "country": "united_kingdom",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to launch and evaluate evidence-based campaigns to raise public awareness and understanding of AMR.",
+        "country": "united_kingdom",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of international collaboration and engagement with global leaders to address AMR.",
+        "country": "united_kingdom",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to enhance technical capacity for surveillance across sectors to inform intervention development.",
+        "country": "united_kingdom",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to strengthen surveillance capabilities to detect and respond to AMR threats.",
+        "country": "united_kingdom",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to improve IPC and biosecurity practices to minimize infection transmission.",
+        "country": "united_kingdom",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP supports the adoption of internationally agreed best practices, such as the Codex Alimentarius guidelines.",
+        "country": "united_kingdom",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to support appropriate prescribing and disposal of antimicrobials.",
+        "country": "united_kingdom",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of responsible antimicrobial use and stewardship in healthcare and agriculture.",
+        "country": "united_kingdom",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes commitments to fund and deliver innovative scientific research to develop vaccines, diagnostics, and antimicrobials.",
+        "country": "united_kingdom",
+        "question": 22
+    }
+]
