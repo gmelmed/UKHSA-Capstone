@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "india",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "india",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the priorities and interventions planned to be implemented over 2017-2021 to tackle the public health challenge of AMR in India. A harmonized approach across various sectors to address the use of and resistance to antimicrobial agents in human health, animal health, agriculture, food products and the environment is critical to address these strategic priorities.",
+        "country": "india",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategic priority 1 focuses on improving awareness and understanding of AMR through effective communication, education and training, and has 2 focus areas - first is communications and information, education, communication (IEC) resources to raise awareness amongst all stakeholders, and second focus area is education and training to improve the knowledge and behaviour of professionals in all sectors.",
+        "country": "india",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategic priority 4 shall optimize the use of antimicrobial agents in health, animals and food through strengthening regulations, ensuring access and surveillance of antimicrobial use, antimicrobial stewardship in healthcare as well as animal health and agriculture.",
+        "country": "india",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategic priority 3 attempts to reduce the incidence of infection through effective infection prevention and control in healthcare to reduce the burden of infection, in animal health and food to reduce spread of AMR and antimicrobials through animals and food, and in community and environment to reduce the spread of AMR and antimicrobials in the environment.",
+        "country": "india",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategic priority 4 shall optimize the use of antimicrobial agents in health, animals and food through strengthening regulations, ensuring access and surveillance of antimicrobial use, antimicrobial stewardship in healthcare as well as animal health and agriculture.",
+        "country": "india",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The M&E framework shall be finalized based on the final national action plan, and shall be developed according to the draft outline provided in the document.",
+        "country": "india",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Within each strategic priority and focus area, strategic interventions, key activities and outputs have been defined with tentative responsibility and timelines - short (within 1 year), medium (between 1 and 3 years) and long-term (between 3 and 5 years).",
+        "country": "india",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "india",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document mentions an operational plan and budget template but does not specify budget allocations.",
+        "country": "india",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements for different activities.",
+        "country": "india",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The Ministry of Health & Family Welfare notified three governance mechanisms in September 2016 to address this challenge, including the Intersectoral Coordination Committee, Technical Advisory Group and Core Working Group on AMR.",
+        "country": "india",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen national regulatory authorities for improved quality, safety and efficacy of antimicrobials.",
+        "country": "india",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to introduce the concept of AMR and appropriate use of antimicrobials as part of school curriculum.",
+        "country": "india",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a comprehensive communication programme on antimicrobial resistance and use, targeting key stakeholders.",
+        "country": "india",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes strengthening India's leadership on AMR through international collaborations to ensure India's contributions towards global efforts to contain AMR.",
+        "country": "india",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategic interventions to strengthen microbiology laboratory capacity for AMR surveillance in human, animal, food and environment sectors.",
+        "country": "india",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen knowledge and evidence through surveillance, which encompasses the detection and reporting of newly emerged resistance.",
+        "country": "india",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategic priority 3, which aims to reduce the incidence of infection through effective infection prevention and control.",
+        "country": "india",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to fast track implementation of the Codex Alimentarius and OIE guidelines on antimicrobial resistance.",
+        "country": "india",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen and enforce regulations to minimize substandard, spurious, falsely labelled and falsified antimicrobials.",
+        "country": "india",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to ensure prescription sale of antibiotics and their use under supervision.",
+        "country": "india",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to foster research and innovations to tackle AMR, including the development of new medicines and diagnostics.",
+        "country": "india",
+        "question": 22
+    }
+]

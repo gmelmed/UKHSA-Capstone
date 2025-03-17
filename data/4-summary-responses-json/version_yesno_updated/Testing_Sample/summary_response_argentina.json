@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2015",
+        "supporting_text": null,
+        "country": "argentina",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "not specified",
+        "supporting_text": null,
+        "country": "argentina",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for integrated and multisectoral actions, recognizing the strong correlation between human health and animal health.",
+        "country": "argentina",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, such as strengthening clinical, microbiological, and pharmaceutical surveillance.",
+        "country": "argentina",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines actions for the surveillance of antimicrobial resistance in animal health and production agroalimentaria.",
+        "country": "argentina",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify actions targeting the environmental sector directly.",
+        "country": "argentina",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the regulation of antimicrobial use in agriculture and food production.",
+        "country": "argentina",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a National Commission for the Control of Antimicrobial Resistance to verify compliance with the approved strategy.",
+        "country": "argentina",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify time-bound targets.",
+        "country": "argentina",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not provide quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "argentina",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not mention any specific budget allocation.",
+        "country": "argentina",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "There is no assessment of future budget requirements mentioned in the NAP.",
+        "country": "argentina",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP creates a National Commission for the Control of Antimicrobial Resistance.",
+        "country": "argentina",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the use of antimicrobials in both human and animal health.",
+        "country": "argentina",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions incorporating AMR topics into the curricula of health sciences.",
+        "country": "argentina",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP proposes campaigns to raise awareness about the responsible use of antimicrobials.",
+        "country": "argentina",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP acknowledges the need for international collaboration in addressing AMR.",
+        "country": "argentina",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of strengthening surveillance systems for AMR.",
+        "country": "argentina",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions for the early detection and reporting of emerging resistance.",
+        "country": "argentina",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies for infection prevention and control in healthcare settings.",
+        "country": "argentina",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "argentina",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the distribution and prescription of antimicrobials.",
+        "country": "argentina",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP promotes the rational use of antimicrobials through regulatory measures.",
+        "country": "argentina",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages participation in international research collaborations for AMR.",
+        "country": "argentina",
+        "question": 22
+    }
+]

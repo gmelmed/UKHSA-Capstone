@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "el_salvador",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2024",
+        "supporting_text": null,
+        "country": "el_salvador",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Este plan se construye bajo la visi\u00f3n de 'Una Salud', en el plano internacional, la OMS colabora estrechamente con la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) para proponer soluciones viables a los peligros y riesgos generados por el uso inadecuado de antibi\u00f3ticos en la producci\u00f3n de alimentos de origen animal.",
+        "country": "el_salvador",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El objetivo general del plan es garantizar el uso adecuado y acceso a los antimicrobianos, la prevenci\u00f3n, reducci\u00f3n y manejo oportuno de microorganismos multidrogoresistentes a trav\u00e9s de las acciones coordinadas de los diferentes actores que conforman la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+        "country": "el_salvador",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Plan Nacional de Acci\u00f3n Contra la Resistencia a los Antimicrobianos en Salud Humana se complementar\u00e1 con el Plan Nacional de Acci\u00f3n Contra la Resistencia a los Antimicrobianos en Salud Animal coordinado por el MAG.",
+        "country": "el_salvador",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona expl\u00edcitamente una estrategia o acci\u00f3n dirigida al sector ambiental en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Ministerio de Agricultura y Ganader\u00eda cuenta con un documento institucional para el desarrollo de objetivos y actividades espec\u00edficas encaminadas al cumplimiento de cada l\u00ednea de acci\u00f3n en el sector agropecuario.",
+        "country": "el_salvador",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El seguimiento tiene como objetivo verificar que las acciones de cada l\u00ednea estrat\u00e9gica planificadas descritas en este plan se ejecuten en la direcci\u00f3n deseada, para este fin se desarrollar\u00e1n reuniones de seguimiento de la Comisi\u00f3n Nacional contra la RAM.",
+        "country": "el_salvador",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se especifican objetivos concretos y con plazos en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se mencionan objetivos cuantitativos espec\u00edficos para la prevalencia de RAM y el uso de antimicrobianos.",
+        "country": "el_salvador",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se proporciona informaci\u00f3n sobre la asignaci\u00f3n de presupuesto en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona una evaluaci\u00f3n de los requisitos presupuestarios futuros en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "La Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos est\u00e1 integrada por diversas instituciones, incluyendo el Ministerio de Salud, el Ministerio de Agricultura y Ganader\u00eda, y otros actores relevantes.",
+        "country": "el_salvador",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de contar con la reglamentaci\u00f3n jur\u00eddica y las herramientas de vigilancia y control adecuado para garantizar el cumplimiento de las acciones.",
+        "country": "el_salvador",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Instituto Salvadore\u00f1o de Bienestar Magisterial implementar\u00e1 campa\u00f1as de educaci\u00f3n para el uso adecuado de antimicrobianos y elaborar\u00e1 cursos sobre resistencia antimicrobiana.",
+        "country": "el_salvador",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona la planificaci\u00f3n interinstitucional de la celebraci\u00f3n de la campa\u00f1a de concientizaci\u00f3n del uso adecuado de antibi\u00f3ticos.",
+        "country": "el_salvador",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la colaboraci\u00f3n con la OMS, FAO y OIE para abordar la resistencia a los antimicrobianos.",
+        "country": "el_salvador",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Ministerio de Salud cuenta desde el 2015 con una herramienta en l\u00ednea para la difusi\u00f3n y reporte de la resistencia bacteriana: resistenciabacteriana.salud.gob.sv.",
+        "country": "el_salvador",
+        "question": 16
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona espec\u00edficamente el desarrollo de capacidades para detectar y reportar nuevas resistencias que constituyan una emergencia de salud p\u00fablica.",
+        "country": "el_salvador",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP incluye medidas eficaces de saneamiento, higiene y prevenci\u00f3n de infecciones como parte de sus objetivos espec\u00edficos.",
+        "country": "el_salvador",
+        "question": 18
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona la implementaci\u00f3n de est\u00e1ndares y directrices internacionales espec\u00edficas en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos y la regulaci\u00f3n de su uso.",
+        "country": "el_salvador",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El NAP menciona la necesidad de contar con la reglamentaci\u00f3n jur\u00eddica y las herramientas de vigilancia y control adecuado para garantizar el cumplimiento de las acciones.",
+        "country": "el_salvador",
+        "question": 21
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona la participaci\u00f3n en investigaciones colaborativas internacionales en el contenido proporcionado.",
+        "country": "el_salvador",
+        "question": 22
+    }
+]

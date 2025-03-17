@@ -1,0 +1,425 @@
+[
+    {
+        "country": "el_salvador",
+        "question": "period_start",
+        "answer": 2022
+    },
+    {
+        "country": "el_salvador",
+        "question": "period_end",
+        "answer": 2024
+    },
+    {
+        "country": "el_salvador",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Este plan se construye bajo la visi\u00f3n de 'Una Salud', en el plano internacional, la OMS colabora estrechamente con la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) para proponer soluciones viables a los peligros y riesgos generados por el uso inadecuado de antibi\u00f3ticos en la producci\u00f3n de alimentos de origen animal.",
+            "La Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos est\u00e1 integrada por instituciones de salud, agricultura y educaci\u00f3n, y se menciona la colaboraci\u00f3n con la FAO y la OIE, lo que indica un enfoque de One Health al abordar la resistencia bacteriana en m\u00faltiples sectores.",
+            "El Viceministerio de Servicios de Salud a trav\u00e9s de la Direcci\u00f3n Nacional de Enfermedades Infecciosas y su Programa de control de Infecciones Asociadas a la Atenci\u00f3n Sanitaria y Resistencia Bacteriana, comienza con la revisi\u00f3n e integraci\u00f3n de ambos planes tanto de salud humana como animal.",
+            "la salud humana est\u00e1 en estrecha relaci\u00f3n con las actividades que se desarrollan en el sector agropecuario y particularmente con las medidas de prevenci\u00f3n, control y erradicaci\u00f3n de las plagas y enfermedades de los vegetales y animales que afectan la producci\u00f3n.",
+            "Entendiendo que las consecuencias de la RAM repercuten principalmente en la salud humana, pero los factores que repercuten en la misma van m\u00e1s all\u00e1 de las acciones en medicina, se requiere una visi\u00f3n integral que aborde estrategias de intervenci\u00f3n tanto en educaci\u00f3n, agricultura, econom\u00eda, medio ambiente la interrelaci\u00f3n de diferentes sectores de la sociedad propone intervenciones eficaces para un problema com\u00fan que afecta a todos.",
+            "el Plan Nacional de Acci\u00f3n Contra la Resistencia a Antimicrobianos en Salud Humana se complementar\u00e1 con el Plan Nacional de Acci\u00f3n Contra la Resistencia a Antimicrobianos en Salud Animal coordinado por el MAG.",
+            "El Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Humana ha sido el resultado del aporte y participaci\u00f3n de todas las instituciones representadas en la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos. El proceso de elaboraci\u00f3n de este plan inici\u00f3 en 2021, cuando la Comisi\u00f3n Nacional retoma sus funciones, se decide realizar una actualizaci\u00f3n del plan con el aporte de cada uno de los miembros, incorporando los elementos contenidos en el Plan institucional contra la RAM del Ministerio de Agricultura y Ganader\u00eda, trabajando en conjunto la integraci\u00f3n de ambos planes con La Oficina Nacional de Enfermedades Infecciosas de MINSAL, Ministerio de Agricultura y Ganader\u00eda, Direcci\u00f3n Nacional de Medicamentos y el Organismo Internacional Regional de Sanidad Agropecuaria.",
+            "Continuar con la iniciativa de agregar temas para la concientizaci\u00f3n de la importancia de optimizar el uso de antibi\u00f3ticos y reducir la RAM, dentro de las asignaturas del plan de estudios de las carreras de: Doctorado en Medicina, Licenciatura en Enfermer\u00eda, Licenciatura en Laboratorio Cl\u00ednico, Licenciatura en Qu\u00edmica y Farmacia, Medicina Veterinaria, Ingenier\u00eda en Alimentos.",
+            "Creaci\u00f3n del Plan Nacional contra la Resistencia a los Antimicrobianos de Uso Animal, como complemento del Plan Nacional contra la RAM de uso humano, a trav\u00e9s de la gesti\u00f3n de alianzas con otras instituciones oficiales y con organismos internacionales de la alianza tripartida y sus socios estrat\u00e9gicos, para objetivos espec\u00edficos reflejados en el plan.",
+            "Promoci\u00f3n de buenas pr\u00e1cticas en los sistemas de producci\u00f3n pecuaria para reducir incidencia de infecciones, e incentivar el uso prudente de antimicrobianos.",
+            "Campa\u00f1as de educaci\u00f3n sobre el uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogo resistentes, dirigidas a profesionales veterinarios, profesionales de la agroindustria y de la producci\u00f3n de alimentos de origen animal.",
+            "microorganismos multidrogo resistentes y consumo de antimicrobianos de uso veterinario, agroindustria y producci\u00f3n de alimentos de origen animal, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales veterinarios y de la salud humana involucrados en la toma de decisiones.",
+            "microorganismos multidrogo resistentes y consumo de antimicrobianos de uso veterinario, agroindustria y producci\u00f3n de alimentos de origen animal, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales veterinarios y de la salud humana involucrados en la toma de decisiones.",
+            "Actualizaci\u00f3n de documentaci\u00f3n regulatoria y sistemas de vigilancia de microorganismos multidrogo resistentes en veterinaria, agroindustria y producci\u00f3n de alimentos de origen animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal."
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "se hace necesario elaborar el Plan nacional contra la resistencia a los antimicrobianos en salud humana 2022 2024, con el objetivo de garantizar el adecuado uso y acceso de antimicrobianos; la prevenci\u00f3n, contenci\u00f3n y manejo oportuno de microorganismos multidrogoresistentes",
+            "El presente Plan nacional contra la resistencia a los antimicrobianos, tiene como objetivo prevenir las enfermedades infecciosas, asegurando el uso adecuado de los tratamientos con medicamentos eficaces, seguros y de calidad garantizada, que se usen de modo responsable, tanto para el tratamiento de enfermedades infecciosas en humanos.",
+            "Debido a los reportes de la red Nacional de Laboratorios de Bacteriolog\u00eda de microorganismos que afectan al humano con perfiles de resistencia cada vez m\u00e1s amplios, y en consonancia con las recomendaciones emitidas por la 68\u00aa Asamblea Mundial de la Salud, se presenta el proyecto elaborado tras un proceso consultivo de los representantes del Ministerio de Salud con la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (FAO), y la Organizaci\u00f3n Mundial de Salud Animal (OIE), adoptando este proyecto como Plan de Acci\u00f3n Nacional contra la Resistencia Bacteriana para El Salvador.",
+            "El Viceministerio de Servicios de Salud a trav\u00e9s de la Direcci\u00f3n Nacional de Enfermedades Infecciosas y su Programa de control de Infecciones Asociadas a la Atenci\u00f3n Sanitaria y Resistencia Bacteriana, comienza con la revisi\u00f3n e integraci\u00f3n de ambos planes tanto de salud humana como animal.",
+            "El Ministerio de Salud cuenta desde el 2015, con una herramienta en l\u00ednea para la difusi\u00f3n y reporte de la resistencia bacteriana: resistenciabacteriana.salud.gob.sv, conocida como Cubo Bacteriol\u00f3gico.",
+            "Al reducir este riesgo, y con la implementaci\u00f3n de medidas espec\u00edficas de control de IAAS y prevenci\u00f3n y contenci\u00f3n de la RAM en hospitales, se estar\u00e1 incidiendo directamente en el n\u00famero de infecciones en humanos ocasionadas por microorganismos MDR.",
+            "Garantizar el uso adecuado y acceso a los antimicrobianos, la prevenci\u00f3n, reducci\u00f3n y manejo oportuno de microorganismos multidrogoresistentes a trav\u00e9s de las acciones coordinadas de los diferentes actores que conforman la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "LE3: Reducir la incidencia de infecciones asociadas a microorganismos multi drogo resistentes en los centros de salud mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "El Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Humana ha sido el resultado del aporte y participaci\u00f3n de todas las instituciones representadas en la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "Optimizar el uso de medicamentos antimicrobianos en la salud humana a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "Desarrollar campa\u00f1as de educaci\u00f3n del uso de antimicrobianos y la relaci\u00f3n con microorganismos multi drogo resistentes, dirigidas a profesionales de la salud y usuarios de servicios de salud.",
+            "Dise\u00f1o de cursos de RAM para profesionales de la salud.",
+            "El Ministerio de Salud, a trav\u00e9s de la Oficina de Enfermedades Infecciosas como ente rector, coordinar\u00e1, dar\u00e1 seguimiento al cumplimiento de las acciones detalladas en cada l\u00ednea estrat\u00e9gica",
+            "Fortalecer la implantaci\u00f3n de programas integrales de optimizaci\u00f3n de antimicrobianos que sean eficaces en el contexto local y facilitar las herramientas de evaluaci\u00f3n peri\u00f3dica a nivel nacional; as\u00ed como proporcionar el dise\u00f1o de un plan gradual de monitoreo y supervisi\u00f3n del grado de implantaci\u00f3n de los elementos b\u00e1sicos que son necesarios a escala nacional en los establecimientos de salud.",
+            "Campa\u00f1as de educaci\u00f3n del uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogoresistentes dirigidas a profesionales de la salud y usuarios de servicios de salud.",
+            "Campa\u00f1as de educaci\u00f3n del uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogoresistentes dirigidas a profesionales de la salud y usuarios de servicios de salud.",
+            "Creaci\u00f3n de cursos, talleres y aulas virtuales para educaci\u00f3n de profesionales de la salud y poblaci\u00f3n general sobre el uso adecuado de antimicrobianos y prevenci\u00f3n de microorganismos multidrogo resistentes.",
+            "Creaci\u00f3n de cursos, talleres y aulas virtuales para educaci\u00f3n de profesionales de la salud y poblaci\u00f3n general sobre el uso adecuado de antimicrobianos y prevenci\u00f3n de microorganismos multidrogo resistentes.",
+            "Vigilancia de las correctas pr\u00e1cticas de los profesionales de la salud sobre el tema del uso adecuado de antimicrobianos y manejo de microorganismos multidrogo resistentes.",
+            "Incentivar a la investigaci\u00f3n cient\u00edfica en salud relacionada con el uso adecuado de antimicrobianos y el manejo de infecciones multidrogo resistentes a trav\u00e9s de entrenamientos, cursos, talleres y congresos nacionales o internacionales de actualizaci\u00f3n para profesionales de la salud.",
+            "Facilitar las herramientas para la investigaci\u00f3n y generaci\u00f3n de conocimiento cient\u00edfico especialmente relacionado con el tema de uso adecuado de antimicrobianos, nuevos antimicrobianos y microorganismos multidrogo resistentes en salud humana y animal.",
+            "LE3: Reducir la  incidencia de  infecciones asociadas a  microorganismos  multidrogo resistentes  en los centros de salud  mediante el  seguimiento de los  comit\u00e9s de prevenci\u00f3n  IAAS, PCI y PROA",
+            "LE3: Reducir la  incidencia de  infecciones asociadas a  microorganismos  multidrogo resistentes  en los centros de salud  mediante el  seguimiento de los  comit\u00e9s de prevenci\u00f3n  IAAS, PCI y PROA",
+            "LE3: Reducir la incidencia de infecciones asociadas a microorganismos multidrogo resistentes en los centros de salud mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Asegurar la autosostenibilidad antimicrobianos; prevenci\u00f3n, identificaci\u00f3n y tratamiento oportuno y adecuado de microorganismos multidrogo resistentes y otras medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "Asegurar la autosostenibilidad antimicrobianos; prevenci\u00f3n, identificaci\u00f3n y tratamiento oportuno y adecuado de microorganismos multidrogo resistentes y otras medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "Asegurar la autosostenibilidad antimicrobianos; prevenci\u00f3n, identificaci\u00f3n y tratamiento oportuno y adecuado de microorganismos multidrogo resistentes y otras medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "Elaboraci\u00f3n de gu\u00edas terap\u00e9uticas y de optimizaci\u00f3n del uso, normas e instrumentos de implantaci\u00f3n nacionales",
+            "Orientaci\u00f3n sobre la disponibilidad y el uso correcto de los medios de diagn\u00f3stico en las decisiones terap\u00e9uticas, entrevistas con las partes interesadas pertinentes y pruebas del soporte laboratorial",
+            "LME y sistema AWaRe de la OMS integrados en la farmacopea nacional de medicamentos esenciales y en las gu\u00edas terap\u00e9uticas",
+            "Principios de la modificaci\u00f3n de h\u00e1bitos incorporados a las pol\u00edticas pertinentes",
+            "Fortalecimiento de la capacidad del personal de salud mediante la impartici\u00f3n de m\u00f3dulos educativos y formativos acordes con el cargo y las funciones de cada profesional",
+            "Fortalecimiento de la capacidad del personal de salud mediante la impartici\u00f3n de m\u00f3dulos educativos y formativos acordes con el cargo y las funciones de cada profesional",
+            "Existencia de un curr\u00edculo educativo para los futuros profesionales de la salud que incluya los principios de la optimizaci\u00f3n de los antimicrobianos",
+            "Programas de formaci\u00f3n continua, curr\u00edculo de desarrollo profesional continuo para cada colectivo profesional de la salud",
+            "Mejora de las medidas WASH en los establecimientos de salud y en las comunidades",
+            "Implantaci\u00f3n de los componentes b\u00e1sicos de PCI en los establecimientos de salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El presente Plan nacional contra la resistencia a los antimicrobianos, tiene como objetivo prevenir las enfermedades infecciosas, asegurando el uso adecuado de los tratamientos con medicamentos eficaces, seguros y de calidad garantizada, que se usen de modo responsable, tanto para el tratamiento de enfermedades infecciosas en humanos y animales, as\u00ed como para garantizar la producci\u00f3n de alimentos.",
+            "Se nombra una subcomisi\u00f3n dentro de la CNRB, conformada por los representantes de las siguientes instituciones MAG, OIRSA, UES, DNM y MINSAL; para revisar y analizar los procesos relacionados a la autorizaci\u00f3n para la comercializaci\u00f3n de antibi\u00f3ticos de uso en animales.",
+            "la utilizaci\u00f3n de antibi\u00f3ticos en la agroindustria y salud animal.",
+            "A pesar de estar contemplado en la ley, en la actualidad no existe regulaci\u00f3n que limite la comercializaci\u00f3n de antibi\u00f3ticos de uso en humanos si estos son utilizados como premezcla de alimentos para animales, siempre y cuando se cuente con los permisos vigentes para la importaci\u00f3n de dichos productos.",
+            "Establecer medidas eficaces de control para la utilizaci\u00f3n de antibi\u00f3ticos en la agroindustria y en veterinaria, es una estrategia importante para reducir el riesgo de selecci\u00f3n y diseminaci\u00f3n de agentes bacterianos multirresistentes que afecten la salud humana.",
+            "el Plan Nacional de Acci\u00f3n Contra la Resistencia a Antimicrobianos en Salud Animal coordinado por el MAG.",
+            "Este plan se complementar\u00e1 con el Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Animal coordinado por el Ministerio de Agricultura y Ganader\u00eda, OIE, OIRSA y FAO.",
+            "Creaci\u00f3n del Plan Nacional contra la Resistencia a los Antimicrobianos de Uso Animal, como complemento del Plan Nacional contra la RAM de uso humano, a trav\u00e9s de la gesti\u00f3n de alianzas con otras instituciones oficiales y con organismos internacionales de la alianza tripartida y sus socios estrat\u00e9gicos, para objetivos espec\u00edficos reflejados en el plan.",
+            "Promoci\u00f3n de buenas pr\u00e1cticas en los sistemas de producci\u00f3n pecuaria para reducir incidencia de infecciones, e incentivar el uso prudente de antimicrobianos.",
+            "Campa\u00f1as de educaci\u00f3n sobre el uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogo resistentes, dirigidas a profesionales veterinarios, profesionales de la agroindustria y de la producci\u00f3n de alimentos de origen animal.",
+            "microorganismos multidrogo resistentes y consumo de antimicrobianos de uso veterinario, agroindustria y producci\u00f3n de alimentos de origen animal, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales veterinarios y de la salud humana involucrados en la toma de decisiones.",
+            "Facilitar las herramientas para la investigaci\u00f3n y generaci\u00f3n de conocimiento cient\u00edfico especialmente relacionado con el tema de uso adecuado de antimicrobianos, nuevos antimicrobianos y microorganismos multidrogo resistentes en salud humana y animal.",
+            "Actualizaci\u00f3n de documentaci\u00f3n regulatoria y sistemas de vigilancia de microorganismos multidrogo resistentes en veterinaria, agroindustria y producci\u00f3n de alimentos de origen animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Establecer medidas reguladoras de fiscalizaci\u00f3n para la venta y dispensa de antimicrobianos para uso veterinario. Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos de uso veterinario o en la producci\u00f3n de alimentos de origen animal a nivel pa\u00eds, de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal."
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Se nombra una subcomisi\u00f3n dentro de la CNRB, conformada por los representantes de las siguientes instituciones MAG, OIRSA, UES, DNM y MINSAL; para revisar y analizar los procesos relacionados a la autorizaci\u00f3n para la comercializaci\u00f3n de antibi\u00f3ticos de uso en animales.",
+            "otro factor que est\u00e1 presentando mucha influencia en el ambiente, es la utilizaci\u00f3n de antibi\u00f3ticos en la agroindustria y salud animal.",
+            "A pesar de estar contemplado en la ley, en la actualidad no existe regulaci\u00f3n que limite la comercializaci\u00f3n de antibi\u00f3ticos de uso en humanos si estos son utilizados como premezcla de alimentos para animales, siempre y cuando se cuente con los permisos vigentes para la importaci\u00f3n de dichos productos.",
+            "Actualizaci\u00f3n de documentaci\u00f3n regulatoria y sistemas de vigilancia de microorganismos multidrogo resistentes en veterinaria, agroindustria y producci\u00f3n de alimentos de origen animal.",
+            "PILAR 4: Fortalecer las medidas destinadas a mejorar el acceso al agua potable, el saneamiento y la higiene, as\u00ed como las destinadas a la prevenci\u00f3n y el control de las infecciones",
+            "PILAR 4: Fortalecer las medidas destinadas a mejorar el acceso al agua potable, el saneamiento y la higiene, as\u00ed como las destinadas a la prevenci\u00f3n y el control de las infecciones"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El presente Plan nacional contra la resistencia a los antimicrobianos, tiene como objetivo prevenir las enfermedades infecciosas, asegurando el uso adecuado de los tratamientos con medicamentos eficaces, seguros y de calidad garantizada, que se usen de modo responsable, tanto para el tratamiento de enfermedades infecciosas en humanos y animales, as\u00ed como para garantizar la producci\u00f3n de alimentos.",
+            "Se nombra una subcomisi\u00f3n dentro de la CNRB, conformada por los representantes de las siguientes instituciones MAG, OIRSA, UES, DNM y MINSAL; para revisar y analizar los procesos relacionados a la autorizaci\u00f3n para la comercializaci\u00f3n de antibi\u00f3ticos de uso en animales.",
+            "la utilizaci\u00f3n de antibi\u00f3ticos en la agroindustria y salud animal.",
+            "A pesar de estar contemplado en la ley, en la actualidad no existe regulaci\u00f3n que limite la comercializaci\u00f3n de antibi\u00f3ticos de uso en humanos si estos son utilizados como premezcla de alimentos para animales, siempre y cuando se cuente con los permisos vigentes para la importaci\u00f3n de dichos productos.",
+            "Establecer medidas eficaces de control para la utilizaci\u00f3n de antibi\u00f3ticos en la agroindustria y en veterinaria, es una estrategia importante para reducir el riesgo de selecci\u00f3n y diseminaci\u00f3n de agentes bacterianos multirresistentes que afecten la salud humana.",
+            "Debido a la diversidad de componentes relacionados con la vigilancia de la resistencia a antimicrobianos de uso en animales y a la iniciativa del Ministerio de Agricultura y Ganader\u00eda en conjunto con otras organizaciones como la OIE, FAO y OIRSA para la elaboraci\u00f3n de estrategias espec\u00edficas y dirigidas para este lucha, el Plan Nacional de Acci\u00f3n Contra la Resistencia a Antimicrobianos en Salud Humana se complementar\u00e1 con el Plan Nacional de Acci\u00f3n Contra la Resistencia a Antimicrobianos en Salud Animal coordinado por el MAG.",
+            "incorporando los elementos contenidos en el Plan institucional contra la RAM del Ministerio de Agricultura y Ganader\u00eda, trabajando en conjunto la integraci\u00f3n de ambos planes con La Oficina Nacional de Enfermedades Infecciosas de MINSAL, Ministerio de Agricultura y Ganader\u00eda, Direcci\u00f3n Nacional de Medicamentos y el Organismo Internacional Regional de Sanidad Agropecuaria.",
+            "Creaci\u00f3n del Plan Nacional contra la Resistencia a los Antimicrobianos de Uso Animal, como complemento del Plan Nacional contra la RAM de uso humano, a trav\u00e9s de la gesti\u00f3n de alianzas con otras instituciones oficiales y con organismos internacionales de la alianza tripartida y sus socios estrat\u00e9gicos, para objetivos espec\u00edficos reflejados en el plan.",
+            "4. Promoci\u00f3n de buenas pr\u00e1cticas en los sistemas de producci\u00f3n pecuaria para reducir incidencia de infecciones, e incentivar el uso prudente de antimicrobianos.",
+            "Campa\u00f1as de educaci\u00f3n sobre el uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogo resistentes, dirigidas a profesionales veterinarios, profesionales de la agroindustria y de la producci\u00f3n de alimentos de origen animal.",
+            "microorganismos multidrogo resistentes y consumo de antimicrobianos de uso veterinario, agroindustria y producci\u00f3n de alimentos de origen animal, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales veterinarios y de la salud humana involucrados en la toma de decisiones.",
+            "microorganismos multidrogo resistentes y consumo de antimicrobianos de uso veterinario, agroindustria y producci\u00f3n de alimentos de origen animal, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales veterinarios y de la salud humana involucrados en la toma de decisiones.",
+            "Actualizaci\u00f3n de documentaci\u00f3n regulatoria y sistemas de vigilancia de microorganismos multidrogo resistentes en veterinaria, agroindustria y producci\u00f3n de alimentos de origen animal.",
+            "Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos de uso veterinario o en la producci\u00f3n de alimentos de origen animal a nivel pa\u00eds, de f\u00e1cil acceso y disponibilidad para la toma de decisiones."
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El Ministerio de Salud cuenta desde el 2015, con una herramienta en l\u00ednea para la difusi\u00f3n y reporte de la resistencia bacteriana: resistenciabacteriana.salud.gob.sv, conocida como Cubo Bacteriol\u00f3gico.",
+            "Realiz\u00e1ndose evaluaciones peri\u00f3dicas y una evaluaci\u00f3n anual a realizarse durante el \u00faltimo mes de cada a\u00f1o.",
+            "El Ministerio de Salud, a trav\u00e9s de la Oficina de Enfermedades Infecciosas como ente rector, coordinar\u00e1, dar\u00e1 seguimiento al cumplimiento de las acciones detalladas en cada l\u00ednea estrat\u00e9gica, convocar\u00e1 a reuniones de evaluaci\u00f3n para el an\u00e1lisis de resultados a los referentes de la Comisi\u00f3n Nacional contra la RAM, para la presentaci\u00f3n de los avances en la implementaci\u00f3n y ejecuci\u00f3n de cada l\u00ednea estrat\u00e9gica para analizar su impacto para el logro de objetivos y metas.",
+            "La herramienta puede aplicarse con periodicidad anual o trimestral o integrarse en una revisi\u00f3n m\u00e1s amplia ya existente, que forme parte de la respuesta nacional a la resistencia a los antimicrobianos.",
+            "Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos a nivel pa\u00eds de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "Plan de seguimiento y evaluaci\u00f3n que incluya el seguimiento de las medidas para la optimizaci\u00f3n de los antimicrobianos",
+            "Plan de seguimiento y evaluaci\u00f3n que incluya el seguimiento de las medidas para la optimizaci\u00f3n de los antimicrobianos",
+            "existencia de un plan de refuerzo de la capacidad laboratorial; informes de los progresos en"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el Plan nacional contra la resistencia a los antimicrobianos en salud humana 2022 2024",
+            "el Plan de Acci\u00f3n para la Contenci\u00f3n de la Resistencia Bacteriana, el cual se ejecutar\u00e1 en un periodo de 3 a\u00f1os, estableciendo 5 l\u00edneas estrat\u00e9gicas de acci\u00f3n.",
+            "Las acciones contempladas dentro del Plan de Acci\u00f3n se realizar\u00e1n de forma escalonada en un periodo de tres a\u00f1os a partir de 2022. Realiz\u00e1ndose evaluaciones peri\u00f3dicas y una evaluaci\u00f3n anual a realizarse durante el \u00faltimo mes de cada a\u00f1o.",
+            "Al final del periodo de tres a\u00f1os, la Comisi\u00f3n contra la Resistencia Antimicrobianos realizar\u00e1 una evaluaci\u00f3n de logros alcanzados y la programaci\u00f3n de actividades para la continuidad durante el periodo 2025 2027.",
+            "Realizaci\u00f3n de actividades de educaci\u00f3n y promoci\u00f3n del uso adecuado de antimicrobianos y la prevenci\u00f3n de microorganismos multidrogo resistentes dentro del marco de la celebraci\u00f3n de la semana de concientizaci\u00f3n del uso adecuado de antimicrobianos (noviembre 2021 - 2024).",
+            "Realizaci\u00f3n de actividades de educaci\u00f3n y promoci\u00f3n del uso adecuado de antimicrobianos y la prevenci\u00f3n de microorganismos multidrogo resistentes dentro del marco de la celebraci\u00f3n de la semana de concientizaci\u00f3n del uso adecuado de antimicrobianos (noviembre 2021 - 2024).",
+            "\u00bfExiste un marco de seguimiento y evaluaci\u00f3n y se han fijado objetivos nacionales en materia de optimizaci\u00f3n de los antimicrobianos que est\u00e9n basados en indicadores nacionales e internacionales reconocidos?"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 8,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "el_salvador",
+        "question": 9,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "el_salvador",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "el_salvador",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Comit\u00e9 Consultivo",
+            "se hace necesario elaborar el Plan nacional contra la resistencia a los antimicrobianos en salud humana 2022 2024, con el objetivo de garantizar el adecuado uso y acceso de antimicrobianos; la prevenci\u00f3n, contenci\u00f3n y manejo oportuno de microorganismos multidrogoresistentes a trav\u00e9s de las acciones coordinadas de los diferentes actores que conforman la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "en este plan nacional se contempla la participaci\u00f3n de diversas instituciones relacionadas con la prestaci\u00f3n de servicios de salud, producci\u00f3n de alimentos e instituciones formadoras de recursos humanos en salud, coordinadas todas por la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "Se conforma la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos (CNRB), integrada por las siguientes instituciones: MINSAL, MAG, CSSP, ISSS, DNM, BSM, ISBM, Universidad de El Salvador, Colegio M\u00e9dico de El Salvador, Asociaci\u00f3n Salvadore\u00f1a de Infectolog\u00eda, Asociaci\u00f3n de Microbiolog\u00eda de El Salvador, Foro Nacional, OPS.",
+            "f. 2021. Reactivaci\u00f3n de la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos y la Elaboraci\u00f3n del presente Plan Nacional.",
+            "la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos",
+            "El Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Humana ha sido el resultado del aporte y participaci\u00f3n de todas las instituciones representadas en la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "Continuar con la coordinaci\u00f3n de las actividades de la Comisi\u00f3n Nacional contra la RAM y el seguimiento de las actividades programadas para el Plan Nacional contra la RAM 2022 2024.",
+            "Creaci\u00f3n del comit\u00e9 regulatorio de antibi\u00f3ticos en base a los lineamientos nacionales de PROA y de PCI, en base a los lineamientos nacionales.",
+            "Creaci\u00f3n de comit\u00e9 t\u00e9cnico interno para el tema de RAM, con presencia de delegado Departamento de Inspecci\u00f3n de Productos de Origen Animal (DIPOA).",
+            "la programaci\u00f3n de actividades para la continuidad durante el periodo 2025 2027 se realizar\u00e1 por los delegados de las instituciones y organizaciones que conforman la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos",
+            "la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos la cual est\u00e1 integrada por 13 referentes, por acuerdo ministerial, en respuesta para combatir la resistencia a los antimicrobianos a trav\u00e9s de la implementaci\u00f3n del Plan de Acci\u00f3n",
+            "mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "Elaborar v\u00edas de comunicaci\u00f3n y de participaci\u00f3n intersectorial para el apoyo en la identificaci\u00f3n de necesidades de pa\u00eds relacionadas con el uso adecuado de antimicrobianos",
+            "Elaborar v\u00edas de comunicaci\u00f3n y de participaci\u00f3n intersectorial para el apoyo en la identificaci\u00f3n de necesidades de pa\u00eds relacionadas con el uso adecuado de antimicrobianos y la identificaci\u00f3n, prevenci\u00f3n y manejo de microorganismos multidrogo resistentes a nivel pa\u00eds.",
+            "Creaci\u00f3n y mantenimiento de mecanismos nacionales de coordinaci\u00f3n para la optimizaci\u00f3n de los antimicrobianos que sean operativos a escala nacional, subnacional y distrital",
+            "Creaci\u00f3n y mantenimiento de mecanismos nacionales de coordinaci\u00f3n para la optimizaci\u00f3n de los antimicrobianos que sean operativos a escala nacional, subnacional y distrital",
+            "\u00bfHa creado la unidad central de coordinaci\u00f3n nacional un mecanismo de coordinaci\u00f3n nacional para las medidas integrales de optimizaci\u00f3n de antimicrobianos que cuente con miembros de procedencia diversa, como de la sociedad civil o del sector privado?"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "IV. Que en la Ley del Sistema Nacional Integrado de salud en su cap\u00edtulo V, art\u00edculo 23 define en el \u00e1mbito de la intersectorialidad, los mecanismos de coordinaci\u00f3n en el que el ente Ministerio de Salud determinar\u00e1 las acciones y mecanismos de coordinaci\u00f3n necesarios, para el involucramiento progresivo de los integrantes y colaboradores del Sistema en el proceso de toma de decisiones, buscando soluciones efectivas de los problemas, para lo cual es necesario generar espacios adecuados de di\u00e1logo y concertaci\u00f3n, para compartir liderazgos entre las instituciones, recursos, l\u00edneas estrat\u00e9gicas, oportunidades; y realizar una planificaci\u00f3n nacional.",
+            "proporcionando las herramientas de vigilancia, regulaci\u00f3n y fiscalizaci\u00f3n para la producci\u00f3n y comercializaci\u00f3n de los antimicrobianos utilizados tanto en salud humana, salud veterinaria y producci\u00f3n de alimentos de origen animal.",
+            "Se nombra una subcomisi\u00f3n dentro de la CNRB, conformada por los representantes de las siguientes instituciones MAG, OIRSA, UES, DNM y MINSAL; para revisar y analizar los procesos relacionados a la autorizaci\u00f3n para la comercializaci\u00f3n de antibi\u00f3ticos de uso en animales.",
+            "A esto se suma la necesidad de contar con la reglamentaci\u00f3n jur\u00eddica y las herramientas de vigilancia y control adecuado para garantizar el cumplimiento de las acciones",
+            "Optimizar el uso de medicamentos antimicrobianos en la salud humana a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos. Institucionalizar las medidas de fiscalizaci\u00f3n en la prescripci\u00f3n de antimicrobianos en todas las redes de salud, a nivel nacional.",
+            "Crear la normativa para la prevenci\u00f3n de infecciones, el plan de control de infecciones y el PROA, bas\u00e1ndose en l\u00edneas estrat\u00e9gicas del MINSAL.",
+            "Fortalecimiento de marco regulatorio con asesor\u00eda de otras entidades oficiales con experiencia en el tema (DNM, MINSAL).",
+            "Es responsabilidad del personal del Sistema Nacional Integrado de Salud dar cumplimiento al presente plan de acci\u00f3n, caso contrario se aplicar\u00e1n las sanciones establecidas en la legislaci\u00f3n administrativa respectiva.",
+            "Actualizaci\u00f3n y difusi\u00f3n de normas, lineamientos t\u00e9cnicos, gu\u00edas terap\u00e9uticas y otras relacionadas con el tratamiento de enfermedades infecciosas y uso de antimicrobianos.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "Establecer medidas reguladoras de fiscalizaci\u00f3n para la venta y dispensa de antimicrobianos para uso veterinario.",
+            "Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos a nivel pa\u00eds de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "Existencia de leyes o reglamentos que proh\u00edban la dispensaci\u00f3n de antimicrobianos sin una receta expedida por un profesional de la salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Incorporaci\u00f3n de la tem\u00e1tica de Resistencia Antimicrobianos y Microorganismos multirresistentes en la formaci\u00f3n de carreras de pregrado en formaci\u00f3n de la salud",
+            "Mejorar la conciencia y la comprensi\u00f3n de la resistencia a los antimicrobianos mediante una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n eficaces.",
+            "Mejorar la conciencia y la comprensi\u00f3n de la resistencia a los antimicrobianos mediante una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n eficaces.",
+            "Mejorar la difusi\u00f3n de conocimiento, concienciaci\u00f3n y la comprensi\u00f3n con respecto al uso adecuado de antimicrobianos y la existencia de microorganismos multidrogoresistentes a trav\u00e9s de campa\u00f1as de comunicaci\u00f3n y educaci\u00f3n formal.",
+            "Dise\u00f1o de cursos de RAM para profesionales de la salud.",
+            "Continuar con la iniciativa de agregar temas para la concientizaci\u00f3n de la importancia de optimizar el uso de antibi\u00f3ticos y reducir la RAM, dentro de las asignaturas del plan de estudios de las carreras de: Doctorado en Medicina, Licenciatura en Enfermer\u00eda, Licenciatura en Laboratorio Cl\u00ednico, Licenciatura en Qu\u00edmica y Farmacia, Medicina Veterinaria, Ingenier\u00eda en Alimentos.",
+            "b. Capacitaci\u00f3n a profesionales, mediante la organizaci\u00f3n y la realizaci\u00f3n de talleres, conferencias y simposios que promuevan el uso prudente de los agentes antimicrobianos.",
+            "Creaci\u00f3n de cursos, talleres y aulas virtuales para educaci\u00f3n de profesionales de la salud y poblaci\u00f3n general sobre el uso adecuado de antimicrobianos y prevenci\u00f3n de microorganismos multidrogo resistentes.",
+            "Creaci\u00f3n de cursos, talleres y aulas virtuales para educaci\u00f3n de profesionales de la salud y poblaci\u00f3n general sobre el uso adecuado de antimicrobianos y prevenci\u00f3n de microorganismos multidrogo resistentes.",
+            "Adherir a la curricula de las carreras de formaci\u00f3n en salud m\u00f3dulos o cursos relacionados con el uso adecuado de antimicrobianos y el manejo de microorganismos multidrogo resistentes.",
+            "Incentivar a la investigaci\u00f3n cient\u00edfica en salud relacionada con el uso adecuado de antimicrobianos y el manejo de infecciones multidrogo resistentes a trav\u00e9s de entrenamientos, cursos, talleres y congresos nacionales o internacionales de actualizaci\u00f3n para profesionales de la salud.",
+            "Fortalecimiento de la capacidad del personal de salud mediante la impartici\u00f3n de m\u00f3dulos educativos y formativos acordes con el cargo y las funciones de cada profesional",
+            "Existencia de un curr\u00edculo educativo para los futuros profesionales de la salud que incluya los principios de la optimizaci\u00f3n de los antimicrobianos",
+            "Existencia de un curr\u00edculo educativo para los futuros profesionales de la salud que incluya los principios de la optimizaci\u00f3n de los antimicrobianos",
+            "Programas de formaci\u00f3n continua, curr\u00edculo de desarrollo profesional continuo para cada colectivo profesional de la salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Mejorar la conciencia y la comprensi\u00f3n de la resistencia a los antimicrobianos mediante una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n eficaces.",
+            "Mejorar la conciencia y la comprensi\u00f3n de la resistencia a los antimicrobianos mediante una comunicaci\u00f3n, educaci\u00f3n y formaci\u00f3n eficaces.",
+            "Mejorar la difusi\u00f3n de conocimiento, concienciaci\u00f3n y la comprensi\u00f3n con respecto al uso adecuado de antimicrobianos y la existencia de microorganismos multidrogoresistentes a trav\u00e9s de campa\u00f1as de comunicaci\u00f3n y educaci\u00f3n formal.",
+            "Desarrollar campa\u00f1as de educaci\u00f3n del uso de antimicrobianos y la relaci\u00f3n con microorganismos multi drogo resistentes, dirigidas a profesionales de la salud y usuarios de servicios de salud.",
+            "Inclusi\u00f3n de la tem\u00e1tica de educaci\u00f3n hacia la poblaci\u00f3n sobre uso adecuado de antimicrobianos, prevenci\u00f3n de RAM y actividades relacionadas que se est\u00e1n llevando a cabo para la semana mundial de concientizaci\u00f3n sobre el uso de antimicrobianos.",
+            "Concienciaci\u00f3n sobre el tema tanto con los oficiales de atenci\u00f3n a cadena de producci\u00f3n primaria, como a la agroindustria, incluyendo a los procesadores de alimentos y la industria fabricante de medicamentos, alimentos para animales y poblaci\u00f3n en general.",
+            "Mejorar la difusi\u00f3n de conocimiento, concienciaci\u00f3n y la comprensi\u00f3n con respecto al uso adecuado de antimicrobianos y la existencia de microorganismos multidrogo resistentes a trav\u00e9s de campa\u00f1as de comunicaci\u00f3n",
+            "Campa\u00f1as de educaci\u00f3n del uso de antimicrobianos y la relaci\u00f3n con microorganismos multidrogoresistentes dirigidas a profesionales de la salud y usuarios de servicios de salud.",
+            "Campa\u00f1as de educaci\u00f3n dirigidas a la poblaci\u00f3n general sobre promoci\u00f3n pr\u00e1cticas adecuadas de uso antimicrobianos, la relaci\u00f3n entre mal uso de antimicrobianos y microorganismos multidrogo resistentes.",
+            "Disponibilidad de estudios completados sobre los determinantes de los h\u00e1bitos en las diversas partes interesadas",
+            "\u00bfSe llevan a cabo peri\u00f3dicamente en el pa\u00eds campa\u00f1as de concienciaci\u00f3n p\u00fablica sobre el uso responsable y racional de los antibi\u00f3ticos?",
+            "Integraci\u00f3n de los mensajes a medida sobre la optimizaci\u00f3n de los antimicrobianos en campa\u00f1as de fomento de la salud m\u00e1s amplias",
+            "Integraci\u00f3n de los mensajes a medida sobre la optimizaci\u00f3n de los antimicrobianos en campa\u00f1as de fomento de la salud m\u00e1s amplias"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En el plano internacional, la OMS colabora estrechamente con la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) para proponer soluciones viables a los peligros y riesgos generados por el uso inadecuado de antibi\u00f3ticos en la producci\u00f3n de alimentos de origen animal.",
+            "Debido a los reportes de la red Nacional de Laboratorios de Bacteriolog\u00eda de microorganismos que afectan al humano con perfiles de resistencia cada vez m\u00e1s amplios, y en consonancia con las recomendaciones emitidas por la 68\u00aa Asamblea Mundial de la Salud, se presenta el proyecto elaborado tras un proceso consultivo de los representantes del Ministerio de Salud con la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (FAO), y la Organizaci\u00f3n Mundial de Salud Animal (OIE), adoptando este proyecto como Plan de Acci\u00f3n Nacional contra la Resistencia Bacteriana para El Salvador.",
+            "Debido a la diversidad de componentes relacionados con la vigilancia de la resistencia a antimicrobianos de uso en animales y a la iniciativa del Ministerio de Agricultura y Ganader\u00eda en conjunto con otras organizaciones como la OIE, FAO y OIRSA para la elaboraci\u00f3n de estrategias espec\u00edficas y dirigidas para este lucha",
+            "Este plan se complementar\u00e1 con el Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Animal coordinado por el Ministerio de Agricultura y Ganader\u00eda, OIE, OIRSA y FAO.",
+            "c. Colaboraci\u00f3n en la alianza tripartida (OIE-OMS-FAO) para la coordinaci\u00f3n de las iniciativas pol\u00edticas y de promoci\u00f3n destinada a combatir la RAM.",
+            "La herramienta a utilizar a nivel nacional (Anexo 2), se basa en las orientaciones normativas de la Organizaci\u00f3n Mundial de la Salud (OMS), sobre las actividades integrales para la optimizaci\u00f3n de los antimicrobianos."
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "proporcionando las herramientas de vigilancia, regulaci\u00f3n y fiscalizaci\u00f3n para la producci\u00f3n y comercializaci\u00f3n de los antimicrobianos utilizados tanto en salud humana, salud veterinaria y producci\u00f3n de alimentos de origen animal.",
+            "Se ampl\u00eda a 14 el n\u00famero de hospitales que proporcionan datos para el Cubo Bacteriol\u00f3gico.",
+            "Ampliaci\u00f3n de sistemas automatizados de identificaci\u00f3n de microorganismos a los 30 hospitales de la Red Nacional de Hospitales del Ministerio de Salud y la incorporaci\u00f3n del reporte de microorganismos de hospitales del ISSS.",
+            "El Ministerio de Salud cuenta desde el 2015, con una herramienta en l\u00ednea para la difusi\u00f3n y reporte de la resistencia bacteriana: resistenciabacteriana.salud.gob.sv, conocida como Cubo Bacteriol\u00f3gico. Esta herramienta est\u00e1 dise\u00f1ada como una plataforma de WHONET en la cual los laboratorios de bacteriolog\u00eda que cuentan con equipo automatizado para sus an\u00e1lisis vierten los resultados del diagn\u00f3stico y caracterizaci\u00f3n de los microrganismos causantes de infecciones, detectados directamente en cada establecimiento.",
+            "El Cubo Bacteriol\u00f3gico permite visualizar el resultado de los aislamientos obtenidos de todas las muestras analizadas en los laboratorios locales, y adem\u00e1s conocer sus perfiles de sensibilidad y resistencia a los principales antibi\u00f3ticos utilizados en cl\u00ednica.",
+            "Fortalecer el conocimiento y la evidencia basada en la vigilancia y la investigaci\u00f3n.",
+            "LE2: Reforzar los conocimientos y la base cient\u00edfica a trav\u00e9s sistemas \u00f3ptimos y accesibles de vigilancia y la investigaci\u00f3n cient\u00edfica en salud.",
+            "Reforzar los conocimientos y la base cient\u00edfica a trav\u00e9s de sistemas \u00f3ptimos y accesibles de vigilancia y la investigaci\u00f3n cient\u00edfica en salud.",
+            "Monitorear los datos estad\u00edsticos de la prescripci\u00f3n de antimicrobianos, en los establecimientos institucionales de salud del ISBM, a trav\u00e9s de acceso al sistema inform\u00e1tico de medicamentos.",
+            "Organizaci\u00f3n del Sistema de Vigilancia de Consumo de Antimicrobianos y su pr\u00f3ximo desarrollo como actividad dentro del Plan Nacional contra la resistencia a los antimicrobianos 2022-2024.",
+            "2. Fomento de la capacidad de vigilancia y seguimiento de la resistencia a los antimicrobianos y el uso de estos en la alimentaci\u00f3n y la agricultura. a. Elaborar y mantener una base de datos sobre el uso de agentes antimicrobianos en animales productores, y de alimentos que declaren antibi\u00f3ticos en su composici\u00f3n. d. Fortalecer el monitoreo y vigilancia de RAM en bacterias identificadas a lo largo de la cadena alimenticia, incluyendo la producci\u00f3n primaria y la acuacultura. e. Creaci\u00f3n de sistemas integrados, para la vigilancia del uso de los antimicrobianos y (RAM)",
+            "Cubo bacteriol\u00f3gico: Sistema inform\u00e1tico virtual para la vigilancia epidemiol\u00f3gica nacional de la resistencia antimicrobiana.",
+            "proporcionar el dise\u00f1o de un plan gradual de monitoreo y supervisi\u00f3n del grado de implantaci\u00f3n de los elementos b\u00e1sicos que son necesarios a escala nacional en los establecimientos de salud.",
+            "Establecer sistemas de vigilancia \u00f3ptimos actualizados de microorganismos multidrogo resistentes y consumo de antimicrobianos en los centros de salud, que sean de f\u00e1cil acceso y an\u00e1lisis disponibles para los profesionales de la salud involucrados en la toma de decisiones.",
+            "LE2: Reforzar los  conocimientos y la  base cient\u00edfica a trav\u00e9s  sistemas \u00f3ptimos y  accesibles de vigilancia  y la investigaci\u00f3n  cient\u00edfica en salud.",
+            "Actualizaci\u00f3n de documentaci\u00f3n regulatoria y sistemas de vigilancia de microorganismos multidrogo resistentes en veterinaria, agroindustria y producci\u00f3n de alimentos de origen animal.",
+            "Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos de uso veterinario o en la producci\u00f3n de alimentos de origen animal a nivel pa\u00eds, de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos a nivel pa\u00eds de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "\u00bfExiste un programa nacional de vigilancia de la resistencia a los antimicrobianos y del consumo y uso de antimicrobianos con estructuras definidas, gobernanza y objetivos operativos(recogida, validaci\u00f3n, an\u00e1lisis, notificaci\u00f3n e intercambio de los datos con todas las partes interesadas)?",
+            "\u00bfExiste un programa nacional de vigilancia de la resistencia a los antimicrobianos y del consumo y uso de antimicrobianos con estructuras definidas, gobernanza y objetivos operativos(recogida, validaci\u00f3n, an\u00e1lisis, notificaci\u00f3n e intercambio de los datos con todas las partes interesadas)?",
+            "Existencia de un plan de refuerzo de la capacidad laboratorial; informes de los progresos en"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 17,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "el_salvador",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Al reducir este riesgo, y con la implementaci\u00f3n de medidas espec\u00edficas de control de IAAS y prevenci\u00f3n y contenci\u00f3n de la RAM en hospitales, se estar\u00e1 incidiendo directamente en el n\u00famero de infecciones en humanos ocasionadas por microorganismos MDR.",
+            "Reducir la incidencia de infecciones mediante medidas eficaces de saneamiento, higiene y prevenci\u00f3n de infecciones.",
+            "Reducir la incidencia de infecciones mediante medidas eficaces de saneamiento, higiene y prevenci\u00f3n de infecciones.",
+            "Reducir la incidencia de infecciones mediante medidas eficaces de saneamiento, higiene y prevenci\u00f3n de infecciones.",
+            "Fortalecer el conocimiento en cuanto a Prevenci\u00f3n y Control de Infecciones (PCI) y el Programa de Optimizaci\u00f3n de Antimicrobianos (PROA), como parte de la Educaci\u00f3n Continua.",
+            "Crear la normativa para la prevenci\u00f3n de infecciones, el plan de control de infecciones y el PROA, bas\u00e1ndose en l\u00edneas estrat\u00e9gicas del MINSAL.",
+            "Promover el uso de m\u00e9todos alternativos al uso de antimicrobianos para la prevenci\u00f3n y control de infecciones bacterianas.",
+            "infecciones mediante medidas eficaces de saneamiento, higiene y LE3: Reducir la incidencia de infecciones asociadas a microorganismos multidrogo resistentes en los centros de salud mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "LE3: Reducir la incidencia de infecciones asociadas a microorganismos multidrogo resistentes en los centros de salud mediante el seguimiento de los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA",
+            "Reducir la  incidencia de  infecciones asociadas a  microorganismos  multidrogo resistentes  en los centros de salud  mediante el  seguimiento de los  comit\u00e9s de prevenci\u00f3n  IAAS, PCI y PROA",
+            "medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "Asegurar la autosostenibilidad antimicrobianos; prevenci\u00f3n, identificaci\u00f3n y tratamiento oportuno y adecuado de microorganismos multidrogo resistentes y otras medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "prevenci\u00f3n, identificaci\u00f3n y tratamiento oportuno y adecuado de microorganismos multidrogo resistentes y otras medidas preventivas como la inmunizaci\u00f3n de acuerdo a las necesidades identificadas en el pa\u00eds.",
+            "\u00bfExisten enlaces con otras partes interesadas importantes, como, por ejemplo, los programas de tuberculosis, prevenci\u00f3n y control de infecciones (PCI), agua potable, saneamiento e higiene (WASH) o cobertura sanitaria universal?",
+            "PILAR 4:  Fortalecer  las  medidas  destinadas  a  mejorar  el  acceso  al  agua  potable,  el  saneamiento  y  la  higiene,  as\u00ed  como  las  destinadas  a  la  prevenci\u00f3n  y  el  control  de  las  infecciones",
+            "PILAR 4: Fortalecer las medidas destinadas a mejorar el acceso al agua potable, el saneamiento y la higiene, as\u00ed como las destinadas a la prevenci\u00f3n y el control de las infecciones",
+            "Mejora de las medidas WASH en los establecimientos de salud y en las comunidades",
+            "\u00bfSe est\u00e1 fomentando el instrumento de mejora de las medidas WASH en los establecimientos de salud (FIT) de la OMS con el fin de evaluar tales medidas en los establecimientos de salud?",
+            "Implantaci\u00f3n de los componentes b\u00e1sicos de PCI en los establecimientos de salud",
+            "Implantaci\u00f3n de los componentes b\u00e1sicos de PCI en los establecimientos de salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En el plano internacional, la OMS colabora estrechamente con la Organizaci\u00f3n de las Naciones Unidas para la Alimentaci\u00f3n y la Agricultura (FAO) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE) para proponer soluciones viables a los peligros y riesgos generados por el uso inadecuado de antibi\u00f3ticos en la producci\u00f3n de alimentos de origen animal.",
+            "Debido a los reportes de la red Nacional de Laboratorios de Bacteriolog\u00eda de microorganismos que afectan al humano con perfiles de resistencia cada vez m\u00e1s amplios, y en consonancia con las recomendaciones emitidas por la 68\u00aa Asamblea Mundial de la Salud, se presenta el proyecto elaborado tras un proceso consultivo de los representantes del Ministerio de Salud con la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (FAO), y la Organizaci\u00f3n Mundial de Salud Animal (OIE), adoptando este proyecto como Plan de Acci\u00f3n Nacional contra la Resistencia Bacteriana para El Salvador.",
+            "Debido a la diversidad de componentes relacionados con la vigilancia de la resistencia a antimicrobianos de uso en animales y a la iniciativa del Ministerio de Agricultura y Ganader\u00eda en conjunto con otras organizaciones como la OIE, FAO y OIRSA para la elaboraci\u00f3n de estrategias espec\u00edficas y dirigidas para este lucha",
+            "Este plan se complementar\u00e1 con el Plan Nacional de Acci\u00f3n contra la Resistencia Antimicrobiana en Salud Animal coordinado por el Ministerio de Agricultura y Ganader\u00eda, OIE, OIRSA y FAO.",
+            "c. Colaboraci\u00f3n en la alianza tripartida (OIE-OMS-FAO) para la coordinaci\u00f3n de las iniciativas pol\u00edticas y de promoci\u00f3n destinada a combatir la RAM.",
+            "a. Promover  la  importancia  de  las  recomendaciones  de  la  Lista  OIE  de  los  agentes antimicrobianos importantes para la medicina veterinaria a los productores.",
+            "La herramienta a utilizar a nivel nacional (Anexo 2), se basa en las orientaciones normativas de la Organizaci\u00f3n Mundial de la Salud (OMS), sobre las actividades integrales para la optimizaci\u00f3n de los antimicrobianos y en el Manual pr\u00e1ctico sobre programas de optimizaci\u00f3n de los antimicrobianos en instituciones sanitarias de los pa\u00edses de ingresos bajos y medianos."
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "proporcionando las herramientas de vigilancia, regulaci\u00f3n y fiscalizaci\u00f3n para la producci\u00f3n y comercializaci\u00f3n de los antimicrobianos utilizados tanto en salud humana, salud veterinaria y producci\u00f3n de alimentos de origen animal.",
+            "se nombra una subcomisi\u00f3n dentro de la CNRB, conformada por los representantes de las siguientes instituciones MAG, OIRSA, UES, DNM y MINSAL; para revisar y analizar los procesos relacionados a la autorizaci\u00f3n para la comercializaci\u00f3n de antibi\u00f3ticos de uso en animales.",
+            "En El Salvador existen regulaciones espec\u00edficas para la comercializaci\u00f3n y dispensaci\u00f3n de antibi\u00f3ticos utilizados en salud humana",
+            "Optimizar el uso de medicamentos antimicrobianos en la salud humana a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "Evaluar la necesidad de agregar nuevos medicamentos en el listado b\u00e1sico de medicamentos.",
+            "Seguimiento de la vigilancia de medidas de fiscalizaci\u00f3n de uso de antimicrobianos en el pa\u00eds (dispensa con receta simple retenida, firmada por profesional m\u00e9dico).",
+            "Impulsar modernizaci\u00f3n de la reglamentaci\u00f3n en el \u00e1mbito de la fabricaci\u00f3n, la autorizaci\u00f3n de comercializaci\u00f3n, la importaci\u00f3n, la distribuci\u00f3n y el uso de productos veterinarios.",
+            "Monitorizar necesidad y adherencia de nuevos antimicrobianos al listado oficial de medicamentos del Sistema Nacional Integrado de Salud.",
+            "Monitorizar necesidad y adherencia de nuevos antimicrobianos al listado oficial de medicamentos del Sistema Nacional Integrado de Salud.",
+            "Seguimiento de las medidas de fiscalizaci\u00f3n para la venta y dispensa de antimicrobianos a nivel pa\u00eds. Establecer un sistema de vigilancia \u00f3ptimo actualizado de consumo de antimicrobianos a nivel pa\u00eds de f\u00e1cil acceso y disponibilidad para la toma de decisiones.",
+            "a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "2  Elaboraci\u00f3n de gu\u00edas terap\u00e9uticas y de optimizaci\u00f3n del uso, normas e instrumentos de implantaci\u00f3n nacionales",
+            "LME y sistema AWaRe de la OMS integrados en la farmacopea nacional de medicamentos esenciales y en las gu\u00edas terap\u00e9uticas",
+            "Existencia de leyes o reglamentos que proh\u00edban la dispensaci\u00f3n de antimicrobianos sin una receta expedida por un profesional de la salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el Plan nacional contra la resistencia a los antimicrobianos en salud humana 2022 2024, con el objetivo de garantizar el adecuado uso y acceso de antimicrobianos",
+            "asegurando el uso adecuado de los tratamientos con medicamentos eficaces, seguros y de calidad garantizada, que se usen de modo responsable, tanto para el tratamiento de enfermedades infecciosas en humanos y animales, as\u00ed como para garantizar la producci\u00f3n de alimentos.",
+            "2017. Creaci\u00f3n a trav\u00e9s de la CNRB de la Red Nacional de Investigadores en Resistencia Bacteriana, conformada por especialistas de diversas instituciones, quienes establecen como primer proyecto, la Implementaci\u00f3n de Programas de Uso Racional de Antibi\u00f3ticos en 4 hospitales de la Red Nacional.",
+            "En El Salvador existen regulaciones espec\u00edficas para la comercializaci\u00f3n y dispensaci\u00f3n de antibi\u00f3ticos utilizados en salud humana",
+            "Establecer pautas de uso \u00f3ptimo de antimicrobianos bajo una perspectiva global e integradora es el reto que este plan lleva como objetivo prioritario.",
+            "El presente plan de acci\u00f3n ofrece un marco general para combatir la resistencia a los antimicrobianos y las medidas implementadas estar\u00e1n sujetas al cumplimiento obligatorio por los diferentes actores del Sistema Nacional Integrado de Salud y otros descritos que conforman la Comisi\u00f3n Nacional contra la Resistencia a Antimicrobianos.",
+            "LE4: Optimizar el uso de medicamentos antimicrobianos en la salud humana y animal a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "Optimizar el uso de medicamentos antimicrobianos en la salud humana a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos. - Institucionalizar las medidas de fiscalizaci\u00f3n en la prescripci\u00f3n de antimicrobianos en todas las redes de salud, a nivel nacional.",
+            "Creaci\u00f3n del comit\u00e9 regulatorio de antibi\u00f3ticos en base a los lineamientos nacionales de PROA y de PCI, en base a los lineamientos nacionales.",
+            "Curso de acreditaci\u00f3n para dependientes de farmacia y reacreditaci\u00f3n para uso racional de medicamentos, problemas de uso irracional y consecuencias del uso irracional de medicamentos.",
+            "Fortalecimiento de marco regulatorio con asesor\u00eda de otras entidades oficiales con experiencia en el tema (DNM, MINSAL).",
+            "Promoci\u00f3n de buenas pr\u00e1cticas en los sistemas de producci\u00f3n pecuaria para reducir incidencia de infecciones, e incentivar el uso prudente de antimicrobianos.",
+            "Es responsabilidad del personal del Sistema Nacional Integrado de Salud dar cumplimiento al presente plan de acci\u00f3n, caso contrario se aplicar\u00e1n las sanciones establecidas en la legislaci\u00f3n administrativa respectiva.",
+            "Actualizaci\u00f3n y difusi\u00f3n de normas, lineamientos t\u00e9cnicos, gu\u00edas terap\u00e9uticas y otras relacionadas con el tratamiento de enfermedades infecciosas y uso de antimicrobianos.",
+            "Apoyo a otras instituciones prestadoras de servicios de salud en la creaci\u00f3n, actualizaci\u00f3n y difusi\u00f3n de normas, lineamientos t\u00e9cnicos, gu\u00edas terap\u00e9uticas y otras relacionadas con el tratamiento de enfermedades infecciosas, prevenci\u00f3n de microorganismos multidrogo resistentes y uso adecuado de antimicrobianos.",
+            "Establecimiento y seguimiento de los comit\u00e9s de prevenci\u00f3n de IAAS en los centros de salud, plan de control de infecciones (PCI) e implementaci\u00f3n de los programas de optimizaci\u00f3n de uso de antimicrobianos (PROA).",
+            "Actualizaci\u00f3n de documentaci\u00f3n t\u00e9cnica regulatoria para los comit\u00e9s de prevenci\u00f3n IAAS, PCI y PROA.",
+            "Promover la optimizaci\u00f3n del uso de medicamentos antimicrobianos en la salud humana y animal a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "Establecer medidas reguladoras de fiscalizaci\u00f3n para la venta y dispensa de antimicrobianos para uso veterinario.",
+            "a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "a trav\u00e9s de medidas de fiscalizaci\u00f3n y vigilancia de consumo de antimicrobianos.",
+            "2  Elaboraci\u00f3n de gu\u00edas terap\u00e9uticas y de optimizaci\u00f3n del uso, normas e instrumentos de implantaci\u00f3n nacionales",
+            "Elaboraci\u00f3n de gu\u00edas terap\u00e9uticas y de optimizaci\u00f3n del uso, normas e instrumentos de implantaci\u00f3n nacionales",
+            "Existencia de leyes o reglamentos que proh\u00edban la dispensaci\u00f3n de antimicrobianos sin una receta expedida por un profesional de la salud"
+        ]
+    },
+    {
+        "country": "el_salvador",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Creaci\u00f3n del Plan Nacional contra la Resistencia a los Antimicrobianos de Uso Animal, como complemento del Plan Nacional contra la RAM de uso humano, a trav\u00e9s de la gesti\u00f3n de alianzas con otras instituciones oficiales y con organismos internacionales de la alianza tripartida y sus socios estrat\u00e9gicos, para objetivos espec\u00edficos reflejados en el plan."
+        ]
+    }
+]

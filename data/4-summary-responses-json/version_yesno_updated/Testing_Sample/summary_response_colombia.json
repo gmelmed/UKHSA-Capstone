@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2018",
+        "supporting_text": null,
+        "country": "colombia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "colombia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses health human, animal health, control fitosanitario, and its impact on the environment.",
+        "country": "colombia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to optimize the use of antimicrobials in human health.",
+        "country": "colombia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to optimize the use of antimicrobials in animal health.",
+        "country": "colombia",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the impact of antimicrobial resistance on the environment.",
+        "country": "colombia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to the use of antimicrobials in agriculture and food security.",
+        "country": "colombia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the establishment of a governance table for monitoring and evaluation.",
+        "country": "colombia",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes indicators of effectiveness for each strategic line.",
+        "country": "colombia",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes levels of reduction in antimicrobial consumption and resistance incidence.",
+        "country": "colombia",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify budget allocations.",
+        "country": "colombia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not contain an assessment of future budget requirements.",
+        "country": "colombia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a governance table for AMR coordination.",
+        "country": "colombia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the manufacturing and dispensing of antimicrobials.",
+        "country": "colombia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to incorporate AMR awareness in educational programs.",
+        "country": "colombia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for public awareness campaigns regarding AMR.",
+        "country": "colombia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP is aligned with international initiatives from WHO, FAO, and OIE.",
+        "country": "colombia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the establishment of integrated surveillance systems for AMR.",
+        "country": "colombia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to enhance capacity for detecting and reporting AMR.",
+        "country": "colombia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for sanitation and infection prevention.",
+        "country": "colombia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards for AMR control.",
+        "country": "colombia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the distribution and prescription of antibiotics.",
+        "country": "colombia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations to promote the rational use of antibiotics.",
+        "country": "colombia",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for international collaboration in research for new antimicrobials.",
+        "country": "colombia",
+        "question": 22
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "country": "bangladesh",
+        "question": "period_start",
+        "answer": 2017
+    },
+    {
+        "country": "bangladesh",
+        "question": "period_end",
+        "answer": 2022
+    },
+    {
+        "country": "bangladesh",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "to institute a coherent, comprehensive and integrated national approach to combat AMR and sixteen other activities by signing to a charter of activities named as the 'Jaipur Declaration'. The other important areas in the Jaipur Declaration includes development of national antibiotic policy and formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents.",
+            "Since AMR is a multi-faceted problem, conduction of activities in well-coordinated manner through One Health approach is very important. Involvement of multi-sectoral stakeholders was ensured by formulating different national level committees with representation from multisectoral stake holders including interministrial National Steering Committee (NSC), headed by honourable Minister for MoHFW, National Technical Committee (NTC) headed by Director General of Health Services.",
+            "Promote and strengthen infection prevention and control (IPC) measures in both human and animal health sectors to minimize emergence and spread of AMT"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The other important areas in the Jaipur Declaration includes development of national antibiotic policy and formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents, promotion of behavioural change in prescribers and communities for rational use of antimicrobial agents, building capacities for efficient surveillance, strengthening diagnostic capacities for microbial diseases and infection prevention and control programs.",
+            "To promote and ensure rational use of antimicrobial agents in human health, livestock and fisheries sectors;",
+            "3. Promote and strengthen infection prevention and control (IPC) measures in both human and animal health sectors to minimize emergence and spread of AMT"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "(v) to reduce the use of antimicrobials in food-animal production.",
+            "To promote and ensure rational use of antimicrobial agents in human health, livestock and fisheries sectors;",
+            "Promote and strengthen infection prevention and control (IPC) measures in both human and animal health sectors to minimize emergence and spread of AMT"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Ensure rational use of AMs in human health, Livestock, Fisheries sectors and Environment"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "(v) to reduce the use of antimicrobials in food-animal production.",
+            "To promote and ensure rational use of antimicrobial agents in human health, livestock and fisheries sectors;"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 6,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 7,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 8,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 9,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "National Technical Committee: It is the highest multisectoral and multidisciplinary executive technical body at directorate level headed by Director General of Health Service and Director, Disease Control, DGHS as member secretary. Representatives from Drug Administration, Livestock and Fisheries directorate, high officials of DGHS, leaders of professional bodies of different disciplines and executives of UN organizations have been included in this committee.",
+            "the formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents",
+            "Involvement of multi-sectoral stakeholders was ensured by formulating different national level committees with representation from multisectoral stake holders including interministrial National Steering Committee (NSC), headed by honourable Minister for MoHFW, National Technical Committee (NTC) headed by Director General of Health Services."
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "(iv) to strengthen legislation to prevent the manufacture, sale and distribution of counterfeit antimicrobials and the sale of antimicrobials on the informal market",
+            "The other important areas in the Jaipur Declaration includes development of national antibiotic policy and formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents, promotion of behavioural change in prescribers and communities for rational use of antimicrobial agents, building capacities for efficient surveillance, strengthening diagnostic capacities for microbial diseases and infection prevention and control programs.",
+            "5. To review, update and strengthening of regulatory provisions;",
+            "g. Enforce and enhance regulatory provisions for use AMs;"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "To include AMR in education and training curriculum"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "8. To establish Advocacy, Communication and Social Mobilization (ACSM) for ARC activities;",
+            "6. Establish advocacy, communication and social mobilization (ACSM)"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Following these recommendations, the health ministers of the member states of World Health Organization for South East Asia (WHO SEA) region met in Jaipur, India in September, 2011 and agreed to acknowledge the AMR as a major global public health issue, to institute a coherent, comprehensive and integrated national approach to combat AMR and sixteen other activities by signing to a charter of activities named as the 'Jaipur Declaration'.",
+            "the NAP was developed based on the national strategy covering almost all the areas recommended by the WHO and other relevant global agencies."
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Development/ strengthening national surveillance system for AMR, (3) Establishment of a national AMR reference laboratory",
+            "6. To strengthen surveillance system for AMR containment;",
+            "4. Establish AMR surveillance system ; a. Establish national Reference Microbiology Laboratory (RMLs) and select regional microbiology laboratories for AMR surveillance; b. Web-based laboratory surveillance and laboratory networking for AMR;"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Development/ strengthening national surveillance system for AMR"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "(iii) to improve practices to prevent the spread of infection and thereby the spread of resistant pathogens",
+            "Strengthening of hygiene and infection prevention and control program",
+            "To promote and strengthen infection prevention and control measures to minimize the emergence and spread of AMR;",
+            "Promote and strengthen infection prevention and control (IPC) measures in both human and animal health sectors to minimize emergence and spread of AMT"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 19,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "bangladesh",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "(ii) to prohibit the dispensing of antimicrobials without the prescription of a qualified health care professional, (iv) to strengthen legislation to prevent the manufacture, sale and distribution of counterfeit antimicrobials and the sale of antimicrobials on the informal market",
+            "The other important areas in the Jaipur Declaration includes development of national antibiotic policy and formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents.",
+            "d. Develop Antibiotic policy;",
+            "g. Enforce and enhance regulatory provisions for use AMs; h. Ensure good pharmacy practice (GPP) at points of sale of AMs;"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Antimicrobial Resistance Containment addresses the challenges of antimicrobial resistance to slow the emergence and reduce the spread of antimicrobial-resistant microorganisms through reducing the disease burden and the spread of infection, improving access to appropriate antimicrobials, improving rational use of antimicrobials, strengthening health systems and their surveillance capabilities, enforcing regulations and legislation and encouraging the development of appropriate new drugs and vaccine",
+            "(ii) to prohibit the dispensing of antimicrobials without the prescription of a qualified health care professional, (iv) to strengthen legislation to prevent the manufacture, sale and distribution of counterfeit antimicrobials and the sale of antimicrobials on the informal market",
+            "The other important areas in the Jaipur Declaration includes development of national antibiotic policy and formulation of multisectoral national alliance against AMR for multisectoral approach for regulation of use of antimicrobial agents, promotion of behavioural change in prescribers and communities for rational use of antimicrobial agents.",
+            "To promote and ensure rational use of antimicrobial agents in human health, livestock and fisheries sectors;",
+            "g. Enforce and enhance regulatory provisions for use AMs;"
+        ]
+    },
+    {
+        "country": "bangladesh",
+        "question": 22,
+        "answer": "no",
+        "supporting_chunks": []
+    }
+]

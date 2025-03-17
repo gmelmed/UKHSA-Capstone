@@ -1,0 +1,283 @@
+[
+    {
+        "country": "costa_rica",
+        "question": "period_start",
+        "answer": 2018
+    },
+    {
+        "country": "costa_rica",
+        "question": "period_end",
+        "answer": 2025
+    },
+    {
+        "country": "costa_rica",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el enfoque concepto 'una salud' reconoce que la salud de los seres humanos est\u00e1 interrelacionada la de los animales; agricultura y medio ambiente.",
+            "la FAO, la OIE y la OMS reconocen que para hacer frente a los riesgos sanitarios que plantea la interrelaci\u00f3n de los ecosistemas humano, animal y vegetal, se requieren alianzas s\u00f3lidas entre entidades que puedan tener diferentes perspectivas y diferentes niveles de recursos.",
+            "Esto ha llevado al pa\u00eds a realizar actividades para combatir esta situaci\u00f3n y mejorar la salud de los grupos antes mencionados.",
+            "Implementar un sistema de registro integrado para darle seguimiento a la utilizaci-n eficiente y racional de antimicrobianos en humanos, vegetales y animales.",
+            "El plan nacional de lucha contra la resistencia antimicrobiana, el cual se elaboro de forma integral, bajo el concepto de \u00d2 una salud\u00d3, con intervenci-n multisectorial del sector p\u0153blico y privado involucradas en el uso de antimicrobianos.",
+            "1.1. Establecer un programa permanente de comunicaci\u00f3n p\u00fablica basado en pruebas cient\u00edficas y dirigido a profesionales del \u00e1mbito de la salud humana, salud animal, salud vegetal.",
+            "2.1.1. Incluir la RAM y temas conexos en los programas de capacitaci\u00f3n continua de los profesionales afines al tema, bajo el concepto de una salud.",
+            "3.2. Emitir normas nacionales para la vigilancia, prevenci-n y control de la RAM, bajo el concepto de una salud.",
+            "Establecer la vigilancia de la RAM en los diferentes campos de la salud humana, animal, vegetal y medio ambiente",
+            "Vigilancia, prevenci-n, control e investigaci-n de las infecciones bajo el concepto de una salud.",
+            "Establecer un programa nacional de prevenci-n y control de infecciones en la salud humana, animal y vegetal.",
+            "6.4. Incluir la higiene prevenci\u00f3n y control de infecciones como un contenido b\u00e1sico (obligatorio) de la capacitaci\u00f3n y formaci\u00f3n de profesionales de salud y afines bajo el concepto de una salud.",
+            "10.1.1. Mejorar la obtenci-n de datos de importaci-n, distribuci-n y consumo en el \u2021rea de salud humana, animal y vegetal. 10.1.2. Mejorar la obtenci-n de datos de consumo de antimicrobianos en el \u2021rea de salud humana, animal y vegetal. 10.2.1. Implementar la vigilancia activa de la resistencia de los antimicrobianos, en la salud humana, animal, vegetal y medio ambiente.",
+            "10.5. Dise-o y difusi-n de herramientas para la promoci-n de las buenas pr\u2021cticas de uso de antimicrobianos en las tres \u2021reas humano, animal y vegetal."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El uso de los antimicrobianos en seres humanos es imprescindible para combatir a los microorganismos causantes de distintas enfermedades, no obstante, el uso y abuso de estos productos farmac\u00e9uticos ha propiciado un aumento en la resistencia, desarrollo y propagaci\u00f3n de microorganismos multirresistentes. Consecuentemente, esto ha ocasionado una amenaza para la salud p\u00fablica y un impacto en las Infecciones Asociadas a la Atenci\u00f3n en Salud (IAAS).",
+            "En relaci-n al acceso de los antimicrobianos con seguridad, eficacia y calidad garantizada, en el sector humano y pecuario, Costa Rica cuenta con normativa de registro sanitario y normativa conexa que busca garantizar la estabilidad, la bioequivalencia, la utilizaci-n de m\u017dtodos anal'ticos apropiados y la adecuada verificaci-n de la calidad y etiquetado de los medicamentos.",
+            "En Costa Rica existe la regulaci-n que exige el uso de la receta m\u017ddica 25 para  dispensar antibi-ticos  para  seres humanos, no as' para el uso agropecuario.",
+            "Vigilar, contener y controlar de forma integrada la resistencia a los antimicrobianos que abarque salud humana, salud animal y salud vegetal;",
+            "dirigido a profesionales del \u2021mbito de la salud humana",
+            "2.2.  Incluir el tema de la RAM en las carreras de los estudiantes de salud humana, animal y vegetal.",
+            "3.1. Establecer un equipo de trabajo permanente para coordinar a nivel nacional la vigilancia de la RAM, en la Direcci-n de Vigilancia de Salud, del Ministerio de Salud.",
+            "Establecer la vigilancia de la RAM en los diferentes campos de la salud humana",
+            "Identificar prioridades de investigaci-n operativa orientada al uso responsable de agentes antimicrobianos en la salud humana, animal y vegetal.",
+            "Establecer un programa nacional de prevenci-n y control de infecciones en la salud humana, animal y vegetal.",
+            "6.4. Incluir la higiene prevenci-n y control de infecciones como un contenido b\u2021sico (obligatorio) de la capacitaci-n y formaci-n de profesionales de salud y afines bajo el concepto de una salud.",
+            "utilizar de forma -ptima los medicamentos antimicrobianos en la salud humana y animal y vegetal.",
+            "Mejorar y medir el uso apropiado de agentes antimicrobianos en la atenci-n de salud.",
+            "10.1.2. Mejorar la obtenci-n de datos de consumo de antimicrobianos en el \u2021rea de salud humana, animal y vegetal.",
+            "10.5. Dise-o y difusi-n de herramientas para la promoci-n de las buenas pr\u2021cticas de uso de antimicrobianos en las tres \u2021reas humano, animal y vegetal.",
+            "25.Decreto N\u00a126984. Proh'be el expendio de antibi-ticos sin receta m\u017ddica."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Al ser el sector pecuario parte de la Comisi-n Nacional de RAM, se le permitir\u2021 formular la legislaci-n, las pol'ticas, lineamientos y actividades de vigilancia activa con las que actualmente no se cuenta; mismas que ser\u2021n las herramientas para la ejecuci-n del Plan Nacional.",
+            "Implementar un sistema de registro integrado para darle seguimiento a la utilizaci-n eficiente y racional de antimicrobianos en humanos, vegetales y animales.",
+            "Objetivo estrat\u017dgico 4: Utilizar de forma -ptima los medicamentos antimicrobianos en la salud humana, animal y vegetal.",
+            "dirigido a profesionales del \u2021mbito de la salud humana, salud animal, salud vegetal.",
+            "2.2.  Incluir el tema de la RAM en las carreras de los estudiantes de salud humana, animal y vegetal.",
+            "3.3. Establecer la vigilancia de la RAM en los diferentes campos de la salud humana, animal, vegetal y medio ambiente, bajo la conducci-n del Ministerio de Salud.",
+            "Desarrollar la capacidad de laboratorio para producir datos microbiol-gicos de alta calidad destinados a la gesti-n de las actividades de apoyo a la vigilancia en los sectores de salud humana, salud animal y vegetal.",
+            "4.1.2 Desarrollar los laboratorios del Ministerio de Agricultura y Ganader\u00eda para la vigilancia de la RAM en animales y vegetales (vegetales frescos no procesados).",
+            "Establecer un programa nacional de prevenci-n y control de infecciones en la salud humana, animal y vegetal.",
+            "Objetivo Estrat\u017dgico 4 del Plan de Acci-n Nacional: utilizar de forma -ptima los medicamentos antimicrobianos en la salud humana y animal y vegetal.",
+            "10.1.1. Mejorar la obtenci-n de datos de importaci-n, distribuci-n y consumo en el \u2021rea de salud humana, animal y vegetal. 10.1.2. Mejorar la obtenci-n de datos de consumo de antimicrobianos en el \u2021rea de salud humana, animal y vegetal.",
+            "10.5. Dise-o y difusi-n de herramientas para la promoci-n de las buenas pr\u2021cticas de uso de antimicrobianos en las tres \u2021reas humano, animal y vegetal.",
+            "Desincentivar la comercializaci\u00f3n y el uso de antimicrobianos utilizados como promotores de crecimiento en especies animales.",
+            "26. Norma 36605\u00d5COMEX\u00d5MEI\u00d5MAG, Reglamento t\u017dcnico Centroamericano RTCA 65.05.51.08 y sus reformas. Medicamentos veterinarios y productos afines."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Esto ha llevado al pa's a realizar actividades para combatir esta situaci-n y mejorar la salud de los grupos antes mencionados.",
+            "Con respecto a la disposici-n final 24, de residuos de los medicamentos antimicrobianos, el pa's ha establecido las metodolog'as adecuadas para evitar la contaminaci-n y el riesgo ambiental y para la salud humana, animal a la hora de descartar estos productos.",
+            "3.3. Establecer la vigilancia de la RAM en los diferentes campos de la salud humana, animal, vegetal y medio ambiente, bajo la conducci-n del Ministerio de Salud.",
+            "Establecer la vigilancia de la RAM en los diferentes campos de la salud humana, animal, vegetal y medio ambiente",
+            "7.2 Promover el mejoramiento de la salud ambiental en todos sus escenarios. 7.2.1. Mejorar el manejo de las aguas residuales, mediante el reforzamiento de los programas de supervisi\u00f3n y control establecidos por las autoridades encargadas.",
+            "10.2.1. Implementar la vigilancia activa de la resistencia de los antimicrobianos, en la salud humana, animal, vegetal y medio ambiente."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Al ser el sector pecuario parte de la Comisi\u00f3n Nacional de RAM, se le permitir\u00e1 formular la legislaci\u00f3n, las pol\u00edticas, lineamientos y actividades de vigilancia activa con las que actualmente no se cuenta; mismas que ser\u00e1n las herramientas para la ejecuci\u00f3n del Plan Nacional.",
+            "Algunos antimicrobianos tales como Estreptomicina, Kagugamicina y Oxitetraciclina son usados para combatir Pseudomonas fuscovaginalis, Burkholderia spp., Xanthomonas oryzae y Pyricularia grisea, en cultivos de arroz, mel\u00f3n y sand\u00eda.",
+            "Para los productos de uso en animales productores de alimentos, registrados en Costa Rica, se exige el cumplimiento de periodos de resguardo y descarte, basados en los lineamientos internacionales Codex Alimentarius, OIE.",
+            "Objetivo estrat\u017dgico 4: Utilizar de forma -ptima los medicamentos antimicrobianos en la salud humana, animal y vegetal.",
+            "3.4.1  Solicitar  a  los  establecimientos  que  manejan  antimicrobianos  de  uso  humano,  animal  y  vegetal,  la  informaci-n  sobre  el  consumo,  uso  y  comercializaci-n de estos.",
+            "4.1.2 Desarrollar los laboratorios del Ministerio de Agricultura y Ganader'a para la vigilancia de la RAM en animales y vegetales (vegetales frescos no procesados).",
+            "10.1.1. Mejorar la obtenci-n de datos de importaci-n, distribuci-n y consumo en el \u2021rea de salud humana, animal y vegetal.",
+            "10.5. Dise-o y difusi-n de herramientas para la promoci-n de las buenas pr\u2021cticas de uso de antimicrobianos en las tres \u2021reas humano, animal y vegetal.",
+            "Desincentivar la comercializaci\u00f3n y el uso de antimicrobianos utilizados como promotores de crecimiento en especies animales."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 6,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "costa_rica",
+        "question": 7,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "costa_rica",
+        "question": 8,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "costa_rica",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "GLYPH<0> Dotar de recursos financieros para la implementaci-n del Plan nacional.",
+            "11.1. Preparaci-n de un plan para asegurar y utilizar la financiaci-n destinada a la aplicaci-n del plan de acci-n nacional contra la RAM.",
+            "11.1. Preparaci-n de un plan para asegurar y utilizar la financiaci-n destinada a la aplicaci-n del plan de acci-n nacional contra la RAM."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "11.1.1. Evaluar las necesidades de inversi-n para aplicar el plan de acci-n nacional en cada una de las instituciones involucradas.",
+            "11.1.1. Evaluar las necesidades de inversi-n para aplicar el  plan de  acci-n  nacional en  cada  una  de  las  instituciones  involucradas."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "El Ministerio de Salud conformo La Comisi-n Nacional de Lucha contra la resistencia Antimicrobiana, uno de los objetivos de esta comisi-n ha sido realizar el plan nacional de lucha contra la resistencia antimicrobiana, el cual se elaboro de forma integral, bajo el concepto de \u00d2 una salud\u00d3, con intervenci-n multisectorial del sector p\u0153blico y privado involucradas en el uso de antimicrobianos.",
+            "3.1. Establecer un equipo de trabajo permanente para coordinar a nivel nacional la vigilancia de la RAM, en la Direcci-n de Vigilancia de Salud, del Ministerio de Salud.",
+            "9.1.1. Redactar los mandatos gen\u017dricos de los comit\u017ds y equipos multidisciplinarios rectores en materia de agentes antimicrobianos."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Al ser el sector pecuario parte de la Comisi-n Nacional de RAM, se le permitir\u2021 formular la legislaci-n, las pol'ticas, lineamientos y actividades de vigilancia activa con las que actualmente no se cuenta; mismas que ser\u2021n las herramientas para la ejecuci-n del Plan Nacional.",
+            "Costa Rica cuenta con normativa de registro sanitario y normativa conexa que busca garantizar la estabilidad, la bioequivalencia, la utilizaci\u00f3n de m\u00e9todos anal\u00edticos apropiados y la adecuada verificaci\u00f3n de la calidad y etiquetado de los medicamentos.",
+            "En Costa Rica existe la regulaci-n que exige el uso de la receta m\u017ddica 25 para dispensar antibi-ticos para seres humanos, no as' para el uso agropecuario.",
+            "Este Plan Nacional de Lucha Contra la Resistencia a los Antimicrobianos se sustenta en la Ley General de Salud y el Decreto N\u00bc 40556-S Reglamento del Sistema Nacional de Vigilancia de la Salud, Ley General del Servicio Nacional de Salud Animal 8495, la Ley de Protecci\u00f3n Fitosanitaria 7664 y el Reglamento a la Ley 26921-MAG.",
+            "3.2. Emitir normas nacionales para la vigilancia, prevenci-n y control de la RAM, bajo el concepto de una salud.",
+            "6.2. Dise-o de pol'ticas y normas nacionales para la toma de decisiones en la prevenci-n y control de infecciones.",
+            "Crear normativa nacional para el uso -ptimo de los antimicrobianos, que incluya la elaboraci-n de gu'as de pr\u2021ctica cl'nica para el manejo y seguimiento de las",
+            "Decreto N\u00a126984. Proh'be el expendio de antibi-ticos sin receta m\u017ddica."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objetivo estrat\u017dgico 1: Mejorar la concienciaci-n y la comprensi-n con respecto a la resistencia a los antimicrobianos a trav\u017ds de una comunicaci-n, educaci-n y formaci-n efectivas.",
+            "2.1. Incluir la RAM y temas conexos como componentes b\u00e1sicos de la formaci\u00f3n profesional, la capacitaci\u00f3n, la certificaci\u00f3n y el desarrollo.",
+            "6.4. Incluir la higiene prevenci-n y control de infecciones como un contenido b\u2021sico (obligatorio) de la capacitaci-n y formaci-n de profesionales de salud y afines bajo el concepto de una salud."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objetivo estrat\u017dgico 1: Mejorar la concienciaci-n y la comprensi-n con respecto a la resistencia a los antimicrobianos a trav\u017ds de una comunicaci-n, educaci-n y formaci-n efectivas.",
+            "Establecer un programa permanente de comunicaci\u00f3n p\u00fablica basado en pruebas cient\u00edficas y dirigido a profesionales del \u00e1mbito de la salud humana, salud animal, salud vegetal.",
+            "7.1.1. Realizar campa-as de higiene de manos, a trav\u017ds de redes sociales, ferias de la salud, p\u2021ginas web de las instituciones, prensa, mensajer'a de texto.",
+            "7.1.2 Realizar campa-as en centros educativos \u00d2manitas limpias\u00d3."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Dada la magnitud del problema actual de la resistencia a los antimicrobianos, la Organizaci-n Mundial de la Salud (OMS) la Organizaci-n Mundial de Sanidad Animal (OIE) y la Organizaci-n de las Naciones Unidas para la Agricultura y la Alimentaci-n (FAO) han considerado esta situaci-n como una emergencia mundial que requiere de la implementaci-n de medidas intersectoriales urgentes.",
+            "el plan se realizo siguiendo las recomendaciones realizadas por la OMS, FAO y OIE.",
+            "10.4. Participar en proyectos nacionales e internacionales para intercambiar informaci-n sobre RAM."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "fortalecer la vigilancia de laboratorio de la resistencia a los antimicrobianos en los diferentes campos",
+            "Al ser el sector pecuario parte de la Comisi-n Nacional de RAM, se le permitir\u2021 formular la legislaci-n, las pol'ticas, lineamientos y actividades de vigilancia activa con las que actualmente no se cuenta; mismas que ser\u2021n las herramientas para la ejecuci-n del Plan Nacional. As' mismo se ha realizado una evaluaci-n sobre la capacidad de laboratorio para asumir las actividades de vigilancia en el sector, determin\u2021ndose que, a pesar de que existen algunos faltantes, se cuenta con lo requerido para dar inicio a dicha vigilancia.",
+            "Implementar un sistema de registro integrado para darle seguimiento a la utilizaci-n eficiente y racional de antimicrobianos en humanos, vegetales y animales.",
+            "3.1.1. Establecer un centro nacional de coordinaci-n para la vigilancia de la RAM, encargado de supervisar el programa de vigilancia de la RAM, en particular la recopilaci-n, el acopio, intercambio y an\u2021lisis de datos.",
+            "Desarrollar la capacidad de laboratorio para producir datos microbiol\u00f3gicos de alta calidad destinados a la gesti\u00f3n de las actividades de apoyo a la vigilancia en los sectores de salud humana, salud animal y vegetal.",
+            "4.1.2 Desarrollar los laboratorios del Ministerio de Agricultura y Ganader'a para la vigilancia de la RAM en animales y vegetales (vegetales frescos no procesados).",
+            "10.2.1. Implementar la vigilancia activa de la resistencia de los antimicrobianos, en la salud humana, animal, vegetal y medio ambiente."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "10.2.1. Implementar la vigilancia activa de la resistencia de los antimicrobianos, en la salud humana, animal, vegetal y medio ambiente."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objetivo estrat\u017dgico 3: Reducir la incidencia de las infecciones con medidas eficaces de saneamiento, higiene y prevenci-n de la infecci-n.",
+            "Objetivo Estrat\u017dgico 3 del Plan de Acci-n Nacional: Vigilancia, prevenci-n, control e investigaci-n de las infecciones bajo el concepto de una salud.",
+            "Establecer un programa nacional de prevenci-n y control de infecciones en la salud humana, animal y vegetal.",
+            "6.4. Incluir la higiene prevenci-n y control de infecciones como un contenido b\u2021sico (obligatorio) de la capacitaci-n y formaci-n de profesionales de salud y afines bajo el concepto de una salud.",
+            "7.1. Promover la higiene personal mediante actividades de movilizaci\u00f3n social y cambios comportamentales."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Para los productos de uso en animales productores de alimentos, registrados en Costa Rica, se exige el cumplimiento de periodos de resguardo y descarte, basados en los lineamientos internacionales Codex Alimentarius, OIE.",
+            "el plan se realizo siguiendo las recomendaciones realizadas por la OMS, FAO y OIE.",
+            "10.3.1. Identificar considerados cr'ticos para proceder a una vigilancia especifica de su consumo y aparici-n de resistencias, tomando en cuenta las listas emitidas por la OMS y la OIE."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En relaci-n al acceso de los antimicrobianos con seguridad, eficacia y calidad garantizada, en el sector humano y pecuario, Costa Rica cuenta con normativa de registro sanitario y normativa conexa que busca garantizar la estabilidad, la bioequivalencia, la utilizaci-n de m\u017dtodos anal'ticos apropiados y la adecuada verificaci-n de la calidad y etiquetado de los medicamentos. Asimismo, se ha implementado el control de medicamentos en el mercado, tanto a trav\u017ds del an\u2021lisis fisicoqu'mico y del fomento de la farmacovigilancia, como de la realizaci-n de constantes operativos para combatir el suministro de medicamentos falsificados, adulterados y deteriorados.",
+            "En Costa Rica existe la regulaci-n que exige el uso de la receta m\u017ddica 25 para  dispensar  antibi-ticos  para  seres humanos, no as' para el uso agropecuario.",
+            "Acceso reglamentado a medicamentos antimicrobianos de alta calidad.",
+            "9.2. Establecer mecanismos de control para la prescripci-n. 9.2.1. Dise-o e implementaci-n de la receta digital y/o otros mecanismos de control para la prescripci-n y uso de los antimicrobianos.",
+            "10.1.5 Desarrollo e implementaci-n del sistema de receta electr-nica en salud humana, animal y vegetal.",
+            "10.3.1. Identificar considerados cr'ticos para proceder a una vigilancia especifica de su consumo y aparici-n de resistencias, tomando en cuenta las listas emitidas por la OMS y la OIE.",
+            "Decreto N\u00a126984. Proh'be el expendio de antibi-ticos sin receta m\u017ddica."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Costa Rica cuenta con normativa de registro sanitario y normativa conexa que busca garantizar la estabilidad, la bioequivalencia, la utilizaci\u00f3n de m\u00e9todos anal\u00edticos apropiados y la adecuada verificaci\u00f3n de la calidad y etiquetado de los medicamentos.",
+            "En Costa Rica existe la regulaci-n que exige el uso de la receta m\u017ddica 25 para dispensar antibi-ticos para seres humanos, no as' para el uso agropecuario.",
+            "Este Plan Nacional de Lucha Contra la Resistencia a los Antimicrobianos se sustenta en la Ley General de Salud y el Decreto N\u00bc 40556-S Reglamento del Sistema Nacional de Vigilancia de la Salud, Ley General del Servicio Nacional de Salud Animal 8495, la Ley de Protecci\u00f3n Fitosanitaria 7664 y el Reglamento a la Ley 26921-MAG.",
+            "3.2. Emitir normas nacionales para la vigilancia, prevenci-n y control de la RAM, bajo el concepto de una salud.",
+            "Acceso reglamentado a medicamentos antimicrobianos de alta calidad.",
+            "9.1.2. Crear normativa nacional para el uso -ptimo de los antimicrobianos, que incluya la elaboraci-n de gu'as de pr\u2021ctica cl'nica para el manejo y seguimiento de las",
+            "10.1.5 Desarrollo e implementaci-n del sistema de receta electr-nica en salud humana, animal y vegetal.",
+            "10.6.1. Desarrollar directrices y protocolos relativos a la prescripci-n excepcional de antimicrobianos.",
+            "10.7. Control del uso profil\u00e1ctico de antimicrobianos. 10.7.1. Identificar las situaciones cl\u00ednicas en las que se requiera el uso profil\u00e1ctico de antimicrobianos y redactar gu\u00edas y protocolos de administraci\u00f3n de la profilaxis.",
+            "Decreto N\u00a126984. Proh'be el expendio de antibi-ticos sin receta m\u017ddica."
+        ]
+    },
+    {
+        "country": "costa_rica",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Objetivo estrat\u017dgico 5: Preparar argumentos econ-micos a favor de una inversi-n sostenible y aumentar la inversi-n en nuevos medicamentos, medios de diagn-stico, vacunas y otras intervenciones.",
+            "Objetivo Estrat\u017dgico 5 del Plan de Acci-n Nacional: Preparar argumentos econ-micos a favor de una inversi-n sostenible ... y aumentar la inversi-n en nuevos medicamentos, medios de diagn-stico, vacunas y otras intervenciones"
+        ]
+    }
+]

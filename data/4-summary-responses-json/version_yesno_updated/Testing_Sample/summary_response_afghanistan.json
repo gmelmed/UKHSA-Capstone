@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "afghanistan",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "afghanistan",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the priorities and interventions planned to be implemented over 2017-2021 to tackle the public health challenge of AMR in Afghanistan, emphasizing a harmonized approach across various sectors.",
+        "country": "afghanistan",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, such as improving awareness and understanding of AMR through effective communication, education, and training.",
+        "country": "afghanistan",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for infection prevention and control in animal health and food sectors to reduce the spread of AMR.",
+        "country": "afghanistan",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategic interventions to reduce environmental contamination with resistance genes, resistance pathogens, and antimicrobial residues.",
+        "country": "afghanistan",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to optimizing the use of antimicrobial agents in agriculture and food sectors.",
+        "country": "afghanistan",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a monitoring and evaluation plan to ensure objective review and monitoring of the implementation progress.",
+        "country": "afghanistan",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific timelines for various activities, classified as short term, medium term, and long term.",
+        "country": "afghanistan",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "afghanistan",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an operational plan and budget template for the implementation of its strategies.",
+        "country": "afghanistan",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a resource mobilization plan to estimate the investment gap for NAP-AMR.",
+        "country": "afghanistan",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of the Intersectoral Coordination Committee on AMR for overseeing and coordinating policy decisions.",
+        "country": "afghanistan",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen national regulatory authority for improved quality and safety of antimicrobials.",
+        "country": "afghanistan",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to introduce the concept of AMR and appropriate use of antimicrobials as part of school curricula.",
+        "country": "afghanistan",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a comprehensive communication program to promote AMR awareness targeting key stakeholders.",
+        "country": "afghanistan",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes strengthening Afghanistan's leadership on AMR through international collaborations.",
+        "country": "afghanistan",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for strengthening laboratory capacity for AMR surveillance in humans, animals, food, and environment.",
+        "country": "afghanistan",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for a coherent response in place for nationwide surveillance and stewardship for containment of AMR.",
+        "country": "afghanistan",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for effective infection prevention and control in healthcare settings.",
+        "country": "afghanistan",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to fast track the implementation of the Codex Alimentarius and OIE guidelines on antimicrobial resistance.",
+        "country": "afghanistan",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen regulations regarding the use and access to antimicrobials.",
+        "country": "afghanistan",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to regulate the prescription and dispensing of antimicrobials.",
+        "country": "afghanistan",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for research and innovation to tackle AMR.",
+        "country": "afghanistan",
+        "question": 22
+    }
+]

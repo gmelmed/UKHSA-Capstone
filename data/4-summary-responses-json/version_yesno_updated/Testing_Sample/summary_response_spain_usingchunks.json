@@ -1,0 +1,451 @@
+[
+    {
+        "country": "spain",
+        "question": "period_start",
+        "answer": 2022
+    },
+    {
+        "country": "spain",
+        "question": "period_end",
+        "answer": 2024
+    },
+    {
+        "country": "spain",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "COORDINADO POR LA AGENCIA ESPA\u00d1OLA DE MEDICAMENTOS Y PRODUCTOS SANITARIOS (AEMPS), EL PRAN ES UNA INICIATIVA 'ONE HEALTH' O DE 'UNA SOLA SALUD' DE: ... todas las comunidades aut\u00f3nomas; 70 sociedades cient\u00edficas, organizaciones colegiales, asociaciones profesionales y universidades; y m\u00e1s de 300 colaboradores expertos.",
+            "Gu\u00edas de prescripci\u00f3n de antimicrobianos: One Health",
+            "Por ello, la columna vertebral del PRAN es One Health, incluye salud 'humana, sanidad animal y medioambiente, y en \u00e9l participan, cada uno en el marco de sus competencias: todas las Comunidades Aut\u00f3nomas (CC . AA .), 10 ministerios, 70 sociedades cient\u00edficas, organizaciones colegiales, asociaciones profesionales y universidades y m\u00e1s de 300 colaboradores expertos.",
+            "Esta forma de trabajo permitir\u00e1 dise\u00f1ar soluciones a la medida de las necesidades espec\u00edficas de cada sector de producci\u00f3n.",
+            "aplicando una estrategia de vigilancia en Salud P\u00fablica con un enfoque One Health",
+            "En l\u00ednea con la Declaraci\u00f3n de Zaragoza es necesario integrar toda la informaci\u00f3n procedente de otros sistemas de vigilancia como farmacovigilancia, salud humana, seguridad alimentaria, sanidad ambiental y otros, aplicando una estrategia de vigilancia en Salud P\u00fablica con un enfoque One Health.",
+            "Realizar un an\u00e1lisis integrado de las tendencias en el volumen de ventas y en el uso de antimicrobianos en animales con las tendencias en el consumo de antimicrobianos en humana y elaborar un informe con los datos pertinentes sobre organismos resistentes a los antimicrobianos encontrados en animales, alimentos, seres humanos, as\u00ed como en el medioambiente, cuando est\u00e9n disponibles.",
+            "La Directiva 2003/99/CE sobre la vigilancia de las zoonosis y los agentes zoon\u00f3ticos, tiene como finalidad la vigilancia de las zoonosis, los agentes zoon\u00f3ticos y la resistencia a antimicrobianos ligada a ellos.",
+            "Durante el PRAN 2019-2021 y gracias a la colaboraci\u00f3n de los profesionales implicados, se han cumplido los objetivos en los Programas Reduce de Colistina en porcino, avicultura de carne y cunicultura y se han consolidado aquellos Programas Reduce que ya estaban en marcha (bovinos de carne, bovinos de leche y ovino y caprino de carne). Adem\u00e1s, el grupo de avicultura se ha ampliado a aves de puesta y pavos y se han puesto en marcha nuevos grupos de trabajo: ovino y caprino de leche, \u00e9quidos, peque\u00f1os animales y acuicultura.",
+            "Identificar experiencias positivas a la hora de abordar problemas espec\u00edficos",
+            "El desarrollo de las gu\u00edas de referencia en la terapia antimicrobiana est\u00e1 logrando mejorar el abordaje de los procesos infecciosos m\u00e1s prevalentes, al optimizar y homogeneizar la prescripci\u00f3n de los antibi\u00f3ticos en la pr\u00e1ctica cl\u00ednica, estableciendo criterios \u00fanicos de selecci\u00f3n de tratamientos y reduciendo el riesgo de aparici\u00f3n de resistencias, tanto en salud humana como en sanidad animal.",
+            "En sanidad animal, se ha desarrollado la Gu\u00eda Terap\u00e9utica de Antimicrobianos Veterinarios, una herramienta web interactiva con aplicaci\u00f3n web para facilitar el acceso a todos los veterinarios cl\u00ednicos, y cuyo objetivo es orientarlos en el abordaje terap\u00e9utico, basado en la evidencia y en los patrones de resistencias locales. [...] Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria.",
+            "Es reconocido que en determinados casos y sobre todo para determinadas especies, las denominadas menores, existen muy pocas alternativas terap\u00e9uticas. Esto en general, tiene un impacto directo en el desarrollo de resistencias debido, por un lado, a que la falta de disponibilidad de alternativas al uso de antimicrobianos (AM) (por ejemplo, vacunas) no permite la prevenci\u00f3n de infecciones, y por otro, que el reducido n\u00famero de MV que contienen AM disponibles hace que se usen siempre las mismas mol\u00e9culas, con el consiguiente riesgo de generar resistencias a estas.",
+            "Convocatoria de proyectos en intervenciones para prevenir o reducir el desarrollo y transmisi\u00f3n de Resistencias con enfoque One Health.",
+            "se presentar\u00e1 un informe estructurado en base al consumo de antibi\u00f3ticos en personas y animales productores de alimentos y la resistencia a antibi\u00f3ticos en personas, animales de producci\u00f3n y alimentos de origen animal",
+            "El BTSF es una iniciativa de la Comisi\u00f3n Europea (CE) de capacitaci\u00f3n para la mejora del conocimiento e implementaci\u00f3n de las normativas europeas en distintos \u00e1mbitos. Desde la coordinaci\u00f3n del PRAN se dise\u00f1a e imparte un curso sobre RAM desde una perspectiva One Health dando un enfoque hol\u00edstico para prevenir las infecciones y reducir la resistencia bacteriana.",
+            "Las actividades han contado con una perspectiva One Health y han estado dirigidas a diferentes p\u00fablicos objetivos.",
+            "En 2022 se realizar\u00e1 la ceremonia de entrega de premios en las nueve categor\u00edas incluidas en las bases reguladoras: vigilancia (salud humana); vigilancia (sanidad animal); investigaci\u00f3n; publicaciones cient\u00edficas; formaci\u00f3n; comunicaci\u00f3n y sensibilizaci\u00f3n; prevenci\u00f3n de infecciones (salud humana); prevenci\u00f3n de infecciones (sanidad animal); y medioambiente.",
+            "Los p\u00fablicos objetivos para todas las actividades de concienciaci\u00f3n engloban la sociedad en su conjunto y todos aquellos subgrupos espec\u00edficos de poblaci\u00f3n con especial relevancia en el uso de antibi\u00f3ticos: - Profesionales sanitarios en los \u00e1mbitos de la salud humana y la sanidad animal. - Profesionales del sector ganadero/ agr\u00edcola.",
+            "En el PRAN 2019-2021 se inclu\u00eda una estrategia espec\u00edfica de Medioambiente (MA) con el objetivo y la necesidad de profundizar en el conocimiento del papel del medioambiente en la producci\u00f3n y transferencia de resistencias trabajando en el contexto One Health.",
+            "se ha continuado con la caracterizaci\u00f3n del destino y comportamiento ambiental de los antimicrobianos de mayor uso proponiendo un muestreo conceptual. Este informe tambi\u00e9n describe de una manera profunda el comportamiento de las sustancias activas en el MA y se detallan los compartimentos ambientales donde pueden encontrarse con mayor probabilidad las sustancias activas de mayor consumo. As\u00ed mismo, el informe esta publicado en la p\u00e1gina web del PRAN. Adem\u00e1s, se han apoyado proyectos de investigaci\u00f3n desde la AEMPS en el marco del PRAN en la l\u00ednea tanto de la resistencia a antimicrobianos en ambiente como en la estrategia One Health.",
+            "En salud humana, EU-JAMRAI public\u00f3 un repositorio de herramientas PROA y realiz\u00f3 un estudio cualitativo para identificar facilitadores y barreras para su implementaci\u00f3n. Tambi\u00e9n pilot\u00f3 un sistema de vigilancia de la resistencia en tiempo real en 17 instituciones de 11 pa\u00edses. En sanidad animal, realiz\u00f3 una encuesta para identificar los componentes b\u00e1sicos necesarios para la implementaci\u00f3n \u00f3ptima de los PROAs y cre\u00f3 el marco de una red europea de vigilancia de la resistencia en animales enfermos: EARS-Vet.",
+            "la UE se comprometi\u00f3 a reforzar la respuesta a la RAM y a crear la One Health Network de la cual los coordinadores del PRAN siempre han formado parte representando a Espa\u00f1a en todas las reuniones y contribuyendo a establecer nuevas estrategias y objetivos."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Vigilancia del consumo . . . Vigilancia de las resistencias . . . Infecciones Relacionadas con la Asistencia Sanitaria (IRAS)",
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria",
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria",
+            "Otros cursos formativos en salud humana",
+            "el consumo en salud humana registr\u00f3 una bajada del 32,4%",
+            "En salud humana ser\u00e1 necesario consolidar los Sistemas de vigilancia, incorporando a la legislaci\u00f3n de Salud P\u00fablica el Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "fortalecer la vigilancia en salud p\u00fablica en el \u00e1mbito de la resistencia a los antibi\u00f3ticos es prioritario.",
+            "Por todo lo comentado, entre los objetivos establecidos para este nuevo plan, contin\u00faa siendo prioritario: - \u00b7 Consensuar los objetivos de reducci\u00f3n de consumo de antibi\u00f3ticos con las CC . AA . - \u00b7 Mejorar la accesibilidad y dar mayor difusi\u00f3n de los datos de consumo . - \u00b7 Desarrollar indicadores que permitan un mejor conocimiento de la situaci\u00f3n cl\u00ednico/epidemiol\u00f3gica de Espa\u00f1a .",
+            "En julio del 2021 el Consejo Interterri -torial del Sistema Nacional de Salud (CISNS) aprob\u00f3 el Documento Marco para la Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "Fomentar el uso del Programa de Vigilancia de RAM gratuito del CNM-ISCIII para la determinaci\u00f3n de mecanismos de resistencia emergentes, epidemiolog\u00eda molecular y caracterizaci\u00f3n de brotes mediante su integraci\u00f3n con RedLabRA.",
+            "Desarrollo de la primera encuesta nacional de prevalencia y uso de antimicrobianos en centros de larga estancia.",
+            "En este sentido, en el marco del PRAN se ha trabajado en el desarrollo de un sistema de vigilancia de bacterias pat\u00f3genas cl\u00ednicas.",
+            "La implementaci\u00f3n de los PROA en el \u00e1mbito comunitario tambi\u00e9n ha ido en aumento, la encuesta del 2021 indica que 93,4% de los encuestados dispon\u00eda de alguna iniciativa PROA en su \u00e1rea sanitaria.",
+            "Mejorar el nivel de excelencia de los PROA en los hospitales y \u00e1reas sanitarias del SNS.",
+            "Se han fomentado distintas acciones para que los profesionales sanitarios de atenci\u00f3n primaria tengan a su disposici\u00f3n recursos de ayuda al manejo de las infecciones en la comunidad para que la prescripci\u00f3n de antibi\u00f3ticos sea lo m\u00e1s precisa posible, teniendo en cuenta los principios de uso prudente de los antibi\u00f3ticos.",
+            "\u00b7 Formaci\u00f3n tanto de profesionales sanitarios como de pacientes en el \u00e1mbito de la prescripci\u00f3n diferida.",
+            "En salud humana, con el fin de disponer de una gu\u00eda de referencia nacional sobre terapia antimicrobiana y coordinar su actualizaci\u00f3n, el PRAN ha adoptado la Gu\u00eda Terap\u00e9utica Antimicrobiana Interniveles Aljarafe.",
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria",
+            "Promoci\u00f3n y formaci\u00f3n del programa HM entre los profesionales sanitarios en todos los \u00e1mbitos asistenciales del SNS, incluyendo el \u00e1mbito sociosanitario.",
+            "El Proyecto Infecci\u00f3n Quir\u00fargica Zero (IQZ) busca mejorar la calidad asistencial y la seguridad de los pacientes quir\u00fargicos mediante la reducci\u00f3n del n\u00famero de infecciones de sitio quir\u00fargico.",
+            "Fomentar el acceso a los antibi\u00f3ticos que se consideran esenciales para evitar la aparici\u00f3n de nuevas RAM y controlar las ya existentes.",
+            "Con el objetivo de evaluar la calidad de la prescripci\u00f3n y mejorar el an\u00e1lisis del consumo de los antibi\u00f3ticos, se ha creado un grupo de trabajo en el marco del PRAN, que se nutre de la Base de datos para la Investigaci\u00f3n Farmacoepidemiol\u00f3gica en Atenci\u00f3n Primaria (BIFAP) de la AEMPS.",
+            "Revisi\u00f3n actualizada de los datos de consumo de antibi\u00f3ticos en salud humana y sanidad animal.",
+            "Formaci\u00f3n espec\u00edfica y de calidad para el mayor n\u00famero de profesionales sanitarios, sobre la implementaci\u00f3n de equipos PROA en los hospitales espa\u00f1oles.",
+            "Esta iniciativa pretende fomentar la realizaci\u00f3n de actividades formativas y divulgativas relacionadas con la prevenci\u00f3n y mejora del uso de los antibi\u00f3ticos en las universidades y reconocer el trabajo de las facultades en materia de la resistencia.",
+            "Mejorar el nivel de conocimiento sobre el uso correcto de los antibi\u00f3ticos y modificar falsas creencias en relaci\u00f3n a los mismos son las tareas centrales de la l\u00ednea estrat\u00e9gica de Comunicaci\u00f3n del PRAN cuyas acciones se dirigen tanto a los profesionales sanitarios como al p\u00fablico general.",
+            "El PRAN estableci\u00f3 una serie de mensajes y recomendaciones dirigidos a los profesionales sanitarios para evitar la prescripci\u00f3n excesiva o inadecuada de antibi\u00f3ticos en pacientes con y sin COVID-19.",
+            "Bajo el convenio de colaboraci\u00f3n firmado entre la AEMPS y el Consejo General de Colegios Oficiales de Farmac\u00e9uticos (CGCOF) el PRAN llev\u00f3 a cabo en 2021 acciones que incluyeron el dise\u00f1o de folletos y posters dirigidos a los farmac\u00e9uticos; la distribuci\u00f3n de bolsas y envoltorios de papel con mensajes clave dirigidos al p\u00fablico general en 22.100 oficinas de farmacia de toda Espa\u00f1a y la organizaci\u00f3n de una jornada de formaci\u00f3n sobre el desarrollo de resistencia a los antibi\u00f3ticos dirigida al personal t\u00e9cnico de los diferentes Colegios Oficiales de Farmac\u00e9uticos.",
+            "vigilancia (salud humana); ... prevenci\u00f3n de infecciones (salud humana);",
+            "La campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' dirigida a prescriptores de Atenci\u00f3n Primaria. Siguiendo la idea original de la Fundaci\u00f3n para la Investigaci\u00f3n Biom\u00e9dica del Hospital Universitario La Paz, que dise\u00f1\u00f3 una serie de p\u00f3sters en el contexto de los PROA, se sumar\u00e1 una versi\u00f3n de la campa\u00f1a dirigida a m\u00e9dicos de Atenci\u00f3n Primaria.",
+            "El PRAN pretende contribuir a construir una nueva generaci\u00f3n preparada para afrontar posibles pandemias y mejor informada sobre c\u00f3mo se transmiten las infecciones y c\u00f3mo debe afrontarse el gran reto que supone para la salud p\u00fablica el problema de la resistencia bacteriana.",
+            "Fomentar a nivel nacional el Programa de Evaluaci\u00f3n de uso de antibi\u00f3ticos en las Cl\u00ednicas Dentales.",
+            "se abordar\u00e1 no s\u00f3lo la optimizaci\u00f3n de antibi\u00f3ticos, sino tambi\u00e9n la prevenci\u00f3n de infecciones en el \u00e1mbito sociosanitario.",
+            "En salud humana, EU-JAMRAI public\u00f3 un repositorio de herramientas PROA y realiz\u00f3 un estudio cualitativo para identificar facilitadores y barreras para su implementaci\u00f3n.",
+            "Concienciar sobre la impor- tancia del uso prudente de los antibi\u00f3ticos",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "Concienciar sobre la impor- tancia del uso prudente de los antibi\u00f3ticos",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "\u00b7 Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Desterrar falsas creencias en torno a su funcionamiento \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "Campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' dirigida a prescriptores de Atenci\u00f3n Primaria",
+            "Concienciar a prescriptores sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la eficacia de los ATBs",
+            "Concienciar a prescriptores sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "\u00b7  Concienciar sobre la importancia  del uso prudente de los antibi\u00f3ti- cos. \u00b7  Desterrar falsas creencias en torno  a su funcionamiento \u00b7  Informar sobre los riesgos que  representa el mal uso de los ATBs  para la salud de todos \u00b7  Subrayar la responsabilidad co- lectiva en la tarea de preservar la",
+            "\u00b7  Concienciar sobre la importancia  del uso prudente de los antibi\u00f3ticos. \u00b7  Desterrar falsas creencias en torno  a su funcionamiento \u00b7  Informar sobre los riesgos que  representa el mal uso de los ATBs  para la salud de todos \u00b7  Subrayar la responsabilidad co- lectiva en la tarea de preservar la"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Vigilancia del consumo: grupo de trabajo de vigilancia del consumo de antibi\u00f3ticos veterinarios",
+            "Grupo de trabajo para mejorar la disponibilidad de medicamentos veterinarios y alternativas",
+            "Grupo de trabajo para mejorar la disponibilidad de medicamentos veterinarios y alternativas al uso de antimicrobianos.",
+            "Curso de veterinario experto en el uso racional de antibi\u00f3ticos",
+            "la columna vertebral del PRAN es One Health, incluye salud 'humana, sanidad animal y medioambiente",
+            "En sanidad animal se impone la necesidad de estar m\u00e1s cerca del campo y de fortalecer el di\u00e1logo con los diferentes sectores gracias a una nueva organizaci\u00f3n de los grupos de trabajo: - \u00b7 Grupo de trabajo de vigilancia de consumo . - \u00b7 Grupo de trabajo de vigilancia de resistencias . - \u00b7 Grupo de trabajo para mejorar la disponibilidad de medicamentos veterinarios y alternativas al uso de antimicrobianos . - \u00b7 Grupos de trabajo 'Reduce'.",
+            "## SANIDAD ANIMAL\n\n## Vigilancia del consumo: grupo de trabajo de vigilancia del consumo de antibi\u00f3ticos veterinarios",
+            "Recoger y comparar datos de ventas y de uso de antimicrobianos, por especies, con el fin de desarrollar medidas espec\u00edficas para el control y uso razonable de los antimicrobianos en veterinaria.",
+            "b. Establecer indicadores para poder hacer un seguimiento del impacto de las acciones tomadas en el marco del PRAN para abordar la resistencia a los antimicrobianos en el sector animal.",
+            "e. Evaluar el riesgo de transmisi\u00f3n de RAM de animales a humanos a trav\u00e9s de rutas no relacionadas con alimentos, por ejemplo, por contacto directo con animales de compa\u00f1\u00eda.",
+            "Durante el PRAN 2019-2021 y gracias a la colaboraci\u00f3n de los profesionales implicados, se han cumplido los objetivos en los Programas Reduce de Colistina en porcino, avicultura de carne y cunicultura y se han consolidado aquellos Programas Reduce que ya estaban en marcha (bovinos de carne, bovinos de leche y ovino y caprino de carne).",
+            "Establecimiento de DDDvet y DCDvet para los antibi\u00f3ticos de mayor uso para el c\u00e1lculo del consumo",
+            "Proponer un modelo de plan de acci\u00f3n de biose- guridad en granja teniendo en cuenta el tipo de  producci\u00f3n",
+            "El PRAN seguir\u00e1 apoyando el departamento de medicamentos veterinarios de la AEMPS, para asegurar la adecuaci\u00f3n del formato de los envases de los antimicrobianos en relaci\u00f3n con la v\u00eda de administraci\u00f3n propuesta, la posolog\u00eda y la(s) especie(s) de destino.",
+            "En sanidad animal, se ha desarrollado la Gu\u00eda Terap\u00e9utica de Antimicrobianos Veterinarios, una herramienta web interactiva con aplicaci\u00f3n web para facilitar el acceso a todos los veterinarios cl\u00ednicos, y cuyo objetivo es orientarlos en el abordaje terap\u00e9utico, basado en la evidencia y en los patrones de resistencias locales.",
+            "Grupo de trabajo para mejorar la disponibilidad de medicamentos veterinarios y alternativas al uso de antimicrobianos",
+            "Revisi\u00f3n actualizada de los datos de resistencia a los antimicrobianos en bacterias zoon\u00f3sicas y bacterias indicadoras en los animales productores de alimentos",
+            "Formaci\u00f3n espec\u00edfica y de calidad dirigida a veterinarios cl\u00ednicos de animales de producci\u00f3n, sobre el uso racional de antimicrobianos.",
+            "Campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' para veterinarios y para el sector ganadero",
+            "vigilancia (sanidad animal); prevenci\u00f3n de infecciones (sanidad animal)",
+            "Los p\u00fablicos objetivos para todas las actividades de concienciaci\u00f3n engloban la sociedad en su conjunto y todos aquellos subgrupos espec\u00edficos de poblaci\u00f3n con especial relevancia en el uso de antibi\u00f3ticos: - Profesionales sanitarios en los \u00e1mbitos de la salud humana y la sanidad animal.",
+            "En sanidad animal, realiz\u00f3 una encuesta para identificar los componentes b\u00e1sicos necesarios para la implementaci\u00f3n \u00f3ptima de los PROAs y cre\u00f3 el marco de una red europea de vigilancia de la resistencia en animales enfermos: EARS-Vet.",
+            "El PRAN participa en los grupos de trabajo del Comit\u00e9 Europeo de Medicamentos y Productos Veterinarios (CVMP) como: ESVAC, legislaci\u00f3n de antibi\u00f3ticos, ERA y farmacovigilancia."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "la columna vertebral del PRAN es One Health, incluye salud ' ' humana, sanidad  animal  y  medioambiente",
+            "tambi\u00e9n continuaremos profundizando en el conocimiento del papel del Medioambiente (MA) en la producci\u00f3n y la transferencia de resistencias y ampliando esfuerzos para concienciar a nuevos sectores.",
+            "d. Realizar un an\u00e1lisis integrado de las tendencias en el volumen de ventas y en el uso de antimicrobianos en animales con las tendencias en el consumo de antimicrobianos en humana y elaborar un informe con los datos pertinentes sobre organismos resistentes a los antimicrobianos encontrados en animales, alimentos, seres humanos, as\u00ed como en el medioambiente, cuando est\u00e9n disponibles (JIACRA, por sus siglas en ingl\u00e9s).",
+            "Crear nuevos Programas Reduce en otras especies y crear nuevos grupos de trabajo: ovino y caprino de leche, acuicultura.",
+            "An\u00e1lisis de los datos de consumo y resistencias en animales, alimentos, seres humanos y medioambiente, desde una perspectiva anterior y posterior a la pandemia de COVID-19.",
+            "premios en el \u00e1mbito de la lucha frente a la resistencia a los antibi\u00f3ticos ... y medioambiente",
+            "En el  PRAN 2019-2021 se inclu\u00eda una estrategia  espec\u00edfica  de  Medioamb -iente  (MA)  con  el  objetivo  y  la  necesidad de profundizar en el conocimiento del papel del medioambiente en  la  producci\u00f3n  y  transferencia  de resistencias trabajando en el contex -to One Health.",
+            "se ha continuado con la caracterizaci\u00f3n del destino y comportamiento ambiental de los antimicrobianos de mayor uso proponiendo un muestreo conceptual."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En sanidad animal se impone la necesidad de estar m\u00e1s cerca del campo y de fortalecer el di\u00e1logo con los diferentes sectores gracias a una nueva organizaci\u00f3n de los grupos de trabajo: - \u00b7 Grupo de trabajo de vigilancia de consumo . - \u00b7 Grupo de trabajo de vigilancia de resistencias . - \u00b7 Grupo de trabajo para mejorar la disponibilidad de medicamentos veterinarios y alternativas al uso de antimicrobianos .",
+            "b. Establecer indicadores para poder hacer un seguimiento del impacto de las acciones tomadas en el marco del PRAN para abordar la resistencia a los antimicrobianos en el sector animal.",
+            "Durante el PRAN 2019-2021 y gracias a la colaboraci\u00f3n de los profesionales implicados, se han cumplido los objetivos en los Programas Reduce de Colistina en porcino, avicultura de carne y cunicultura y se han consolidado aquellos Programas Reduce que ya estaban en marcha (bovinos de carne, bovinos de leche y ovino y caprino de carne). Adem\u00e1s, el grupo de avicultura se ha ampliado a aves de puesta y pavos y se han puesto en marcha nuevos grupos de trabajo: ovino y caprino de leche, \u00e9quidos, peque\u00f1os animales y acuicultura.",
+            "Establecimiento de DDDvet y DCDvet para los antibi\u00f3ticos de mayor uso para el c\u00e1lculo del consumo",
+            "Bioseguridad: Proponer un modelo de plan de acci\u00f3n de biose- guridad en granja teniendo en cuenta el tipo de  producci\u00f3n",
+            "El PRAN seguir\u00e1 apoyando el departamento de medicamentos veterinarios de la AEMPS, para asegurar la adecuaci\u00f3n del formato de los envases de los antimicrobianos en relaci\u00f3n con la v\u00eda de administraci\u00f3n propuesta, la posolog\u00eda y la(s) especie(s) de destino.",
+            "Esto en general, tiene un impacto directo en el desarrollo de resistencias debido, por un lado, a que la falta de disponibilidad de alternativas al uso de antimicrobianos (AM) (por ejemplo, vacunas) no permite la prevenci\u00f3n de infecciones, y por otro, que el reducido n\u00famero de MV que contienen AM disponibles hace que se usen siempre las mismas mol\u00e9culas, con el consiguiente riesgo de generar resistencias a estas.",
+            "Revisi\u00f3n actualizada de los datos de resistencia a los antimicrobianos en bacterias zoon\u00f3sicas y bacterias indicadoras en los animales productores de alimentos, en alimentos de origen animal y en bacterias de importancia cl\u00ednica en personas.",
+            "Campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' para veterinarios y para el sector ganadero",
+            "\u00b7 Profesionales del sector ganadero/ agr\u00edcola .",
+            "El 'Codex Alimentarius' es el manus -crito coordinado por la OMS y la FAO donde se resume el c\u00f3digo de pr\u00e1cticas para reducir al m\u00ednimo y contener la resistencia a los antimicrobianos en los microorganismos transmitidos por alimentos."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Realizaci\u00f3n de informes semestrales de consumo hospitalario y comunitario que se enviar\u00e1n de manera activa a cada CC . AA .",
+            "anualmente elabora y publica un informe con los principales datos de Espa\u00f1a disponible aqu\u00ed",
+            "se han publicado informes de evaluaci\u00f3n de indicadores de seguimiento del programa en el a\u00f1o 2019 y 2020.",
+            "Evaluaci\u00f3n anual del programa de HM, publicaci\u00f3n y difusi\u00f3n de los resultados.",
+            "Monitorizar el cumplimiento de las medidas y difundir sus resultados a todos los implicados para identificar y aplicar acciones de mejora.",
+            "Anualmente coincidiendo con el 18 de noviembre (EAAD)"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el segundo estableci\u00f3 objetivos cuantitativos y acciones m\u00e1s concretas y espec\u00edficas.",
+            "Acciones para 2022-2024: Fomentar el uso del Programa de Vigilancia de RAM gratuito del CNM-ISCIII para la determinaci\u00f3n de mecanismos de resistencia emergentes, epidemiolog\u00eda molecular y caracterizaci\u00f3n de brotes mediante su integraci\u00f3n con RedLabRA.",
+            "Establecer indicadores para poder hacer un seguimiento del impacto de las acciones tomadas en el marco del PRAN para abordar la resistencia a los antimicrobianos en el sector animal.",
+            "Hasta ahora hemos trabajado con los grupos para obtener unos objetivos concretos de consumo con un periodo temporal establecido.",
+            "Acciones para 2022-2024",
+            "Anualmente coincidiendo con el 18 de noviembre (EAAD)",
+            "Anualmente coincidiendo con el 18 de noviembre (EAAD)",
+            "\u00b7 Listado de cl\u00ednicas dentales \u00b7 Identificaci\u00f3n de mensajes clave \u00b7 Licitaci\u00f3n creatividad + impresi\u00f3n \u00b7 Dotaci\u00f3n de presupuesto para env\u00edo a cl\u00ednicas | 2023"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "el segundo estableci\u00f3 objetivos cuantitativos y acciones m\u00e1s concretas y espec\u00edficas.",
+            "En el \u00e1mbito hospitalario, Espa\u00f1a se ha posicionado por debajo de la media europea (media de Espa\u00f1a de 1,56 dosis diarias definidas por cada 1.000 habitantes y d\u00eda (DHD) frente a la media europea de 1,57 DHD). En el \u00e1mbito comunitario, Espa\u00f1a se ha mantenido en el 2020 en la misma posici\u00f3n del a\u00f1o anterior (posici\u00f3n 23 de 27 pa\u00edses; media de Espa\u00f1a de 18,2 DHD frente a la media europea de 15,0 DHD)",
+            "Incorporar indicadores de consumo cuantitativos, cualitativos y de resultado en los distintos \u00e1mbitos sanitarios.",
+            "En dicho RD se definir\u00e1 un indicador de re -ferencia que se tomar\u00e1 como valor m\u00e1ximo de consumo anual y ser\u00e1 calculado a nivel de explotaci\u00f3n."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "\u00b7   Adjudicaci\u00f3n de presu- puesto en el Plan de Pu- blicidad y Comunicaci\u00f3n  Institucional",
+            "\u00b7   Bases reguladoras \u00b7   Dotaci\u00f3n econ\u00f3mica \u00b7   Desarrollo plataforma para  candidaturas \u00b7   Comisi\u00f3n de valoraci\u00f3n \u00b7   Ceremonia entrega de",
+            "Dotaci\u00f3n de presupuesto para env\u00edo a cl\u00ednicas",
+            "Dotaci\u00f3n de presupuesto para env\u00edo a cl\u00ednicas"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "spain",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "COORDINADO POR LA AGENCIA ESPA\u00d1OLA DE MEDICAMENTOS Y PRODUCTOS SANITARIOS (AEMPS), EL PRAN ES UNA INICIATIVA 'ONE HEALTH' O DE 'UNA SOLA SALUD' DE: - Ministerio de Consumo; - Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital; - Ministerio de Educaci\u00f3n y Formaci\u00f3n Profesional; - Ministerio de Ciencia e Innovaci\u00f3n; - Ministerio de Universidades; - Ministerio de Defensa; Ministerio del Interior; - todas las comunidades aut\u00f3nomas; - 70 sociedades cient\u00edficas, organizaciones colegiales, asociaciones profesionales y universidades; - y m\u00e1s de 300 colaboradores expertos.",
+            "Por  ello,  la  columna  vertebral del PRAN es  One Health , incluye salud ' ' humana,  sanidad  animal  y  medioambiente,  y  en  \u00e9l  participan,  cada  uno  en el  marco  de  sus  competencias:  todas las  Comunidades Aut\u00f3nomas (CC . AA .), 10 ministerios, 70 sociedades cient\u00edficas, organizaciones  colegiales,  asociaciones profesionales y universidades y m\u00e1s de 300 colaboradores expertos.",
+            "En sanidad animal se impone la necesidad de estar m\u00e1s cerca del campo y de fortalecer el di\u00e1logo con los diferentes sectores gracias a una nueva organizaci\u00f3n de los grupos de trabajo.",
+            "Para gestionar la Red se ha instituido un Comit\u00e9 Coordinador que ha definido los objetivos prioritarios",
+            "bajo la revisi\u00f3n del Comit\u00e9 coordinador y acorde al desarrollo de las capacidades de los laboratorios de la Red.",
+            "la firma de la adhesi\u00f3n implica la financiaci\u00f3n de un CCT-PROA en cada CC. AA. y constituci\u00f3n del Grupo Asesor T\u00e9cnico PROA que se re\u00fane trimestralmente para consensuar acciones estrat\u00e9gicas e intercambiar experiencias que favorezca la implementaci\u00f3n de los PROA.",
+            "Crear un grupo de trabajo multidisciplinar, con representaci\u00f3n p\u00fablico privada y revisar los envases de antibi\u00f3ticos",
+            "designar y convocar un Grupo Coordinador para organizar dicha actualizaci\u00f3n",
+            "Establecer el grupo de trabajo con representantes de la AEMPS, Comit\u00e9 de Disponibilidad, industria, sectores y todos aquellos que se identifiquen como indispensables para el desarrollo del proyecto.",
+            "Este grupo ser\u00e1 coordinado por la Unidad de Coordinaci\u00f3n del PRAN y la Subdirecci\u00f3n General de Calidad Asistencial.",
+            "la UE se comprometi\u00f3 a reforzar la respuesta a la RAM y a crear la One Health Network de la cual los coordinadores del PRAN siempre han formado parte representando a Espa\u00f1a en todas las reuniones y contribuyendo a establecer nuevas estrategias y objetivos.",
+            "Grupo de trabajo PRAN (t\u00e9cnicos + comunica- del cuestionario"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En salud humana ser\u00e1 necesario consolidar los Sistemas de vigilancia, incorporando a la legislaci\u00f3n de Salud P\u00fablica el Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "Inclusi\u00f3n del Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos en la legislaci\u00f3n de Salud P\u00fablica.",
+            "Inclusi\u00f3n de la vigilancia de las IRAS de forma espec\u00edfica en el Real Decreto de Salud P\u00fablica.",
+            "Publicaci\u00f3n en 2022 de un Real Decreto por el que se establece el marco de actuaci\u00f3n para conseguir un uso sostenible de antibi\u00f3ticos en especies ganaderas, con entrada en vigor el 1 de enero de 2023.",
+            "El considerado 47 del Reglamento (UE) 2019/6 indica que 'el suministro de medicamentos veterinarios por los veterinarios debe limitarse a la cantidad necesaria para el tratamiento de los animales bajo su cuidado'.",
+            "En el marco de la revisi\u00f3n prevista en la nueva legislaci\u00f3n veterinaria, revisar los envases de antimicrobianos registrados por tramite nacional y analizar su adaptaci\u00f3n a la duraci\u00f3n recomendada de tratamiento.",
+            "Proponer medidas regulatorias que permitan garantizar el correcto abastecimiento de todas las formas farmac\u00e9uticas y dosis necesarias (incluidas las pedi\u00e1tricas) de antibi\u00f3ticos considerados cr\u00edticos.",
+            "Adem\u00e1s, muchos de los MV que est\u00e1n en el mercado necesitar\u00e1n revisarse para adaptarse a la Nueva Legislaci\u00f3n Veterinaria (NLV)."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "DESARROLLO DE FORMACI\u00d3N ESPEC\u00cdFICA",
+            "Formaci\u00f3n tanto de profesionales sanitarios como de pacientes en el \u00e1mbito de la prescripci\u00f3n diferida.",
+            "En 2019 se firm\u00f3 el convenio entre la AEMPS, en el marco del PRAN, la Universidad Nacional de Educaci\u00f3n a Distancia (UNED) y la Fundaci\u00f3n UNED para facilitar a los profesionales sanitarios que trabajan en el marco de los PROA, el acceso al Diploma de Experto Universitario en Programas de Optimizaci\u00f3n del Uso de Antibi\u00f3ticos (PROA).",
+            "Formaci\u00f3n espec\u00edfica y de calidad para el mayor n\u00famero de personas, sobre el problema de la resistencia a los antibi\u00f3ticos, el uso racional de los mismos, el concepto 'Una Sola Salud' y l\u00edneas estrat\u00e9gicas del PRAN.",
+            "Durante el 2019-2021 se han desarrollado distintos proyectos para contribuir a la formaci\u00f3n de los estudiantes y su concienciaci\u00f3n sobre la importancia del uso prudente de los antibi\u00f3ticos.",
+            "En 2019-2020 el PRAN distribuy\u00f3 1.500 kits de debate sobre resistencia entre colegios e institutos de todo el pa\u00eds. Este material did\u00e1ctico se dirige a estudiantes de 11 a 18 a\u00f1os con el objetivo de mejorar la concienciaci\u00f3n de los alumnos sobre la importancia del uso prudente de los antibi\u00f3ticos.",
+            "la organizaci\u00f3n de una jornada de formaci\u00f3n sobre el desarrollo de resistencia a los antibi\u00f3ticos dirigida al personal t\u00e9cnico de los diferentes Colegios Oficiales de Farmac\u00e9uticos.",
+            "El PRAN continuar\u00e1 con la distribuci\u00f3n de Kits de debate a estudiantes de colegios e institutos de toda Espa\u00f1a con el objetivo de hacerles reflexionar desde edades tempranas sobre la importante problem\u00e1tica de la resistencia a los antibi\u00f3ticos.",
+            "A esta actividad se suman adem\u00e1s diferentes intervenciones, ponencias y charlas que se desarrollan bajo petici\u00f3n en diferentes foros: universidades; cursos de verano; jornadas o seminarios cient\u00edficos; asociaciones profesionales u organizaciones colegiales.",
+            "EUJAMRAI cre\u00f3 esta App con el objetivo espec\u00edfico de facilitar que el tema sea abordado por profesores y alumnos durante el horario escolar, mejorando la concienciaci\u00f3n e impulsando el cambio de comportamiento entre los m\u00e1s j\u00f3venes.",
+            "Animar a los estudiantes a formar parte activa del PRAN como colectivo clave en la mejora del uso de los antibi\u00f3ticos",
+            "\u00b7 Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Animar a los estudiantes a formar parte activa del PRAN como colectivo clave en la mejora del uso de los antibi\u00f3ticos",
+            "Aplicaci\u00f3n m\u00f3vil Mi- cro-Combat - Estudiantes a partir de 10 a\u00f1os P\u00fablico general - Creaci\u00f3n de una red de difusi\u00f3n en centros educativos mediante un grupo de trabajo",
+            "Creaci\u00f3n de una red de difusi\u00f3n en centros educativos mediante un grupo de trabajo"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "en estrategias de comunicaci\u00f3n y formaci\u00f3n.",
+            "Campa\u00f1as de comunicaci\u00f3n para conseguir la m\u00e1xima difusi\u00f3n de las gu\u00edas (herramientas web y m\u00f3vil).",
+            "Realizar campa\u00f1as de concienciaci\u00f3n con motivo del D\u00eda Mundial de la Higiene de Manos.",
+            "Desarrollo de campa\u00f1as de difusi\u00f3n y promoci\u00f3n.",
+            "Sesiones divulgativas dirigidas a los estudiantes de las facultades biosanitarias que buscan concienciar sobre el problema de las resistencias de una forma amena y participativa a trav\u00e9s de preguntas interactivas y debates.",
+            "En el marco del D\u00eda Europeo para el Uso Prudente de los Antibi\u00f3ticos (18 de noviembre) y la Semana Mundial de Concienciaci\u00f3n sobre el Uso de los Antibi\u00f3ticos cada a\u00f1o el PRAN realiza campa\u00f1as institucionales de concienciaci\u00f3n dirigidas al p\u00fablico general.",
+            "Todos los a\u00f1os apoyamos a trav\u00e9s de nuestras redes sociales la Semana mundial de concienciaci\u00f3n sobre el uso de los antimicrobianos (una iniciativa impulsada por la OMS).",
+            "En colaboraci\u00f3n con la Acci\u00f3n Conjunta Europea sobre Resistencia a los Antimicrobianos e Infecciones Relacionadas con la Asistencia Sanitaria (EU-JAMRAI), el PRAN particip\u00f3 en la Noche Europea de los Investigadores con varias actividades dirigidas a p\u00fablico infantil y familiar. Estas iniciativas tuvieron como objetivos acercar la figura del cient\u00edfico al p\u00fablico general y reforzar la concienciaci\u00f3n sobre la importancia de la higiene de manos para frenar a las bacterias resistentes.",
+            "Campa\u00f1as anuales dirigidas al p\u00fablico general sobre el uso prudente de los antibi\u00f3ticos (coincidiendo con el 18N/EAAD y el WAAW).",
+            "Campa\u00f1a de concienciaci\u00f3n en farmacias comunitarias en colaboraci\u00f3n con CGCOF. El convenio de colaboraci\u00f3n firmado entre la AEMPS y el Consejo General de Colegios Oficiales de Farmac\u00e9uticos (CGCOF) permitir\u00e1 el desarrollo de acciones de comunicaci\u00f3n y formaci\u00f3n en el marco del PRAN con una repercusi\u00f3n amplificada gracias a la cobertura nacional de las organizaciones colegiales.",
+            "Campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' dirigida a prescriptores de Atenci\u00f3n Primaria.",
+            "Los p\u00fablicos objetivos para todas las actividades de concienciaci\u00f3n engloban la sociedad en su conjunto y todos aquellos subgrupos espec\u00edficos de poblaci\u00f3n con especial relevancia en el uso de antibi\u00f3ticos.",
+            "Las campa\u00f1as institucionales desarrolladas por el PRAN tambi\u00e9n se publican en la web del Ministerio de Sanidad.",
+            "El posicionamiento que ha adquirido el PRAN como entidad de relevancia en el tema de la resistencia antimicrobiana en Espa\u00f1a ha hecho que sean cada vez m\u00e1s las solicitudes de entrevistas por parte de los medios de comunicaci\u00f3n. Durante los pr\u00f3ximos tres a\u00f1os se seguir\u00e1 trabajando para dar respuesta y promover la participaci\u00f3n en este tipo de art\u00edculos de divulgaci\u00f3n y entrevistas.",
+            "Campa\u00f1a de mensajes clave con carteler\u00eda espec\u00edfica en odontolog\u00eda.",
+            "Entre las actividades de concienciaci\u00f3n desarrolladas por el equipo del PRAN destacan: - Un concurso para encontrar el primer 'S\u00edmbolo global de la resistencia a los antibi\u00f3ticos'. - La app Micro-Combat, un videojuego did\u00e1ctico y cooperativo para familiarizarse con el uso adecuado de los antibi\u00f3ticos de forma l\u00fadica. - La publicaci\u00f3n de la 'Gu\u00eda t\u00e9cnica para comunicar en las \u00e1reas de concienciaci\u00f3n y cambio de comportamiento sobre la resistencia a los antimicrobianos'.",
+            "Concienciar sobre la impor- tancia del uso prudente de los antibi\u00f3ticos \u00b7 Divulgar las \u00faltimas novedades en relaci\u00f3n al problema de la resistencia en Europa y Espa\u00f1a \u00b7 Sumarse a las iniciativas euro- peas e internacionales",
+            "Campa\u00f1as anuales dirigidas al p\u00fablico general",
+            "Concienciar sobre la impor- tancia del uso prudente de los antibi\u00f3ticos \u00b7 Difusi\u00f3n de las campa\u00f1as europeas del EAAD y el WAAW | P\u00fablico general Profesionales sanitarios | Web Redes sociales (RRSS)",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos",
+            "\u00b7 Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Desterrar falsas creencias en torno a su funcionamiento \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la",
+            "Campa\u00f1a de concien- ciaci\u00f3n en farmacias comunitarias en colabo- raci\u00f3n con CGCOF",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Divulgar las \u00faltimas novedades en relaci\u00f3n al problema de la resistencia en Europa y Espa\u00f1a \u00b7 Medios (generales o especializados) Boletines de tipo profesional Parlamento/Senado Eventos presenciales/online Web Redes sociales (RRSS)",
+            "Campa\u00f1a 'Ni menos, ni m\u00e1s \u00a1T\u00fa decides!' dirigida a prescriptores de Atenci\u00f3n Primaria",
+            "Concienciar a prescriptores sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la eficacia de los ATBs",
+            "Concienciar a prescriptores sobre la importancia del uso prudente de los antibi\u00f3ticos \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la eficacia de los ATBs",
+            "Concienciar sobre la importancia del uso prudente de los antibi\u00f3ticos. \u00b7 Desterrar falsas creencias en torno a su funcionamiento \u00b7 Informar sobre los riesgos que representa el mal uso de los ATBs para la salud de todos \u00b7 Subrayar la responsabilidad colectiva en la tarea de preservar la",
+            "\u00b7  Concienciar sobre la importancia  del uso prudente de los antibi\u00f3ti- cos. \u00b7  Desterrar falsas creencias en torno  a su funcionamiento \u00b7  Informar sobre los riesgos que  representa el mal uso de los ATBs  para la salud de todos \u00b7  Subrayar la responsabilidad co- lectiva en la tarea de preservar la"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Participaci\u00f3n en estudios nacionales e internacionales enfocados en la vigilancia de IRAS.",
+            "Apoyar las iniciativas de la OMS respecto a prevenci\u00f3n y control de las infecciones.",
+            "En 2021, el ISCIII ha promovido la participaci\u00f3n de grupos de estudio espa\u00f1oles en la Iniciativa Global de Programaci\u00f3n Conjunta de investigaci\u00f3n en Resistencia Antimicrobiana (JPI-AMR).",
+            "Aumentar la presencia del ISCIII en foros europeos e internacionales . Fomentar la participaci\u00f3n y \u00e9xito de grupos de investigaci\u00f3n espa\u00f1oles en materia de RAM . Promover la investigaci\u00f3n cooperativa y multidisciplinar en enfermedades infecciosas y, espec\u00edficamente, en RAM a trav\u00e9s de CIBERINFEC . Participaci\u00f3n en foros europeos e internacionales para influir y apoyar medidas relacionadas con la resistencia a los antibi\u00f3ticos: Acuerdo mundial hist\u00f3rico sobre prevenci\u00f3n, preparaci\u00f3n y respuesta frente a pandemias . Agenda Estrat\u00e9gica Europea de Investigaci\u00f3n en RAM elaborada en el marco de la JPI-AMR . Asociaci\u00f3n Europea One Health AMR .",
+            "Reforzar el compromiso y la colaboraci\u00f3n con organizaciones internacionales e intensificar la cooperaci\u00f3n con pa\u00edses fuera de la UE sobre RAM.",
+            "Adem\u00e1s, el PRAN participa en la reuni\u00f3n anual del Comit\u00e9 T\u00e9cnico del EAAD celebrada anualmente en la sede del ECDC. En este encuentro representantes de todos los pa\u00edses de la UE analizan, eval\u00faan y comparten diferentes materiales de comunicaci\u00f3n dirigidos a informar y concienciar a profesionales sanitarios.",
+            "Los mensajes clave a difundir a trav\u00e9s de las actividades de comunicaci\u00f3n se han dise\u00f1ado de acuerdo con todas estas recomendaciones y siempre conformes a las estrategias globales de la Comisi\u00f3n Europea (CE), la Organizaci\u00f3n Mundial de la Salud (OMS) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE).",
+            "Participaci\u00f3n activa en proyectos europeos relacionados con las RAM.",
+            "El PRAN tambi\u00e9n estuvo a cargo de la organizaci\u00f3n de la conferencia final de EU-JAMRAI en febrero de 2021 en la que, adem\u00e1s de presentar videos con los resultados del proyecto, se organizaron debates con expertos de todo el mundo y representantes de alto nivel de la UE.",
+            "En las Council Conclusions de 2016, la UE se comprometi\u00f3 a reforzar la respuesta a la RAM y a crear la One Health Network de la cual los coordinadores del PRAN siempre han formado parte representando a Espa\u00f1a en todas las reuniones y contribuyendo a establecer nuevas estrategias y objetivos.",
+            "Continuar  la  colaboraci\u00f3n  a  nivel  internacional  en  la  elaboraci\u00f3n  de  documentos de consenso adem\u00e1s de su difusi\u00f3n e implementaci\u00f3n a nivel nacional para trabajar todos en la misma direcci\u00f3n.",
+            "Sumarse a las iniciativas euro- peas e internacionales",
+            "Sumarse a las iniciativas euro- peas e internacionales",
+            "Sumarse a las iniciativas europeas e internacionales",
+            "Sumarse a las iniciativas europeas e internacionales"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Vigilancia de las resistencias: grupo de trabajo de vigilancia de la resistencia",
+            "En salud humana ser\u00e1 necesario consolidar los Sistemas de vigilancia, incorporando a la legislaci\u00f3n de Salud P\u00fablica el Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "fortalecer la vigilancia en salud p\u00fablica en el \u00e1mbito de la resistencia a los antibi\u00f3ticos es prioritario.",
+            "El paso siguiente para avanzar en el an\u00e1lisis de los datos de consumo, y que se ha empezado a trabajar estos a\u00f1os, es la identificaci\u00f3n de indicadores que muestren la realidad de los distintos sectores y, adem\u00e1s, den una informaci\u00f3n completa del consumo y uso de los antibi\u00f3ticos reflejando el impacto que puedan tener las medidas aplicadas en las distintas l\u00edneas estrat\u00e9gicas.",
+            "En julio del 2021 el Consejo Interterri -torial  del  Sistema  Nacional  de  Salud (CISNS) aprob\u00f3  el Documento Marco para la Vigilancia Nacional de la Resistencia a los Antimicrobianos. Este  documento  ha  sido  desarrollado en el marco de la Red Nacional de Vigilancia Epidemiol\u00f3gica  (RENAVE) y el PRAN con el objetivo final de desarrollar  un  sistema  de  vigilancia  de resistencias a antimicrobianos.",
+            "Fomentar el uso del Programa de Vigilancia de RAM gratuito del CNM-ISCIII para la determinaci\u00f3n de mecanismos de resistencia emergentes, epidemiolog\u00eda molecular y caracterizaci\u00f3n de brotes mediante su integraci\u00f3n con RedLabRA.",
+            "Desarrollo de la primera encuesta nacional de prevalencia y uso de antimicrobianos en centros de larga estancia.",
+            "Recoger y comparar datos de ventas y de uso de antimicrobianos, por especies, con el fin de desarrollar medidas espec\u00edficas para el control y uso razonable de los antimicrobianos en veterinaria.",
+            "en  el  marco  del  PRAN se ha trabajado en el desarrollo de un sistema de vigilancia de bacterias pat\u00f3genas cl\u00ednicas.",
+            "Uno de los compromisos del PRAN es definir las caracter\u00edsticas t\u00e9cnicas que deben tener las herramientas inform\u00e1ticas que den apoyo a los Equipos/Programas de Optimizaci\u00f3n de Uso de Antibi\u00f3ticos para realizar sus actividades o intervenciones. Con este fin, en 2017 se puso en marcha el proyecto WASPSS (Wise Antimicrobial Stewardship Support System). Esta herramienta es un sistema inteligente que proporciona respaldo a los equipos PROA de hospitales en la toma de decisiones, facilitando la implantaci\u00f3n de estos equipos y potenciando su actividad e impacto en centros hospitalarios del SNS del territorio nacional.",
+            "RAVARA es un registro de empleo de antimicrobianos de alto valor estrat\u00e9gico y reciente aprobaci\u00f3n, promovido por la AEMPS en el marco del PRAN . Esta herramienta permitir\u00e1 conocer las condiciones reales de utilizaci\u00f3n de los AVARA para facilitar su monitorizaci\u00f3n y obtener informaci\u00f3n sobre su uso para valorar su inclusi\u00f3n en programas de uso espec\u00edficos.",
+            "Analizar los datos de consumo",
+            "Crear una red de laboratorios espec\u00edficos participantes en el Proyecto de Vigilancia de Bacterias",
+            "Apoyo al Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "Identificar por especies, teniendo en cuenta la informaci\u00f3n proporcionada por el comit\u00e9 de disponibilidad de la AEMPS y los datos de consumo y resistencias, aquellas herramientas terap\u00e9uticas m\u00e1s necesarias.",
+            "Con el objetivo de evaluar la calidad de la prescripci\u00f3n y mejorar el an\u00e1lisis del consumo de los antibi\u00f3ticos, se ha creado un grupo de trabajo en el marco del PRAN, que se nutre de la Base de datos para la Investigaci\u00f3n Farmacoepidemiol\u00f3gica en Atenci\u00f3n Primaria (BIFAP) de la AEMPS.",
+            "Revisi\u00f3n actualizada de los datos de resistencia a los antimicrobianos en bacterias zoon\u00f3sicas y bacterias indicadoras en los animales productores de alimentos, en alimentos de origen animal y en bacterias de importancia cl\u00ednica en personas.",
+            "Capacitaci\u00f3n en mejorar las pr\u00e1cticas de sistemas nacionales de vigilancia, seguimiento, prevenci\u00f3n y control de las RAM.",
+            "Encuesta nacional sobre el uso de antibi\u00f3ticos. Acci\u00f3n planteada en colaboraci\u00f3n con el Instituto Nacional de Estad\u00edstica (INE) para ampliar el conocimiento de la situaci\u00f3n general en el \u00e1mbito del uso de los antibi\u00f3ticos y, consecuentemente, mejorar la evaluaci\u00f3n de todas las actividades desarrolladas en la l\u00ednea estrat\u00e9gica de Comunicaci\u00f3n.",
+            "Segunda fase: estudio de los datos existentes de monitorizaci\u00f3n ambiental y posibles mejoras de los planes de monitorizaci\u00f3n.",
+            "Continuar con la fase 2 mediante el estudio de datos de monitorizaci\u00f3n de antibi\u00f3ticos en medio ambiente.",
+            "Participaci\u00f3n de los hospitales del sector privado en el Sistema Nacional de Vigilancia de la Resistencia.",
+            "Actualizaci\u00f3n de los datos nacionales de RAM a trav\u00e9s de EARS-Net, GLASS, FWD-Net, EURO-GASP, tuberculosis ECDC-OMS.",
+            "Continuar proporcionando los datos de RAM, consumo antibi\u00f3tico e IRAS a las redes europeas del ECDC y EMA. Mejorar el protocolo de recogida de datos de la red GLASS de la OMS. Actualizar la base de datos ESVAC para adaptarla a los requisitos incluidos en el Reglamento 2021/578 y 2022/209 para la recogida de datos de ventas y uso de antimicrobianos.",
+            "Identificar conocimientos y comportamientos de la poblaci\u00f3n frente al uso de los antibi\u00f3ticos \u00b7 Tener datos comparables en el tiempo para poder analizar la evoluci\u00f3n y por tanto el impacto de las acciones implementadas por el PRAN",
+            "\u00b7 Tener datos comparables en el tiempo para poder analizar la evoluci\u00f3n y por tanto el impacto de las acciones implementadas por el PRAN"
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En salud humana ser\u00e1 necesario consolidar los Sistemas de vigilancia, incorporando a la legislaci\u00f3n de Salud P\u00fablica el Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos.",
+            "Por tanto, fortalecer la vigilancia en salud p\u00fablica en el \u00e1mbito de la resistencia a los antibi\u00f3ticos es prioritario.",
+            "RedLabRA tambi\u00e9n tiene entre sus funciones dar soporte cont\u00ednuo al SNS en la determinaci\u00f3n de mecanismos de resistencia emergentes y el estudio de brotes.",
+            "Fomentar el uso del Programa de Vigilancia de RAM gratuito del CNM-ISCIII para la determinaci\u00f3n de mecanismos de resistencia emergentes, epidemiolog\u00eda molecular y caracterizaci\u00f3n de brotes mediante su integraci\u00f3n con RedLabRA.",
+            "Fomentar el desarrollo y consolidaci\u00f3n del Proyecto de Vigilancia de Bacterias Pat\u00f3genas Cl\u00ednicas con el fin de conocer la situaci\u00f3n de la RAM por especies, vigilar las tendencias y detectar la RAM emergente en pat\u00f3genos bacterianos de animales."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria",
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria",
+            "establecer acciones estrat\u00e9gicas para la adecuada implementaci\u00f3n del programa de Higiene de manos, implementar mejoras en la herramienta de indicadores hospitalarios y mapas de consumo, as\u00ed como desarrollar acciones espec\u00edficas de trabajo en colaboraci\u00f3n con otros profesionales de la salud como enfermeros y odont\u00f3logos.",
+            "Bioseguridad: Proponer un modelo de plan de acci\u00f3n de biose- guridad en granja teniendo en cuenta el tipo de  producci\u00f3n",
+            "Recomendaciones y programas para reducir el riesgo de infecci\u00f3n y transmisi\u00f3n de microorganismos resistentes: en \u00e1mbito hospitalario y atenci\u00f3n primaria\n\n## PROGRAMA DE HIGIENE DE MANOS",
+            "Apoyar las iniciativas de la OMS respecto a prevenci\u00f3n y control de las infecciones.",
+            "El Proyecto Infecci\u00f3n Quir\u00fargica Zero (IQZ) busca mejorar la calidad asistencial y la seguridad de los pacientes quir\u00fargicos mediante la reducci\u00f3n del n\u00famero de infecciones de sitio quir\u00fargico.",
+            "\u00b7 Desarrollar y publicar cursos de formaci\u00f3n sobre PROA, uso prudente de antibi\u00f3ticos y prevenci\u00f3n de infecciones .",
+            "Estas iniciativas tuvieron como objetivos acercar la figura del cient\u00edfico al p\u00fablico general y reforzar la concienciaci\u00f3n sobre la importancia de la higiene de manos para frenar a las bacterias resistentes.",
+            "prevenci\u00f3n de infecciones (salud humana); prevenci\u00f3n de infecciones (sanidad animal)",
+            "se abordar\u00e1 no s\u00f3lo la optimizaci\u00f3n de antibi\u00f3ticos, sino tambi\u00e9n la prevenci\u00f3n de infecciones en el \u00e1mbito sociosanitario.",
+            "Reforzar el compromiso de Espa\u00f1a con la estrategia de la Comisi\u00f3n Europea para prevenir y controlar las infecciones por bacterias resistentes."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Los mensajes clave a difundir a trav\u00e9s de las actividades de comunicaci\u00f3n se han dise\u00f1ado de acuerdo con todas estas recomendaciones y siempre conformes a las estrategias globales de la Comisi\u00f3n Europea (CE), la Organizaci\u00f3n Mundial de la Salud (OMS) y la Organizaci\u00f3n Mundial de Sanidad Animal (OIE).",
+            "Actualizaci\u00f3n de los datos totales de antibi\u00f3ticos de uso veterinario para el informe anual de consumo de la OIE.",
+            "El 'Codex Alimentarius' es el manus -crito coordinado por la OMS y la FAO donde se resume el c\u00f3digo de pr\u00e1cticas para reducir al m\u00ednimo y contener la resistencia a los antimicrobianos en los microorganismos transmitidos por alimentos."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Se han fomentado distintas acciones para que los profesionales sanitarios de atenci\u00f3n primaria tengan a su disposici\u00f3n recursos de ayuda al manejo de las infecciones en la comunidad para que la prescripci\u00f3n de antibi\u00f3ticos sea lo m\u00e1s precisa posible, teniendo en cuenta los principios de uso prudente de los antibi\u00f3ticos.",
+            "Impulsar que las CC . AA . integren sistemas de gu\u00eda o ayuda a la prescripci\u00f3n extrahospitalario.",
+            "Publicaci\u00f3n en 2022 de un Real Decreto por el que se establece el marco de actuaci\u00f3n para conseguir un uso sostenible de antibi\u00f3ticos en especies ganaderas, con entrada en vigor el 1 de enero de 2023.",
+            "El considerado 47 del Reglamento (UE) 2019/6 indica que 'el suministro de medicamentos veterinarios por los veterinarios debe limitarse a la cantidad necesaria para el tratamiento de los animales bajo su cuidado'. Adem\u00e1s, de conformidad con el art\u00edculo 105, apartado 6, del Reglamento (UE) 2019/6, 'la cantidad de medicamentos prescritos se limitar\u00e1 a la cantidad necesaria para completar el tratamiento'.",
+            "El desarrollo de las gu\u00edas de referencia en la terapia antimicrobiana est\u00e1 logrando mejorar el abordaje de los procesos infecciosos m\u00e1s prevalentes, al optimizar y homogeneizar la prescripci\u00f3n de los antibi\u00f3ticos en la pr\u00e1ctica cl\u00ednica, estableciendo criterios \u00fanicos de selecci\u00f3n de tratamientos y reduciendo el riesgo de aparici\u00f3n de resistencias, tanto en salud humana como en sanidad animal.",
+            "Incluir los antibi\u00f3ticos de especial relevancia cl\u00ednica, por lo general m\u00e1s antiguos, menos selectivos y al margen de los nuevos mecanismos de resistencia, en la relaci\u00f3n oficial de medicamentos cr\u00edticos de la AEMPS.",
+            "Proponer medidas regulatorias que permitan garantizar el correcto abastecimiento de todas las formas farmac\u00e9uticas y dosis necesarias (incluidas las pedi\u00e1tricas) de antibi\u00f3ticos considerados cr\u00edticos.",
+            "Con el objetivo de evaluar la calidad de la prescripci\u00f3n y mejorar el an\u00e1lisis del consumo de los antibi\u00f3ticos, se ha creado un grupo de trabajo en el marco del PRAN, que se nutre de la Base de datos para la Investigaci\u00f3n Farmacoepidemiol\u00f3gica en Atenci\u00f3n Primaria (BIFAP) de la AEMPS.",
+            "Dec\u00e1logo de buenas pr\u00e1cticas en prescripci\u00f3n de antibi\u00f3ticos en odontolog\u00eda. Elaboraci\u00f3n, dise\u00f1o y distribuci\u00f3n de un dec\u00e1logo de uso correcto de antibi\u00f3ticos en el \u00e1mbito de las cl\u00ednicas dentales",
+            "Establecer estrategias para evitar errores y homogeneizar la prescripci\u00f3n de antibi\u00f3ticos en cl\u00ednicas dentales."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "incorporando a la legislaci\u00f3n de Salud P\u00fablica el Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos",
+            "Inclusi\u00f3n del Sistema de Vigilancia Nacional de la Resistencia a los Antimicrobianos en la legislaci\u00f3n de Salud P\u00fablica.",
+            "desarrollar medi -das espec\u00edficas para el control y uso razonable de los antimicrobianos en veterinaria",
+            "Las recomendaciones sobre un uso prudente de antimicrobianos sugieren que se debe realizar un diagn\u00f3stico microbiol\u00f3gico y perfil de sensibilidad antes de tomar la decisi\u00f3n de usarlos.",
+            "Para favorecer la implantaci\u00f3n de los PROA, el PRAN considera fundamental disponer de unas normas de certificaci\u00f3n que gu\u00eden la actividad PROA de los hospitales y \u00e1reas de salud y que garanticen la continuidad asistencial.",
+            "Aprobaci\u00f3n de las Normas de Certificaci\u00f3n por las comunidades aut\u00f3nomas y por CISNS.",
+            "Se han fomentado distintas acciones para que los profesionales sanitarios de atenci\u00f3n primaria tengan a su disposici\u00f3n recursos de ayuda al manejo de las infecciones en la comunidad para que la prescripci\u00f3n de antibi\u00f3ticos sea lo m\u00e1s precisa posible, teniendo en cuenta los principios de uso prudente de los antibi\u00f3ticos.",
+            "Impulsar que las CC . AA . integren sistemas de gu\u00eda o ayuda a la prescripci\u00f3n extrahospitalario.",
+            "Publicaci\u00f3n en 2022 de un Real Decreto por el que se establece el marco de actuaci\u00f3n para conseguir un uso sostenible de antibi\u00f3ticos en especies ganaderas, con entrada en vigor el 1 de enero de 2023.",
+            "El considerado 47 del Reglamento (UE) 2019/6 indica que 'el suministro de medicamentos veterinarios por los veterinarios debe limitarse a la cantidad necesaria para el tratamiento de los animales bajo su cuidado'. Adem\u00e1s, de conformidad con el art\u00edculo 105, apartado 6, del Reglamento (UE) 2019/6, 'la cantidad de medicamentos prescritos se limitar\u00e1 a la cantidad necesaria para completar el tratamiento'.",
+            "El desarrollo de las gu\u00edas de referencia en la terapia antimicrobiana est\u00e1 logrando mejorar el abordaje de los procesos infecciosos m\u00e1s prevalentes, al optimizar y homogeneizar la prescripci\u00f3n de los antibi\u00f3ticos en la pr\u00e1ctica cl\u00ednica, estableciendo criterios \u00fanicos de selecci\u00f3n de tratamientos y reduciendo el riesgo de aparici\u00f3n de resistencias, tanto en salud humana como en sanidad animal.",
+            "Proponer medidas regulatorias que permitan garantizar el correcto abastecimiento de todas las formas farmac\u00e9uticas y dosis necesarias (incluidas las pedi\u00e1tricas) de antibi\u00f3ticos considerados cr\u00edticos.",
+            "Proponer medidas regulatorias que permitan garantizar el correcto abastecimiento de todas las formas farmac\u00e9uticas y dosis necesarias (incluidas las pedi\u00e1tricas) de antibi\u00f3ticos considerados cr\u00edticos.",
+            "El desarrollo de esta actividad continuar\u00e1 contribuyendo a la concienciaci\u00f3n de los profesionales sanitarios en relaci\u00f3n al uso prudente de los antibi\u00f3ticos.",
+            "Establecer estrategias para evitar errores y homogeneizar la prescripci\u00f3n de antibi\u00f3ticos en cl\u00ednicas dentales.",
+            "Participar en las decisiones pol\u00edticas y estrategias europeas de uso prudente de antimicrobianos e implementar las acciones/medidas propuestas."
+        ]
+    },
+    {
+        "country": "spain",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "En 2021, el ISCIII ha promovido la participaci\u00f3n de grupos de estudio espa\u00f1oles en la Iniciativa Global de Programaci\u00f3n Conjunta de investigaci\u00f3n en Resistencia Antimicrobiana (JPI-AMR).",
+            "Fomentar la participaci\u00f3n y \u00e9xito de grupos de investigaci\u00f3n espa\u00f1oles en materia de RAM. Promover la investigaci\u00f3n cooperativa y multidisciplinar en enfermedades infecciosas y, espec\u00edficamente, en RAM a trav\u00e9s de CIBERINFEC.",
+            "Por  ello  hay  un  llamamiento  a nivel mundial para, adem\u00e1s de todas las medidas ya mencionadas a lo largo de todo este plan, incentivar la investigaci\u00f3n  y  puesta  en  el  mercado de  nuevos  antibi\u00f3ticos  que  puedan hacer frente, en \u00faltimo caso y con un uso  muy restringido,  al  problema  de las bacterias multirresistentes.",
+            "Reforzar el compromiso y la colaboraci\u00f3n con organizaciones internacionales e intensificar la cooperaci\u00f3n con pa\u00edses fuera de la UE sobre RAM."
+        ]
+    }
+]
