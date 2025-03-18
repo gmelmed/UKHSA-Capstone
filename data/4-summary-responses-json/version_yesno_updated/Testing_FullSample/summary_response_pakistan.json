@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "pakistan",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "pakistan",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the involvement and full participation of the health, veterinary, agriculture, and other sectors at the federal, provincial, and regional levels in the One Health Approach.",
+        "country": "pakistan",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including the development and implementation of a national awareness raising and behavioral change strategy on antimicrobial resistance.",
+        "country": "pakistan",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for improving prevention and control of infections in animal health and emphasizes the need for regulations for veterinary antimicrobial utilization.",
+        "country": "pakistan",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental aspects by including strategies for improving sanitation and hygiene, which are crucial for controlling AMR.",
+        "country": "pakistan",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to phase out the use of antimicrobials as growth promoters in agriculture and to provide appropriate alternatives.",
+        "country": "pakistan",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a Monitoring & Evaluation Plan that includes mechanisms for tracking progress and reporting on the implementation of its objectives.",
+        "country": "pakistan",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies various strategic priorities and objectives with timelines for implementation.",
+        "country": "pakistan",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "pakistan",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not mention specific budget allocations for its strategies or actions.",
+        "country": "pakistan",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not provide an assessment of future budget requirements for its activities.",
+        "country": "pakistan",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of an Intra-sectoral Core Steering Committee to oversee the development and implementation of the National Policy on AMR.",
+        "country": "pakistan",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to update and enforce regulations for human and veterinary antimicrobial utilization.",
+        "country": "pakistan",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the inclusion of AMR in school curricula and professional education and training programs for healthcare professionals.",
+        "country": "pakistan",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the development and implementation of a national awareness raising and behavioral change strategy on antimicrobial resistance.",
+        "country": "pakistan",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions collaboration with WHO and other international organizations in the development and implementation of AMR strategies.",
+        "country": "pakistan",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the establishment of an integrated national AMR surveillance system for monitoring human, animal usage, and resistance.",
+        "country": "pakistan",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for strengthening surveillance and response capacities to detect and report AMR.",
+        "country": "pakistan",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for improving sanitation, hygiene, and infection prevention and control measures.",
+        "country": "pakistan",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the adaptation of international standards to minimize and control AMR.",
+        "country": "pakistan",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for updating and enforcing regulations for human and veterinary antimicrobial utilization.",
+        "country": "pakistan",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics.",
+        "country": "pakistan",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages collaboration with international partners for research and development in AMR.",
+        "country": "pakistan",
+        "question": 22
+    }
+]

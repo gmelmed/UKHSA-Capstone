@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "timor",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2026",
+        "supporting_text": null,
+        "country": "timor",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines five strategic priorities which are well aligned with Global AMR Action Plan, addressing human, animal, and environmental health.",
+        "country": "timor",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including improving awareness and understanding of AMR through effective communication, education, and training.",
+        "country": "timor",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to optimize the use of antimicrobial agents in animal health and regulate access to high-quality antimicrobial agents.",
+        "country": "timor",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health by including strategies to reduce environmental contamination with antimicrobial residues and resistant pathogens.",
+        "country": "timor",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to the use of antimicrobials in agriculture and food security, particularly in the context of animal health.",
+        "country": "timor",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "An M&E framework has been developed, with indicators for input/process, output, and outcome for each focus area.",
+        "country": "timor",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific targets, such as a 50% increase in awareness of AMR among the general population by 2026.",
+        "country": "timor",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes targets for surveillance of antimicrobial consumption and aims for a 60% consumption of antibiotics from the Access group.",
+        "country": "timor",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify budget allocations for the strategies or actions.",
+        "country": "timor",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "timor",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A National Multisectoral Committee has been established to coordinate AMR activities across different sectors.",
+        "country": "timor",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to develop regulations and policies for the appropriate use of antimicrobials.",
+        "country": "timor",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to improve education and training on AMR for various professional groups.",
+        "country": "timor",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to improve awareness and understanding of AMR through effective communication and public awareness campaigns.",
+        "country": "timor",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of international collaboration and partnerships with organizations like WHO, FAO, and OIE.",
+        "country": "timor",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for strengthening laboratory capacity and establishing surveillance systems for AMR.",
+        "country": "timor",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for capacity building to detect and report emerging resistance.",
+        "country": "timor",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to reduce the incidence of infection through effective sanitation, hygiene, and infection prevention measures.",
+        "country": "timor",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "timor",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to regulate the distribution and prescription of antibiotics.",
+        "country": "timor",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations to ensure the rational use of antibiotics.",
+        "country": "timor",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for collaboration in research to develop new medicines and diagnostic tools.",
+        "country": "timor",
+        "question": 22
+    }
+]

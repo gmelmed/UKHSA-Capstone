@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2018",
+        "supporting_text": null,
+        "country": "uruguay",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "uruguay",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Los objetivos planteados se basan en el concepto de 'Una Salud', t\u00e9rmino utilizado para describir un principio que reconoce que la salud humana y animal en particular, est\u00e1n interconectados.",
+        "country": "uruguay",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El objetivo general es reducir el riesgo de selecci\u00f3n y diseminaci\u00f3n de microorganismos resistentes a los antimicrobianos utilizados en el tratamiento de las infecciones en humanos.",
+        "country": "uruguay",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El MGAP inici\u00f3 el proceso de construcci\u00f3n de un plan nacional de contenci\u00f3n de la RAM en Uruguay, a nivel de salud animal.",
+        "country": "uruguay",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona expl\u00edcitamente un enfoque o acci\u00f3n espec\u00edfica para el sector ambiental en el documento.",
+        "country": "uruguay",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "La vigilancia de la resistencia a los antimicrobianos en la agricultura animal es parte de las estrategias del NAP.",
+        "country": "uruguay",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se desarrollar\u00e1 un documento, adicional al presente plan, en el cual se establecer\u00e1n los indicadores de seguimiento en base a recomendaci\u00f3n de un grupo t\u00e9cnico conformado a tal fin.",
+        "country": "uruguay",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se especifican objetivos concretos y con plazos definidos en el documento.",
+        "country": "uruguay",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se mencionan objetivos cuantitativos espec\u00edficos para la prevalencia de RAM y el uso de antimicrobianos.",
+        "country": "uruguay",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona ninguna asignaci\u00f3n presupuestaria espec\u00edfica en el documento.",
+        "country": "uruguay",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se incluye una evaluaci\u00f3n de los requisitos presupuestarios futuros para las actividades listadas.",
+        "country": "uruguay",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se conform\u00f3 una Comisi\u00f3n T\u00e9cnica integrada por representantes de diferentes divisiones del MGAP para abordar la RAM.",
+        "country": "uruguay",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Decreto 41/12 establece la obligatoriedad de la notificaci\u00f3n en el caso de 'Brotes o eventos de salud p\u00fablica de importancia nacional'.",
+        "country": "uruguay",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "La inclusi\u00f3n del uso de los antimicrobianos y la resistencia a ellos en los planes de estudio tanto a nivel primario como secundario, fomentar\u00e1 una mejor comprensi\u00f3n y concientizaci\u00f3n del problema a edades tempranas.",
+        "country": "uruguay",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona la difusi\u00f3n a la poblaci\u00f3n general acerca del uso racional de los ATM como parte de las estrategias de concientizaci\u00f3n.",
+        "country": "uruguay",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "La participaci\u00f3n en redes internacionales de vigilancia son un instrumento de intercambio de informaci\u00f3n y adquisici\u00f3n de conocimiento que contribuyen a la capacitaci\u00f3n continua.",
+        "country": "uruguay",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona el desarrollo de un sistema de vigilancia integrada de RAM como parte de las intervenciones estrat\u00e9gicas.",
+        "country": "uruguay",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Reglamento Sanitario Internacional (RSI) se menciona como un acuerdo internacional que ayuda a prevenir y dar respuesta a los riesgos graves para la salud p\u00fablica.",
+        "country": "uruguay",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona la implementaci\u00f3n de medidas de prevenci\u00f3n y control de infecciones asociadas a la atenci\u00f3n de salud (IAAS).",
+        "country": "uruguay",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Se menciona la necesidad de adherir a los lineamientos del plan global de acci\u00f3n en relaci\u00f3n al uso de agentes antimicrobianos en animales.",
+        "country": "uruguay",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Decreto 493/990 clasifica los medicamentos seg\u00fan su condici\u00f3n de venta, estableciendo que para dispensar medicamentos de venta bajo receta profesional se debe exigir la receta del profesional autorizado.",
+        "country": "uruguay",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "El Decreto 235/013 dispone que las Instituciones de Asistencia M\u00e9dica Colectiva deben dispensar la cantidad total del tratamiento dispuesto por el m\u00e9dico actuante.",
+        "country": "uruguay",
+        "question": 21
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "No se menciona expl\u00edcitamente la participaci\u00f3n en investigaciones colaborativas internacionales para el desarrollo de nuevos medicamentos o herramientas diagn\u00f3sticas.",
+        "country": "uruguay",
+        "question": 22
+    }
+]

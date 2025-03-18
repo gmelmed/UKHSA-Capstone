@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "thailand",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "thailand",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes a One Health approach, integrating efforts across human, animal, and environmental health sectors.",
+        "country": "thailand",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategy 3 focuses on infection prevention and control and antimicrobial stewardship in humans.",
+        "country": "thailand",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategy 4 addresses AMR prevention and control and antimicrobial stewardship in agriculture and animals.",
+        "country": "thailand",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to environmental contamination of AMR organisms.",
+        "country": "thailand",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategy 4 includes actions for reducing antimicrobial use in livestock farming and fisheries.",
+        "country": "thailand",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Monitoring and evaluation of the implementation will be based on a developmental evaluation approach, including measurement of progress towards defined milestones.",
+        "country": "thailand",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific targets such as a 50% reduction in AMR morbidity and a 20% increase in public knowledge by 2021.",
+        "country": "thailand",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes quantitative targets such as a 20% reduction in antimicrobial consumption in humans and a 30% reduction in animals.",
+        "country": "thailand",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify budget allocations for the strategies.",
+        "country": "thailand",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "There is no assessment of future budget requirements mentioned in the document.",
+        "country": "thailand",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the establishment of a Coordination and Integration Committee on Antimicrobial Resistance.",
+        "country": "thailand",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for regulating antimicrobial distribution and promoting rational drug use.",
+        "country": "thailand",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to improve health literacy on AMR and awareness of appropriate use of antimicrobials.",
+        "country": "thailand",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to support roles of civil society and mass media agencies to increase public understanding of AMR.",
+        "country": "thailand",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes Thailand's proactive and collaborative role in AMR at the international level.",
+        "country": "thailand",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategy 1 focuses on strengthening the national integrated system of AMR surveillance.",
+        "country": "thailand",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to improve epidemiological capacity and networking on AMR.",
+        "country": "thailand",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Strategy 3 includes infection prevention and control measures in healthcare facilities.",
+        "country": "thailand",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "thailand",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for regulating antimicrobial distribution.",
+        "country": "thailand",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a national policy on promoting rational drug use in hospitals.",
+        "country": "thailand",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for international collaboration in addressing AMR.",
+        "country": "thailand",
+        "question": 22
+    }
+]

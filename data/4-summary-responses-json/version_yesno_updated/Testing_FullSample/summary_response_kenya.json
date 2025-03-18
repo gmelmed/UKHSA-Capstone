@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "kenya",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2022",
+        "supporting_text": null,
+        "country": "kenya",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aims to provide a coherent policy framework and priority actions to contain the emergence and spread of AMR, through the following strategic objectives: to improve awareness and understanding of antimicrobial resistance through effective communication, education and training; to strengthen the knowledge and evidence base through surveillance and research; to reduce the incidence of infection through effective sanitation, hygiene and infection prevention measures; to optimize the use of antimicrobial medicines in human and animal health.",
+        "country": "kenya",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including improving awareness and understanding of antimicrobial resistance through effective communication, education, and training.",
+        "country": "kenya",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to optimize the use of antimicrobials in animal health and emphasizes the need for antimicrobial stewardship and infection prevention and control among professionals.",
+        "country": "kenya",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental contamination and emphasizes the need for proper disposal of antimicrobials and treatment of hospital waste to reduce the burden of antimicrobial resistant pathogens.",
+        "country": "kenya",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to promote public awareness, knowledge, and understanding of AMR in agriculture, as well as to develop guidelines for the prudent use of antimicrobials in food production.",
+        "country": "kenya",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the establishment of a Monitoring & Evaluation Framework that includes targets and outlines the National Policy review process.",
+        "country": "kenya",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies a timeframe of 2017-2022 for the implementation of its strategic objectives and actions.",
+        "country": "kenya",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "kenya",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP mentions the need for substantial funding but does not specify any budget allocation.",
+        "country": "kenya",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not contain a detailed assessment of future budget requirements for the activities listed.",
+        "country": "kenya",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes the National Antimicrobial Stewardship Interagency Committee (NASIC) to coordinate the AMR agenda.",
+        "country": "kenya",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulatory systems and structures, including necessary enabling legislation for AMR control.",
+        "country": "kenya",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to establish AMR as a core component of professional education and training for healthcare professionals.",
+        "country": "kenya",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to improve public awareness and understanding of AMR through effective communication and education campaigns.",
+        "country": "kenya",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP recognizes the need for collaborative actions across sectors and with international partners to combat AMR.",
+        "country": "kenya",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to develop a national One-Health surveillance system for AMR.",
+        "country": "kenya",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for capacity building in surveillance and reporting of AMR.",
+        "country": "kenya",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to reduce the incidence of infection through effective sanitation, hygiene, and IPC measures.",
+        "country": "kenya",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "kenya",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to regulate the distribution and use of antimicrobials in both human and animal health.",
+        "country": "kenya",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for antimicrobial stewardship and rational use of antibiotics.",
+        "country": "kenya",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP promotes research and development of new antimicrobials and diagnostic tools.",
+        "country": "kenya",
+        "question": 22
+    }
+]

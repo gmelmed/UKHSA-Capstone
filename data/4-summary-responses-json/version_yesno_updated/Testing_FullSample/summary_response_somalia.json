@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "somalia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "somalia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions a 'One Health' approach dealing with AMR in humans and livestock mainly.",
+        "country": "somalia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, including improving awareness and guidelines for antibiotic use.",
+        "country": "somalia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions targeting animal health, such as improving awareness and guidelines for antibiotic use in livestock.",
+        "country": "somalia",
+        "question": 3
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not mention specific actions targeting the environment.",
+        "country": "somalia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to agriculture, such as improving awareness of AMR among farmers and promoting responsible antibiotic use.",
+        "country": "somalia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a monitoring and evaluation plan to track progress on its objectives.",
+        "country": "somalia",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific targets and milestones for various activities over the 5-year period.",
+        "country": "somalia",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify quantitative targets for AMR prevalence or antimicrobial use.",
+        "country": "somalia",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP mentions that costing of activities could not be finalized due to the lack of an actual budget.",
+        "country": "somalia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not contain an assessment of future budget requirements.",
+        "country": "somalia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the formation of a National Multi-sectoral Coordination Group (NMCG) for AMR coordination.",
+        "country": "somalia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes activities aimed at empowering the National Medicine Regulatory Authority (NMRA) to strengthen regulations for antimicrobial use.",
+        "country": "somalia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP targets the inclusion of AMR in educational curricula at all levels, including professional training for healthcare workers.",
+        "country": "somalia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans for public awareness campaigns and media involvement to combat AMR.",
+        "country": "somalia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions collaboration with WHO, FAO, and OIE for AMR initiatives.",
+        "country": "somalia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans for establishing surveillance systems and data collection for AMR monitoring.",
+        "country": "somalia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes activities aimed at enhancing capacity for detecting and reporting AMR.",
+        "country": "somalia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes infection prevention and control (IPC) as a major pillar of the AMR control plan.",
+        "country": "somalia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes adherence to international standards and guidelines for AMR control.",
+        "country": "somalia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes activities aimed at regulating the distribution and use of antibiotics.",
+        "country": "somalia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations aimed at promoting the rational use of antibiotics.",
+        "country": "somalia",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans for international collaboration in research related to AMR.",
+        "country": "somalia",
+        "question": 22
+    }
+]

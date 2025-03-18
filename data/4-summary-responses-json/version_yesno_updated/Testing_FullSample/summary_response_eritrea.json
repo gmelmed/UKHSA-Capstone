@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "eritrea",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "eritrea",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Eritrea has developed and put in place this National Action Plan (NAP) on AMR under the 'One Health' approach with the collaborative work of various ministries and partners.",
+        "country": "eritrea",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including improving awareness and understanding of AMR through effective communication and training.",
+        "country": "eritrea",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions targeting animal health, such as optimizing the use of antimicrobial medicines in animal health.",
+        "country": "eritrea",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health by including strategies to protect the environment from contamination with antimicrobials.",
+        "country": "eritrea",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to optimizing the use of antimicrobial medicines in agriculture and food security.",
+        "country": "eritrea",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Oversight of implementation of the NAP will be conducted by the ministerial steering committee composed of the Ministers of Health, Agriculture, Marine Resources and Land, Water and Environment.",
+        "country": "eritrea",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The operational plan matrix consists of sub activities, unit measure, quantity, timeframe, level of implementation, cost of implementation, source of fund and indicators.",
+        "country": "eritrea",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "eritrea",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a detailed operational plan with cost of implementation for various activities.",
+        "country": "eritrea",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a detailed operational plan that assesses future budget requirements for various activities.",
+        "country": "eritrea",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A multi-sectoral committee and a secretariat were established to steer the process of the NAP development.",
+        "country": "eritrea",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to the regulatory framework for antimicrobial use.",
+        "country": "eritrea",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to incorporate AMR and IPC into the curricula of Health Sciences and Agriculture colleges.",
+        "country": "eritrea",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions conducting awareness raising campaigns on AMR.",
+        "country": "eritrea",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP was developed with the collaborative work of various ministries and partners, including WHO and FAO.",
+        "country": "eritrea",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes establishing an integrated national surveillance system on AMR for all sectors.",
+        "country": "eritrea",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen laboratory capacity for AMR detection.",
+        "country": "eritrea",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to strengthen infection prevention and control (IPC) programs.",
+        "country": "eritrea",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control.",
+        "country": "eritrea",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to the regulation of antibiotics and maintaining essential medicine lists.",
+        "country": "eritrea",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to optimize the use of antimicrobial medicines.",
+        "country": "eritrea",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages research and collaboration in developing new treatments and diagnostic tools.",
+        "country": "eritrea",
+        "question": 22
+    }
+]

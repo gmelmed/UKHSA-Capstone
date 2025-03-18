@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2017",
+        "supporting_text": null,
+        "country": "ghana",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "ghana",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need to contain antimicrobial resistance, a phenomenon affecting human health, animal health, plants and the environment.",
+        "country": "ghana",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions such as improving awareness and understanding of AMR in human health.",
+        "country": "ghana",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific interventions in the Responsible Use of Antimicrobials in animal health.",
+        "country": "ghana",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses environmental health through guidelines for biomedical waste and effluents.",
+        "country": "ghana",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to agricultural practices and the use of antimicrobials in food production.",
+        "country": "ghana",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a monitoring and evaluation framework detailing process, output, and outcome indicators.",
+        "country": "ghana",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines specific targets and timelines for various activities over the five-year period.",
+        "country": "ghana",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not specify quantitative targets for AMR prevalence and antimicrobial use.",
+        "country": "ghana",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a budget section detailing the costs associated with implementing the various strategies and actions.",
+        "country": "ghana",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP provides options for resource mobilization and budgetary allocations for various activities.",
+        "country": "ghana",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes an inter-ministerial committee to drive the AMR agenda at the highest level of governance.",
+        "country": "ghana",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes recommendations for regulations and enforcement related to antimicrobial use.",
+        "country": "ghana",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to incorporate information on antimicrobials into the curricula of training institutions.",
+        "country": "ghana",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines public education campaigns to promote responsible use of antimicrobials.",
+        "country": "ghana",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP acknowledges support from WHO and FAO in its development and implementation.",
+        "country": "ghana",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes plans to establish national monitoring systems for antimicrobial use and surveillance of antimicrobial resistance.",
+        "country": "ghana",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for capacity building in surveillance and response to AMR.",
+        "country": "ghana",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to reduce the incidence of infection through effective sanitation, hygiene, and infection prevention measures.",
+        "country": "ghana",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP aligns with international standards and guidelines for AMR control as recommended by WHO, OIE, and FAO.",
+        "country": "ghana",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes recommendations for regulating the distribution and prescription of antibiotics.",
+        "country": "ghana",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for regulations to ensure the rational use of antibiotics.",
+        "country": "ghana",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages collaboration with international partners for research and development in AMR.",
+        "country": "ghana",
+        "question": 22
+    }
+]
