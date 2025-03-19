@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "\"albania\"",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "\"albania\"",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a One Health approach that integrates human health, animal health, and environmental considerations.",
+        "country": "\"albania\"",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific strategies aimed at improving human health outcomes related to AMR.",
+        "country": "\"albania\"",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses animal health through targeted actions to reduce AMR in veterinary practices.",
+        "country": "\"albania\"",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions focused on environmental health and its impact on AMR.",
+        "country": "\"albania\"",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to address AMR in agriculture and food security.",
+        "country": "\"albania\"",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies the establishment of a reporting mechanism to monitor progress annually.",
+        "country": "\"albania\"",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific targets with deadlines to measure progress in AMR control.",
+        "country": "\"albania\"",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes quantitative targets for reducing AMR prevalence and monitoring antimicrobial use.",
+        "country": "\"albania\"",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a budget allocation for implementing its strategies against AMR.",
+        "country": "\"albania\"",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an assessment of future budget needs for various AMR activities.",
+        "country": "\"albania\"",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a multisectoral task force to coordinate AMR efforts across sectors.",
+        "country": "\"albania\"",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen laws and regulations governing antimicrobial use.",
+        "country": "\"albania\"",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes training and educational initiatives to raise awareness about AMR.",
+        "country": "\"albania\"",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines public awareness campaigns to engage communities in combating AMR.",
+        "country": "\"albania\"",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for international collaboration with organizations like WHO and FAO.",
+        "country": "\"albania\"",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions for developing surveillance systems and data collection tools for AMR.",
+        "country": "\"albania\"",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies to enhance capacity for detecting and reporting new resistance.",
+        "country": "\"albania\"",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific prevention strategies focusing on sanitation and infection control.",
+        "country": "\"albania\"",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP incorporates international standards and guidelines for AMR control.",
+        "country": "\"albania\"",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the distribution and prescription of antibiotics.",
+        "country": "\"albania\"",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mandates the rational use of antibiotics through specific regulations.",
+        "country": "\"albania\"",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes participation in international research collaborations for new medicines and diagnostics.",
+        "country": "\"albania\"",
+        "question": 22
+    }
+]

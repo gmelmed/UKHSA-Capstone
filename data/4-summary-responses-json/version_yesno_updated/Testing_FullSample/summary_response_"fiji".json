@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2021",
+        "supporting_text": null,
+        "country": "\"fiji\"",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "\"fiji\"",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a One Health approach that integrates human health, animal health, and environmental considerations.",
+        "country": "\"fiji\"",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific strategies aimed at improving human health outcomes related to AMR.",
+        "country": "\"fiji\"",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses animal health through targeted actions to reduce AMR in livestock.",
+        "country": "\"fiji\"",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to mitigate environmental impacts related to AMR.",
+        "country": "\"fiji\"",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines actions to promote safe agricultural practices to combat AMR.",
+        "country": "\"fiji\"",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP specifies the establishment of a reporting mechanism to monitor progress annually.",
+        "country": "\"fiji\"",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP sets specific targets to be achieved by 2025.",
+        "country": "\"fiji\"",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes quantitative targets for reducing AMR prevalence and antimicrobial usage.",
+        "country": "\"fiji\"",
+        "question": 8
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines a budget allocation for implementing its strategies against AMR.",
+        "country": "\"fiji\"",
+        "question": 9
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes an assessment of future budget needs for various AMR activities.",
+        "country": "\"fiji\"",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP establishes a multisectoral task force to coordinate AMR efforts.",
+        "country": "\"fiji\"",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen laws and regulations governing antimicrobial use.",
+        "country": "\"fiji\"",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines educational initiatives aimed at increasing AMR awareness in training programs.",
+        "country": "\"fiji\"",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes public awareness campaigns to engage communities in combating AMR.",
+        "country": "\"fiji\"",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes international collaboration with organizations like WHO and FAO.",
+        "country": "\"fiji\"",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for developing AMR surveillance systems and data collection tools.",
+        "country": "\"fiji\"",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines actions to enhance capacity for detecting and reporting new resistance.",
+        "country": "\"fiji\"",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific strategies for sanitation and infection prevention.",
+        "country": "\"fiji\"",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP incorporates international standards for AMR control in its strategies.",
+        "country": "\"fiji\"",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes regulations for the distribution and prescription of antibiotics.",
+        "country": "\"fiji\"",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mandates the rational use of antibiotics through specific regulations.",
+        "country": "\"fiji\"",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP encourages participation in international research for new medicines and diagnostics.",
+        "country": "\"fiji\"",
+        "question": 22
+    }
+]
