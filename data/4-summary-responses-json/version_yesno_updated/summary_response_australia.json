@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "australia",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "beyond",
+        "supporting_text": null,
+        "country": "australia",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasises the importance of tackling AMR through a One Health approach.",
+        "country": "australia",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, including infection prevention and control standards.",
+        "country": "australia",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions targeting animal health, such as improving on-farm biosecurity measures.",
+        "country": "australia",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to environmental standards and biosecurity.",
+        "country": "australia",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions aimed at improving agricultural practices and biosecurity measures.",
+        "country": "australia",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the need for monitoring and evaluation frameworks to assess progress.",
+        "country": "australia",
+        "question": 6
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify time-bound targets.",
+        "country": "australia",
+        "question": 7
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not provide specific quantitative targets for AMR prevalence.",
+        "country": "australia",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The NAP does not mention specific budget allocations.",
+        "country": "australia",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not assess future budget requirements.",
+        "country": "australia",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes maintaining linkages and opportunities between stakeholders across all sectors.",
+        "country": "australia",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes monitoring and reviewing regulatory measures relevant to antimicrobial usage.",
+        "country": "australia",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies to drive education and training initiatives across all relevant sectors.",
+        "country": "australia",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a coordinated communication strategy to support awareness and behavioural change.",
+        "country": "australia",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes participation in international forums and collaboration with global organizations.",
+        "country": "australia",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes creating a national One Health surveillance system that integrates data across sectors.",
+        "country": "australia",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to improve understanding of antimicrobial resistance and its implications.",
+        "country": "australia",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes strategies for infection prevention and control across various health settings.",
+        "country": "australia",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to align with international standards for AMR control.",
+        "country": "australia",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to strengthen regulation of antimicrobial usage.",
+        "country": "australia",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need for appropriate usage and stewardship practices.",
+        "country": "australia",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes a strong collaborative research agenda across all sectors.",
+        "country": "australia",
+        "question": 22
+    }
+]
