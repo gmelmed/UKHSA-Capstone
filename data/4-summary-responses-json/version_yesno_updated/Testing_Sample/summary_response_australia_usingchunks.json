@@ -1,0 +1,399 @@
+[
+    {
+        "country": "australia",
+        "question": "period_start",
+        "answer": 2020
+    },
+    {
+        "country": "australia",
+        "question": "period_end",
+        "answer": "null"
+    },
+    {
+        "country": "australia",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the 2020 Strategy and OHMAP emphasise the importance of tackling AMR through a One Health approach. This means working in a collaborative and coordinated manner across all levels of government and sectors.",
+            "The NAP addresses multiple priority sectors such as human health, animal health, environment, and agriculture/food security.",
+            "Create sustainable funding for combatting antimicrobial resistance based on evidence of economic and societal costs and benefits of different approaches in all sectors",
+            "Maintain and expand linkages and opportunities between stakeholders across all sectors to provide a nationally coordinated approach to combatting antimicrobial resistance",
+            "Maintain and expand linkages and opportunities between stakeholders across all sectors to provide a nationally coordinated approach to combatting antimicrobial resistance",
+            "PRIORITY AREAS 2.1 - 2.4 FOCUS AREAS 2.1.1 - 2.4.1",
+            "Adopt evidence-based and nationally consistent standards for infection prevention and control and biosecurity",
+            "Develop, implement and/or update national biosecurity and waste management standards and support resources and education for different animal and agricultural settings.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "PRIORITY AREAS 3.1 - 3.4 FOCUS AREAS 3.1.1 - 3.4.5",
+            "Develop and implement a coordinated, One Health communication strategy, as well as monitoring and evaluation, to support whole-of-society awareness and behavioural change",
+            "Develop and implement a coordinated, One Health communication strategy, as well as monitoring and evaluation, to support whole-of-society awareness and behavioural change",
+            "Develop and implement a One Health communication strategy to raise awareness of the actions stakeholders can take to minimise the development and impacts of resistance.",
+            "Maintain and improve the One Health AMR website to ensure access to reliable and up-to-date information.",
+            "Drive education and training initiatives across all relevant sectors and increase accessibility to evidence-based best-practice information",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "The NAP addresses multiple priority sectors such as human health, animal health, environment, and agriculture/food security.",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "PRIORITY AREAS 4.1 - 4.3 addresses multiple priority sectors including Agriculture, Animal Health, Environment, Food, and Human Health.",
+            "Build monitoring, auditing and feedback processes into existing frameworks across relevant sectors.",
+            "PRIORITY AREAS 5.1 - 5.4 FOCUS AREAS 5.1.1 - 5.4.2",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Develop a national surveillance plan, including the potential use of genomics, with sector-specific objectives to support the implementation of a national One Health surveillance system.",
+            "Develop and continue to improve mechanisms to provide and analyse data on antimicrobial resistance and usage across all sectors to the One Health surveillance system.",
+            "Regularly review and promote the current list of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed.",
+            "The NAP addresses multiple priority sectors including Agriculture, Animal Health, Environment, Food, and Human Health.",
+            "Set a flexible national antimicrobial resistance research and development agenda that strives for innovation",
+            "Improve the One Health AMR website as a national research and development hub that promotes stakeholder contribution, collaboration and coordination.",
+            "PRIORITY AREAS FOR ACTION 7.1 - 7.3 FOCUS AREAS 7.1.1 - 7.3.2",
+            "Develop curricula on antimicrobial resistance for use in low- and middle-income countries, with a One Health emphasis.",
+            "Develop curricula on antimicrobial resistance for use in low- and middle-income countries, with a One Health emphasis.",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Support food safety initiatives involving AMR in the South East Asia and Pacific regions, recognising the importance of cross border trade and zoonotic disease.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "One Health: The principle of applying a collaborative and coordinated effort across multiple sectors working locally, nationally and globally - to attain optimal health for people, animals and the environment."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The 2020 Strategy focuses on seven Objectives divided into Priority Areas for Action. This includes implementation partners developing 'short- to medium-term action plans' to show when and what they will do to tackle AMR.",
+            "Adopt evidence-based and nationally consistent standards for infection prevention and control and biosecurity",
+            "Strengthen national evidence-based and best practice infection prevention and control standards and supporting resources in clinical and community settings including general practice, dentistry, pharmacy, aged care, and rural and remote primary health care.",
+            "Strengthen national evidence-based and best practice infection prevention and control standards and supporting resources in clinical and community settings including general practice, dentistry, pharmacy, aged care, and rural and remote primary health care.",
+            "Update hospital and general practice accreditation standards to better support best practice IPC in human health and consider additional mechanisms to support and monitor compliance in this setting.",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "Promote disease prevention practices to reduce infections and subsequent use of antimicrobials",
+            "Improve awareness of the importance of IPC in reducing AMR.",
+            "Foster the development of vaccines and the uptake of vaccination as a preventative measure to assist reduction in antimicrobial use.",
+            "Improve health literacy in priority populations and relevant stakeholders for key infections.",
+            "Improve and promote the national hand hygiene approach to reduce healthcare-associated infections and AMR and expand principles to other settings.",
+            "Develop and implement a coordinated, One Health communication strategy, as well as monitoring and evaluation, to support whole-of-society awareness and behavioural change",
+            "Develop and implement a One Health communication strategy to raise awareness of the actions stakeholders can take to minimise the development and impacts of resistance.",
+            "Increase health professionals' knowledge of antimicrobial stewardship in accordance with relevant national standards and policies.",
+            "Increase health professionals' knowledge of antimicrobial stewardship in accordance with relevant national standards and policies.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "Ensure that coordinated, evidence-based antimicrobial prescribing guidelines and best-practice supports are developed and made easily available, and encourage their use by prescribers",
+            "Ensure that coordinated, evidence-based antimicrobial prescribing guidelines and best-practice supports are developed and made easily available, and encourage their use by prescribers",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Ensure easy access to, and promotion of, current infection-specific guidelines that support informed antimicrobial prescribing across Australia.",
+            "Identify and address the enablers and barriers to the implementation of national standards in human health settings including aged care.",
+            "Identify and address the enablers and barriers to the implementation of national standards in human health settings including aged care.",
+            "Identify patterns of antimicrobial prescribing and provide feedback to prescribers to improve antimicrobial stewardship in all human and animal health settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Build monitoring, auditing and feedback processes into existing frameworks across relevant sectors.",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Regularly review and promote the current list of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed.",
+            "Regularly review and promote the current list of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed.",
+            "Set a flexible national antimicrobial resistance research and development agenda that strives for innovation",
+            "Develop curricula on antimicrobial resistance for use in low- and middle-income countries, with a One Health emphasis."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Develop, implement and/or update national biosecurity and waste management standards and support resources and education for different animal and agricultural settings.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Develop accreditation standards to better support adherence to antimicrobial stewardship across all animal settings, using existing practice and quality assurance frameworks where possible.",
+            "Develop accreditation standards to better support adherence to antimicrobial stewardship across all animal settings, using existing practice and quality assurance frameworks where possible.",
+            "Address barriers to improve selection and targeted use of antimicrobials in all animal settings.",
+            "Identify patterns of antimicrobial prescribing and provide feedback to prescribers to improve antimicrobial stewardship in all human and animal health settings.",
+            "Identify patterns of antimicrobial prescribing and provide feedback to prescribers to improve antimicrobial stewardship in all human and animal health settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Regularly review and promote the current list of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed.",
+            "Regularly review and promote the current list of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed.",
+            "Animal Health",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Contribute to the current knowledge and understanding of AMR in animal health in the South East Asia and Pacific regions.",
+            "Contribute to the current knowledge and understanding of AMR in animal health in the South East Asia and Pacific regions.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data"
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Develop, implement and/or update national biosecurity and waste management standards and support resources and education for different animal and agricultural settings.",
+            "Develop, implement and/or update national biosecurity and waste management standards and support resources and education for different animal and agricultural settings.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Develop accreditation standards to better support adherence to antimicrobial stewardship across all animal settings, using existing practice and quality assurance frameworks where possible.",
+            "Develop accreditation standards to better support adherence to antimicrobial stewardship across all animal settings, using existing practice and quality assurance frameworks where possible.",
+            "Address barriers to improve selection and targeted use of antimicrobials in all animal settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Develop and implement jurisdictional-specific initiatives to support antimicrobial stewardship in human health, animal health, food and agriculture settings.",
+            "Improve understanding of the extent to which resistant bacteria are present in the food chain, the extent of transmission of resistant organisms, and the risk this may pose to human health.",
+            "Improve understanding of the extent to which resistant bacteria are present in the food chain, the extent of transmission of resistant organisms, and the risk this may pose to human health.",
+            "Contribute to the current knowledge and understanding of AMR in animal health in the South East Asia and Pacific regions.",
+            "Contribute to the current knowledge and understanding of AMR in animal health in the South East Asia and Pacific regions.",
+            "Support food safety initiatives involving AMR in the South East Asia and Pacific regions, recognising the importance of cross border trade and zoonotic disease.",
+            "Support food safety initiatives involving AMR in the South East Asia and Pacific regions, recognising the importance of cross border trade and zoonotic disease.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Publish national reports on AMR and antimicrobial usage to contribute to the evidence-base for measuring economic and societal costs and benefits.",
+            "Publish national reports on AMR and antimicrobial usage to contribute to the evidence-base for measuring economic and societal costs and benefits.",
+            "Develop accountable and transparent sector-specific action plans with stakeholders, including monitoring and evaluation frameworks."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 7,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "australia",
+        "question": 8,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "australia",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Create sustainable funding for combatting antimicrobial resistance based on evidence of economic and societal costs and benefits of different approaches in all sectors",
+            "Create sustainable funding for combatting antimicrobial resistance based on evidence of economic and societal costs and benefits of different approaches in all sectors",
+            "Seek and maintain dedicated funding for the national research and development agenda, including private and public investment partnerships",
+            "Seek and maintain dedicated funding for the national research and development agenda, including private and public investment partnerships"
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 10,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Create sustainable funding for combatting antimicrobial resistance based on evidence of economic and societal costs and benefits of different approaches in all sectors"
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Review, strengthen and consider broadening AMR governance structures across all sectors and settings and ensure all relevant stakeholders are engaged."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Review, strengthen and consider broadening AMR governance structures across all sectors and settings and ensure all relevant stakeholders are engaged.",
+            "Monitor and review regulatory measures (legislated and other) relevant to antimicrobial usage and resistance",
+            "Seek opportunities to strengthen regulation to more effectively limit the emergence and spread of resistance.",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Strengthen appropriate authority, restriction and access arrangements for antimicrobials.",
+            "Promote the importance of antimicrobial resistance in the South East Asia and Pacific regions, and engage in related initiatives to build regulatory and other capacity"
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Drive education and training initiatives across all relevant sectors and increase accessibility to evidence-based best-practice information",
+            "Drive education and training initiatives across all relevant sectors and increase accessibility to evidence-based best-practice information",
+            "Strengthen education and training initiatives to improve knowledge about AMR and develop resources that promote and support appropriate prescribing, use and disposal of antimicrobials across all sectors.",
+            "Strengthen education and training initiatives to improve knowledge about AMR and develop resources that promote and support appropriate prescribing, use and disposal of antimicrobials across all sectors.",
+            "Ensure curriculum outcomes and competencies for antimicrobial resistance antimicrobial stewardship and infection prevention and control/biosecurity are emphasised and current in undergraduate and post-graduate training for professionals across all sectors.",
+            "Develop curricula on antimicrobial resistance for use in low- and middle-income countries, with a One Health emphasis.",
+            "Develop curricula on antimicrobial resistance for use in low- and middle-income countries, with a One Health emphasis."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Improve awareness of the importance of IPC in reducing AMR.",
+            "Improve awareness of the importance of IPC in reducing AMR.",
+            "Develop and implement a coordinated, One Health communication strategy, as well as monitoring and evaluation, to support whole-of-society awareness and behavioural change",
+            "Develop and implement a coordinated, One Health communication strategy, as well as monitoring and evaluation, to support whole-of-society awareness and behavioural change",
+            "Develop and implement a One Health communication strategy to raise awareness of the actions stakeholders can take to minimise the development and impacts of resistance.",
+            "Strengthen public and political awareness to champion and improve the understanding of combatting antimicrobial resistance",
+            "Improve audience reach and engagement through traditional, social and innovative media platforms.",
+            "Improve audience reach and engagement through traditional, social and innovative media platforms.",
+            "Create new and different key antimicrobial resistance messages that resonate with society",
+            "Create new and different key antimicrobial resistance messages that resonate with society"
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "7 Strengthen global collaboration and partnerships",
+            "Influence the global antimicrobial resistance agenda by active engagement and collaboration with other countries, multilateral organisations and forums",
+            "Influence the global antimicrobial resistance agenda by active engagement and collaboration with other countries, multilateral organisations and forums",
+            "Participate in and contribute to the implementation of the World Health Organization (WHO) Global Action Plan on AMR.",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Leverage international relationships to collaborate and coordinate on research and development and improve national best practices.",
+            "Support food safety initiatives involving AMR in the South East Asia and Pacific regions, recognising the importance of cross border trade and zoonotic disease.",
+            "Assist in the development of AMR strategies, tools and resources in the South East Asia and Pacific regions.",
+            "Participate in international surveillance and monitoring initiatives",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "5 Integrated surveillance and response to resistance and usage",
+            "Publish national reports on AMR and antimicrobial usage to contribute to the evidence-base for measuring economic and societal costs and benefits.",
+            "Publish national reports on AMR and antimicrobial usage to contribute to the evidence-base for measuring economic and societal costs and benefits.",
+            "Build monitoring, auditing and feedback processes into existing frameworks across relevant sectors.",
+            "Build a strong evidence base to improve and promote antimicrobial stewardship practices across relevant sectors.",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Develop a national surveillance plan, including the potential use of genomics, with sector-specific objectives to support the implementation of a national One Health surveillance system.",
+            "Develop and continue to improve mechanisms to provide and analyse data on antimicrobial resistance and usage across all sectors to the One Health surveillance system.",
+            "National alignment of laboratory testing practices and reporting for antimicrobial resistance",
+            "Develop, promote, harmonise and monitor national consistency in antimicrobial susceptibility testing and reporting to improve data comparability within and between sectors.",
+            "Develop, promote, harmonise and monitor national consistency in antimicrobial susceptibility testing and reporting to improve data comparability within and between sectors.",
+            "Establish national coordination of surveillance and response to the emergence, and outbreaks, of multi-resistant organisms.",
+            "Explore capability for real-time collection, analysis and reporting of antimicrobial resistance and use across all sectors.",
+            "Support capacity building for diagnosis, reporting and response to AMR pathogens.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "5 Integrated surveillance and response to resistance and usage",
+            "Develop and/or improve national resources and capabilities to respond to novel and emerging IPC and AMR needs across all sectors, including inter-jurisdictional opportunities for learning within sectors.",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Create a sustainably funded national One Health surveillance system that integrates human, animal, food and environmental usage and resistance data",
+            "Develop a national surveillance plan, including the potential use of genomics, with sector-specific objectives to support the implementation of a national One Health surveillance system.",
+            "Establish national coordination of surveillance and response to the emergence, and outbreaks, of multi-resistant organisms.",
+            "Establish national coordination of surveillance and response to the emergence, and outbreaks, of multi-resistant organisms.",
+            "Support capacity building for diagnosis, reporting and response to AMR pathogens.",
+            "Support capacity building for diagnosis, reporting and response to AMR pathogens.",
+            "Develop and enhance cross-border capacity to track emergence and spread of resistance internationally, with support for genomic-based diagnostic capacity in the South East Asian and Pacific regions."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The 2020 Strategy focuses on 7 OBJECTIVES. - 2 Prevention and control of infections and the spread of resistance",
+            "Adopt evidence-based and nationally consistent standards for infection prevention and control and biosecurity",
+            "Adopt evidence-based and nationally consistent standards for infection prevention and control and biosecurity",
+            "Strengthen national evidence-based and best practice infection prevention and control standards and supporting resources in clinical and community settings including general practice, dentistry, pharmacy, aged care, and rural and remote primary health care.",
+            "Strengthen national evidence-based and best practice infection prevention and control standards and supporting resources in clinical and community settings including general practice, dentistry, pharmacy, aged care, and rural and remote primary health care.",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Strengthen and assess the use of accreditation and/or quality assurance programs to better support the implementation of national biosecurity and/or IPC guidelines in the animal and human health sectors.",
+            "Improve awareness of the importance of IPC in reducing AMR.",
+            "Improve awareness of the importance of IPC in reducing AMR.",
+            "Improve and promote the national hand hygiene approach to reduce healthcare-associated infections and AMR and expand principles to other settings.",
+            "Improve and promote the national hand hygiene approach to reduce healthcare-associated infections and AMR and expand principles to other settings.",
+            "Ensure curriculum outcomes and competencies for antimicrobial resistance antimicrobial stewardship and infection prevention and control/biosecurity are emphasised and current in undergraduate and post-graduate training for professionals across all sectors.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website.",
+            "Facilitate access to, and dissemination of, national infection prevention and control/biosecurity guidelines for human and animal health through various platforms including the One Health AMR website."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Participate in WHO, World Organisation for Animal Health, Food and Agriculture Organization of the United Nations, United Nations Environment Programme, Codex and other high-level and technical international forums to enhance global antimicrobial resistance policies and initiatives.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health.",
+            "Contribute to global antimicrobial resistance surveillance and antimicrobial usage monitoring activities such as Global Antimicrobial Resistance Surveillance System; and initiatives of the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Monitor and review regulatory measures (legislated and other) relevant to antimicrobial usage and resistance",
+            "Ensure that coordinated, evidence-based antimicrobial prescribing guidelines and best-practice supports are developed and made easily available, and encourage their use by prescribers",
+            "Strengthen appropriate authority, restriction and access arrangements for antimicrobials.",
+            "Develop and regularly review lists of priority organisms and associated antimicrobials for human and animal health surveillance and establish lists for other sectors as needed."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "4 Appropriate usage and stewardship practices",
+            "Monitor and review regulatory measures (legislated and other) relevant to antimicrobial usage and resistance",
+            "Seek opportunities to strengthen regulation to more effectively limit the emergence and spread of resistance.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Work with key stakeholders in the major food- and fibre-producing animal industries to improve on-farm biosecurity measures so antimicrobial treatments are used appropriately.",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Maximise compliance with best practice infection prevention and control and biosecurity measures through adherence to applicable legislation, targets and accreditation standards",
+            "Ensure that coordinated, evidence-based antimicrobial prescribing guidelines and best-practice supports are developed and made easily available, and encourage their use by prescribers",
+            "Develop and promote resources that support appropriate antimicrobial use for surgical prophylaxis and maintain consistency with national guidelines in human and animal health.",
+            "Develop and implement effective mechanisms to monitor, reward and enforce compliance with standards and best-practice approaches for appropriate and judicious antimicrobial use",
+            "Develop and implement effective mechanisms to monitor, reward and enforce compliance with standards and best-practice approaches for appropriate and judicious antimicrobial use",
+            "Develop accreditation standards to better support adherence to antimicrobial stewardship across all animal settings, using existing practice and quality assurance frameworks where possible.",
+            "Strengthen appropriate authority, restriction and access arrangements for antimicrobials."
+        ]
+    },
+    {
+        "country": "australia",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "6 A strong collaborative research agenda across all sectors",
+            "Coordinate and share research and development activities",
+            "Improve the One Health AMR website as a national research and development hub that promotes stakeholder contribution, collaboration and coordination.",
+            "Explore opportunities to increase cross-disciplinary initiatives on AMR research.",
+            "Influence the global antimicrobial resistance agenda by active engagement and collaboration with other countries, multilateral organisations and forums",
+            "Influence the global antimicrobial resistance agenda by active engagement and collaboration with other countries, multilateral organisations and forums",
+            "Leverage international relationships to collaborate and coordinate on research and development and improve national best practices.",
+            "Leverage international relationships to collaborate and coordinate on research and development and improve national best practices."
+        ]
+    }
+]

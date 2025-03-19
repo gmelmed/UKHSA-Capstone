@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2023",
+        "supporting_text": null,
+        "country": "germany",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2030",
+        "supporting_text": null,
+        "country": "germany",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the One Health approach, addressing human, animal, and environmental health.",
+        "country": "germany",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific actions in the human health sector, such as preventing nosocomial infections and promoting appropriate antibiotic use.",
+        "country": "germany",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines strategies for animal health, including improving husbandry conditions and promoting vaccination.",
+        "country": "germany",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP addresses the environmental release of antibiotics and antibiotic resistances, focusing on wastewater and soil.",
+        "country": "germany",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions related to the food chain and the role of agriculture in the emergence and spread of AMR.",
+        "country": "germany",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions that an action plan will be published later, which will be regularly reviewed and used for reporting on implementation status.",
+        "country": "germany",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP states that measurable national-level AMR targets will be defined by the end of 2023.",
+        "country": "germany",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes the goal of reducing antibiotic use in veterinary medicine by 50% between 2018 and 2030.",
+        "country": "germany",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify any budget allocation for the strategies or actions.",
+        "country": "germany",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not include an assessment of future budget requirements.",
+        "country": "germany",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions the Interministerial Working Group on Antimicrobial Resistance (IMAG AMR) for cross-ministerial coordination.",
+        "country": "germany",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the need for legal requirements and their enforcement to combat AMR.",
+        "country": "germany",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the importance of knowledge dissemination and training for medical professionals.",
+        "country": "germany",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes actions to improve public awareness about infections and appropriate antibiotic use.",
+        "country": "germany",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP highlights the importance of international cooperation and collaboration with organizations like WHO and FAO.",
+        "country": "germany",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines the need for standardized surveillance and monitoring of antibiotic use and AMR.",
+        "country": "germany",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the need for improved surveillance systems to detect and report AMR.",
+        "country": "germany",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes prevention measures such as infection protection and control to reduce antibiotic use.",
+        "country": "germany",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes the need to align with international standards and guidelines for AMR control.",
+        "country": "germany",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP discusses the need for regulations on the use and dispensing of antibiotics.",
+        "country": "germany",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes measures to promote the rational use of antibiotics through legal frameworks.",
+        "country": "germany",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP highlights the importance of research and development for new antibiotics and diagnostic tools.",
+        "country": "germany",
+        "question": 22
+    }
+]

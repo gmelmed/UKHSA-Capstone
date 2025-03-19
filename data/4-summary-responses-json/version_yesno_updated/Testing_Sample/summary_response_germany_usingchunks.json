@@ -1,0 +1,361 @@
+[
+    {
+        "country": "germany",
+        "question": "period_start",
+        "answer": 2030
+    },
+    {
+        "country": "germany",
+        "question": "period_end",
+        "answer": 2030
+    },
+    {
+        "country": "germany",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1.1. Human medicine and nursing care, 1.2. Animal health, 1.3. Environmental release of antibiotics and antibiotic resistances, 1.4. Food chain",
+            "Like its successor strategy, DART 2020 launched in 2015, it took the One Health approach, was jointly developed by the Federal Ministries of Health (BMG), Food and Agriculture (BMEL) and Education and Research (BMBF), and subsequently adopted by the Federal Cabinet.",
+            "DART 2030 was jointly developed by the Federal Ministry of Health (BMG), the Federal Ministry of Food and Agriculture (BMEL), the Federal Ministry of Education and Research (BMBF) and, new to the group, the Federal Ministry for Economic Cooperation and Development (BMZ). The Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV) was also involved in the review. The One Health approach being taken into account in each case.",
+            "Prevention also includes containing the emergence and spread of AMR in and via the environment (such as through wastewater, waterbodies and soil) and preventing the spread of AMR along the food chain.",
+            "The aim is thus to further increase the number of people who are vaccinated, especially among risk patients and vulnerable groups. Animal husbandry conditions, systems and management all have a significant impact on the health of animals and livestock.",
+            "Current knowledge must nonetheless be used to critically assess the existing practices applied in wastewater treatment, farming and commercial processing of food as to their role in the occurrence and especially the spread of AMR, with alternatives being developed as needed.",
+            "Conducting molecular studies using standardised and harmonised processes is a prerequisite for the collation of sequence data on resistant pathogens from the human, veterinary and environmental sectors.",
+            "Integrated analysis of resistance data from surveillance in environment, veterinary and human medicine is a key prerequisite for fact-based, cross-sectoral assessment of the resistance situation in Germany and plays an important role in the One Health approach to combating AMR.",
+            "Under Germany's G7 presidency in 2022, the G7 health and agriculture ministers agreed to establish and expand integrated surveillance systems on AMR and antibiotic use in the human and veterinary sectors as well as in agriculture and the environment.",
+            "The express aim of the antibiotics minimisation concept revised at the end of 2022 is to help further reduce the quantity of antibiotics used in animals by 50% between 2018 and 2030, as set out in the European Commission's Grean Deal and Farm to Fork Strategy.",
+            "At Federal Government level, the Interministerial Working Group on Antimicrobial Resistance (IMAG AMR) is responsible for cross-ministerial coordination, alignment and expansion of the AMR Strategy. The IMAG AMR comprises the ministries BMG, BMEL, BMBF, BMUV and BMZ, as well as authorities in those ministries' remits.",
+            "informational material can also be useful which illustrates the interactions between human and veterinary medicine, agriculture and the environment in the emergence and spread of resistance, fostering mutual understanding as a result.",
+            "In light of the knowledge that animal keepers can significantly influence animal health and thus the use of antibiotics in their animals, communication and cooperation with this group has gained in importance.",
+            "AMR poses a global health risk for humans and animals, and is a source of great pressure as regards the global economy and the security of food supply.",
+            "The quadripartite organisations - the World Health Organization (WHO), the World Organization for Animal Health (WOAH), the UN Food and Agriculture Organization (FAO) and the UN Development Programme (UNDP) - are key partners in the provision of support to other countries, and they collaborate closely as part of the One Health approach.",
+            "In line with the One Health approach, resistance data from human medicine, veterinary medicine, the environmental sector and food production must be integrated.",
+            "At national level, coordinating structures that collate data on AMR and antibiotic use from various sectors, and then evaluate and forward it to regional and global systems (e.g. GLASS) are vital.",
+            "This makes it necessary to support all relevant research areas in a One Health approach - from basic research to clinical research, healthcare research, research on public health issues, environmental and climate research, logistics research, and collaborative research with the health and food sectors, agriculture, the building and construction sector, the healthcare sector and media and communications.",
+            "One Health research aims to generate knowledge on the interdependence of human, animal and environmental health, and use it to derive and test measures for use in prevention and intervention.",
+            "The European Partnership on One Health AMR enables an integrated research approach that covers the full pathogen spectrum, from bacteria to viruses, and from fungi to parasitic infections.",
+            "Measures such as the development of bacteriophages for use as alternative forms of treatment, in the decontamination of surfaces and germ reduction in food, and also in creating the regulatory conditions needed for their future use are of interest in the human medicine, veterinary medicine, agriculture and food safety sectors.",
+            "Application of the One Health approach at all times is of central importance. Even though all of the action areas address human and veterinary medicine, agriculture and the environment, different approaches and their resulting measures are nevertheless needed in each area due to the differing requirements that must be met, such as those at EU level.",
+            "intensifying R&D support - at all times taking account of the One Health approach to human, animal and environmental health.",
+            "AMR is a multidimensional global challenge that does not stop at borders. It is thus one which the international community must tackle together in a coordinated effort using the One Health approach.",
+            "This makes it necessary to support all relevant research areas in a One Health approach - from basic research to clinical research, healthcare research, research on public health issues, environmental and climate research, logistics research, collaborative research with the health, food, agriculture, building and construction, and healthcare sectors."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1.1. Human medicine and nursing care",
+            "In the area of human medicine, greater focus will be placed on sepsis - the most severe form of infection. In the past, measures were initiated under DART 2020 whose direct or indirect goal was to prevent both cases of sepsis and deaths due to sepsis.",
+            "The future AMR Strategy will also consider outpatient medical care. Given that it involves both the prescription of more than 80 percent of antibiotics used and the vast majority of patients being treated with respiratory and urinary tract infections, the outpatient healthcare sector represents an important area in the national AMR Strategy.",
+            "Reporting on the progress made in achieving the overarching goals for AMR reduction in human medicine is to be aided by the setting of suitable targets.",
+            "In the human medicine sector, the Commission for Hospital Hygiene and Infection Prevention (KRINKO) at the RKI draws up recommendations aimed, among other things, at preventing nosocomial infections in medical facilities.",
+            "Vaccination is an important and effective means of preventing infection. Preventing infections and serious cases of infectious disease makes it possible to reduce antibiotic resistance.",
+            "In Germany, data on AMR in human medicine is collated in the antibiotic resistance surveillance system (ARS) established at the RKI.",
+            "Molecular biological studies on pathogens are a key instrument used in, for example, detecting resistance genes in AMR and tracing infection chains - especially concerning (super-regional) outbreaks of disease.",
+            "Integrated analysis of resistance data from surveillance in environment, veterinary and human medicine is a key prerequisite for fact-based, cross-sectoral assessment of the resistance situation in Germany and plays an important role in the One Health approach to combating AMR.",
+            "In the human medicine sector, this especially involves regular surveys initiated by the European Centre for Disease Prevention and Control (ECDC) - for example, the national part of an EU point prevalence study on, among other things, the incidence of nosocomial infections and antibiotic use in hospitals and long-term care facilities.",
+            "Up-to-date, evidence-based guidelines on the diagnosis and treatment of infectious diseases and cases of sepsis which can be attributed to the resistance situation are a further prerequisite for ABS.",
+            "The new further training opportunities will help to promote infectiology expertise in human medicine.",
+            "Outpatient care accounts for approximately 85 percent of antibiotic prescriptions. It thus plays a significant role in promoting appropriate use of antibiotics. To be effective, therefore, structures and measures must take account of the specific needs and requirements in outpatient care.",
+            "Suitable measures are thus needed to promote their appropriate use in the provision of primary care.",
+            "Laboratory diagnostics is also indispensable in surveillance and monitoring. Methodological gaps are to be closed yet further, existing methods enhanced and, in areas where methods are still lacking, evaluation criteria developed to enable their integration into routine diagnostics. Through the use of suitable instruments, it must also be ensured that rapid microbiological diagnostics are made widely available to healthcare institutions. This applies in particular to the further development of point of care testing (POCT), which can greatly assist rational antibiotic treatment in outpatient human medicine.",
+            "Collaboration between medical microbiology and clinical departments should also be further intensified to make the new molecular biological opportunities for improved treatments accessible in practice.",
+            "As part of that work, informational material was developed for medical and pharmaceutical staff, and for patients. This is to be made readily available to a broad (specialist) public and kept current as part of the process.",
+            "Early detection of sepsis symptoms by medical and nursing staff at all levels of patient care, for example in rescue coordination centres and in outpatient and inpatient treatment of people requiring care, should be improved through the provision of materials for informational purposes and training.",
+            "Disseminating information to the general public about the treatment of infectious disease and appropriate use of antibiotics is to be improved.",
+            "When disseminating the results of resistance surveillance and monitoring, the quantities of antibiotics sold and used in veterinary medicine, and the use of antibiotics in human medicine, new forms of communication such as dashboards and interactive applications are also to be considered.",
+            "In the prevention of infectious disease, emphasis is placed on improving water and sanitation (WASH) as well as hygiene and infection prevention and control (IPC) in hospitals and other medical facilities.",
+            "To enable diagnostic and sensitivity testing, the establishment and expansion of laboratories along with training of laboratory personnel must be advanced, including beyond large towns and cities.",
+            "This makes it necessary to support all relevant research areas in a One Health approach - from basic research to clinical research, healthcare research, research on public health issues, environmental and climate research, logistics research, and collaborative research with the health and food sectors, agriculture, the building and construction sector, the healthcare sector and media and communications.",
+            "In order to slow down the further spread of AMR new diagnostics tools are urgently needed which accelerate pathogen diagnostics.",
+            "Measures such as the development of bacteriophages for use as alternative forms of treatment, in the decontamination of surfaces and germ reduction in food, and also in creating the regulatory conditions needed for their future use are of interest in the human medicine, veterinary medicine, agriculture and food safety sectors.",
+            "The aim of DART 2030 is to collaborate with relevant stakeholders to create the structures and conditions needed at local level to facilitate responsible use of antibiotics and effective forms of treatment for bacterial infections.",
+            "The major focus areas of DART 2020 will be retained: expanding the surveillance and monitoring systems on AMR and antibiotic use, improving infection prevention and promoting appropriate use of antibiotics, raising public awareness, facilitating the acquisition of necessary knowledge among medical professionals, and intensifying R&D support.",
+            "The aim is to establish responsible use and handling of antibiotics by general practitioners, dentists and veterinarians, including regular reflection on their own actions and behaviours, and make these standard practice."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1.2. Animal health",
+            "These focal areas include prevention, further promotion of appropriate use of antibiotics in human and veterinary medicine",
+            "Animal husbandry conditions, systems and management all have a significant impact on the health of animals and livestock. Existing husbandry and management processes must thus be subjected to critical review to assess whether they foster infectious disease, thereby increasing the need to use antibiotics.",
+            "National antibiotic resistance monitoring of animal pathogenic bacteria will likewise be continued and further developed by the BVL.",
+            "Regulation (EU) 2019/6 on Veterinary Medicinal Products regulates EU-wide documentation of the quantities of antibiotics sold for use in animals (sales data) and of the actual quantities used.",
+            "The aim is to establish responsible use and handling of antibiotics by general practitioners, dentists and veterinarians - including regular reflection on their own actions and behaviours - and make these standard practice.",
+            "the express aim of the antibiotics minimisation concept revised at the end of 2022 is to help further reduce the quantity of antibiotics used in animals by 50 % between 2018 and 2030",
+            "In the cases of fluorochinolones, third and fourth generation cephalosporines and colistin, the aim is to further reduce the quantities used in veterinary medicine to the unavoidable minimum.",
+            "Linking slaughterhouse findings with animal-specific data from livestock farms, with laboratory diagnostics data (including data from susceptibility tests) and data from veterinary treatments (especially antibiotics) is a valuable tool in assessing animal health in livestock herds.",
+            "In light of the knowledge that animal keepers can significantly influence animal health and thus the use of antibiotics in their animals, communication and cooperation with this group has gained in importance.",
+            "In animal husbandry, access to animal healthcare services, optimisation of husbandry conditions and feeding, and also biosafety are further pillars in the prevention of infectious disease.",
+            "Through involvement in the quadripartite working groups and other international organisations, collaboration with the EU partners pursues the goal of achieving a global ban on the use of antibiotics to improve production and as a routine prophylaxis against infection.",
+            "At national level, research on open questions concerning infection epidemiology, molecular mechanisms of infection and pathogenesis, and pathogen-host-environment interactions (among other things) is to be conducted at two newly-established institutes - the Helmholtz Institute for One Health (HIOH) and the Institute of International Animal Health/One Health (IITG) at the Friedrich-Loeffler Institute (FLI).",
+            "In the area of animal health at international level, the European Partnership on Animal Health and Welfare will use both research and integrative activities to improve the status of knowledge on monitoring and intervention measures, diagnostics and alternatives treatment methods, and also improve animal husbandry, thereby supplementing and enhancing knowledge generated by the European Partnership on One Health AMR.",
+            "Further research and development is required on many issues concerning antibiotics and AMR in the areas of agriculture, animal husbandry, veterinary medicine and food chain under the remit of BMEL that are mentioned.",
+            "The aim is to establish responsible use and handling of antibiotics by general practitioners, dentists and veterinarians, including regular reflection on their own actions and behaviours, and make these standard practice."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "1.3. Environmental release of antibiotics and antibiotic resistances",
+            "These focal areas include prevention, further promotion of appropriate use of antibiotics in human and veterinary medicine, and greater involvement of the environment sector in activities to combat AMR.",
+            "The Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV) was also involved in the review.",
+            "Prevention also includes containing the emergence and spread of AMR in and via the environment (such as through wastewater, waterbodies and soil) and preventing the spread of AMR along the food chain.",
+            "Current knowledge must nonetheless be used to critically assess the existing practices applied in wastewater treatment, farming and commercial processing of food as to their role in the occurrence and especially the spread of AMR, with alternatives being developed as needed.",
+            "Currently, there remains a lack of systematically collected, representative data on the spread of AMR in and via the environment. This knowledge gap must be closed. When considering the establishment of an official system to monitor antibiotic resistance in the environment...",
+            "the G7 health and agriculture ministers agreed to establish and expand integrated surveillance systems on AMR and antibiotic use in the human and veterinary sectors as well as in agriculture and the environment.",
+            "the group of participants has been extended in the face of additional needs, for example in relation to the environment, the role of plants in addressing AMR, and research and development of new antibiotics.",
+            "In the prevention of infectious disease, emphasis is placed on improving water and sanitation (WASH) as well as hygiene and infection prevention and control (IPC) in hospitals and other medical facilities.",
+            "it is important that environmental legislation be strengthened as regards consideration of AMR aspects in order to avoid localised development of resistance and its spread into the environment at production sites (e.g. in wastewater).",
+            "This makes it necessary to support all relevant research areas in a One Health approach - from basic research to clinical research, healthcare research, research on public health issues, environmental and climate research, logistics research, and collaborative research with the health and food sectors, agriculture, the building and construction sector, the healthcare sector and media and communications.",
+            "Substantial findings are already available regarding the role played by the water cycle in the release and spread of antibiotic residues, resistant bacteria and resistant genes. This is where wastewater treatment plays a central role. Innovative and in some cases decentralised treatment methods harbour potential for the control of critical releases at source.",
+            "Even though all of the action areas address human and veterinary medicine, agriculture and the environment, different approaches and their resulting measures are nevertheless needed in each area due to the differing requirements that must be met, such as those at EU level.",
+            "Prevention includes, for example, vaccinations and containing the emergence and spread of AMR in and via the environment (e.g. through wastewater, waterbodies and soil), and preventing the spread of AMR along the food chain.",
+            "The long-term goal is to establish an integrated surveillance and monitoring system with data on AMR and the use of antibiotics in human and veterinary medicine and in the environment, enabling that data to be analysed together."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Prevention also includes containing the emergence and spread of AMR in and via the environment (such as through wastewater, waterbodies and soil) and preventing the spread of AMR along the food chain.",
+            "Animal husbandry conditions, systems and management all have a significant impact on the health of animals and livestock. Existing husbandry and management processes must thus be subjected to critical review to assess whether they foster infectious disease, thereby increasing the need to use antibiotics.",
+            "Current antibiotic resistance monitoring along the food chain, in which the L\u00e4nder (states), the Federal Institute for Risk Assessment (BfR) and the Federal Office of Consumer Protection and Food Safety (BVL) are involved, is to be continued.",
+            "Regulation (EU) 2019/6 on Veterinary Medicinal Products regulates EU-wide documentation of the quantities of antibiotics sold for use in animals (sales data) and of the actual quantities used.",
+            "Germany will continue to participate in the EU surveys and use the resulting trends as a basis on which to adapt and align measures at national level.",
+            "The express aim of the antibiotics minimisation concept revised at the end of 2022 is to help further reduce the quantity of antibiotics used in animals by 50% between 2018 and 2030, as set out in the European Commission's Green Deal and Farm to Fork Strategy.",
+            "In the cases of fluorochinolones, third and fourth generation cephalosporines and colistin, the aim is to further reduce the quantities used in veterinary medicine to the unavoidable minimum.",
+            "In light of the knowledge that animal keepers can significantly influence animal health and thus the use of antibiotics in their animals, communication and cooperation with this group has gained in importance.",
+            "The overarching objective of all associated measures is to maintain the efficacy of antimicrobial substances, provide sustainable and equitable access to them to ensure their responsible and appropriate use in human and veterinary medicine, and in agriculture as a contribution to achieving the SDGs, and to prevent the emergence of infection by means of improved hygiene.",
+            "Through involvement in the quadripartite working groups and other international organisations, collaboration with the EU partners pursues the goal of achieving a global ban on the use of antibiotics to improve production and as a routine prophylaxis against infection.",
+            "This makes it necessary to support all relevant research areas in a One Health approach - from basic research to clinical research, healthcare research, research on public health issues, environmental and climate research, logistics research, and collaborative research with the health and food sectors, agriculture, the building and construction sector, the healthcare sector and media and communications.",
+            "Further research and development is required on many issues concerning antibiotics and AMR in the areas of agriculture, animal husbandry, veterinary medicine and food chain under the remit of BMEL that are mentioned."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "A Final Report on the implementation of DART 2020 was published in April 2022. The report describes both the measures implemented to achieve the DART 2020 goals and the key outcomes - including in relation to resistance rates and antibiotic use.",
+            "The action plan will be regularly reviewed and realigned as needed. It will also be used as the basis for reporting on the status of DART 2030 implementation. As with DART 2020, this will continue the tried and trusted process of issuing regular interim reports.",
+            "To make the findings more easily accessible, reporting and analysis systems for routine analysis of data and also webbased systems will be developed and implemented for use.",
+            "new forms of communication such as dashboards and interactive applications are also to be considered."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "By including targets in DART 2030, Germany has followed through on this commitment. It is envisaged that the targets will be presented with the action plan.",
+            "the express aim of the antibiotics minimisation concept revised at the end of 2022 is to help further reduce the quantity of antibiotics used in animals by 50 % between 2018 and 2030"
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the G7 health ministers agreed to define measurable national-level AMR targets by the end of 2023 which also cover the use of antibiotics.",
+            "The express aim of the antibiotics minimisation concept revised at the end of 2022 is to help further reduce the quantity of antibiotics used in animals by 50 % between 2018 and 2030."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 9,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "germany",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "germany",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "DART 2030 was jointly developed by the Federal Ministry of Health (BMG), the Federal Ministry of Food and Agriculture (BMEL), the Federal Ministry of Education and Research (BMBF), and, new to the group, the Federal Ministry for Economic Cooperation and Development (BMZ).",
+            "At Federal Government level, the Interministerial Working Group on Antimicrobial Resistance (IMAG AMR) is responsible for cross-ministerial coordination, alignment and expansion of the AMR Strategy."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 12,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The use in food-producing animals of veterinary medicinal products for oral administration which contain the active substance colistin is to be further restricted by means of a new provision in the Ordinance on Veterinary In-house Dispensaries (Verordnung \u00fcber tier\u00e4rztliche Hausapotheken).",
+            "Structurally weak regions are especially vulnerable to the risks of AMR and must be supported through the development of regulatory and monitoring systems, as well as improved national AMR prevention effort.",
+            "These are the most important instruments along with measures to underpin legal requirements and their enforcement.",
+            "it is necessary to implement systems to promote the standards of Good Manufacturing Practice (GMP) in production along with monitoring and regulation of supply chains in order to detect, trace and eliminate the occurrence of poor quality or counterfeit antimicrobials.",
+            "This calls, among other things, for national regulations which align with a common international framework."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Mandatory further training measures are to be reviewed along with adequate teaching of the topic in medical studies, including knowledge of alternative options for treatment.",
+            "At the 124th Medical Assembly held in 2021, it was decided to introduce stand-alone specialist further training in 'Internal Medicine and Infectiology' within the field of internal medicine in Germany.",
+            "It also covers knowledge dissemination in and by specialist groups, including in medical training primarily further and continuing training.",
+            "medical, veterinary and pharmaceutical staff must be trained in appropriate use and dispensing of antibiotics",
+            "It also covers knowledge dissemination in and by specialist groups, including in medical training - primarily further and continuing training."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "4.3. General public",
+            "the main areas of focus in the predecessor version, DART 2020, remain valid and in place: expansion of the surveillance and monitoring systems on AMR and antibiotic use, improvements in infection prevention and appropriate use of antibiotics, raising public awareness",
+            "This action area covers dissemination of knowledge to create and maintain fact-based public awareness of infections, the link between non-targeted antibiotic treatment and AMR, and the relationship between infectious disease and the development of sepsis as a complication.",
+            "But in addition to livestock keepers, pet owners must also be better reached, educated and informed about how they influence both their animals' health and the development and spread of AMR.",
+            "Ways in which these topics can be addressed include conducting media information campaigns, developing educational content/materials and disseminating information through doctors in private practices.",
+            "Social media channels should also be used as a source of communication in order to reach the broadest possible audience.",
+            "raising public awareness",
+            "Through the dissemination of corresponding knowledge, the aim is to raise public awareness to infections, the link between non-targeted antibiotic treatment and AMR, and the relationship between infectious disease and the development of sepsis as a complication."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "5.2. Cooperation with organisations, committees and working groups",
+            "both at national level and through international cooperation.",
+            "Under Germany's G7 presidency in 2022, the G7 health and agriculture ministers agreed to establish and expand integrated surveillance systems on AMR and antibiotic use in the human and veterinary sectors as well as in agriculture and the environment.",
+            "AMR is a multidimensional global challenge that does not stop at borders. It is thus one which the international community must tackle together in a coordinated effort using the One Health approach.",
+            "The quadripartite organisations - the World Health Organization (WHO), the World Organization for Animal Health (WOAH), the UN Food and Agriculture Organization (FAO) and the UN Development Programme (UNDP) - are key partners in the provision of support to other countries, and they collaborate closely as part of the One Health approach.",
+            "In line with the One Health approach, resistance data from human medicine, veterinary medicine, the environmental sector and food production must be integrated. The WHO Tricycle Protocol and Tripartite Integrated Surveillance System (TISSA) serve as examples.",
+            "Germany will continue its involvement and participation, and closely monitor international processes associated with AMR. This makes it possible to contribute German experience and standpoints, learn from others and share best-practice examples.",
+            "The Federal Government will continue to actively advance talks in the respective international forums, notably the G7 and G20.",
+            "At international level, the European Partnership on One Health AMR enables an integrated research approach that covers the full pathogen spectrum, from bacteria to viruses, and from fungi to parasitic infections. The Partnership will build on existing initiatives such as the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) and its mandate will be to assist and promote the European One Health Action Plan against Antimicrobial Resistance.",
+            "international initiatives - such as the Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator (CARB-X) and the Global Antibiotic Research & Development Partnership (GARDP) - are to be further pursued which drive the research and development of new antibiotics and alternative medicines and treatments.",
+            "This report sets out the strategic goals and focuses in six action areas for combating AMR at both national level and through international collaboration by the end of the DART 2030 lifecycle.",
+            "AMR is a multidimensional global challenge that does not stop at borders. It is thus one which the international community must tackle together in a coordinated effort using the One Health approach.",
+            "To contain the emergence and spread of AMR on a global scale, international coordination of targets and measures is needed. Both cooperation in capacity building efforts and also collaboration with international organisations, committees and working groups are to be intensified and supported."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "2. Action Area 2: Surveillance and Monitoring",
+            "the main areas of focus in the predecessor version, DART 2020, remain valid and in place: expansion of the surveillance and monitoring systems on AMR and antibiotic use",
+            "Standardised and uniform surveillance and monitoring of antibiotic use and AMR are needed to assess the situation in all healthcare sectors... In Germany, data on AMR in human medicine is collated in the antibiotic resistance surveillance system (ARS) established at the RKI... To further improve available data, efforts should be made to harmonise the surveillance systems. Also, to be able to arrive at more detailed conclusions on the prevalence and spread of AMR, the national surveillance systems for both the outpatient and inpatient settings should be further developed and enhanced.",
+            "In addition to improving the availability of data at national level, expanding the surveillance systems will enable Germany to better comply with reporting requirements in the EU's European Antimicrobial Resistance Surveillance Network (EARS-Net) and European Surveillance of Antimicrobial Consumption Network (ESAC-Net), and also in the Global Antimicrobial Resistance and Use Surveillance System (GLASS).",
+            "To make the findings more easily accessible, reporting and analysis systems for routine analysis of data and also webbased systems will be developed and implemented for use.",
+            "the G7 health and agriculture ministers agreed to establish and expand integrated surveillance systems on AMR and antibiotic use in the human and veterinary sectors as well as in agriculture and the environment.",
+            "The aim now is to establish this system and gain a comprehensive, uniform overview of the data for Germany by means of constructive cooperation with the treating physicians, coordination with experts responsible for ABS and by merging data from the differing systems already in place.",
+            "The aim is to expand antibiotic use surveillance to take in the entire outpatient care sector and enable facility-specific feedback. A system which has already been tried and tested as part of a feasibility study is to be established at the RKI and implemented nationwide.",
+            "The component of 'monitoring' antibiotic use in further animal populations is established in the antibiotics minimisation concept. ... Thus, as part of the BfR reporting, developments and trends in antibiotic use in these animal populations will also be recorded and subsequently evaluated in terms of the total quantity used and any changes made in substance selection.",
+            "Laboratory diagnostics is also indispensable in surveillance and monitoring. Methodological gaps are to be closed yet further, existing methods enhanced and, in areas where methods are still lacking, evaluation criteria developed to enable their integration into routine diagnostics.",
+            "The combination of current, reliable resistance data on antibiotics for frequent infectious diseases - and improved, digital access to that data - is intended to assist in shifting prescription behaviour among doctors towards more rational use of antibiotics.",
+            "this involves providing user-friendly access to current guidelines, national resistance data, data on antibiotic use and the resulting recommendations for calculated and targeted use of approved antibiotics via a dedicated, single-source website.",
+            "Data collected in the field provides the basis for appropriate use of antimicrobial substances in patient care and for AMR surveillance and monitoring. Existing surveillance structures are often only of a temporary nature, financed using project funds and limited to larger conurbations in many cases. They thus provide an inadequate picture of the resistance situation and the AMR load. New surveillance systems must be able to collect both nationwide and cross-sectoral data. In line with the One Health approach, resistance data from human medicine, veterinary medicine, the environmental sector and food production must be integrated.",
+            "At national level, coordinating structures that collate data on AMR and antibiotic use from various sectors, and then evaluate and forward it to regional and global systems (e.g. GLASS) are vital.",
+            "Germany also continues to be involved in the various EUlevel working groups and projects around AMR. This gives the country's experts the opportunity to participate in overarching design of surveillance and monitoring systems, and in the analysis and interpretation of data, address issues related to AMR, nosocomial infections and infections that develop outside the healthcare system, and benefit from related networks.",
+            "To create the conditions needed in devising such models, a comprehensive data repository must be made available in each sector.",
+            "The key action areas set out in DART 2030 focus on improving the availability of data through surveillance and monitoring.",
+            "In DART 2030, the major focus areas of DART 2020 will be retained: expanding the surveillance and monitoring systems on AMR and antibiotic use.",
+            "The long-term goal is to establish an integrated surveillance and monitoring system with data on AMR and the use of antibiotics in human and veterinary medicine and in the environment, enabling that data to be analysed together."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "When establishing an integrated molecular surveillance system, i.e. linking genome data of pathogens with data from the reporting system in accordance with the IfSG, a molecular surveillance system is also to be established for antibiotic-resistant pathogens of special importance, including 4MRGN (multidrug-resistant gram-negative pathogens with resistance to four antibiotic groups) and MRSA (methicillin-resistant Staphylococcus aureus).",
+            "New surveillance systems must be able to collect both nationwide and cross-sectoral data. In line with the One Health approach, resistance data from human medicine, veterinary medicine, the environmental sector and food production must be integrated."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Preventing the further spread of AMR calls for a package of measures which are to be implemented in a wide range of areas.",
+            "the main areas of focus in the predecessor version, DART 2020, remain valid and in place: expansion of the surveillance and monitoring systems on AMR and antibiotic use, improvements in infection prevention and appropriate use of antibiotics",
+            "This action area takes in the prevention of infectious diseases requiring treatment using infection protection and control measures (as understood in their broadest sense) to reduce both the use of antibiotics and selection pressure in microorganisms.",
+            "Recommendations and guidelines on hygiene and infection prevention must be provided, observed, applied and evaluated in the facilities.",
+            "In both animal husbandry and animal transport, consistent use of hygiene, animal welfare and biosafety measures is needed. This reduces the infection pressure in the animal environment, thereby reducing the risk of infection.",
+            "These groups are at risk from a high prevalence of infectious disease, inadequate access to high-quality antibiotics and healthcare facilities, and a lack of clean water and sanitation.",
+            "In the prevention of infectious disease, emphasis is placed on improving water and sanitation (WASH) as well as hygiene and infection prevention and control (IPC) in hospitals and other medical facilities.",
+            "To prevent the spread of resistances it is important to understand the underlying economic, social and behavioural factors involved. For example, preventive design of workplaces and work processes must be scientifically monitored and evaluated with regard to ways in which pathogens are spread.",
+            "The key action areas set out in DART 2030... focus on improving the availability of data through surveillance and monitoring, enhancing infection prevention, promoting appropriate use of antibiotics...",
+            "This action area takes in the prevention of infectious diseases requiring treatment using infection protection and control measures (as understood in their broadest sense) to reduce the use of antibiotics."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "When it comes to global trade in animals, animal products and also food and feed, international standards are of vast importance - especially those of the WOAH and the Codex Alimentarius Commission (CAC), a joint instrument of the FAO and WHO.",
+            "This calls, among other things, for national regulations which align with a common international framework."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The future development of an outpatient antibiotic stewardship strategy will play an important role by focusing on the specificities and needs of general practitioner and paediatric primary care, outpatient care and dental care.",
+            "Antibiotic stewardship (ABS) is designed to ensure both indication-appropriate use of antibiotics and the best possible antibiotic treatment, and help to reduce or prevent increasing development of resistance.",
+            "Given this situation, medical, veterinary and pharmaceutical staff must be trained in appropriate use and dispensing of antibiotics, and the legal prerequisites created for restrictive dispensing."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "These focal areas include prevention, further promotion of appropriate use of antibiotics in human and veterinary medicine",
+            "This is where the future development of an outpatient antibiotic stewardship strategy will play an important role by focusing on the specificities and needs of general practitioner and paediatric primary care, outpatient care and dental care.",
+            "As in promoting appropriate use of antibiotics in human medicine (see 3.1), the various medical associations also play an important role in improving both the implementation and acceptance of measures concerning hygiene and infection prevention.",
+            "the AVS also serves to assist inpatient facilities in implementing the legal requirements set out in the Protection Against Infection Act (IfSG) regarding documentation and evaluation of data on antibiotic use.",
+            "Regulation (EU) 2019/6 on Veterinary Medicinal Products regulates EU-wide documentation of the quantities of antibiotics sold for use in animals (sales data) and of the actual quantities used.",
+            "Antibiotic stewardship (ABS) is designed to ensure both indication-appropriate use of antibiotics and the best possible antibiotic treatment, and help to reduce or prevent increasing development of resistance.",
+            "Outpatient care accounts for approximately 85 percent of antibiotic prescriptions. It thus plays a significant role in promoting appropriate use of antibiotics. To be effective, therefore, structures and measures must take account of the specific needs and requirements in outpatient care. Among other things, this calls for guidelines covering relevant diseases in outpatient care, hygiene, diagnostics and treatment options, and monitoring of antibiotic use via a feedback mechanism specially devised for the outpatient sector.",
+            "This objective is served, for example, by the inclusion of a legally-defined weighting factor which, when veterinary medicinal products containing these active substances are used in food-producing animals, is included in the calculation of the treatment frequencies for food-producing animals and increases its value compared to other antibiotics that are less critical for the treatment of humans.",
+            "The combination of current, reliable resistance data on antibiotics for frequent infectious diseases - and improved, digital access to that data - is intended to assist in shifting prescription behaviour among doctors towards more rational use of antibiotics.",
+            "These are the most important instruments along with measures to underpin legal requirements and their enforcement.",
+            "medical, veterinary and pharmaceutical staff must be trained in appropriate use and dispensing of antibiotics, and the legal prerequisites created for restrictive dispensing.",
+            "Germany seeks to have language to this effect agreed in G20 and G7 summit declarations and ministerial statements.",
+            "This calls, among other things, for national regulations which align with a common international framework.",
+            "Antibiotic stewardship (ABS) is designed to ensure both indication-appropriate use of antibiotics and the best possible antibiotic treatment, and help reduce or prevent increasing development of resistances."
+        ]
+    },
+    {
+        "country": "germany",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "the aim being to create incentives for collaborative and transnational research with a focus on practical application.",
+            "The Global AMR Research and Development (R&D) Hub was established following the G20 consultations under German presidency in 2017. The Hub is effectively a partnership of countries, nongovernmental donor organisations and intergovernmental organisations. It serves the global coordination of research and development (R&D) priorities, funding instruments and incentive mechanisms related to AMR.",
+            "Germany also continues to be involved in the various EUlevel working groups and projects around AMR. This gives the country's experts the opportunity to participate in overarching design of surveillance and monitoring systems, and in the analysis and interpretation of data, address issues related to AMR, nosocomial infections and infections that develop outside the healthcare system, and benefit from related networks.",
+            "The aim of expanding One Health research at national, European and international level is to address these and many other research questions.",
+            "The Partnership will build on existing initiatives such as the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) and its mandate will be to assist and promote the European One Health Action Plan against Antimicrobial Resistance. In terms of content and focus, this European Partnership aims to generate knowledge on AMR, develop new treatments, vaccines and diagnostics, and devise innovative economic models.",
+            "international initiatives - such as the Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator (CARB-X) and the Global Antibiotic Research & Development Partnership (GARDP) - are to be further pursued which drive the research and development of new antibiotics and alternative medicines and treatments.",
+            "The key action areas set out in DART 2030... conducting research into vaccines to prevent infections caused by resistant pathogens.",
+            "This report sets out the strategic goals and focuses in six action areas for combating AMR at both national level and through international collaboration by the end of the DART 2030 lifecycle.",
+            "In addition to new findings from research and development, knowledge gaps and specific issues are also to be discussed to create incentives for collaborative and transnational research with a focus on practical application.",
+            "Both cooperation in capacity building efforts and also collaboration with international organisations, committees and working groups are to be intensified and supported."
+        ]
+    }
+]

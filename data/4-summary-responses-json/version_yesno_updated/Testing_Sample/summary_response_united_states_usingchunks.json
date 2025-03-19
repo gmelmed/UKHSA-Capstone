@@ -1,0 +1,343 @@
+[
+    {
+        "country": "united_states",
+        "question": "period_start",
+        "answer": 2020
+    },
+    {
+        "country": "united_states",
+        "question": "period_end",
+        "answer": 2025
+    },
+    {
+        "country": "united_states",
+        "question": 1,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 2: Strengthen National One Health Surveillance Efforts to Combat Resistance",
+            "A One Health approach, which recognizes the relationships between the health of humans, animals, plants, and the environment, is integrated throughout the Plan, with an expanded effort to understand antibiotic resistance in the environment.",
+            "The Task Force is co-chaired by the Secretaries of the U.S. Departments of Health and Human Services (HHS), Agriculture (USDA), and Defense (DoD), and also includes the Departments of Interior (DoI), State (DoS), and Veterans Affairs (VA), the Environmental Protection Agency (EPA), the U.S. Agency for International Development (USAID), the National Science Foundation, and representatives from the Executive Office of the President.",
+            "The U.S. Government is responding to antibiotic resistance with a comprehensive and coordinated suite of actions implemented by a diverse set of agencies using a One Health approach.",
+            "The CARB Task Force employs a One Health approach by engaging U.S. Government agencies that oversee human, animal, and environmental health and by promoting collaboration and communication to address antibiotic resistance in every relevant sector.",
+            "Recognizing that domestic action alone is insufficient, the U.S. Government works with multisectoral organizations, partner nations, the private sector, civil society, and other stakeholders to address the threat of antibiotic resistance.",
+            "The result is a set of coordinated, strategic actions aimed at changing the trajectory of antibiotic resistance and improving the health and wellbeing of all Americans, as well as the health of animals, plants, and the environment.",
+            "Prevention and containment efforts, along with improved use of antibiotics, can slow the emergence and spread of antibiotic resistance genes and antibiotic-resistant pathogens and can limit their impact on humans and animals.",
+            "Increase capacity nationwide to contain antibiotic-resistant infections and control outbreaks. Increase collaborative efforts at national, regional, and/or state levels to assist with antibiotic resistance response and prevention efforts in the general and military populations. Monitor and report on antibiotic resistance among selected animal pathogens to detect new resistance patterns.",
+            "Develop and implement evidence-based policies and practices to prevent infections and stop the spread of antibiotic resistance across One Health.",
+            "Antibiotic resistance is unquestionably a One Health issue, impacting the health of humans, animals, plants, and the environment. Efforts to identify antibiotic-resistant organisms, track the spread of resistance, and measure the effect of antibiotic use require surveillance across human, animal, and plant populations and the environment, as well as collaboration from the U.S. Government agencies and partners across each of these settings.",
+            "Establish an accelerator program to advance implementation of whole-genome sequencing, metagenomics, and other molecular testing for antibiotic-resistant pathogens in humans, animals, plants, and the environment and to coordinate training guidance across agencies and among public and private organizations.",
+            "Strengthen the national infrastructure for antibiotic resistance surveillance data across One Health, by improving capacity, utility, timeliness, and the use of harmonized terminology.",
+            "Establish a platform for more comprehensive understanding of the carriage of antibiotic resistance genes (also known as the resistome) present across One Health.",
+            "Antibiotic effectiveness is continually reduced through the evolution of antibiotic resistance, requiring support for basic and applied research as part of a comprehensive One Health strategy.",
+            "Expand basic and applied interdisciplinary research to better understand the emergence, spread, and persistence of antibiotic resistance, and develop mitigation strategies for antibiotic resistance in human, animal, agricultural, and environmental settings.",
+            "support international antibiotic resistance policy efforts to prioritize and coordinate antibiotic resistance efforts within and across international partner organizations (e.g., FAO, the G7 and G20, the Asia-Pacific Economic Cooperation Forum, the Global Health Security Initiative, and the UN One Health Global Leaders Group on AMR)",
+            "Assist governments, civil society, and the private sector in a total of 10-15 low- or middle-income countries to develop national plans or capacity for preventing and controlling infections in both animals and humans by 2022.",
+            "Collaborate with international scientists and organizations to better understand the development, spread, and health risks of antibiotic resistance and resistance sources present in animals, the environment, the community, and healthcare settings.",
+            "\u25cf Objective 1.3: Establish an accelerator program to advance implementation of whole-genome sequencing, metagenomics, and other molecular testing for antibiotic-resistant pathogens in humans, animals, plants, and the environment and to coordinate training guidance across agencies and among public and private organizations.",
+            "\u25cf Objective 3.5: Establish a platform for more comprehensive understanding of the carriage of antibiotic resistance genes (also known as the resistome) present across One Health.",
+            "Prevention and containment efforts, along with improved use of antibiotics, can slow the emergence and spread of antibiotic resistance genes and antibiotic-resistant pathogens and can limit their impact on humans and animals. [...] Others could be part of identifying and scaling up best practices across spectrums of care, ensuring their continuity, and coordinating these practices across One Health.",
+            "Success in these activities will require extensive, coordinated, and comprehensive efforts by all partners across One Health."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 2,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This Plan continues to prioritize infection prevention and control to slow the spread of resistant infections and reduce the need for antibiotic use.",
+            "The PACCARB provides information and recommendations to the HHS Secretary regarding programs and policies to combat antibiotic resistance and to improve capabilities to prevent, diagnose, mitigate, or treat antibiotic-resistant infections.",
+            "The National Strategy for Combating Antibiotic-Resistant Bacteria (CARB) lays out five goals to reduce the incidence and impact of antibiotic-resistant infections.",
+            "\u25cf Developed new programs to improve antibiotic use across healthcare settings;",
+            "Many of the actions build on and expand evidence-based activities initiated under the 2015-2020 National Action Plan for CARB that have already shown impact, such as the appropriate use of antibiotics in human health.",
+            "Goal 1: Slow the Emergence of Resistant Bacteria and Prevent the Spread of Resistant Infections",
+            "Support responses to identify, prevent, and contain antibiotic-resistant pathogens.",
+            "Support national and State policies that improve the use of antibiotics across healthcare settings and communities.",
+            "Strengthen testing and training capacities and capabilities, enhance integration and harmonization of testing data, and expand the reach of Federal antibiotic resistance laboratory networks across One Health.",
+            "Establish an accelerator program to advance implementation of whole-genome sequencing, metagenomics, and other molecular testing for antibiotic-resistant pathogens in humans, animals, plants, and the environment and to coordinate training guidance across agencies and among public and private organizations.",
+            "Expand the number of sources for and quantity of community-transmitted antibiotic resistance surveillance data from humans including sexually-transmitted infections, enteric diseases, respiratory illness, and other diseases caused by antibiotic-resistant pathogens.",
+            "Expand the number of sources for and quantity of surveillance data on the use of antibiotics from inpatient and outpatient healthcare facilities to improve understanding and implementation of the optimal use of antibiotics.",
+            "Develop evidence-based guidance to promote the appropriate use of new diagnostics and to improve the use of existing diagnostics that determine the presence, severity, or antimicrobial susceptibility or resistance of bacterial or fungal infections in human clinical care.",
+            "Support the development of evidence-based guidelines for the use of new and existing antibiotic and antifungal resistance-related diagnostics.",
+            "Enhance interagency collaborations to accelerate basic and applied research for developing new antibiotics, therapeutics, and vaccines.",
+            "Award 25 new projects aimed at discovering or developing new preventative products for use in human medicine by 2022.",
+            "Assist governments, civil society, and the private sector in a total of 10-15 low- or middle-income countries to develop national plans or capacity for preventing and controlling infections in both animals and humans by 2022.",
+            "\u25cf Objective 3.4: Partner with clinical societies to consider options for improving the development, speed, and harmonization of antibiotic use and diagnostic guidelines that reflect clinical and public health needs for major syndromes."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 3,
+        "answer": "yes",
+        "supporting_chunks": [
+            "\u25cf Launched a strategic initiative to support antibiotic stewardship in veterinary settings;",
+            "FDA sought broad public input and engaged affected stakeholders over several years on plans to work with pharmaceutical companies to voluntarily withdraw production uses (e.g., growth promotion, increased feed efficiency) of medically important antibiotics and to require veterinary oversight of their remaining therapeutic uses.",
+            "Many of the actions build on and expand evidence-based activities initiated under the 2015-2020 National Action Plan for CARB that have already shown impact, such as the appropriate use of antibiotics in human health, animal health, and in the environment.",
+            "## Objective 1.5\n\nMonitor and report on antibiotic resistance among selected animal pathogens to detect new resistance patterns.",
+            "Engage the animal health community, crop protection community, and other relevant stakeholders to advance strategies intended to foster the responsible use of medically important antibiotics in plants and animals.",
+            "Establish an accelerator program to advance implementation of whole-genome sequencing, metagenomics, and other molecular testing for antibiotic-resistant pathogens in humans, animals, plants, and the environment and to coordinate training guidance across agencies and among public and private organizations.",
+            "Expand the number of sources for and quantity of antibiotic resistance surveillance data from animals, farms, and production facilities.",
+            "Develop new or expand the number of sources for and quantity of surveillance data on the use of antibiotics collected from animals, farms, and production facilities to improve understanding and implementation of responsible use of antibiotics.",
+            "Invite research applications and support research on the appropriate use of CARB-related diagnostics in human clinical and veterinary care.",
+            "Objective 1. Expand basic and applied interdisciplinary research to better understand the emergence, spread, and persistence of antibiotic resistance, and develop mitigation strategies for antibiotic resistance in human, animal, agricultural, and environmental settings.",
+            "Assist governments, civil society, and the private sector in 10 to 15 low- or middle-income countries to improve the monitoring of WASH in healthcare facilities or to create and/or implement standards for environmental health in healthcare settings.",
+            "Collaborate with international scientists and organizations to better understand the development, spread, and health risks of antibiotic resistance and resistance sources present in animals, the environment, the community, and healthcare settings.",
+            "\u25cf Objective 2.3: Through the National Antimicrobial Resistance Monitoring System (NARMS) and the Veterinary Laboratory Investigation and Response Network (Vet-LIRN), contribute antibiotic-resistant isolates from food and animals to the existing CDC and FDA AR Isolate Bank.",
+            "\u25cf Objective 4.2: Develop new or expand the number of sources for and quantity of surveillance data on the use of antibiotics collected from animals, farms, and production facilities to improve understanding and responsible use of antibiotics."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 4,
+        "answer": "yes",
+        "supporting_chunks": [
+            "A One Health approach, which recognizes the relationships between the health of humans, animals, plants, and the environment, is integrated throughout the Plan, with an expanded effort to understand antibiotic resistance in the environment.",
+            "The CARB Task Force employs a One Health approach by engaging U.S. Government agencies that oversee human, animal, and environmental health and by promoting collaboration and communication to address antibiotic resistance in every relevant sector.",
+            "The result is a set of coordinated, strategic actions aimed at changing the trajectory of antibiotic resistance and improving the health and wellbeing of all Americans, as well as the health of animals, plants, and the environment.",
+            "Engage the animal health community, crop protection community, and other relevant stakeholders to advance strategies intended to foster the responsible use of medically important antibiotics in plants and animals.",
+            "Antibiotic resistance is unquestionably a One Health issue, impacting the health of humans, animals, plants, and the environment.",
+            "Establish an accelerator program to advance implementation of whole-genome sequencing, metagenomics, and other molecular testing for antibiotic-resistant pathogens in humans, animals, plants, and the environment and to coordinate training guidance across agencies and among public and private organizations.",
+            "Establish new capacities for collecting antibiotic resistance data from the environment, including water and soil.",
+            "Expand basic and applied interdisciplinary research to better understand the emergence, spread, and persistence of antibiotic resistance, and develop mitigation strategies for antibiotic resistance in human, animal, agricultural, and environmental settings.",
+            "Assist governments, civil society, and the private sector in 10 to 15 low- or middle-income countries to improve the monitoring of WASH in healthcare facilities or to create and/or implement standards for environmental health in healthcare settings.",
+            "Collaborate with international scientists and organizations to better understand the development, spread, and health risks of antibiotic resistance and resistance sources present in animals, the environment, the community, and healthcare settings.",
+            "\u25cf Objective 3.4: Establish new capacities for collecting antibiotic resistance data from the environment, including water and soil.",
+            "\u25cf Objective 3.4: Establish new capacities for collecting antibiotic resistance data from the environment, including water and soil."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 5,
+        "answer": "yes",
+        "supporting_chunks": [
+            "\u25cf Launched a strategic initiative to support antibiotic stewardship in veterinary settings; \u25cf Pursued alternatives to antibiotics in agriculture;",
+            "FDA sought broad public input and engaged affected stakeholders over several years on plans to work with pharmaceutical companies to voluntarily withdraw production uses (e.g., growth promotion, increased feed efficiency) of medically important antibiotics and to require veterinary oversight of their remaining therapeutic uses.",
+            "Engage the animal health community, crop protection community, and other relevant stakeholders to advance strategies intended to foster the responsible use of medically important antibiotics in plants and animals.",
+            "Expand the number of sources for and quantity of antibiotic resistance surveillance data from animals, farms, and production facilities.",
+            "Develop new or expand the number of sources for and quantity of surveillance data on the use of antibiotics collected from animals, farms, and production facilities to improve understanding and implementation of responsible use of antibiotics.",
+            "Establish at least two new collaborations for human health and one for agriculture by 2021, through interagency agreements, collaborative programs, and interdisciplinary workshops.",
+            "Support two candidate preventative agents for agricultural uses by 2021.",
+            "Work with international partners through the Codex Alimentarius Commission's Task Force on Antimicrobial Resistance to develop global, science- and risk-based guidance on managing foodborne antimicrobial resistance and surveillance, including revising the Codex Code of Practice to Minimize and Contain Foodborne Antibiotic Resistance and developing new Guidelines for Integrated Surveillance of Antimicrobial Resistance.",
+            "Assist governments, civil society, and the private sector in at least four low- or middle-income countries with capacity-building for antibiotic stewardship and regulation to address the appropriate use and availability of quality-assured antibiotics in humans and animals by 2022.",
+            "\u25cf Objective 2.3: Through the National Antimicrobial Resistance Monitoring System (NARMS) and the Veterinary Laboratory Investigation and Response Network (Vet-LIRN), contribute antibiotic-resistant isolates from food and animals to the existing CDC and FDA AR Isolate Bank.",
+            "\u25cf Objective 4.2: Develop new or expand the number of sources for and quantity of surveillance data on the use of antibiotics collected from animals, farms, and production facilities to improve understanding and responsible use of antibiotics."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 6,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The U.S. Government will report annually on progress toward the objectives set in the Plan.",
+            "The HHS Office of the Assistant Secretary for Planning and Evaluation coordinates the Task Force, prepares annual progress reports, and led the development of this document.",
+            "Each annual report on this Plan will provide updated or added targets as relevant along with rationale for these changes. In future annual progress reports, the CARB Task Force will discuss challenges encountered during the preceding year, how it addressed these challenges, and any new challenges identified.",
+            "The Task Force will continue to report annually on progress, including challenges identified and actions taken to address those challenges.",
+            "Increase published reports and dashboards on antibiotic use in animals.",
+            "In future annual progress reports, the CARB Task Force will discuss challenges encountered during the preceding year, how it addressed these challenges, and any new challenges identified."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 7,
+        "answer": "yes",
+        "supporting_chunks": [
+            "The new National Action Plan for 2020-2025... includes new objectives and targets aimed at achieving those goals.",
+            "All pharmaceutical companies with affected products agreed to adopt FDA's judicious use approach, withdrew affected drugs from the market, and fully implemented the recommended changes by the threeyear target.",
+            "Where possible, the 2020 Plan has established targets to be achieved by 2021, with some targets set for longer timeframes.",
+            "Decrease healthcare-associated antibiotic-resistant infections by 20 percent by 2025 and community-acquired antibiotic-resistant infections by 10 percent by 2025.",
+            "Award an average of $2.5 million to Epidemiology and Laboratory Capacity Cooperative Agreement-funded health departments by 2025.",
+            "Initiate at least one coordinated effort to improve antibiotic or diagnostic guidelines by 2021.",
+            "Submit all identified multidrug-resistant bacterial and fungal isolates of concern... for centralized and standardized genetic characterization at the Multidrug-Resistant Organism Repository and Surveillance Network (MRSN) by 2023.",
+            "Establish mechanisms for sharing food and animal isolates by 2021.",
+            "Establish a pilot sampling strategy to collect healthy human, animal, plant, and environmental specimens and epidemiological data by 2023.",
+            "Support 10 new antibiotic resistance-related diagnostics projects across the U.S. Government by 2021, through funding or scientific or technical support.",
+            "Support at least 1,000 publications focused on basic, translational, and clinical research to combat antibiotic resistance by 2021.",
+            "Provide support to at least 60 new or early-career investigators by 2021.",
+            "Establish at least two projects supporting the development of new agents and standards by 2021.",
+            "Support international antibiotic resistance policy efforts to prioritize and coordinate antibiotic resistance efforts within and across international partner organizations (e.g., FAO, the G7 and G20, the Asia-Pacific Economic Cooperation Forum, the Global Health Security Initiative, and the UN One Health Global Leaders Group on AMR) by 2022.",
+            "Assist governments, civil society, and the private sector in a total of 10-15 low- or middle-income countries to develop national plans or capacity for preventing and controlling infections in both animals and humans by 2022.",
+            "Launch at least one international AR Lab Network project and make operational at least one international AR Lab Network laboratory by 2022. Incorporate five additional laboratories by 2026.",
+            "Report one success story about products or regimens undergoing preclinical or clinical testing by 2021."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 8,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Decrease healthcare-associated antibiotic-resistant infections by 20 percent by 2025 and community-acquired antibiotic-resistant infections by 10 percent by 2025.",
+            "Lower the annual rate of outpatient antibiotic dispensing per 1,000 U.S. population, overall and among specified subpopulations."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 9,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Award an average of $2.5 million to Epidemiology and Laboratory Capacity Cooperative Agreement-funded health departments by 2025.",
+            "ASPR/BARDA, CDC, FDA, NIH, ARS, DoD Support 10 new antibiotic resistance-related diagnostics projects across the U.S. Government by 2021, through funding or scientific or technical support."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 10,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "united_states",
+        "question": 11,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Executive Order 13676 established the Federal Task Force for CARB to identify actions to implement the National Strategy.",
+            "The CARB Task Force employs a One Health approach by engaging U.S. Government agencies that oversee human, animal, and environmental health and by promoting collaboration and communication to address antibiotic resistance in every relevant sector.",
+            "The CARB Task Force will discuss challenges encountered during the preceding year, how it addressed these challenges, and any new challenges identified.",
+            "Convene a working group of the CARB Task Force to define interagency needs and develop options for appointing a Federal Champion for International CARB by 2021.",
+            "Increase coordination among the CARB Task Force on communication strategies by instituting regular calls by 2021."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 12,
+        "answer": "no",
+        "supporting_chunks": []
+    },
+    {
+        "country": "united_states",
+        "question": 13,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Engage the public and other stakeholders to develop, expand, and increase national and State education, training, and communication campaigns focused on using antibiotics responsibly, stopping the spread of antibiotic resistance, and preventing infections and life-threatening conditions like sepsis."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 14,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Engage the public and other stakeholders to develop, expand, and increase national and State education, training, and communication campaigns focused on using antibiotics responsibly, stopping the spread of antibiotic resistance, and preventing infections and life-threatening conditions like sepsis.",
+            "Increase high-level social-media promotion of antibiotic-resistance activities among the Departments and Agencies on the CARB Task Force."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 15,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 5:  Improve International Collaboration and Capacities for Antibiotic-Resistance Prevention, Surveillance, Control and Antibiotic Research and Development",
+            "The Plan also focuses on collecting and using data to better understand where resistance is occurring, support the development of new diagnostics and treatment options, and advance international coordination.",
+            "Goal 5: Improve International Collaboration and Capacities for Antibiotic-resistance Prevention, Surveillance, Control and Antibiotic Research and Development.",
+            "Working with local, State, tribal, territorial, and international partners, the U.S. Government has: ... obtained hundreds of commitments to global action from a broad range of sectors and stakeholders.",
+            "Recognizing that domestic action alone is insufficient, the U.S. Government works with multisectoral organizations, partner nations, the private sector, civil society, and other stakeholders to address the threat of antibiotic resistance. Internationally, the U.S. Government has helped to secure high-level commitments to address antibiotic resistance by national leaders, organizations, and Ministers. These commitments include the development and adoption of the World Health Organization (WHO) Global Action Plan on Antimicrobial Resistance, the Declaration of the United Nations High Level Meeting on Antimicrobial Resistance, commitments made at the G7 and G20 meetings, and additional actions by the WHO, the Food and Agriculture Organization of the United Nations (FAO), the World Organization for Animal Health (OIE), and the United Nations Environment Programme (UNEP).",
+            "Many actions focus on collecting data and turning it into information that can be used to better understand where resistance is occurring, to support the development of new diagnostics and treatment options, and to advance international coordination.",
+            "As outlined in the National Biodefense Strategy, the U.S. Government Global Health Security Strategy, and in accordance with the U.S. Government's engagement through the Global Health Security Agenda, the U.S. Government works to enhance the capacities of governments, civil society, academia, and the private sector in partner countries and the international community to address the emergence, spread, and impact of antibiotic resistance.",
+            "Enhance engagements with multilateral organizations to support progress on U.S. priorities to combat antibiotic resistance.",
+            "Promote increased awareness and capacity in countries to address the emergence and slow the spread of antibiotic resistance.",
+            "Increase international collaborations to facilitate basic, translational, and clinical research into understanding the causes of antibiotic resistance and developing countermeasures.",
+            "Convene a meeting with international regulators to seek alignment on clinical trial designs for new products by 2023.",
+            "\u25cf Objective 3.1: Expand the AR Lab Network and other networks (e.g., PulseNet International) internationally to implement detection and containment networks that can rapidly test and respond to high-threat antibiotic-resistant pathogens in key regions.",
+            "## Goal 5: Improve International Collaboration and Capacities for Preventing, Tracking, and Controlling Antibiotic Resistance and for Antibiotic Research and Development"
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 16,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 2: Strengthen National One Health Surveillance Efforts to Combat Resistance",
+            "The Plan also focuses on collecting and using data to better understand where resistance is occurring, support the development of new diagnostics and treatment options, and advance international coordination.",
+            "Goal 2: Strengthen National One Health Surveillance Efforts to Combat Resistance",
+            "Established a new national Antibiotic Resistance Laboratory Network (AR Lab Network);",
+            "Many actions focus on collecting data and turning it into information that can be used to better understand where resistance is occurring, to support the development of new diagnostics and treatment options, and to advance international coordination.",
+            "The 2020 Plan therefore designates several 'Data Development' objectives that aim to develop new or improved data infrastructure, collection, or analysis options.",
+            "Collect information about biosecurity practices on farms to optimize educational materials about biosecurity for different industries.",
+            "Efforts to identify antibiotic-resistant organisms, track the spread of resistance, and measure the effect of antibiotic use require surveillance across human, animal, and plant populations and the environment, as well as collaboration from the U.S. Government agencies and partners across each of these settings.",
+            "Increase the amount of laboratory testing for antibiotic resistance, the number of isolates accompanied by test results and available data, and the number of different specimen sources and specimen types collected.",
+            "Strengthen the national infrastructure for antibiotic resistance surveillance data across One Health, by improving capacity, utility, timeliness, and the use of harmonized terminology.",
+            "Establish a pilot sampling strategy to collect healthy human, animal, plant, and environmental specimens and epidemiological data by 2023.",
+            "Further support existing active, laboratory, population-based bacterial and fungal monitoring activities to provide vital serotype distribution and resistance data to inform development of vaccine candidates for bacteria or fungi with known resistance.",
+            "rapidly detecting and containing antibiotic-resistant pathogens through enhanced laboratory networks is critical.",
+            "Work with international partners through the Codex Alimentarius Commission's Task Force on Antimicrobial Resistance to develop global, science- and risk-based guidance on managing foodborne antimicrobial resistance and surveillance, including revising the Codex Code of Practice to Minimize and Contain Foodborne Antibiotic Resistance and developing new Guidelines for Integrated Surveillance of Antimicrobial Resistance.",
+            "Conduct surveillance that identifies the presence and movement of antibiotic resistance genes of concern within partner nations as part of DoD/GEIS-funded surveillance to protect military force health.",
+            "Improve the standardization of laboratory methodologies and data collection to improve the quality, reliability, and utility of data to facilitate global comparisons of antibiotic resistance.",
+            "These objectives aim to develop new or improved data infrastructure, collection, or analysis techniques.",
+            "\u25cf Objective 3.4: Establish new capacities for collecting antibiotic resistance data from the environment, including water and soil.",
+            "Enhancing training and testing capacities will require laboratories to maintain ongoing support for staff, continuously maintain their testing equipment, and advance their testing methodologies. Improving electronic surveillance will be necessary for efficient, timely, and consistent submission of data from frontline sources to and across Federal Departments and Agencies."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 17,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 2: Strengthen National One Health Surveillance Efforts to Combat Resistance",
+            "Objective 1: Expand national, regional, and State capacity for detecting, containing, and preventing antibiotic-resistant infections.",
+            "Expand surveillance through existing systems to monitor antibiotic resistance from multiple sources across One Health.",
+            "rapidly detecting and containing antibiotic-resistant pathogens through enhanced laboratory networks is critical.",
+            "Continue to support member governments' sharing of antibiotic-resistant pathogen information to the relevant collaborating centers, including to the WHO Global Antimicrobial Resistance Surveillance System (GLASS).",
+            "Conduct surveillance that identifies the presence and movement of antibiotic resistance genes of concern within partner nations as part of DoD/GEIS-funded surveillance to protect military force health.",
+            "Charge the global AR Lab Network with detecting and containing new and critical antibiotic-resistance threats.",
+            "\u25cf Objective 3.1: Expand the AR Lab Network and other networks (e.g., PulseNet International) internationally to implement detection and containment networks that can rapidly test and respond to high-threat antibiotic-resistant pathogens in key regions."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 18,
+        "answer": "yes",
+        "supporting_chunks": [
+            "This Plan continues to prioritize infection prevention and control to slow the spread of resistant infections and reduce the need for antibiotic use.",
+            "The Task Force continues to consider infection prevention and control, especially within healthcare facilities, to be high priorities, to both slow the spread of antibiotic-resistant infections and to reduce the need for antibiotic use.",
+            "One way to achieve this is through primary prevention of infections through infection control and other interventions.",
+            "Develop and optimize guidance for improving infection control standards across healthcare settings.",
+            "Improve capacity in partner countries to implement effective practices to prevent and control infection, including through the availability and proper use of water, sanitation, and hygiene (WASH)."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 19,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 5: Improve International Collaboration and Capacities for Antibiotic-resistance Prevention, Surveillance, Control and Antibiotic Research and Development.",
+            "These commitments include the development and adoption of the World Health Organization (WHO) Global Action Plan on Antimicrobial Resistance, the Declaration of the United Nations High Level Meeting on Antimicrobial Resistance, commitments made at the G7 and G20 meetings, and additional actions by the WHO, the Food and Agriculture Organization of the United Nations (FAO), the World Organization for Animal Health (OIE), and the United Nations Environment Programme (UNEP).",
+            "Work with international partners through the Codex Alimentarius Commission's Task Force on Antimicrobial Resistance to develop global, science- and risk-based guidance on managing foodborne antimicrobial resistance and surveillance, including revising the Codex Code of Practice to Minimize and Contain Foodborne Antibiotic Resistance and developing new Guidelines for Integrated Surveillance of Antimicrobial Resistance."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 20,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Develop and implement policies and practices to promote the responsible use of antibiotics.",
+            "Assist governments, civil society, and the private sector in at least four low- or middle-income countries with capacity-building for antibiotic stewardship and regulation to address the appropriate use and availability of quality-assured antibiotics in humans and animals by 2022."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 21,
+        "answer": "yes",
+        "supporting_chunks": [
+            "FDA sought broad public input and engaged affected stakeholders over several years on plans to work with pharmaceutical companies to voluntarily withdraw production uses (e.g., growth promotion, increased feed efficiency) of medically important antibiotics and to require veterinary oversight of their remaining therapeutic uses.",
+            "Using antibiotics only when needed in humans and animals reduces the likelihood that bacteria will develop resistance and extends the effectiveness of current antibiotics.",
+            "Develop and implement policies and practices to promote the responsible use of antibiotics.",
+            "Support national and State policies that improve the use of antibiotics across healthcare settings and communities.",
+            "Assist governments, civil society, and the private sector in at least four low- or middle-income countries with capacity-building for antibiotic stewardship and regulation to address the appropriate use and availability of quality-assured antibiotics in humans and animals by 2022."
+        ]
+    },
+    {
+        "country": "united_states",
+        "question": 22,
+        "answer": "yes",
+        "supporting_chunks": [
+            "Goal 5:  Improve International Collaboration and Capacities for Antibiotic-Resistance Prevention, Surveillance, Control and Antibiotic Research and Development",
+            "Goal 5: Improve International Collaboration and Capacities for Antibiotic-resistance Prevention, Surveillance, Control and Antibiotic Research and Development.",
+            "Many actions focus on collecting data and turning it into information that can be used to better understand where resistance is occurring, to support the development of new diagnostics and treatment options, and to advance international coordination.",
+            "In addition to the targeted objectives of Goal 4 listed below, the U.S. Government will pursue several broad activities to accelerate research on antibiotic resistance.",
+            "Enhance interagency collaborations to accelerate basic and applied research for developing new antibiotics, therapeutics, and vaccines.",
+            "Provide specimens, testing, data, and evaluations to collaborations aimed at developing new agents or older agents for new uses and to support establishment or revision of antibiotic-susceptibility testing standards.",
+            "Several objectives within this goal build on existing international research collaborations to combat antibiotic resistance. Concerted efforts to align resources internationally could support clinical trials to evaluate new products and provide data on the best way to use existing products. These efforts would also promote the translational development of diagnostics, treatments, and vaccines, support research to understand the development and spread of antibiotic resistance, identify risk factors linked to human health outcomes, and generate mitigation strategies.",
+            "Increase international collaborations to facilitate basic, translational, and clinical research into understanding the causes of antibiotic resistance and developing countermeasures.",
+            "Promote the alignment of U.S. and international translational and clinical research activities to facilitate the development of new products to better diagnose, prevent, and treat infections or to provide data on the best use of existing products.",
+            "\u25cf Objective 3.1: Expand the AR Lab Network and other networks (e.g., PulseNet International) internationally to implement detection and containment networks that can rapidly test and respond to high-threat antibiotic-resistant pathogens in key regions.",
+            "Goal 5: Improve International Collaboration and Capacities for Preventing, Tracking, and Controlling Antibiotic Resistance and for Antibiotic Research and Development"
+        ]
+    }
+]

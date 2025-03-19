@@ -1,0 +1,146 @@
+[
+    {
+        "answer_full": "2020",
+        "supporting_text": null,
+        "country": "united_states",
+        "question": "period_start"
+    },
+    {
+        "answer_full": "2025",
+        "supporting_text": null,
+        "country": "united_states",
+        "question": "period_end"
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "A One Health approach, which recognizes the relationships between the health of humans, animals, plants, and the environment, is integrated throughout the Plan.",
+        "country": "united_states",
+        "question": 1
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP mentions specific actions in the human health sector, including objectives to reduce healthcare-associated antibiotic-resistant infections.",
+        "country": "united_states",
+        "question": 2
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to monitor and report on antibiotic resistance among selected animal pathogens.",
+        "country": "united_states",
+        "question": 3
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP outlines objectives to establish new capacities for collecting antibiotic resistance data from the environment, including water and soil.",
+        "country": "united_states",
+        "question": 4
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to engage the animal health community and advance strategies intended to foster the responsible use of medically important antibiotics in plants and animals.",
+        "country": "united_states",
+        "question": 5
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The U.S. Government will report annually on progress toward the objectives set in the Plan.",
+        "country": "united_states",
+        "question": 6
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "Where possible, the 2020 Plan has established targets to be achieved by 2021, with some targets set for longer timeframes.",
+        "country": "united_states",
+        "question": 7
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes specific objectives such as decreasing healthcare-associated antibiotic-resistant infections by 20 percent by 2025.",
+        "country": "united_states",
+        "question": 8
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not specify budget allocations for the strategies or actions.",
+        "country": "united_states",
+        "question": 9
+    },
+    {
+        "answer_full": "no",
+        "supporting_text": "The document does not contain an assessment of future budget requirements.",
+        "country": "united_states",
+        "question": 10
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The Task Force is co-chaired by the Secretaries of the U.S. Departments of Health and Human Services, Agriculture, and Defense.",
+        "country": "united_states",
+        "question": 11
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to support national and State policies that improve the use of antibiotics across healthcare settings and communities.",
+        "country": "united_states",
+        "question": 12
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to develop new or expanded educational training guidelines and outreach activities to educate stakeholders on best practices.",
+        "country": "united_states",
+        "question": 13
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to expand the scope and reach of CDC's awareness campaigns, including Be Antibiotics Aware.",
+        "country": "united_states",
+        "question": 14
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP emphasizes improving international collaboration and capacities for antibiotic-resistance prevention and control.",
+        "country": "united_states",
+        "question": 15
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to expand surveillance through existing systems to monitor antibiotic resistance from multiple sources across One Health.",
+        "country": "united_states",
+        "question": 16
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to increase capacity nationwide to contain antibiotic-resistant infections and control outbreaks.",
+        "country": "united_states",
+        "question": 17
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to support further prevention of healthcare-associated infections prioritized in the National HAI Action Plan.",
+        "country": "united_states",
+        "question": 18
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to work with international partners through the Codex Alimentarius Commission's Task Force on Antimicrobial Resistance.",
+        "country": "united_states",
+        "question": 19
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to support national and State policies that improve the use of antibiotics across healthcare settings.",
+        "country": "united_states",
+        "question": 20
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to help healthcare providers adopt recommended antibiotic use practices.",
+        "country": "united_states",
+        "question": 21
+    },
+    {
+        "answer_full": "yes",
+        "supporting_text": "The NAP includes objectives to enhance U.S. leadership in the global fight against antibiotic resistance and promote international collaborations for research.",
+        "country": "united_states",
+        "question": 22
+    }
+]
