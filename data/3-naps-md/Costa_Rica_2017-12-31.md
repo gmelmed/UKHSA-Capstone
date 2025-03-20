@@ -56,9 +56,7 @@ Dr. Roberto Castro C-rdoba Jefe, Unidad de Epidemiolog'a
 
 ## Autorizado por:
 
-Dra. Guiselle Amador Mu-oz, Ministra de Salud
-
-iii
+Dra. Guiselle Amador Mu-oz, Ministra de Salud iii
 
 ## INTRODUCCION
 
@@ -232,7 +230,7 @@ Concienciaci-n y comunicaci-n de riesgos.
 |              | Intervenciones estratŽgicas                                                                                                                         |                                                                                                                                                     |
 |              | Intervenciones estratŽgicas                                                                                                                         | 5.1.2.  Desarrollar la investigaci-n para mejorar el conocimiento de las causas y  las consecuencias de la aparici-n y diseminaci-n de la RAM.      |
 
-Objetivo estratégico 1 del plan de acción mundial: Mejorar la concienciación y la comprensión con respecto a la resistencia a los
+Objetivo	estratégico	1	del	plan	de	acción	mundial:	Mejorar	la	concienciación	y	la	comprensión	con	respecto	a	la	resistencia	a	los
 
 ## Objetivo EstratŽgico 3 del Plan de Acci-n Nacional:
 
@@ -273,11 +271,11 @@ Acceso reglamentado a medicamentos antimicrobianos de alta calidad.
 
 ## Rector'a en lo concerniente a los Antimicrobianos
 
-| Mejorar y medir el uso apropiado de agentes antimicrobianos en la atenci-n de salud.                            | Mejorar y medir el uso apropiado de agentes antimicrobianos en la atenci-n de salud.                                                                                                                                                                                                                                                                               |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Intervenciones estratégicas                                                                                     |                                                                                                                                                                                                                                                                                                                                                                    |
-| 9.1. Establecimiento de programas rectores oficiales  sobre agentes antimicrobianos en los servicios de  salud. | Actividades  9.1.1.  Redactar  los  mandatos  genŽricos  de  los  comitŽs  y  equipos  multidisciplinarios  rectores  en  materia  de  agentes  antimicrobianos.  9.1.2.  Crear  normativa  nacional  para  el  uso  -ptimo  de  los  antimicrobianos,  que  incluya  la  elaboraci-n  de  gu'as  de  pr‡ctica  cl'nica  para  el  manejo  y  seguimiento  de  las |
-| 9.2. Establecer mecanismos de control para la  prescripci-n.                                                    | 9.2.1. Dise-o e implementaci-n de la receta digital y/o otros  mecanismos  de  control  para  la  prescripci-n  y  uso  de  los  antimicrobianos.                                                                                                                                                                                                                  |
+| Mejorar y medir el uso apropiado de agentes antimicrobianos en la atenci-n de salud.                            | Mejorar y medir el uso apropiado de agentes antimicrobianos en la atenci-n de salud.                                                              |
+|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Intervenciones	estratégicas                                                                                                                 |                                                                                                                                                   |
+| 9.1. Establecimiento de programas rectores oficiales  sobre agentes antimicrobianos en los servicios de  salud. | Actividades	 9.1.1.  Redactar  los  mandatos  genŽricos  de  los  comitŽs  y  equipos  multidisciplinarios  rectores  en  materia  de  agentes  antimicrobianos.  9.1.2.  Crear  normativa  nacional  para  el  uso  -ptimo  de  los  antimicrobianos,  que  incluya  la  elaboraci-n  de  gu'as  de  pr‡ctica  cl'nica  para  el  manejo  y  seguimiento  de  las                                                                                                                                                   |
+| 9.2. Establecer mecanismos de control para la  prescripci-n.                                                    | 9.2.1. Dise-o e implementaci-n de la receta digital y/o otros  mecanismos  de  control  para  la  prescripci-n  y  uso  de  los  antimicrobianos. |
 
 ## Uso de agentes antimicrobianos en salud humana, animal y vegetal.
 

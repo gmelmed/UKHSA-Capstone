@@ -263,6 +263,8 @@ The landmark discovery of the first modern antibiotics in the early 20 th  centu
 
 <!-- image -->
 
+2
+
 <!-- image -->
 
 <!-- image -->
@@ -283,8 +285,6 @@ The landmark discovery of the first modern antibiotics in the early 20 th  centu
 
 (Source: CDC's 2019 AR Threats Report)
 
-2
-
 Antibiotic-resistant infections can also complicate the response to and recovery from public health emergencies. For example, during the 2009 H1N1 influenza pandemic, many patients acquired secondary bacterial infections in addition to influenza, and some of these infections were resistant to antibiotics. While the implications of antibiotic resistance are not yet clear for the ongoing response to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and associated COVID-19 illness, increased use of antibiotics and other antimicrobial medicines-both appropriate and inappropriate-to address primary or secondary infections has the potential to further accelerate the emergence of antibiotic resistance.
 
 In 2013, the U.S. Centers for Disease Control and Prevention (CDC) reported on the most worrisome antibiotic-resistant threats in the U.S., sounding the national alarm and identifying necessary actions to face these threats. In 2019, the CDC updated these national estimates and found that each year, more than 2.8 million antibiotic-resistant infections occur in the United States, resulting in the deaths of more than 35,000 Americans. Although the total economic impact of antibiotic resistance is difficult to determine, the CDC estimates that just a subset of resistant infections caused more than $4.8 billion in medical costs in 2017. 3 Similarly, antibiotic-resistant pathogens can harm animal health, though the scope of resistance in animals is less well characterized than in humans. Antibiotic resistance is a challenging threat, but aggressive actions now can prolong the effectiveness of existing antibiotics and prevent infections in the future, ultimately saving lives and money.
@@ -295,21 +295,21 @@ The U.S. Government is responding to antibiotic resistance with a comprehensive 
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 Goal 1: Slow the Emergence of Resistant Bacteria and Prevent the Spread of Resistant Infections
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 Goal 2: Strengthen National One Health Surveillance Efforts to Combat Resistance
 
 Goal 3: Advance Development and Use of Rapid and Innovative Diagnostic Tests for Identification and Characterization of Resistant Bacteria
 
 Goal 4: Accelerate Basic and Applied Research and Development for New Antibiotics, Other Therapeutics, and Vaccines
+
+<!-- image -->
 
 Goal 5: Improve International Collaboration and Capacities for Antibiotic-resistance Prevention, Surveillance, Control and Antibiotic Research and Development.
 
@@ -491,11 +491,11 @@ Develop and implement policies and practices to promote the responsible use of a
 
 <!-- image -->
 
-<!-- image -->
-
 CDC, DoD
 
 Lower the annual rate of outpatient antibiotic dispensing per 1,000 U.S. population, overall and among specified subpopulations.
+
+<!-- image -->
 
 ## CDC, DoD
 
@@ -637,11 +637,11 @@ Expand surveillance through existing systems to monitor antibiotic resistance fr
 
 <!-- image -->
 
-<!-- image -->
-
 ## CDC, FDA, APHIS, FSIS
 
 Increase the amount of laboratory testing for antibiotic resistance, the number of isolates accompanied by test results and available data, and the number of different specimen sources and specimen types collected.
+
+<!-- image -->
 
 ## DoD/GEIS, MRSN
 
@@ -799,8 +799,6 @@ Expand the number of sources for and quantity of surveillance data on the use of
 
 <!-- image -->
 
-<!-- image -->
-
 ## CDC, CMS, DoD, VA
 
 Explore interagency collaborations to examine options for increased reporting to the CDC National Healthcare Safety Network (NHSN) Antibiotic Resistance Option.
@@ -816,6 +814,8 @@ Improve timelines of annual outpatient antibiotic use tracking and reporting by 
 ## CDC, DoD/PVC
 
 Implement tracking of antibiotic use in all DoD Military Health System facilities, using the Standardized Antimicrobial Administration Ratio (based on observed inpatient antimicrobial days of therapy), by 2021.
+
+<!-- image -->
 
 ## DoD
 
@@ -961,8 +961,6 @@ Intensify basic, translational, and clinical research to support the discovery a
 
 <!-- image -->
 
-<!-- image -->
-
 ## ASPR/BARDA, NIH
 
 Award 100 new projects (e.g., grants, contracts, CARB-X awards) aimed at therapeutic discovery or development by 2024.
@@ -974,6 +972,8 @@ Identify one candidate therapeutic for bacterial infections in human medicine fo
 ## ARS, NIFA
 
 Identify one candidate therapeutic for bacterial infections in agriculture for further research and development by 2021.
+
+<!-- image -->
 
 NIH, ARS, NIFA, DoD
 
@@ -1025,8 +1025,6 @@ Support the discovery and development of new preventative strategies.
 
 <!-- image -->
 
-<!-- image -->
-
 ASPR/BARDA, NIH
 
 Award 25 new projects aimed at discovering or developing new preventative products for use in human medicine by 2022.
@@ -1034,6 +1032,8 @@ Award 25 new projects aimed at discovering or developing new preventative produc
 ARS, NIFA
 
 Support two candidate preventative agents for agricultural uses by 2021.
+
+<!-- image -->
 
 CDC, NIH, ARS, NIFA
 
@@ -1055,11 +1055,11 @@ Facilitate development of vaccines that prevent bacterial and fungal infections 
 
 <!-- image -->
 
-<!-- image -->
-
 ## CDC
 
 Establish at least two antibiotic-resistant pathogen-related projects to further vaccine development or uptake by 2022.
+
+<!-- image -->
 
 ## CDC
 
@@ -1075,11 +1075,11 @@ Support the creation of a network of clinical trial sites to reduce barriers to 
 
 <!-- image -->
 
-<!-- image -->
-
 FDA
 
 Provide scientific and technical support for establishing the network, including recommendations on platform trial design and other regulatory considerations.
+
+<!-- image -->
 
 ASPR/BARDA, NIH, DoD/WRAIR/IDCRP
 
@@ -1151,8 +1151,6 @@ Enhance engagements with multilateral organizations to support progress on U.S. 
 
 <!-- image -->
 
-<!-- image -->
-
 ## OGA, DoS, USDA, USAID
 
 Support international antibiotic resistance policy efforts to prioritize and coordinate antibiotic resistance efforts within and across international partner organizations (e.g., FAO, the G7 and G20, the Asia-Pacific Economic Cooperation Forum, the Global Health Security Initiative, and the UN One Health Global Leaders Group on AMR) by 2022.
@@ -1168,6 +1166,8 @@ Complete and implement the Work Plan of the Transatlantic Taskforce on Antimicro
 ## FDA, USDA
 
 Work with international partners through the Codex Alimentarius Commission's Task Force on Antimicrobial Resistance to develop global, science- and risk-based guidance on managing foodborne antimicrobial resistance and surveillance, including revising the Codex Code of Practice to Minimize and Contain Foodborne Antibiotic Resistance and developing new Guidelines for Integrated Surveillance of Antimicrobial Resistance.
+
+<!-- image -->
 
 ## CDC, USAID
 
@@ -1199,9 +1199,9 @@ Enhance domestic and international communications about the U.S. Government's ac
 
 <!-- image -->
 
-<!-- image -->
-
 All Departments and Agencies on the CARB Task Force Increase coordination among the CARB Task Force on communication strategies by instituting regular calls by 2021.
+
+<!-- image -->
 
 CDC, OGA, NIH, USDA, DoD, DoS, USAID
 
@@ -1217,11 +1217,11 @@ Improve capacity in partner countries to implement effective practices to preven
 
 <!-- image -->
 
-<!-- image -->
-
 ## CDC, FAS, DoS, USAID
 
 Assist governments, civil society, and the private sector in a total of 10-15 low- or middleincome countries to develop national plans or capacity for preventing and controlling infections in both animals and humans by 2022.
+
+<!-- image -->
 
 ## CDC, USAID
 
