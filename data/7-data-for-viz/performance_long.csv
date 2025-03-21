@@ -1,0 +1,9 @@
+Metric,Method,Score
+Accuracy,Full,0.909
+Precision,Full,0.923
+Recall,Full,0.971
+F1 Score,Full,0.946
+Accuracy,Chunking,0.892
+Precision,Chunking,0.889
+Recall,Chunking,0.994
+F1 Score,Chunking,0.939

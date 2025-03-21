@@ -1,0 +1,153 @@
+country,metric,score,method
+Afghanistan,Accuracy,0.955,Full
+Argentina,Accuracy,0.909,Full
+Australia,Accuracy,0.909,Full
+Barbados,Accuracy,0.955,Full
+Canada,Accuracy,0.864,Full
+Colombia,Accuracy,0.818,Full
+Costa Rica,Accuracy,0.955,Full
+El Salvador,Accuracy,0.955,Full
+Finland,Accuracy,0.955,Full
+India,Accuracy,1.0,Full
+Libya,Accuracy,0.955,Full
+Malta,Accuracy,0.909,Full
+Myanmar,Accuracy,0.955,Full
+Oman,Accuracy,0.909,Full
+Paraguay,Accuracy,0.727,Full
+Peru,Accuracy,0.909,Full
+Spain,Accuracy,0.818,Full
+Sweden,Accuracy,0.909,Full
+United States,Accuracy,0.909,Full
+Afghanistan,Precision,1.0,Full
+Argentina,Precision,0.941,Full
+Australia,Precision,1.0,Full
+Barbados,Precision,0.95,Full
+Canada,Precision,0.9,Full
+Colombia,Precision,0.8,Full
+Costa Rica,Precision,0.941,Full
+El Salvador,Precision,1.0,Full
+Finland,Precision,0.947,Full
+India,Precision,1.0,Full
+Libya,Precision,0.955,Full
+Malta,Precision,0.95,Full
+Myanmar,Precision,1.0,Full
+Oman,Precision,0.882,Full
+Paraguay,Precision,0.714,Full
+Peru,Precision,0.905,Full
+Spain,Precision,0.842,Full
+Sweden,Precision,0.9,Full
+United States,Precision,0.95,Full
+Afghanistan,Recall,0.955,Full
+Argentina,Recall,0.941,Full
+Australia,Recall,0.9,Full
+Barbados,Recall,1.0,Full
+Canada,Recall,0.947,Full
+Colombia,Recall,1.0,Full
+Costa Rica,Recall,1.0,Full
+El Salvador,Recall,0.933,Full
+Finland,Recall,1.0,Full
+India,Recall,1.0,Full
+Libya,Recall,1.0,Full
+Malta,Recall,0.95,Full
+Myanmar,Recall,0.95,Full
+Oman,Recall,1.0,Full
+Paraguay,Recall,1.0,Full
+Peru,Recall,1.0,Full
+Spain,Recall,0.941,Full
+Sweden,Recall,1.0,Full
+United States,Recall,0.95,Full
+Afghanistan,F1,0.977,Full
+Argentina,F1,0.941,Full
+Australia,F1,0.947,Full
+Barbados,F1,0.974,Full
+Canada,F1,0.923,Full
+Colombia,F1,0.889,Full
+Costa Rica,F1,0.97,Full
+El Salvador,F1,0.966,Full
+Finland,F1,0.973,Full
+India,F1,1.0,Full
+Libya,F1,0.977,Full
+Malta,F1,0.95,Full
+Myanmar,F1,0.974,Full
+Oman,F1,0.938,Full
+Paraguay,F1,0.833,Full
+Peru,F1,0.95,Full
+Spain,F1,0.889,Full
+Sweden,F1,0.947,Full
+United States,F1,0.95,Full
+Afghanistan,Accuracy,0.955,Chunking
+Argentina,Accuracy,0.909,Chunking
+Australia,Accuracy,1.0,Chunking
+Barbados,Accuracy,0.864,Chunking
+Canada,Accuracy,0.909,Chunking
+Colombia,Accuracy,0.727,Chunking
+Costa Rica,Accuracy,0.864,Chunking
+El Salvador,Accuracy,0.864,Chunking
+Finland,Accuracy,0.864,Chunking
+India,Accuracy,0.909,Chunking
+Libya,Accuracy,1.0,Chunking
+Malta,Accuracy,0.909,Chunking
+Myanmar,Accuracy,0.955,Chunking
+Oman,Accuracy,0.818,Chunking
+Paraguay,Accuracy,0.773,Chunking
+Peru,Accuracy,0.909,Chunking
+Spain,Accuracy,0.818,Chunking
+Sweden,Accuracy,0.909,Chunking
+United States,Accuracy,1.0,Chunking
+Afghanistan,Precision,1.0,Chunking
+Argentina,Precision,0.895,Chunking
+Australia,Precision,1.0,Chunking
+Barbados,Precision,0.864,Chunking
+Canada,Precision,0.905,Chunking
+Colombia,Precision,0.727,Chunking
+Costa Rica,Precision,0.842,Chunking
+El Salvador,Precision,0.833,Chunking
+Finland,Precision,0.857,Chunking
+India,Precision,0.905,Chunking
+Libya,Precision,1.0,Chunking
+Malta,Precision,0.95,Chunking
+Myanmar,Precision,0.952,Chunking
+Oman,Precision,0.789,Chunking
+Paraguay,Precision,0.75,Chunking
+Peru,Precision,0.905,Chunking
+Spain,Precision,0.81,Chunking
+Sweden,Precision,0.9,Chunking
+United States,Precision,1.0,Chunking
+Afghanistan,Recall,0.955,Chunking
+Argentina,Recall,1.0,Chunking
+Australia,Recall,1.0,Chunking
+Barbados,Recall,1.0,Chunking
+Canada,Recall,1.0,Chunking
+Colombia,Recall,1.0,Chunking
+Costa Rica,Recall,1.0,Chunking
+El Salvador,Recall,1.0,Chunking
+Finland,Recall,1.0,Chunking
+India,Recall,1.0,Chunking
+Libya,Recall,1.0,Chunking
+Malta,Recall,0.95,Chunking
+Myanmar,Recall,1.0,Chunking
+Oman,Recall,1.0,Chunking
+Paraguay,Recall,1.0,Chunking
+Peru,Recall,1.0,Chunking
+Spain,Recall,1.0,Chunking
+Sweden,Recall,1.0,Chunking
+United States,Recall,1.0,Chunking
+Afghanistan,F1,0.977,Chunking
+Argentina,F1,0.944,Chunking
+Australia,F1,1.0,Chunking
+Barbados,F1,0.927,Chunking
+Canada,F1,0.95,Chunking
+Colombia,F1,0.842,Chunking
+Costa Rica,F1,0.914,Chunking
+El Salvador,F1,0.909,Chunking
+Finland,F1,0.923,Chunking
+India,F1,0.95,Chunking
+Libya,F1,1.0,Chunking
+Malta,F1,0.95,Chunking
+Myanmar,F1,0.976,Chunking
+Oman,F1,0.882,Chunking
+Paraguay,F1,0.857,Chunking
+Peru,F1,0.95,Chunking
+Spain,F1,0.895,Chunking
+Sweden,F1,0.947,Chunking
+United States,F1,1.0,Chunking

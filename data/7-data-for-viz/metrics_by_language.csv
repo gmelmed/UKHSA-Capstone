@@ -1,0 +1,17 @@
+language,metric,score,method
+English,F1,0.958,Full
+Spanish,F1,0.92,Full
+English,Accuracy,0.927,Full
+Spanish,Accuracy,0.87,Full
+English,Precision,0.949,Full
+Spanish,Precision,0.878,Full
+English,Recall,0.969,Full
+Spanish,Recall,0.974,Full
+English,F1,0.956,Chunking
+Spanish,F1,0.902,Chunking
+English,Accuracy,0.923,Chunking
+Spanish,Accuracy,0.838,Chunking
+English,Precision,0.925,Chunking
+Spanish,Precision,0.823,Chunking
+English,Recall,0.993,Chunking
+Spanish,Recall,1.0,Chunking
