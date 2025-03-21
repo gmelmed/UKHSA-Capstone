@@ -1,0 +1,172 @@
+Country,metric,score
+Afghanistan,Accuracy(Full),0.955
+Argentina,Accuracy(Full),0.909
+Australia,Accuracy(Full),0.909
+Barbados,Accuracy(Full),0.955
+Canada,Accuracy(Full),0.864
+Colombia,Accuracy(Full),0.818
+Costa Rica,Accuracy(Full),0.955
+El Salvador,Accuracy(Full),0.955
+Finland,Accuracy(Full),0.955
+India,Accuracy(Full),1.0
+Libya,Accuracy(Full),0.955
+Malta,Accuracy(Full),0.909
+Myanmar,Accuracy(Full),0.955
+Oman,Accuracy(Full),0.909
+Paraguay,Accuracy(Full),0.727
+Peru,Accuracy(Full),0.909
+Spain,Accuracy(Full),0.818
+Sweden,Accuracy(Full),0.909
+United States,Accuracy(Full),0.909
+Afghanistan,Precision(Full),1.0
+Argentina,Precision(Full),0.941
+Australia,Precision(Full),1.0
+Barbados,Precision(Full),0.95
+Canada,Precision(Full),0.9
+Colombia,Precision(Full),0.8
+Costa Rica,Precision(Full),0.941
+El Salvador,Precision(Full),1.0
+Finland,Precision(Full),0.947
+India,Precision(Full),1.0
+Libya,Precision(Full),0.955
+Malta,Precision(Full),0.95
+Myanmar,Precision(Full),1.0
+Oman,Precision(Full),0.882
+Paraguay,Precision(Full),0.714
+Peru,Precision(Full),0.905
+Spain,Precision(Full),0.842
+Sweden,Precision(Full),0.9
+United States,Precision(Full),0.95
+Afghanistan,Recall(Full),0.955
+Argentina,Recall(Full),0.941
+Australia,Recall(Full),0.9
+Barbados,Recall(Full),1.0
+Canada,Recall(Full),0.947
+Colombia,Recall(Full),1.0
+Costa Rica,Recall(Full),1.0
+El Salvador,Recall(Full),0.933
+Finland,Recall(Full),1.0
+India,Recall(Full),1.0
+Libya,Recall(Full),1.0
+Malta,Recall(Full),0.95
+Myanmar,Recall(Full),0.95
+Oman,Recall(Full),1.0
+Paraguay,Recall(Full),1.0
+Peru,Recall(Full),1.0
+Spain,Recall(Full),0.941
+Sweden,Recall(Full),1.0
+United States,Recall(Full),0.95
+Afghanistan,F1(Full),0.977
+Argentina,F1(Full),0.941
+Australia,F1(Full),0.947
+Barbados,F1(Full),0.974
+Canada,F1(Full),0.923
+Colombia,F1(Full),0.889
+Costa Rica,F1(Full),0.97
+El Salvador,F1(Full),0.966
+Finland,F1(Full),0.973
+India,F1(Full),1.0
+Libya,F1(Full),0.977
+Malta,F1(Full),0.95
+Myanmar,F1(Full),0.974
+Oman,F1(Full),0.938
+Paraguay,F1(Full),0.833
+Peru,F1(Full),0.95
+Spain,F1(Full),0.889
+Sweden,F1(Full),0.947
+United States,F1(Full),0.95
+Afghanistan,Accuracy(Chunking),0.955
+Argentina,Accuracy(Chunking),0.909
+Australia,Accuracy(Chunking),1.0
+Barbados,Accuracy(Chunking),0.864
+Canada,Accuracy(Chunking),0.909
+Colombia,Accuracy(Chunking),0.727
+Costa Rica,Accuracy(Chunking),0.864
+El Salvador,Accuracy(Chunking),0.864
+Finland,Accuracy(Chunking),0.864
+India,Accuracy(Chunking),0.909
+Libya,Accuracy(Chunking),1.0
+Malta,Accuracy(Chunking),0.909
+Myanmar,Accuracy(Chunking),0.955
+Oman,Accuracy(Chunking),0.818
+Paraguay,Accuracy(Chunking),0.773
+Peru,Accuracy(Chunking),0.909
+Spain,Accuracy(Chunking),0.818
+Sweden,Accuracy(Chunking),0.909
+United States,Accuracy(Chunking),1.0
+Afghanistan,Precision(Chunking),1.0
+Argentina,Precision(Chunking),0.895
+Australia,Precision(Chunking),1.0
+Barbados,Precision(Chunking),0.864
+Canada,Precision(Chunking),0.905
+Colombia,Precision(Chunking),0.727
+Costa Rica,Precision(Chunking),0.842
+El Salvador,Precision(Chunking),0.833
+Finland,Precision(Chunking),0.857
+India,Precision(Chunking),0.905
+Libya,Precision(Chunking),1.0
+Malta,Precision(Chunking),0.95
+Myanmar,Precision(Chunking),0.952
+Oman,Precision(Chunking),0.789
+Paraguay,Precision(Chunking),0.75
+Peru,Precision(Chunking),0.905
+Spain,Precision(Chunking),0.81
+Sweden,Precision(Chunking),0.9
+United States,Precision(Chunking),1.0
+Afghanistan,Recall(Chunking),0.955
+Argentina,Recall(Chunking),1.0
+Australia,Recall(Chunking),1.0
+Barbados,Recall(Chunking),1.0
+Canada,Recall(Chunking),1.0
+Colombia,Recall(Chunking),1.0
+Costa Rica,Recall(Chunking),1.0
+El Salvador,Recall(Chunking),1.0
+Finland,Recall(Chunking),1.0
+India,Recall(Chunking),1.0
+Libya,Recall(Chunking),1.0
+Malta,Recall(Chunking),0.95
+Myanmar,Recall(Chunking),1.0
+Oman,Recall(Chunking),1.0
+Paraguay,Recall(Chunking),1.0
+Peru,Recall(Chunking),1.0
+Spain,Recall(Chunking),1.0
+Sweden,Recall(Chunking),1.0
+United States,Recall(Chunking),1.0
+Afghanistan,F1(Chunking),0.977
+Argentina,F1(Chunking),0.944
+Australia,F1(Chunking),1.0
+Barbados,F1(Chunking),0.927
+Canada,F1(Chunking),0.95
+Colombia,F1(Chunking),0.842
+Costa Rica,F1(Chunking),0.914
+El Salvador,F1(Chunking),0.909
+Finland,F1(Chunking),0.923
+India,F1(Chunking),0.95
+Libya,F1(Chunking),1.0
+Malta,F1(Chunking),0.95
+Myanmar,F1(Chunking),0.976
+Oman,F1(Chunking),0.882
+Paraguay,F1(Chunking),0.857
+Peru,F1(Chunking),0.95
+Spain,F1(Chunking),0.895
+Sweden,F1(Chunking),0.947
+United States,F1(Chunking),1.0
+Afghanistan,Delta F1,0.0
+Argentina,Delta F1,-0.0030000000000000027
+Australia,Delta F1,-0.05300000000000005
+Barbados,Delta F1,0.04699999999999993
+Canada,Delta F1,-0.026999999999999913
+Colombia,Delta F1,0.04700000000000004
+Costa Rica,Delta F1,0.05599999999999994
+El Salvador,Delta F1,0.05699999999999994
+Finland,Delta F1,0.04999999999999993
+India,Delta F1,0.050000000000000044
+Libya,Delta F1,-0.02300000000000002
+Malta,Delta F1,0.0
+Myanmar,Delta F1,-0.0020000000000000018
+Oman,Delta F1,0.05599999999999994
+Paraguay,Delta F1,-0.02400000000000002
+Peru,Delta F1,0.0
+Spain,Delta F1,-0.006000000000000005
+Sweden,Delta F1,0.0
+United States,Delta F1,-0.050000000000000044
