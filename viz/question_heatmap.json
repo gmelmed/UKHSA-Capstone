@@ -1,0 +1,48 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/gmelmed/UKHSA-Capstone/refs/heads/main/data/7-data-for-viz/performance_by_question.csv"},
+    "transform": [
+        {"filter": "datum.metric != 'Delta F1'"}
+    ],
+    "layer": [
+        {
+            "mark": "rect",
+            "encoding": {
+                "x": {
+                    "field": "metric",
+                    "type": "nominal"
+                },
+                "y": {
+                    "field": "question_name",
+                    "type": "nominal"
+                },
+                "color": {
+                    "field": "score",
+                    "aggregate": "median",
+                    "type": "quantitative",
+                    "title": "Score"
+                }
+            }
+        },
+        {
+            "mark": "text",
+            "encoding": {
+                "x": {
+                    "field": "metric",
+                    "type": "nominal"
+                },
+                "y": {
+                    "field": "question_name",
+                    "type": "nominal"
+                },
+                "text": {
+                    "field": "score",
+                    "aggregate": "median",
+                    "format": ".2f"
+                }
+            }
+        }
+    ],
+    "height": 500,
+    "width": 600
+}
