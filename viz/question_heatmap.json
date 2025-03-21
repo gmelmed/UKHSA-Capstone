@@ -4,6 +4,69 @@
     "transform": [
         {"filter": "datum.metric != 'Delta F1'"}
     ],
+    "config": {
+    "font": "Montserrat, sans-serif",
+    "view": {"stroke": "transparent"},
+    "background": "#ffffff",
+    "range": {"category": 
+    [
+      "#E07A5F",
+      "#3D405B",
+      "#81B29A",
+      "#F2CC8F",
+      "#F4F1DE"
+    ]
+    },
+    "point": {"filled": true, "opacity": 0.95},
+    "axis": {
+      "labelColor": "#676A86",
+      "labelFontSize": 12,
+      "labelFont": "Montserrat, sans-serif",
+      "tickColor": "#676A86",
+      "tickOpacity": 0.5,
+      "domainColor": "#676A86",
+      "domainOpacity": 0.5,
+      "gridColor": "#676A86",
+      "gridDash": [2, 2],
+      "gridOpacity": 0.5,
+      "title": null,
+      "titleColor": "#676A86",
+      "titleOpacity": 0.8,
+      "tickSize": 4
+    },
+    "axisX": {
+      "labelAngle": -45
+    },
+    "axisXTemporal": {"grid": false},
+    "axisYQuantitative": {
+      "gridColor": "#676A86",
+      "gridDash": [1, 5],
+      "gridOpacity": 0.5,
+      "ticks": false,
+      "labelPadding": 5,
+      "tickCount": 8,
+      "titleAngle": 0,
+      "titleAlign": "left",
+      "titleBaseline": "bottom",
+      "titleX": 0,
+      "titleY": -5
+    },
+    "legend": {
+      "titleFont": "Montserrat, sans-serif",
+      "titleFontSize": 14,
+      "titleColor": "#1a1a1a",
+      "title": null,
+      "labelColor": "#1a1a1a",
+      "labelFontSize": 12
+    },
+    "title": {
+      "font": "Montserrat, sans-serif",
+      "fontSize": 16,
+      "color": "#1a1a1a",
+      "subtitleFontSize": 14,
+      "subtitleColor": "#676A86"
+    }
+  },
     "layer": [
         {
             "mark": "rect",
@@ -20,7 +83,11 @@
                     "field": "score",
                     "aggregate": "median",
                     "type": "quantitative",
-                    "title": "Score"
+                    "title": null,
+                    "scale":{
+                      "scheme":"lightmulti",
+                      "reverse":true
+                    }
                 }
             }
         },

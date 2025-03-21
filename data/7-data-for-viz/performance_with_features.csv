@@ -1,4 +1,4 @@
-Country,Accuracy(Full),Precision(Full),Recall(Full),F1(Full),Accuracy(Chunking),Precision(Chunking),Recall(Chunking),F1(Chunking),Delta_F1,word_count,readability_score,language
+Country,Accuracy (Full),Precision (Full),Recall (Full),F1 (Full),Accuracy (Chunking),Precision (Chunking),Recall (Chunking),F1 (Chunking),Delta_F1,word_count,readability_score,language
 Afghanistan,0.955,1.0,0.955,0.977,0.955,1.0,0.955,0.977,0.0,13646.0,19.4,English
 Argentina,0.909,0.941,0.941,0.941,0.909,0.895,1.0,0.944,-0.0030000000000000027,12062.0,22.7,Spanish
 Australia,0.909,1.0,0.9,0.947,1.0,1.0,1.0,1.0,-0.05300000000000005,6730.0,20.3,English
