@@ -1,0 +1,14 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/gmelmed/UKHSA-Capstone/refs/heads/main/data/7-data-for-viz/performance_long.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "Metric"},
+      "y": {"field": "Score", "type": "quantitative"},
+      "xOffset": {"field": "Method"},
+      "color": {"field": "Method"}
+    }
+  }
+  

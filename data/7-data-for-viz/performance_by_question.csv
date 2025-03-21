@@ -5,195 +5,173 @@ question,metric,score,method,question_name
 4,Accuracy,0.947,Full,Environment
 5,Accuracy,0.947,Full,Food Security
 6,Accuracy,0.789,Full,Progress Reporting
-7,Accuracy,0.737,Full,Specific Targets
-8,Accuracy,0.684,Full,Budget Allocation
-9,Accuracy,0.789,Full,Future Budget Assessment
-10,Accuracy,0.842,Full,
+7,Accuracy,0.737,Full,Time-bound Targets
+8,Accuracy,0.684,Full,Quantitative Targets
+9,Accuracy,0.789,Full,Budget Allocation
+10,Accuracy,0.842,Full,Future Budget Assessment
 11,Accuracy,1.0,Full,Muli-sectoral Committee
-12,Accuracy,0.947,Full,New Laws/Regulations
-13,Accuracy,1.0,Full,Professional Training
-14,Accuracy,1.0,Full,Public Awareness
-15,Accuracy,0.842,Full,International Collaboration
-16,Accuracy,1.0,Full,Emergent Resistance Detection
-17,Accuracy,0.895,Full,IPC
-18,Accuracy,1.0,Full,OIE/FAO Standards
-19,Accuracy,0.789,Full,Antibiotic Prescription and Dispensation
-20,Accuracy,1.0,Full,Rational Antibiotic Use Laws
-21,Accuracy,1.0,Full,Research and Development
-22,Accuracy,0.789,Full,
+12,Accuracy,0.947,Full,
+13,Accuracy,1.0,Full,New Laws/Regulations
+14,Accuracy,1.0,Full,Professional Training
+15,Accuracy,0.842,Full,Public Awareness
+16,Accuracy,1.0,Full,International Collaboration
+17,Accuracy,0.895,Full,Emergent Resistance Detection
+18,Accuracy,1.0,Full,IPC
+19,Accuracy,0.789,Full,OIE/FAO Standards
+20,Accuracy,1.0,Full,Antibiotic Prescription and Dispensation
+21,Accuracy,1.0,Full,Rational Antibiotic Use Laws
+22,Accuracy,0.789,Full,Research and Development
 1,Precision,1.0,Full,One Health
 2,Precision,1.0,Full,Human Health
 3,Precision,1.0,Full,Animal Health
 4,Precision,1.0,Full,Environment
 5,Precision,1.0,Full,Food Security
 6,Precision,0.778,Full,Progress Reporting
-7,Precision,0.643,Full,Specific Targets
-8,Precision,0.375,Full,Budget Allocation
-9,Precision,0.75,Full,Future Budget Assessment
-10,Precision,1.0,Full,
+7,Precision,0.643,Full,Time-bound Targets
+8,Precision,0.375,Full,Quantitative Targets
+9,Precision,0.75,Full,Budget Allocation
+10,Precision,1.0,Full,Future Budget Assessment
 11,Precision,1.0,Full,Muli-sectoral Committee
-12,Precision,0.947,Full,New Laws/Regulations
-13,Precision,1.0,Full,Professional Training
-14,Precision,1.0,Full,Public Awareness
-15,Precision,0.842,Full,International Collaboration
-16,Precision,1.0,Full,Emergent Resistance Detection
-17,Precision,0.889,Full,IPC
-18,Precision,1.0,Full,OIE/FAO Standards
-19,Precision,0.833,Full,Antibiotic Prescription and Dispensation
-20,Precision,1.0,Full,Rational Antibiotic Use Laws
-21,Precision,1.0,Full,Research and Development
-22,Precision,0.778,Full,
+12,Precision,0.947,Full,
+13,Precision,1.0,Full,New Laws/Regulations
+14,Precision,1.0,Full,Professional Training
+15,Precision,0.842,Full,Public Awareness
+16,Precision,1.0,Full,International Collaboration
+17,Precision,0.889,Full,Emergent Resistance Detection
+18,Precision,1.0,Full,IPC
+19,Precision,0.833,Full,OIE/FAO Standards
+20,Precision,1.0,Full,Antibiotic Prescription and Dispensation
+21,Precision,1.0,Full,Rational Antibiotic Use Laws
+22,Precision,0.778,Full,Research and Development
 1,Recall,1.0,Full,One Health
 2,Recall,1.0,Full,Human Health
 3,Recall,1.0,Full,Animal Health
 4,Recall,0.941,Full,Environment
 5,Recall,0.947,Full,Food Security
 6,Recall,1.0,Full,Progress Reporting
-7,Recall,1.0,Full,Specific Targets
-8,Recall,0.75,Full,Budget Allocation
-9,Recall,0.5,Full,Future Budget Assessment
-10,Recall,0.571,Full,
+7,Recall,1.0,Full,Time-bound Targets
+8,Recall,0.75,Full,Quantitative Targets
+9,Recall,0.5,Full,Budget Allocation
+10,Recall,0.571,Full,Future Budget Assessment
 11,Recall,1.0,Full,Muli-sectoral Committee
-12,Recall,1.0,Full,New Laws/Regulations
-13,Recall,1.0,Full,Professional Training
-14,Recall,1.0,Full,Public Awareness
-15,Recall,1.0,Full,International Collaboration
-16,Recall,1.0,Full,Emergent Resistance Detection
-17,Recall,1.0,Full,IPC
-18,Recall,1.0,Full,OIE/FAO Standards
-19,Recall,0.938,Full,Antibiotic Prescription and Dispensation
-20,Recall,1.0,Full,Rational Antibiotic Use Laws
-21,Recall,1.0,Full,Research and Development
-22,Recall,1.0,Full,
+12,Recall,1.0,Full,
+13,Recall,1.0,Full,New Laws/Regulations
+14,Recall,1.0,Full,Professional Training
+15,Recall,1.0,Full,Public Awareness
+16,Recall,1.0,Full,International Collaboration
+17,Recall,1.0,Full,Emergent Resistance Detection
+18,Recall,1.0,Full,IPC
+19,Recall,0.938,Full,OIE/FAO Standards
+20,Recall,1.0,Full,Antibiotic Prescription and Dispensation
+21,Recall,1.0,Full,Rational Antibiotic Use Laws
+22,Recall,1.0,Full,Research and Development
 1,F1,1.0,Full,One Health
 2,F1,1.0,Full,Human Health
 3,F1,1.0,Full,Animal Health
 4,F1,0.97,Full,Environment
 5,F1,0.973,Full,Food Security
 6,F1,0.875,Full,Progress Reporting
-7,F1,0.783,Full,Specific Targets
-8,F1,0.5,Full,Budget Allocation
-9,F1,0.6,Full,Future Budget Assessment
-10,F1,0.727,Full,
+7,F1,0.783,Full,Time-bound Targets
+8,F1,0.5,Full,Quantitative Targets
+9,F1,0.6,Full,Budget Allocation
+10,F1,0.727,Full,Future Budget Assessment
 11,F1,1.0,Full,Muli-sectoral Committee
-12,F1,0.973,Full,New Laws/Regulations
-13,F1,1.0,Full,Professional Training
-14,F1,1.0,Full,Public Awareness
-15,F1,0.914,Full,International Collaboration
-16,F1,1.0,Full,Emergent Resistance Detection
-17,F1,0.941,Full,IPC
-18,F1,1.0,Full,OIE/FAO Standards
-19,F1,0.882,Full,Antibiotic Prescription and Dispensation
-20,F1,1.0,Full,Rational Antibiotic Use Laws
-21,F1,1.0,Full,Research and Development
-22,F1,0.875,Full,
+12,F1,0.973,Full,
+13,F1,1.0,Full,New Laws/Regulations
+14,F1,1.0,Full,Professional Training
+15,F1,0.914,Full,Public Awareness
+16,F1,1.0,Full,International Collaboration
+17,F1,0.941,Full,Emergent Resistance Detection
+18,F1,1.0,Full,IPC
+19,F1,0.882,Full,OIE/FAO Standards
+20,F1,1.0,Full,Antibiotic Prescription and Dispensation
+21,F1,1.0,Full,Rational Antibiotic Use Laws
+22,F1,0.875,Full,Research and Development
 1,Accuracy,1.0,Chunking,One Health
 2,Accuracy,1.0,Chunking,Human Health
 3,Accuracy,1.0,Chunking,Animal Health
 4,Accuracy,0.895,Chunking,Environment
 5,Accuracy,1.0,Chunking,Food Security
 6,Accuracy,0.789,Chunking,Progress Reporting
-7,Accuracy,0.737,Chunking,Specific Targets
-8,Accuracy,0.632,Chunking,Budget Allocation
-9,Accuracy,0.526,Chunking,Future Budget Assessment
-10,Accuracy,0.684,Chunking,
+7,Accuracy,0.737,Chunking,Time-bound Targets
+8,Accuracy,0.632,Chunking,Quantitative Targets
+9,Accuracy,0.526,Chunking,Budget Allocation
+10,Accuracy,0.684,Chunking,Future Budget Assessment
 11,Accuracy,1.0,Chunking,Muli-sectoral Committee
-12,Accuracy,1.0,Chunking,New Laws/Regulations
-13,Accuracy,1.0,Chunking,Professional Training
-14,Accuracy,1.0,Chunking,Public Awareness
-15,Accuracy,0.842,Chunking,International Collaboration
-16,Accuracy,1.0,Chunking,Emergent Resistance Detection
-17,Accuracy,0.895,Chunking,IPC
-18,Accuracy,1.0,Chunking,OIE/FAO Standards
-19,Accuracy,0.895,Chunking,Antibiotic Prescription and Dispensation
-20,Accuracy,1.0,Chunking,Rational Antibiotic Use Laws
-21,Accuracy,1.0,Chunking,Research and Development
-22,Accuracy,0.737,Chunking,
+12,Accuracy,1.0,Chunking,
+13,Accuracy,1.0,Chunking,New Laws/Regulations
+14,Accuracy,1.0,Chunking,Professional Training
+15,Accuracy,0.842,Chunking,Public Awareness
+16,Accuracy,1.0,Chunking,International Collaboration
+17,Accuracy,0.895,Chunking,Emergent Resistance Detection
+18,Accuracy,1.0,Chunking,IPC
+19,Accuracy,0.895,Chunking,OIE/FAO Standards
+20,Accuracy,1.0,Chunking,Antibiotic Prescription and Dispensation
+21,Accuracy,1.0,Chunking,Rational Antibiotic Use Laws
+22,Accuracy,0.737,Chunking,Research and Development
 1,Precision,1.0,Chunking,One Health
 2,Precision,1.0,Chunking,Human Health
 3,Precision,1.0,Chunking,Animal Health
 4,Precision,0.895,Chunking,Environment
 5,Precision,1.0,Chunking,Food Security
 6,Precision,0.778,Chunking,Progress Reporting
-7,Precision,0.643,Chunking,Specific Targets
-8,Precision,0.333,Chunking,Budget Allocation
-9,Precision,0.4,Chunking,Future Budget Assessment
-10,Precision,0.545,Chunking,
+7,Precision,0.643,Chunking,Time-bound Targets
+8,Precision,0.333,Chunking,Quantitative Targets
+9,Precision,0.4,Chunking,Budget Allocation
+10,Precision,0.545,Chunking,Future Budget Assessment
 11,Precision,1.0,Chunking,Muli-sectoral Committee
-12,Precision,1.0,Chunking,New Laws/Regulations
-13,Precision,1.0,Chunking,Professional Training
-14,Precision,1.0,Chunking,Public Awareness
-15,Precision,0.842,Chunking,International Collaboration
-16,Precision,1.0,Chunking,Emergent Resistance Detection
-17,Precision,0.889,Chunking,IPC
-18,Precision,1.0,Chunking,OIE/FAO Standards
-19,Precision,0.889,Chunking,Antibiotic Prescription and Dispensation
-20,Precision,1.0,Chunking,Rational Antibiotic Use Laws
-21,Precision,1.0,Chunking,Research and Development
-22,Precision,0.737,Chunking,
+12,Precision,1.0,Chunking,
+13,Precision,1.0,Chunking,New Laws/Regulations
+14,Precision,1.0,Chunking,Professional Training
+15,Precision,0.842,Chunking,Public Awareness
+16,Precision,1.0,Chunking,International Collaboration
+17,Precision,0.889,Chunking,Emergent Resistance Detection
+18,Precision,1.0,Chunking,IPC
+19,Precision,0.889,Chunking,OIE/FAO Standards
+20,Precision,1.0,Chunking,Antibiotic Prescription and Dispensation
+21,Precision,1.0,Chunking,Rational Antibiotic Use Laws
+22,Precision,0.737,Chunking,Research and Development
 1,Recall,1.0,Chunking,One Health
 2,Recall,1.0,Chunking,Human Health
 3,Recall,1.0,Chunking,Animal Health
 4,Recall,1.0,Chunking,Environment
 5,Recall,1.0,Chunking,Food Security
 6,Recall,1.0,Chunking,Progress Reporting
-7,Recall,1.0,Chunking,Specific Targets
-8,Recall,0.75,Chunking,Budget Allocation
-9,Recall,1.0,Chunking,Future Budget Assessment
-10,Recall,0.857,Chunking,
+7,Recall,1.0,Chunking,Time-bound Targets
+8,Recall,0.75,Chunking,Quantitative Targets
+9,Recall,1.0,Chunking,Budget Allocation
+10,Recall,0.857,Chunking,Future Budget Assessment
 11,Recall,1.0,Chunking,Muli-sectoral Committee
-12,Recall,1.0,Chunking,New Laws/Regulations
-13,Recall,1.0,Chunking,Professional Training
-14,Recall,1.0,Chunking,Public Awareness
-15,Recall,1.0,Chunking,International Collaboration
-16,Recall,1.0,Chunking,Emergent Resistance Detection
-17,Recall,1.0,Chunking,IPC
-18,Recall,1.0,Chunking,OIE/FAO Standards
-19,Recall,1.0,Chunking,Antibiotic Prescription and Dispensation
-20,Recall,1.0,Chunking,Rational Antibiotic Use Laws
-21,Recall,1.0,Chunking,Research and Development
-22,Recall,1.0,Chunking,
+12,Recall,1.0,Chunking,
+13,Recall,1.0,Chunking,New Laws/Regulations
+14,Recall,1.0,Chunking,Professional Training
+15,Recall,1.0,Chunking,Public Awareness
+16,Recall,1.0,Chunking,International Collaboration
+17,Recall,1.0,Chunking,Emergent Resistance Detection
+18,Recall,1.0,Chunking,IPC
+19,Recall,1.0,Chunking,OIE/FAO Standards
+20,Recall,1.0,Chunking,Antibiotic Prescription and Dispensation
+21,Recall,1.0,Chunking,Rational Antibiotic Use Laws
+22,Recall,1.0,Chunking,Research and Development
 1,F1,1.0,Chunking,One Health
 2,F1,1.0,Chunking,Human Health
 3,F1,1.0,Chunking,Animal Health
 4,F1,0.944,Chunking,Environment
 5,F1,1.0,Chunking,Food Security
 6,F1,0.875,Chunking,Progress Reporting
-7,F1,0.783,Chunking,Specific Targets
-8,F1,0.462,Chunking,Budget Allocation
-9,F1,0.571,Chunking,Future Budget Assessment
-10,F1,0.667,Chunking,
+7,F1,0.783,Chunking,Time-bound Targets
+8,F1,0.462,Chunking,Quantitative Targets
+9,F1,0.571,Chunking,Budget Allocation
+10,F1,0.667,Chunking,Future Budget Assessment
 11,F1,1.0,Chunking,Muli-sectoral Committee
-12,F1,1.0,Chunking,New Laws/Regulations
-13,F1,1.0,Chunking,Professional Training
-14,F1,1.0,Chunking,Public Awareness
-15,F1,0.914,Chunking,International Collaboration
-16,F1,1.0,Chunking,Emergent Resistance Detection
-17,F1,0.941,Chunking,IPC
-18,F1,1.0,Chunking,OIE/FAO Standards
-19,F1,0.941,Chunking,Antibiotic Prescription and Dispensation
-20,F1,1.0,Chunking,Rational Antibiotic Use Laws
-21,F1,1.0,Chunking,Research and Development
-22,F1,0.848,Chunking,
-1,Delta_F1,0.0,Chunking,One Health
-2,Delta_F1,0.0,Chunking,Human Health
-3,Delta_F1,0.0,Chunking,Animal Health
-4,Delta_F1,0.026000000000000023,Chunking,Environment
-5,Delta_F1,-0.027000000000000024,Chunking,Food Security
-6,Delta_F1,0.0,Chunking,Progress Reporting
-7,Delta_F1,0.0,Chunking,Specific Targets
-8,Delta_F1,0.03799999999999998,Chunking,Budget Allocation
-9,Delta_F1,0.029000000000000026,Chunking,Future Budget Assessment
-10,Delta_F1,0.05999999999999994,Chunking,
-11,Delta_F1,0.0,Chunking,Muli-sectoral Committee
-12,Delta_F1,-0.027000000000000024,Chunking,New Laws/Regulations
-13,Delta_F1,0.0,Chunking,Professional Training
-14,Delta_F1,0.0,Chunking,Public Awareness
-15,Delta_F1,0.0,Chunking,International Collaboration
-16,Delta_F1,0.0,Chunking,Emergent Resistance Detection
-17,Delta_F1,0.0,Chunking,IPC
-18,Delta_F1,0.0,Chunking,OIE/FAO Standards
-19,Delta_F1,-0.05899999999999994,Chunking,Antibiotic Prescription and Dispensation
-20,Delta_F1,0.0,Chunking,Rational Antibiotic Use Laws
-21,Delta_F1,0.0,Chunking,Research and Development
-22,Delta_F1,0.027000000000000024,Chunking,
+12,F1,1.0,Chunking,
+13,F1,1.0,Chunking,New Laws/Regulations
+14,F1,1.0,Chunking,Professional Training
+15,F1,0.914,Chunking,Public Awareness
+16,F1,1.0,Chunking,International Collaboration
+17,F1,0.941,Chunking,Emergent Resistance Detection
+18,F1,1.0,Chunking,IPC
+19,F1,0.941,Chunking,OIE/FAO Standards
+20,F1,1.0,Chunking,Antibiotic Prescription and Dispensation
+21,F1,1.0,Chunking,Rational Antibiotic Use Laws
+22,F1,0.848,Chunking,Research and Development
