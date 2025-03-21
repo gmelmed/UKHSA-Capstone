@@ -18,7 +18,7 @@ question,metric,score,question_name
 17,Accuracy  (Full),0.895,Emergent Resistance Detection
 18,Accuracy  (Full),1.0,IPC
 19,Accuracy  (Full),0.789,OIE/FAO Standards
-20,Accuracy  (Full),1.0,Antibiotic Prescription and Dispensation
+20,Accuracy  (Full),1.0,Prescription and Dispensation
 21,Accuracy  (Full),1.0,Rational Antibiotic Use Laws
 22,Accuracy  (Full),0.789,Research and Development
 1,Precision (Full),1.0,One Health
@@ -40,7 +40,7 @@ question,metric,score,question_name
 17,Precision (Full),0.889,Emergent Resistance Detection
 18,Precision (Full),1.0,IPC
 19,Precision (Full),0.833,OIE/FAO Standards
-20,Precision (Full),1.0,Antibiotic Prescription and Dispensation
+20,Precision (Full),1.0,Prescription and Dispensation
 21,Precision (Full),1.0,Rational Antibiotic Use Laws
 22,Precision (Full),0.778,Research and Development
 1,Recall (Full),1.0,One Health
@@ -62,7 +62,7 @@ question,metric,score,question_name
 17,Recall (Full),1.0,Emergent Resistance Detection
 18,Recall (Full),1.0,IPC
 19,Recall (Full),0.938,OIE/FAO Standards
-20,Recall (Full),1.0,Antibiotic Prescription and Dispensation
+20,Recall (Full),1.0,Prescription and Dispensation
 21,Recall (Full),1.0,Rational Antibiotic Use Laws
 22,Recall (Full),1.0,Research and Development
 1,F1(Full),1.0,One Health
@@ -84,7 +84,7 @@ question,metric,score,question_name
 17,F1(Full),0.941,Emergent Resistance Detection
 18,F1(Full),1.0,IPC
 19,F1(Full),0.882,OIE/FAO Standards
-20,F1(Full),1.0,Antibiotic Prescription and Dispensation
+20,F1(Full),1.0,Prescription and Dispensation
 21,F1(Full),1.0,Rational Antibiotic Use Laws
 22,F1(Full),0.875,Research and Development
 1,Accuracy (Chunking),1.0,One Health
@@ -106,7 +106,7 @@ question,metric,score,question_name
 17,Accuracy (Chunking),0.895,Emergent Resistance Detection
 18,Accuracy (Chunking),1.0,IPC
 19,Accuracy (Chunking),0.895,OIE/FAO Standards
-20,Accuracy (Chunking),1.0,Antibiotic Prescription and Dispensation
+20,Accuracy (Chunking),1.0,Prescription and Dispensation
 21,Accuracy (Chunking),1.0,Rational Antibiotic Use Laws
 22,Accuracy (Chunking),0.737,Research and Development
 1,Precision(Chunking),1.0,One Health
@@ -128,7 +128,7 @@ question,metric,score,question_name
 17,Precision(Chunking),0.889,Emergent Resistance Detection
 18,Precision(Chunking),1.0,IPC
 19,Precision(Chunking),0.889,OIE/FAO Standards
-20,Precision(Chunking),1.0,Antibiotic Prescription and Dispensation
+20,Precision(Chunking),1.0,Prescription and Dispensation
 21,Precision(Chunking),1.0,Rational Antibiotic Use Laws
 22,Precision(Chunking),0.737,Research and Development
 1,Recall(Chunking),1.0,One Health
@@ -150,7 +150,7 @@ question,metric,score,question_name
 17,Recall(Chunking),1.0,Emergent Resistance Detection
 18,Recall(Chunking),1.0,IPC
 19,Recall(Chunking),1.0,OIE/FAO Standards
-20,Recall(Chunking),1.0,Antibiotic Prescription and Dispensation
+20,Recall(Chunking),1.0,Prescription and Dispensation
 21,Recall(Chunking),1.0,Rational Antibiotic Use Laws
 22,Recall(Chunking),1.0,Research and Development
 1,F1(Chunking),1.0,One Health
@@ -172,6 +172,6 @@ question,metric,score,question_name
 17,F1(Chunking),0.941,Emergent Resistance Detection
 18,F1(Chunking),1.0,IPC
 19,F1(Chunking),0.941,OIE/FAO Standards
-20,F1(Chunking),1.0,Antibiotic Prescription and Dispensation
+20,F1(Chunking),1.0,Prescription and Dispensation
 21,F1(Chunking),1.0,Rational Antibiotic Use Laws
 22,F1(Chunking),0.848,Research and Development
