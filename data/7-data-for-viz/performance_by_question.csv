@@ -15,7 +15,7 @@ question,metric,score,question_name
 14,Accuracy  (Full),1.0,Public Awareness
 15,Accuracy  (Full),0.842,International Collaboration
 16,Accuracy  (Full),1.0,Surveillance
-17,Accuracy  (Full),0.895,Emergent Resistance Detection
+17,Accuracy  (Full),0.895,Emergent Resistance
 18,Accuracy  (Full),1.0,IPC
 19,Accuracy  (Full),0.789,OIE/FAO Standards
 20,Accuracy  (Full),1.0,Prescription and Dispensation
@@ -37,7 +37,7 @@ question,metric,score,question_name
 14,Precision (Full),1.0,Public Awareness
 15,Precision (Full),0.842,International Collaboration
 16,Precision (Full),1.0,Surveillance
-17,Precision (Full),0.889,Emergent Resistance Detection
+17,Precision (Full),0.889,Emergent Resistance
 18,Precision (Full),1.0,IPC
 19,Precision (Full),0.833,OIE/FAO Standards
 20,Precision (Full),1.0,Prescription and Dispensation
@@ -59,7 +59,7 @@ question,metric,score,question_name
 14,Recall (Full),1.0,Public Awareness
 15,Recall (Full),1.0,International Collaboration
 16,Recall (Full),1.0,Surveillance
-17,Recall (Full),1.0,Emergent Resistance Detection
+17,Recall (Full),1.0,Emergent Resistance
 18,Recall (Full),1.0,IPC
 19,Recall (Full),0.938,OIE/FAO Standards
 20,Recall (Full),1.0,Prescription and Dispensation
@@ -81,7 +81,7 @@ question,metric,score,question_name
 14,F1(Full),1.0,Public Awareness
 15,F1(Full),0.914,International Collaboration
 16,F1(Full),1.0,Surveillance
-17,F1(Full),0.941,Emergent Resistance Detection
+17,F1(Full),0.941,Emergent Resistance
 18,F1(Full),1.0,IPC
 19,F1(Full),0.882,OIE/FAO Standards
 20,F1(Full),1.0,Prescription and Dispensation
@@ -103,7 +103,7 @@ question,metric,score,question_name
 14,Accuracy (Chunking),1.0,Public Awareness
 15,Accuracy (Chunking),0.842,International Collaboration
 16,Accuracy (Chunking),1.0,Surveillance
-17,Accuracy (Chunking),0.895,Emergent Resistance Detection
+17,Accuracy (Chunking),0.895,Emergent Resistance
 18,Accuracy (Chunking),1.0,IPC
 19,Accuracy (Chunking),0.895,OIE/FAO Standards
 20,Accuracy (Chunking),1.0,Prescription and Dispensation
@@ -125,7 +125,7 @@ question,metric,score,question_name
 14,Precision(Chunking),1.0,Public Awareness
 15,Precision(Chunking),0.842,International Collaboration
 16,Precision(Chunking),1.0,Surveillance
-17,Precision(Chunking),0.889,Emergent Resistance Detection
+17,Precision(Chunking),0.889,Emergent Resistance
 18,Precision(Chunking),1.0,IPC
 19,Precision(Chunking),0.889,OIE/FAO Standards
 20,Precision(Chunking),1.0,Prescription and Dispensation
@@ -147,7 +147,7 @@ question,metric,score,question_name
 14,Recall(Chunking),1.0,Public Awareness
 15,Recall(Chunking),1.0,International Collaboration
 16,Recall(Chunking),1.0,Surveillance
-17,Recall(Chunking),1.0,Emergent Resistance Detection
+17,Recall(Chunking),1.0,Emergent Resistance
 18,Recall(Chunking),1.0,IPC
 19,Recall(Chunking),1.0,OIE/FAO Standards
 20,Recall(Chunking),1.0,Prescription and Dispensation
@@ -169,7 +169,7 @@ question,metric,score,question_name
 14,F1(Chunking),1.0,Public Awareness
 15,F1(Chunking),0.914,International Collaboration
 16,F1(Chunking),1.0,Surveillance
-17,F1(Chunking),0.941,Emergent Resistance Detection
+17,F1(Chunking),0.941,Emergent Resistance
 18,F1(Chunking),1.0,IPC
 19,F1(Chunking),0.941,OIE/FAO Standards
 20,F1(Chunking),1.0,Prescription and Dispensation
