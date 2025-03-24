@@ -1,23 +1,32 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/gmelmed/UKHSA-Capstone/refs/heads/main/data/7-data-for-viz/performance_by_country_long.csv"},
-    "transform": [
-        {"filter": "datum.metric != 'Delta F1'"}
-    ],
-    "config": {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/gmelmed/UKHSA-Capstone/refs/heads/main/data/7-data-for-viz/performance_by_country_long.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.metric != 'Delta F1'"
+    }
+  ],
+  "config": {
     "font": "Montserrat, sans-serif",
-    "view": {"stroke": "transparent"},
-    "background": "#ffffff",
-    "range": {"category": 
-    [
-      "#E07A5F",
-      "#3D405B",
-      "#81B29A",
-      "#F2CC8F",
-      "#F4F1DE"
-    ]
+    "view": {
+      "stroke": "transparent"
     },
-    "point": {"filled": true, "opacity": 0.95},
+    "background": "#ffffff",
+    "range": {
+      "category": [
+        "#E07A5F",
+        "#3D405B",
+        "#81B29A",
+        "#F2CC8F",
+        "#F4F1DE"
+      ]
+    },
+    "point": {
+      "filled": true,
+      "opacity": 0.95
+    },
     "axis": {
       "labelColor": "#676A86",
       "labelFontSize": 12,
@@ -27,7 +36,10 @@
       "domainColor": "#676A86",
       "domainOpacity": 0.5,
       "gridColor": "#676A86",
-      "gridDash": [2, 2],
+      "gridDash": [
+        2,
+        2
+      ],
       "gridOpacity": 0.5,
       "title": null,
       "titleColor": "#676A86",
@@ -37,10 +49,15 @@
     "axisX": {
       "labelAngle": -45
     },
-    "axisXTemporal": {"grid": false},
+    "axisXTemporal": {
+      "grid": false
+    },
     "axisYQuantitative": {
       "gridColor": "#676A86",
-      "gridDash": [1, 5],
+      "gridDash": [
+        1,
+        5
+      ],
       "gridOpacity": 0.5,
       "ticks": false,
       "labelPadding": 5,
@@ -67,49 +84,69 @@
       "subtitleColor": "#676A86"
     }
   },
-    "layer": [
-        {
-            "mark": "rect",
-            "encoding": {
-                "x": {
-                    "field": "metric",
-                    "type": "nominal"
-                },
-                "y": {
-                    "field": "Country",
-                    "type": "nominal"
-                },
-                "color": {
-                    "field": "score",
-                    "aggregate": "median",
-                    "type": "quantitative",
-                    "title": null,
-                    "scale":{
-                      "scheme":"lightmulti",
-                      "reverse":true
-                    }
-                }
-            }
+  "layer": [
+    {
+      "mark": "rect",
+      "encoding": {
+        "x": {
+          "field": "metric",
+          "type": "nominal",
+          "sort": [
+            "Accuracy (Full)",
+            "Precision (Full)",
+            "Recall (Full)",
+            "F1 (Full)",
+            "Accuracy (Chunking)",
+            "Precision (Chunking)",
+            "Recall (Chunking)",
+            "F1 (Chunking)"
+          ]
         },
-        {
-            "mark": "text",
-            "encoding": {
-                "x": {
-                    "field": "metric",
-                    "type": "nominal"
-                },
-                "y": {
-                    "field": "Country",
-                    "type": "nominal"
-                },
-                "text": {
-                    "field": "score",
-                    "aggregate": "median",
-                    "format": ".2f"
-                }
-            }
+        "y": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": {
+          "field": "score",
+          "aggregate": "median",
+          "type": "quantitative",
+          "title": null,
+          "scale": {
+            "scheme": "lightmulti",
+            "reverse": true
+          }
         }
-    ],
-    "height": 500,
-    "width": 600
+      }
+    },
+    {
+      "mark": "text",
+      "encoding": {
+        "x": {
+          "field": "metric",
+          "type": "nominal",
+          "sort": [
+            "Accuracy (Full)",
+            "Precision (Full)",
+            "Recall (Full)",
+            "F1 (Full)",
+            "Accuracy (Chunking)",
+            "Precision (Chunking)",
+            "Recall (Chunking)",
+            "F1 (Chunking)"
+          ]
+        },
+        "y": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "text": {
+          "field": "score",
+          "aggregate": "median",
+          "format": ".2f"
+        }
+      }
+    }
+  ],
+  "height": 500,
+  "width": 600
 }
