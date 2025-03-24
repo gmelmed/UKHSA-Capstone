@@ -73,7 +73,17 @@
       "encoding": {
         "x": {
           "field": "metric",
-          "type": "nominal"
+          "type": "nominal",
+          "sort": [
+            "Accuracy (Full)",
+            "Precision (Full)",
+            "Recall (Full)",
+            "F1 (Full)",
+            "Accuracy (Chunking)",
+            "Precision (Chunking)",
+            "Recall (Chunking)",
+            "F1 (Chunking)"
+          ]
         },
         "y": {
           "field": "question_name",
@@ -120,7 +130,17 @@
       "encoding": {
         "x": {
           "field": "metric",
-          "type": "nominal"
+          "type": "nominal",
+          "sort": [
+            "Accuracy (Full)",
+            "Precision (Full)",
+            "Recall (Full)",
+            "F1 (Full)",
+            "Accuracy (Chunking)",
+            "Precision (Chunking)",
+            "Recall (Chunking)",
+            "F1 (Chunking)"
+          ]
         },
         "y": {
           "field": "question_name",
