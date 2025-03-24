@@ -4,26 +4,64 @@
       "url": "https://raw.githubusercontent.com/gmelmed/UKHSA-Capstone/refs/heads/main/data/7-data-for-viz/performance_with_features.csv"
     },
     "transform": [{"filter": "datum.readability_score > 0"}],
-    "mark": {"type": "circle", "size": 100},
-    "encoding": {
-      "x": {
-        "field": "readability_score",
-        "type": "quantitative",
-        "scale": {"zero": false},
-        "axis":{
-          "format":"~s",
-          "tickCount":4
+    "layer": [
+      {
+        "mark": {"type": "circle", "size": 100},
+        "encoding": {
+          "x": {
+            "field": "readability_score",
+            "type": "quantitative",
+            "scale": {"zero": false},
+            "axis":{
+              "format":"~s",
+              "tickCount":4
+            },
+            "title":"Readability Score"
+          },
+          "y": {
+            "field": "F1 (Chunking)",
+            "type": "quantitative",
+            "scale": {"zero": false},
+            "title": "F1 Score"
+          },
+          "color": {"field": "region"}
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "#3D405B", "strokeWidth": 2},
+        "transform": [
+          {"regression": "F1 (Chunking)", "on": "readability_score"}
+        ],
+        "encoding": {
+          "x": {
+            "field": "readability_score",
+            "type": "quantitative"
+          },
+          "y": {
+            "field": "F1 (Chunking)",
+            "type": "quantitative"
+          }
+        }
+      },
+      {
+        "transform": [
+          {"regression": "F1 (Chunking)", "on": "readability_score", "params": true},
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "#3D405B",
+          "x": "width",
+          "align": "right",
+          "y": 15,
+          "fontSize": 12,
+          "fontWeight": "bold"
         },
-        "title":"Readability Score"
-      },
-      "y": {
-        "field": "F1 (Chunking)",
-        "type": "quantitative",
-        "scale": {"zero": false},
-        "title": "F1 Score"
-      },
-      "color": {"field": "region"}
-    },
+        "encoding": {
+          "text": {"type": "nominal", "field": "R2"}
+        }
+      }
+    ],
     "config": {
       "font": "Montserrat, sans-serif",
       "view": {"stroke": "transparent"},
@@ -43,7 +81,6 @@
         "gridColor": "#676A86",
         "gridDash": [2, 2],
         "gridOpacity": 0.5,
-        "title": null,
         "titleColor": "#676A86",
         "titleOpacity": 0.8,
         "tickSize": 4
