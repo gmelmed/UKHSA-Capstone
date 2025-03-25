@@ -1,82 +1,82 @@
-country,Animal Health,Antibiotic Prescription and Dispensation,Budget Allocation,Emergent Resistance Detection,Environment,Food Security,Future Budget Assessment,Human Health,IPC,International Collaboration,Muli-sectoral Committee,New Laws/Regulations,OIE/FAO Standards,One Health,Professional Training,Progress Reporting,Public Awareness,Quantitative Targets,Rational Antibiotic Use Laws,Research and Development,Surveillance,Time-bound Targets,cluster,iso_code,name
-afghanistan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,AFG,Afghanistan
-albania,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ALB,Albania
-arab_emirates,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ARE,United Arab Emirates
-argentina,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,ARG,Argentina
-australia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,AUS,Australia
-bangladesh,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,0,1,0,-1,BGD,Bangladesh
-barbados,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,BRB,Barbados
-bruneibuthan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,BRN,Brunei
-canada,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,CAN,Canada
-cayman_islands,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,CYM,Cayman Islands
-chile,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,CHL,Chile
-colombia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,COL,Colombia
-costa_rica,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,-1,CRI,Costa Rica
-denmark,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,-1,DNK,Denmark
-egypt,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,EGY,Egypt
-el_salvador,1,1,0,0,0,1,0,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,-1,SLV,El Salvador
-eritrea,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,ERI,Eritrea
-eswatini,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,SWZ,Eswatini
-ethiopia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,ETH,Ethiopia
-fiji,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,FJI,Fiji
-finland,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,FIN,Finland
-france,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,-1,FRA,France
-germany,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,DEU,Germany
-ghana,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,GHA,Ghana
-india,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,IND,India
-iran,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,IRN,Iran
-ireland,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,IRL,Ireland
-kenya,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,KEN,Kenya
-kuwait,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,KWT,Kuwait
-lebanon,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBN,Lebanon
-liberia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBR,Liberia
-libya,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBY,Libya
-malawi,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MWI,Malawi
-malaysia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,MYS,Malaysia
-maldives,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MDV,Maldives
-malta,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,MLT,Malta
-mauritius,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,MUS,Mauritius
-micronesia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,FSM,Micronesia
-mongolia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MNG,Mongolia
-myanmar,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,MMR,Myanmar
-namibia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,NAM,Namibia
-nauru,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,NRU,Nauru
-nepal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NPL,Nepal
-netherlands,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,-1,NLD,Netherlands
-nigeria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NGA,Nigeria
-norway,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,NOR,Norway
-oman,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,OMN,Oman
-pakistan,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,PAK,Pakistan
-palestine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,PSE,Palestine
-papua_new_guinea,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,PNG,Papua New Guinea
-paraguay,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,PRY,Paraguay
-peru,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,PER,Peru
-qatar,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,QAT,Qatar
-rep_of_macedonia,1,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,0,-1,MKD,North Macedonia
-rwanda,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,RWA,Rwanda
-samoa,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,WSM,Samoa
-saudi arabia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,SAU,Saudi Arabia
-sierra_leone,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SLE,Sierra Leone
-solomon_islands,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SLB,Solomon Islands
-somalia,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,SOM,Somalia
-south africa,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ZAF,South Africa
-spain,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,ESP,Spain
-sri lanka,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LKA,Sri Lanka
-sudan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SDN,Sudan
-sweden,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,SWE,Sweden
-switzerland,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CHE,Switzerland
-syria,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,SYR,Syria
-tajikistan,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,TJK,Tajikistan
-tanzania,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TZA,Tanzania
-thailand,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,THA,Thailand
-timor,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,TLS,Timor-Leste
-tonga,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TON,Tonga
-tunisia,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,TUN,Tunisia
-turkmenistan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TKM,Turkmenistan
-tuvalu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TUV,Tuvalu
-united_kingdom,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,GBR,United Kingdom
-united_states,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,USA,United States
-uruguay,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,-1,URY,Uruguay
-vietnam,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,VNM,Vietnam
-yemen,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,YEM,Yemen
-zambia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ZMB,Zambia
+country,Animal Health,Antibiotic Prescription and Dispensation,Budget Allocation,Emergent Resistance Detection,Environment,Food Security,Future Budget Assessment,Human Health,IPC,International Collaboration,Muli-sectoral Committee,New Laws/Regulations,OIE/FAO Standards,One Health,Professional Training,Progress Reporting,Public Awareness,Quantitative Targets,Rational Antibiotic Use Laws,Research and Development,Surveillance,Time-bound Targets,cluster,iso_code,name,cluster_name
+afghanistan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,AFG,Afghanistan,No Quantitative Targets
+albania,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ALB,Albania,Perfect Alignment
+arab_emirates,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ARE,United Arab Emirates,Perfect Alignment
+argentina,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,ARG,Argentina,Outlier
+australia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,AUS,Australia,Outlier
+bangladesh,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,0,1,0,-1,BGD,Bangladesh,Outlier
+barbados,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,BRB,Barbados,No Budget Allocation
+bruneibuthan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,BRN,Brunei,Perfect Alignment
+canada,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,CAN,Canada,No Budget Allocation
+cayman_islands,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,CYM,Cayman Islands,No Quantitative Targets
+chile,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,CHL,Chile,No Budget Allocation
+colombia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,COL,Colombia,No Budget Allocation
+costa_rica,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,-1,CRI,Costa Rica,Outlier
+denmark,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,-1,DNK,Denmark,Outlier
+egypt,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,EGY,Egypt,Perfect Alignment
+el_salvador,1,1,0,0,0,1,0,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,-1,SLV,El Salvador,Outlier
+eritrea,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,ERI,Eritrea,No Quantitative Targets
+eswatini,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,SWZ,Eswatini,Perfect Alignment
+ethiopia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,ETH,Ethiopia,No Quantitative Targets
+fiji,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,FJI,Fiji,Perfect Alignment
+finland,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,FIN,Finland,
+france,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,-1,FRA,France,Outlier
+germany,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,DEU,Germany,No Budget Allocation
+ghana,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,GHA,Ghana,No Quantitative Targets
+india,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,IND,India,
+iran,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,IRN,Iran,No Budget Allocation
+ireland,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,IRL,Ireland,Outlier
+kenya,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,KEN,Kenya,
+kuwait,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,KWT,Kuwait,Perfect Alignment
+lebanon,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBN,Lebanon,Perfect Alignment
+liberia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBR,Liberia,Perfect Alignment
+libya,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LBY,Libya,Perfect Alignment
+malawi,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MWI,Malawi,Perfect Alignment
+malaysia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,MYS,Malaysia,No Budget Allocation
+maldives,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MDV,Maldives,Perfect Alignment
+malta,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,MLT,Malta,No Budget Allocation
+mauritius,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,MUS,Mauritius,No Quantitative Targets
+micronesia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,FSM,Micronesia,Perfect Alignment
+mongolia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,MNG,Mongolia,Perfect Alignment
+myanmar,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,MMR,Myanmar,
+namibia,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,NAM,Namibia,Outlier
+nauru,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,NRU,Nauru,No Quantitative Targets
+nepal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NPL,Nepal,Perfect Alignment
+netherlands,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,-1,NLD,Netherlands,Outlier
+nigeria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NGA,Nigeria,Perfect Alignment
+norway,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,NOR,Norway,No Budget Allocation
+oman,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,OMN,Oman,Outlier
+pakistan,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,PAK,Pakistan,
+palestine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,PSE,Palestine,Perfect Alignment
+papua_new_guinea,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,-1,PNG,Papua New Guinea,Outlier
+paraguay,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,PRY,Paraguay,No Quantitative Targets
+peru,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,PER,Peru,No Quantitative Targets
+qatar,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,QAT,Qatar,Perfect Alignment
+rep_of_macedonia,1,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,0,-1,MKD,North Macedonia,Outlier
+rwanda,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,RWA,Rwanda,Perfect Alignment
+samoa,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,WSM,Samoa,Outlier
+saudi arabia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,SAU,Saudi Arabia,Perfect Alignment
+sierra_leone,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SLE,Sierra Leone,No Quantitative Targets
+solomon_islands,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SLB,Solomon Islands,No Quantitative Targets
+somalia,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,SOM,Somalia,Outlier
+south africa,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ZAF,South Africa,Perfect Alignment
+spain,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,ESP,Spain,Outlier
+sri lanka,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,LKA,Sri Lanka,Perfect Alignment
+sudan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,SDN,Sudan,No Quantitative Targets
+sweden,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,SWE,Sweden,No Budget Allocation
+switzerland,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CHE,Switzerland,Perfect Alignment
+syria,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,-1,SYR,Syria,Outlier
+tajikistan,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,3,TJK,Tajikistan,
+tanzania,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TZA,Tanzania,Perfect Alignment
+thailand,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,THA,Thailand,No Budget Allocation
+timor,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,TLS,Timor-Leste,No Budget Allocation
+tonga,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TON,Tonga,Perfect Alignment
+tunisia,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,TUN,Tunisia,Outlier
+turkmenistan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TKM,Turkmenistan,Perfect Alignment
+tuvalu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,TUV,Tuvalu,Perfect Alignment
+united_kingdom,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,GBR,United Kingdom,No Budget Allocation
+united_states,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,USA,United States,No Budget Allocation
+uruguay,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,-1,URY,Uruguay,Outlier
+vietnam,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,VNM,Vietnam,Perfect Alignment
+yemen,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,YEM,Yemen,Perfect Alignment
+zambia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,ZMB,Zambia,Perfect Alignment
