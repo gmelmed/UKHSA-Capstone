@@ -112,7 +112,7 @@
           "type": "quantitative",
           "title": null,
           "scale": {
-            "scheme": "lightmulti",
+            "scheme": "purples",
             "reverse": true
           }
         }
