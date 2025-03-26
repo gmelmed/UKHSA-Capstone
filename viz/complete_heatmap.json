@@ -90,7 +90,7 @@
               "Research and Development"
             ]
           },
-          "y": {"field": "country_name", "type": "nominal"},
+          "y": {"field": "country", "type": "nominal"},
           "color": {
             "field": "answer",
             "type": "nominal",
