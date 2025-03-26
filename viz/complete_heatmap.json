@@ -94,46 +94,14 @@
           "color": {
             "field": "answer",
             "type": "nominal",
-            "title": null,
+            "title": "Answer",
             "legend": {
-                "orient": "top"
-                "values": ["Yes", "No"]
-            }
+                  "orient": "top"
+              }
           }
-        }
-      },
-      {
-        "mark": "text",
-        "encoding": {
-          "x": {"field": "question", "type": "nominal", "sort":[
-              "One Health",
-              "Human Health",
-              "Animal Health",
-              "Environment",
-              "Food Security",
-              "Progress Reporting",
-              "Time-bound Targets",
-              "Quantitative Targets",
-              "Budget Allocation",
-              "Future Budget Assessment",
-              "Muli-sectoral Committee",
-              "New Laws/Regulations",
-              "Professional Training",
-              "Public Awareness",
-              "International Collaboration",
-              "Surveillance",
-              "Emergent Resistance Detection",
-              "IPC",
-              "OIE/FAO Standards",
-              "Antibiotic Prescription and Dispensation",
-              "Rational Antibiotic Use Laws",
-              "Research and Development"
-            ]},
-          "y": {"field": "country_name", "type": "nominal"},
-          "text": {"field": "answer", "aggregate": "median", "format": ".0f"}
         }
       }
     ],
-    "height": 900,
+    "height": 1000,
     "width": 600
   }
