@@ -96,8 +96,7 @@
           "field":"answer",
           "type": "quantitative",
           "scale":{
-            "scheme": "lightmulti",
-            "reverse":true
+            "scheme": "purples"
           }
         }
     }
