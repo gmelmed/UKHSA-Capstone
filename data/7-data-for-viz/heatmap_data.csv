@@ -1,1783 +1,1783 @@
 question,answer,country_name
-One Health,1,Afghanistan
-One Health,1,Albania
-One Health,1,United Arab Emirates
-One Health,1,Argentina
-One Health,1,Australia
-One Health,1,Bangladesh
-One Health,1,Barbados
-One Health,1,Brunei
-One Health,1,Canada
-One Health,1,Cayman Islands
-One Health,1,Chile
-One Health,1,Colombia
-One Health,1,Costa Rica
-One Health,1,Denmark
-One Health,1,Egypt
-One Health,1,El Salvador
-One Health,1,Eritrea
-One Health,1,Eswatini
-One Health,1,Ethiopia
-One Health,1,Fiji
-One Health,1,Finland
-One Health,1,France
-One Health,1,Germany
-One Health,1,Ghana
-One Health,1,India
-One Health,1,Iran
-One Health,1,Ireland
-One Health,1,Kenya
-One Health,1,Kuwait
-One Health,1,Lebanon
-One Health,1,Liberia
-One Health,1,Libya
-One Health,1,Malawi
-One Health,1,Malaysia
-One Health,1,Maldives
-One Health,1,Malta
-One Health,1,Mauritius
-One Health,1,Micronesia
-One Health,1,Mongolia
-One Health,1,Myanmar
-One Health,1,Namibia
-One Health,1,Nauru
-One Health,1,Nepal
-One Health,1,Netherlands
-One Health,1,Nigeria
-One Health,1,Norway
-One Health,1,Oman
-One Health,1,Pakistan
-One Health,1,Palestine
-One Health,1,Papua New Guinea
-One Health,1,Paraguay
-One Health,1,Peru
-One Health,1,Qatar
-One Health,1,North Macedonia
-One Health,1,Rwanda
-One Health,1,Samoa
-One Health,1,Saudi Arabia
-One Health,1,Sierra Leone
-One Health,1,Solomon Islands
-One Health,1,Somalia
-One Health,1,South Africa
-One Health,1,Spain
-One Health,1,Sri Lanka
-One Health,1,Sudan
-One Health,1,Sweden
-One Health,1,Switzerland
-One Health,1,Syria
-One Health,1,Tajikistan
-One Health,1,Tanzania
-One Health,1,Thailand
-One Health,1,Timor-Leste
-One Health,1,Tonga
-One Health,1,Tunisia
-One Health,1,Turkmenistan
-One Health,1,Tuvalu
-One Health,1,United Kingdom
-One Health,1,United States
-One Health,1,Uruguay
-One Health,1,Vietnam
-One Health,1,Yemen
-One Health,1,Zambia
-Human Health,1,Afghanistan
-Human Health,1,Albania
-Human Health,1,United Arab Emirates
-Human Health,1,Argentina
-Human Health,1,Australia
-Human Health,1,Bangladesh
-Human Health,1,Barbados
-Human Health,1,Brunei
-Human Health,1,Canada
-Human Health,1,Cayman Islands
-Human Health,1,Chile
-Human Health,1,Colombia
-Human Health,1,Costa Rica
-Human Health,1,Denmark
-Human Health,1,Egypt
-Human Health,1,El Salvador
-Human Health,1,Eritrea
-Human Health,1,Eswatini
-Human Health,1,Ethiopia
-Human Health,1,Fiji
-Human Health,1,Finland
-Human Health,1,France
-Human Health,1,Germany
-Human Health,1,Ghana
-Human Health,1,India
-Human Health,1,Iran
-Human Health,1,Ireland
-Human Health,1,Kenya
-Human Health,1,Kuwait
-Human Health,1,Lebanon
-Human Health,1,Liberia
-Human Health,1,Libya
-Human Health,1,Malawi
-Human Health,1,Malaysia
-Human Health,1,Maldives
-Human Health,1,Malta
-Human Health,1,Mauritius
-Human Health,1,Micronesia
-Human Health,1,Mongolia
-Human Health,1,Myanmar
-Human Health,1,Namibia
-Human Health,1,Nauru
-Human Health,1,Nepal
-Human Health,1,Netherlands
-Human Health,1,Nigeria
-Human Health,1,Norway
-Human Health,1,Oman
-Human Health,1,Pakistan
-Human Health,1,Palestine
-Human Health,1,Papua New Guinea
-Human Health,1,Paraguay
-Human Health,1,Peru
-Human Health,1,Qatar
-Human Health,1,North Macedonia
-Human Health,1,Rwanda
-Human Health,1,Samoa
-Human Health,1,Saudi Arabia
-Human Health,1,Sierra Leone
-Human Health,1,Solomon Islands
-Human Health,1,Somalia
-Human Health,1,South Africa
-Human Health,1,Spain
-Human Health,1,Sri Lanka
-Human Health,1,Sudan
-Human Health,1,Sweden
-Human Health,1,Switzerland
-Human Health,1,Syria
-Human Health,1,Tajikistan
-Human Health,1,Tanzania
-Human Health,1,Thailand
-Human Health,1,Timor-Leste
-Human Health,1,Tonga
-Human Health,1,Tunisia
-Human Health,1,Turkmenistan
-Human Health,1,Tuvalu
-Human Health,1,United Kingdom
-Human Health,1,United States
-Human Health,1,Uruguay
-Human Health,1,Vietnam
-Human Health,1,Yemen
-Human Health,1,Zambia
-Animal Health,1,Afghanistan
-Animal Health,1,Albania
-Animal Health,1,United Arab Emirates
-Animal Health,1,Argentina
-Animal Health,1,Australia
-Animal Health,1,Bangladesh
-Animal Health,1,Barbados
-Animal Health,1,Brunei
-Animal Health,1,Canada
-Animal Health,1,Cayman Islands
-Animal Health,1,Chile
-Animal Health,1,Colombia
-Animal Health,1,Costa Rica
-Animal Health,1,Denmark
-Animal Health,1,Egypt
-Animal Health,1,El Salvador
-Animal Health,1,Eritrea
-Animal Health,1,Eswatini
-Animal Health,1,Ethiopia
-Animal Health,1,Fiji
-Animal Health,1,Finland
-Animal Health,0,France
-Animal Health,1,Germany
-Animal Health,1,Ghana
-Animal Health,1,India
-Animal Health,1,Iran
-Animal Health,1,Ireland
-Animal Health,1,Kenya
-Animal Health,1,Kuwait
-Animal Health,1,Lebanon
-Animal Health,1,Liberia
-Animal Health,1,Libya
-Animal Health,1,Malawi
-Animal Health,1,Malaysia
-Animal Health,1,Maldives
-Animal Health,1,Malta
-Animal Health,1,Mauritius
-Animal Health,1,Micronesia
-Animal Health,1,Mongolia
-Animal Health,1,Myanmar
-Animal Health,1,Namibia
-Animal Health,1,Nauru
-Animal Health,1,Nepal
-Animal Health,1,Netherlands
-Animal Health,1,Nigeria
-Animal Health,1,Norway
-Animal Health,1,Oman
-Animal Health,1,Pakistan
-Animal Health,1,Palestine
-Animal Health,1,Papua New Guinea
-Animal Health,1,Paraguay
-Animal Health,1,Peru
-Animal Health,1,Qatar
-Animal Health,1,North Macedonia
-Animal Health,1,Rwanda
-Animal Health,1,Samoa
-Animal Health,1,Saudi Arabia
-Animal Health,1,Sierra Leone
-Animal Health,1,Solomon Islands
-Animal Health,1,Somalia
-Animal Health,1,South Africa
-Animal Health,1,Spain
-Animal Health,1,Sri Lanka
-Animal Health,1,Sudan
-Animal Health,1,Sweden
-Animal Health,1,Switzerland
-Animal Health,1,Syria
-Animal Health,1,Tajikistan
-Animal Health,1,Tanzania
-Animal Health,1,Thailand
-Animal Health,1,Timor-Leste
-Animal Health,1,Tonga
-Animal Health,1,Tunisia
-Animal Health,1,Turkmenistan
-Animal Health,1,Tuvalu
-Animal Health,1,United Kingdom
-Animal Health,1,United States
-Animal Health,1,Uruguay
-Animal Health,1,Vietnam
-Animal Health,1,Yemen
-Animal Health,1,Zambia
-Environment,1,Afghanistan
-Environment,1,Albania
-Environment,1,United Arab Emirates
-Environment,0,Argentina
-Environment,1,Australia
-Environment,1,Bangladesh
-Environment,1,Barbados
-Environment,1,Brunei
-Environment,1,Canada
-Environment,1,Cayman Islands
-Environment,1,Chile
-Environment,1,Colombia
-Environment,1,Costa Rica
-Environment,1,Denmark
-Environment,1,Egypt
-Environment,0,El Salvador
-Environment,1,Eritrea
-Environment,1,Eswatini
-Environment,1,Ethiopia
-Environment,1,Fiji
-Environment,1,Finland
-Environment,1,France
-Environment,1,Germany
-Environment,1,Ghana
-Environment,1,India
-Environment,1,Iran
-Environment,1,Ireland
-Environment,1,Kenya
-Environment,1,Kuwait
-Environment,1,Lebanon
-Environment,1,Liberia
-Environment,1,Libya
-Environment,1,Malawi
-Environment,1,Malaysia
-Environment,1,Maldives
-Environment,1,Malta
-Environment,1,Mauritius
-Environment,1,Micronesia
-Environment,1,Mongolia
-Environment,1,Myanmar
-Environment,1,Namibia
-Environment,1,Nauru
-Environment,1,Nepal
-Environment,1,Netherlands
-Environment,1,Nigeria
-Environment,1,Norway
-Environment,0,Oman
-Environment,1,Pakistan
-Environment,1,Palestine
-Environment,1,Papua New Guinea
-Environment,1,Paraguay
-Environment,1,Peru
-Environment,1,Qatar
-Environment,0,North Macedonia
-Environment,1,Rwanda
-Environment,1,Samoa
-Environment,1,Saudi Arabia
-Environment,1,Sierra Leone
-Environment,1,Solomon Islands
-Environment,0,Somalia
-Environment,1,South Africa
-Environment,1,Spain
-Environment,1,Sri Lanka
-Environment,1,Sudan
-Environment,1,Sweden
-Environment,1,Switzerland
-Environment,1,Syria
-Environment,1,Tajikistan
-Environment,1,Tanzania
-Environment,1,Thailand
-Environment,1,Timor-Leste
-Environment,1,Tonga
-Environment,1,Tunisia
-Environment,1,Turkmenistan
-Environment,1,Tuvalu
-Environment,1,United Kingdom
-Environment,1,United States
-Environment,0,Uruguay
-Environment,1,Vietnam
-Environment,1,Yemen
-Environment,1,Zambia
-Food Security,1,Afghanistan
-Food Security,1,Albania
-Food Security,1,United Arab Emirates
-Food Security,1,Argentina
-Food Security,1,Australia
-Food Security,1,Bangladesh
-Food Security,1,Barbados
-Food Security,1,Brunei
-Food Security,1,Canada
-Food Security,1,Cayman Islands
-Food Security,1,Chile
-Food Security,1,Colombia
-Food Security,1,Costa Rica
-Food Security,1,Denmark
-Food Security,1,Egypt
-Food Security,1,El Salvador
-Food Security,1,Eritrea
-Food Security,1,Eswatini
-Food Security,1,Ethiopia
-Food Security,1,Fiji
-Food Security,1,Finland
-Food Security,0,France
-Food Security,1,Germany
-Food Security,1,Ghana
-Food Security,1,India
-Food Security,1,Iran
-Food Security,1,Ireland
-Food Security,1,Kenya
-Food Security,1,Kuwait
-Food Security,1,Lebanon
-Food Security,1,Liberia
-Food Security,1,Libya
-Food Security,1,Malawi
-Food Security,1,Malaysia
-Food Security,1,Maldives
-Food Security,1,Malta
-Food Security,1,Mauritius
-Food Security,1,Micronesia
-Food Security,1,Mongolia
-Food Security,1,Myanmar
-Food Security,1,Namibia
-Food Security,1,Nauru
-Food Security,1,Nepal
-Food Security,1,Netherlands
-Food Security,1,Nigeria
-Food Security,1,Norway
-Food Security,1,Oman
-Food Security,1,Pakistan
-Food Security,1,Palestine
-Food Security,1,Papua New Guinea
-Food Security,1,Paraguay
-Food Security,1,Peru
-Food Security,1,Qatar
-Food Security,1,North Macedonia
-Food Security,1,Rwanda
-Food Security,1,Samoa
-Food Security,1,Saudi Arabia
-Food Security,1,Sierra Leone
-Food Security,1,Solomon Islands
-Food Security,1,Somalia
-Food Security,1,South Africa
-Food Security,0,Spain
-Food Security,1,Sri Lanka
-Food Security,1,Sudan
-Food Security,1,Sweden
-Food Security,1,Switzerland
-Food Security,1,Syria
-Food Security,1,Tajikistan
-Food Security,1,Tanzania
-Food Security,1,Thailand
-Food Security,1,Timor-Leste
-Food Security,1,Tonga
-Food Security,1,Tunisia
-Food Security,1,Turkmenistan
-Food Security,1,Tuvalu
-Food Security,1,United Kingdom
-Food Security,1,United States
-Food Security,1,Uruguay
-Food Security,1,Vietnam
-Food Security,1,Yemen
-Food Security,1,Zambia
-Progress Reporting,1,Afghanistan
-Progress Reporting,1,Albania
-Progress Reporting,1,United Arab Emirates
-Progress Reporting,1,Argentina
-Progress Reporting,1,Australia
-Progress Reporting,0,Bangladesh
-Progress Reporting,1,Barbados
-Progress Reporting,1,Brunei
-Progress Reporting,1,Canada
-Progress Reporting,1,Cayman Islands
-Progress Reporting,1,Chile
-Progress Reporting,1,Colombia
-Progress Reporting,0,Costa Rica
-Progress Reporting,1,Denmark
-Progress Reporting,1,Egypt
-Progress Reporting,1,El Salvador
-Progress Reporting,1,Eritrea
-Progress Reporting,1,Eswatini
-Progress Reporting,1,Ethiopia
-Progress Reporting,1,Fiji
-Progress Reporting,1,Finland
-Progress Reporting,1,France
-Progress Reporting,1,Germany
-Progress Reporting,1,Ghana
-Progress Reporting,1,India
-Progress Reporting,1,Iran
-Progress Reporting,1,Ireland
-Progress Reporting,1,Kenya
-Progress Reporting,1,Kuwait
-Progress Reporting,1,Lebanon
-Progress Reporting,1,Liberia
-Progress Reporting,1,Libya
-Progress Reporting,1,Malawi
-Progress Reporting,1,Malaysia
-Progress Reporting,1,Maldives
-Progress Reporting,1,Malta
-Progress Reporting,1,Mauritius
-Progress Reporting,1,Micronesia
-Progress Reporting,1,Mongolia
-Progress Reporting,1,Myanmar
-Progress Reporting,1,Namibia
-Progress Reporting,1,Nauru
-Progress Reporting,1,Nepal
-Progress Reporting,1,Netherlands
-Progress Reporting,1,Nigeria
-Progress Reporting,1,Norway
-Progress Reporting,1,Oman
-Progress Reporting,1,Pakistan
-Progress Reporting,1,Palestine
-Progress Reporting,1,Papua New Guinea
-Progress Reporting,1,Paraguay
-Progress Reporting,1,Peru
-Progress Reporting,1,Qatar
-Progress Reporting,0,North Macedonia
-Progress Reporting,1,Rwanda
-Progress Reporting,1,Samoa
-Progress Reporting,1,Saudi Arabia
-Progress Reporting,1,Sierra Leone
-Progress Reporting,1,Solomon Islands
-Progress Reporting,1,Somalia
-Progress Reporting,1,South Africa
-Progress Reporting,1,Spain
-Progress Reporting,1,Sri Lanka
-Progress Reporting,1,Sudan
-Progress Reporting,1,Sweden
-Progress Reporting,1,Switzerland
-Progress Reporting,1,Syria
-Progress Reporting,1,Tajikistan
-Progress Reporting,1,Tanzania
-Progress Reporting,1,Thailand
-Progress Reporting,1,Timor-Leste
-Progress Reporting,1,Tonga
-Progress Reporting,1,Tunisia
-Progress Reporting,1,Turkmenistan
-Progress Reporting,1,Tuvalu
-Progress Reporting,1,United Kingdom
-Progress Reporting,1,United States
-Progress Reporting,1,Uruguay
-Progress Reporting,1,Vietnam
-Progress Reporting,1,Yemen
-Progress Reporting,1,Zambia
-Time-bound Targets,1,Afghanistan
-Time-bound Targets,1,Albania
-Time-bound Targets,1,United Arab Emirates
-Time-bound Targets,0,Argentina
-Time-bound Targets,0,Australia
-Time-bound Targets,0,Bangladesh
-Time-bound Targets,1,Barbados
-Time-bound Targets,1,Brunei
-Time-bound Targets,1,Canada
-Time-bound Targets,1,Cayman Islands
-Time-bound Targets,1,Chile
-Time-bound Targets,1,Colombia
-Time-bound Targets,0,Costa Rica
-Time-bound Targets,1,Denmark
-Time-bound Targets,1,Egypt
-Time-bound Targets,0,El Salvador
-Time-bound Targets,1,Eritrea
-Time-bound Targets,1,Eswatini
-Time-bound Targets,1,Ethiopia
-Time-bound Targets,1,Fiji
-Time-bound Targets,1,Finland
-Time-bound Targets,1,France
-Time-bound Targets,1,Germany
-Time-bound Targets,1,Ghana
-Time-bound Targets,1,India
-Time-bound Targets,1,Iran
-Time-bound Targets,1,Ireland
-Time-bound Targets,1,Kenya
-Time-bound Targets,1,Kuwait
-Time-bound Targets,1,Lebanon
-Time-bound Targets,1,Liberia
-Time-bound Targets,1,Libya
-Time-bound Targets,1,Malawi
-Time-bound Targets,1,Malaysia
-Time-bound Targets,1,Maldives
-Time-bound Targets,1,Malta
-Time-bound Targets,1,Mauritius
-Time-bound Targets,1,Micronesia
-Time-bound Targets,1,Mongolia
-Time-bound Targets,1,Myanmar
-Time-bound Targets,1,Namibia
-Time-bound Targets,1,Nauru
-Time-bound Targets,1,Nepal
-Time-bound Targets,1,Netherlands
-Time-bound Targets,1,Nigeria
-Time-bound Targets,1,Norway
-Time-bound Targets,0,Oman
-Time-bound Targets,1,Pakistan
-Time-bound Targets,1,Palestine
-Time-bound Targets,0,Papua New Guinea
-Time-bound Targets,1,Paraguay
-Time-bound Targets,1,Peru
-Time-bound Targets,1,Qatar
-Time-bound Targets,0,North Macedonia
-Time-bound Targets,1,Rwanda
-Time-bound Targets,1,Samoa
-Time-bound Targets,1,Saudi Arabia
-Time-bound Targets,1,Sierra Leone
-Time-bound Targets,1,Solomon Islands
-Time-bound Targets,1,Somalia
-Time-bound Targets,1,South Africa
-Time-bound Targets,1,Spain
-Time-bound Targets,1,Sri Lanka
-Time-bound Targets,1,Sudan
-Time-bound Targets,1,Sweden
-Time-bound Targets,1,Switzerland
-Time-bound Targets,1,Syria
-Time-bound Targets,1,Tajikistan
-Time-bound Targets,1,Tanzania
-Time-bound Targets,1,Thailand
-Time-bound Targets,1,Timor-Leste
-Time-bound Targets,1,Tonga
-Time-bound Targets,1,Tunisia
-Time-bound Targets,1,Turkmenistan
-Time-bound Targets,1,Tuvalu
-Time-bound Targets,1,United Kingdom
-Time-bound Targets,1,United States
-Time-bound Targets,0,Uruguay
-Time-bound Targets,1,Vietnam
-Time-bound Targets,1,Yemen
-Time-bound Targets,1,Zambia
-Quantitative Targets,0,Afghanistan
-Quantitative Targets,1,Albania
-Quantitative Targets,1,United Arab Emirates
-Quantitative Targets,0,Argentina
-Quantitative Targets,0,Australia
-Quantitative Targets,0,Bangladesh
-Quantitative Targets,1,Barbados
-Quantitative Targets,1,Brunei
-Quantitative Targets,1,Canada
-Quantitative Targets,0,Cayman Islands
-Quantitative Targets,1,Chile
-Quantitative Targets,1,Colombia
-Quantitative Targets,0,Costa Rica
-Quantitative Targets,1,Denmark
-Quantitative Targets,1,Egypt
-Quantitative Targets,0,El Salvador
-Quantitative Targets,0,Eritrea
-Quantitative Targets,1,Eswatini
-Quantitative Targets,0,Ethiopia
-Quantitative Targets,1,Fiji
-Quantitative Targets,0,Finland
-Quantitative Targets,1,France
-Quantitative Targets,1,Germany
-Quantitative Targets,0,Ghana
-Quantitative Targets,0,India
-Quantitative Targets,1,Iran
-Quantitative Targets,0,Ireland
-Quantitative Targets,0,Kenya
-Quantitative Targets,1,Kuwait
-Quantitative Targets,1,Lebanon
-Quantitative Targets,1,Liberia
-Quantitative Targets,1,Libya
-Quantitative Targets,1,Malawi
-Quantitative Targets,1,Malaysia
-Quantitative Targets,1,Maldives
-Quantitative Targets,1,Malta
-Quantitative Targets,0,Mauritius
-Quantitative Targets,1,Micronesia
-Quantitative Targets,1,Mongolia
-Quantitative Targets,0,Myanmar
-Quantitative Targets,0,Namibia
-Quantitative Targets,0,Nauru
-Quantitative Targets,1,Nepal
-Quantitative Targets,1,Netherlands
-Quantitative Targets,1,Nigeria
-Quantitative Targets,1,Norway
-Quantitative Targets,0,Oman
-Quantitative Targets,0,Pakistan
-Quantitative Targets,1,Palestine
-Quantitative Targets,0,Papua New Guinea
-Quantitative Targets,0,Paraguay
-Quantitative Targets,0,Peru
-Quantitative Targets,1,Qatar
-Quantitative Targets,0,North Macedonia
-Quantitative Targets,1,Rwanda
-Quantitative Targets,0,Samoa
-Quantitative Targets,1,Saudi Arabia
-Quantitative Targets,0,Sierra Leone
-Quantitative Targets,0,Solomon Islands
-Quantitative Targets,0,Somalia
-Quantitative Targets,1,South Africa
-Quantitative Targets,1,Spain
-Quantitative Targets,1,Sri Lanka
-Quantitative Targets,0,Sudan
-Quantitative Targets,1,Sweden
-Quantitative Targets,1,Switzerland
-Quantitative Targets,0,Syria
-Quantitative Targets,0,Tajikistan
-Quantitative Targets,1,Tanzania
-Quantitative Targets,1,Thailand
-Quantitative Targets,1,Timor-Leste
-Quantitative Targets,1,Tonga
-Quantitative Targets,0,Tunisia
-Quantitative Targets,1,Turkmenistan
-Quantitative Targets,1,Tuvalu
-Quantitative Targets,1,United Kingdom
-Quantitative Targets,1,United States
-Quantitative Targets,0,Uruguay
-Quantitative Targets,1,Vietnam
-Quantitative Targets,1,Yemen
-Quantitative Targets,1,Zambia
-Budget Allocation,1,Afghanistan
-Budget Allocation,1,Albania
-Budget Allocation,1,United Arab Emirates
-Budget Allocation,0,Argentina
-Budget Allocation,0,Australia
-Budget Allocation,0,Bangladesh
-Budget Allocation,0,Barbados
-Budget Allocation,1,Brunei
-Budget Allocation,0,Canada
-Budget Allocation,1,Cayman Islands
-Budget Allocation,0,Chile
-Budget Allocation,0,Colombia
-Budget Allocation,0,Costa Rica
-Budget Allocation,1,Denmark
-Budget Allocation,1,Egypt
-Budget Allocation,0,El Salvador
-Budget Allocation,1,Eritrea
-Budget Allocation,1,Eswatini
-Budget Allocation,1,Ethiopia
-Budget Allocation,1,Fiji
-Budget Allocation,0,Finland
-Budget Allocation,0,France
-Budget Allocation,0,Germany
-Budget Allocation,1,Ghana
-Budget Allocation,0,India
-Budget Allocation,0,Iran
-Budget Allocation,1,Ireland
-Budget Allocation,0,Kenya
-Budget Allocation,1,Kuwait
-Budget Allocation,1,Lebanon
-Budget Allocation,1,Liberia
-Budget Allocation,1,Libya
-Budget Allocation,1,Malawi
-Budget Allocation,0,Malaysia
-Budget Allocation,1,Maldives
-Budget Allocation,0,Malta
-Budget Allocation,1,Mauritius
-Budget Allocation,1,Micronesia
-Budget Allocation,1,Mongolia
-Budget Allocation,0,Myanmar
-Budget Allocation,0,Namibia
-Budget Allocation,1,Nauru
-Budget Allocation,1,Nepal
-Budget Allocation,0,Netherlands
-Budget Allocation,1,Nigeria
-Budget Allocation,0,Norway
-Budget Allocation,0,Oman
-Budget Allocation,0,Pakistan
-Budget Allocation,1,Palestine
-Budget Allocation,1,Papua New Guinea
-Budget Allocation,1,Paraguay
-Budget Allocation,1,Peru
-Budget Allocation,1,Qatar
-Budget Allocation,0,North Macedonia
-Budget Allocation,1,Rwanda
-Budget Allocation,1,Samoa
-Budget Allocation,1,Saudi Arabia
-Budget Allocation,1,Sierra Leone
-Budget Allocation,1,Solomon Islands
-Budget Allocation,0,Somalia
-Budget Allocation,1,South Africa
-Budget Allocation,0,Spain
-Budget Allocation,1,Sri Lanka
-Budget Allocation,1,Sudan
-Budget Allocation,0,Sweden
-Budget Allocation,1,Switzerland
-Budget Allocation,0,Syria
-Budget Allocation,0,Tajikistan
-Budget Allocation,1,Tanzania
-Budget Allocation,0,Thailand
-Budget Allocation,0,Timor-Leste
-Budget Allocation,1,Tonga
-Budget Allocation,1,Tunisia
-Budget Allocation,1,Turkmenistan
-Budget Allocation,1,Tuvalu
-Budget Allocation,0,United Kingdom
-Budget Allocation,0,United States
-Budget Allocation,0,Uruguay
-Budget Allocation,1,Vietnam
-Budget Allocation,1,Yemen
-Budget Allocation,1,Zambia
-Future Budget Assessment,1,Afghanistan
-Future Budget Assessment,1,Albania
-Future Budget Assessment,1,United Arab Emirates
-Future Budget Assessment,0,Argentina
-Future Budget Assessment,0,Australia
-Future Budget Assessment,0,Bangladesh
-Future Budget Assessment,0,Barbados
-Future Budget Assessment,1,Brunei
-Future Budget Assessment,0,Canada
-Future Budget Assessment,1,Cayman Islands
-Future Budget Assessment,0,Chile
-Future Budget Assessment,0,Colombia
-Future Budget Assessment,0,Costa Rica
-Future Budget Assessment,0,Denmark
-Future Budget Assessment,1,Egypt
-Future Budget Assessment,0,El Salvador
-Future Budget Assessment,1,Eritrea
-Future Budget Assessment,1,Eswatini
-Future Budget Assessment,1,Ethiopia
-Future Budget Assessment,1,Fiji
-Future Budget Assessment,0,Finland
-Future Budget Assessment,0,France
-Future Budget Assessment,0,Germany
-Future Budget Assessment,1,Ghana
-Future Budget Assessment,0,India
-Future Budget Assessment,0,Iran
-Future Budget Assessment,0,Ireland
-Future Budget Assessment,0,Kenya
-Future Budget Assessment,1,Kuwait
-Future Budget Assessment,1,Lebanon
-Future Budget Assessment,1,Liberia
-Future Budget Assessment,1,Libya
-Future Budget Assessment,1,Malawi
-Future Budget Assessment,0,Malaysia
-Future Budget Assessment,1,Maldives
-Future Budget Assessment,0,Malta
-Future Budget Assessment,1,Mauritius
-Future Budget Assessment,1,Micronesia
-Future Budget Assessment,1,Mongolia
-Future Budget Assessment,0,Myanmar
-Future Budget Assessment,0,Namibia
-Future Budget Assessment,1,Nauru
-Future Budget Assessment,1,Nepal
-Future Budget Assessment,0,Netherlands
-Future Budget Assessment,1,Nigeria
-Future Budget Assessment,0,Norway
-Future Budget Assessment,0,Oman
-Future Budget Assessment,0,Pakistan
-Future Budget Assessment,1,Palestine
-Future Budget Assessment,1,Papua New Guinea
-Future Budget Assessment,1,Paraguay
-Future Budget Assessment,1,Peru
-Future Budget Assessment,1,Qatar
-Future Budget Assessment,0,North Macedonia
-Future Budget Assessment,1,Rwanda
-Future Budget Assessment,1,Samoa
-Future Budget Assessment,1,Saudi Arabia
-Future Budget Assessment,1,Sierra Leone
-Future Budget Assessment,1,Solomon Islands
-Future Budget Assessment,0,Somalia
-Future Budget Assessment,1,South Africa
-Future Budget Assessment,0,Spain
-Future Budget Assessment,1,Sri Lanka
-Future Budget Assessment,1,Sudan
-Future Budget Assessment,0,Sweden
-Future Budget Assessment,1,Switzerland
-Future Budget Assessment,0,Syria
-Future Budget Assessment,0,Tajikistan
-Future Budget Assessment,1,Tanzania
-Future Budget Assessment,0,Thailand
-Future Budget Assessment,0,Timor-Leste
-Future Budget Assessment,1,Tonga
-Future Budget Assessment,0,Tunisia
-Future Budget Assessment,1,Turkmenistan
-Future Budget Assessment,1,Tuvalu
-Future Budget Assessment,0,United Kingdom
-Future Budget Assessment,0,United States
-Future Budget Assessment,0,Uruguay
-Future Budget Assessment,1,Vietnam
-Future Budget Assessment,1,Yemen
-Future Budget Assessment,1,Zambia
-Muli-sectoral Committee,1,Afghanistan
-Muli-sectoral Committee,1,Albania
-Muli-sectoral Committee,1,United Arab Emirates
-Muli-sectoral Committee,1,Argentina
-Muli-sectoral Committee,1,Australia
-Muli-sectoral Committee,1,Bangladesh
-Muli-sectoral Committee,1,Barbados
-Muli-sectoral Committee,1,Brunei
-Muli-sectoral Committee,1,Canada
-Muli-sectoral Committee,1,Cayman Islands
-Muli-sectoral Committee,1,Chile
-Muli-sectoral Committee,1,Colombia
-Muli-sectoral Committee,1,Costa Rica
-Muli-sectoral Committee,1,Denmark
-Muli-sectoral Committee,1,Egypt
-Muli-sectoral Committee,1,El Salvador
-Muli-sectoral Committee,1,Eritrea
-Muli-sectoral Committee,1,Eswatini
-Muli-sectoral Committee,1,Ethiopia
-Muli-sectoral Committee,1,Fiji
-Muli-sectoral Committee,1,Finland
-Muli-sectoral Committee,1,France
-Muli-sectoral Committee,1,Germany
-Muli-sectoral Committee,1,Ghana
-Muli-sectoral Committee,1,India
-Muli-sectoral Committee,1,Iran
-Muli-sectoral Committee,1,Ireland
-Muli-sectoral Committee,1,Kenya
-Muli-sectoral Committee,1,Kuwait
-Muli-sectoral Committee,1,Lebanon
-Muli-sectoral Committee,1,Liberia
-Muli-sectoral Committee,1,Libya
-Muli-sectoral Committee,1,Malawi
-Muli-sectoral Committee,1,Malaysia
-Muli-sectoral Committee,1,Maldives
-Muli-sectoral Committee,1,Malta
-Muli-sectoral Committee,1,Mauritius
-Muli-sectoral Committee,1,Micronesia
-Muli-sectoral Committee,1,Mongolia
-Muli-sectoral Committee,1,Myanmar
-Muli-sectoral Committee,1,Namibia
-Muli-sectoral Committee,1,Nauru
-Muli-sectoral Committee,1,Nepal
-Muli-sectoral Committee,0,Netherlands
-Muli-sectoral Committee,1,Nigeria
-Muli-sectoral Committee,1,Norway
-Muli-sectoral Committee,1,Oman
-Muli-sectoral Committee,1,Pakistan
-Muli-sectoral Committee,1,Palestine
-Muli-sectoral Committee,1,Papua New Guinea
-Muli-sectoral Committee,1,Paraguay
-Muli-sectoral Committee,1,Peru
-Muli-sectoral Committee,1,Qatar
-Muli-sectoral Committee,1,North Macedonia
-Muli-sectoral Committee,1,Rwanda
-Muli-sectoral Committee,1,Samoa
-Muli-sectoral Committee,1,Saudi Arabia
-Muli-sectoral Committee,1,Sierra Leone
-Muli-sectoral Committee,1,Solomon Islands
-Muli-sectoral Committee,1,Somalia
-Muli-sectoral Committee,1,South Africa
-Muli-sectoral Committee,1,Spain
-Muli-sectoral Committee,1,Sri Lanka
-Muli-sectoral Committee,1,Sudan
-Muli-sectoral Committee,1,Sweden
-Muli-sectoral Committee,1,Switzerland
-Muli-sectoral Committee,1,Syria
-Muli-sectoral Committee,1,Tajikistan
-Muli-sectoral Committee,1,Tanzania
-Muli-sectoral Committee,1,Thailand
-Muli-sectoral Committee,1,Timor-Leste
-Muli-sectoral Committee,1,Tonga
-Muli-sectoral Committee,1,Tunisia
-Muli-sectoral Committee,1,Turkmenistan
-Muli-sectoral Committee,1,Tuvalu
-Muli-sectoral Committee,1,United Kingdom
-Muli-sectoral Committee,1,United States
-Muli-sectoral Committee,1,Uruguay
-Muli-sectoral Committee,1,Vietnam
-Muli-sectoral Committee,1,Yemen
-Muli-sectoral Committee,1,Zambia
-New Laws/Regulations,1,Afghanistan
-New Laws/Regulations,1,Albania
-New Laws/Regulations,1,United Arab Emirates
-New Laws/Regulations,1,Argentina
-New Laws/Regulations,1,Australia
-New Laws/Regulations,1,Bangladesh
-New Laws/Regulations,1,Barbados
-New Laws/Regulations,1,Brunei
-New Laws/Regulations,1,Canada
-New Laws/Regulations,1,Cayman Islands
-New Laws/Regulations,1,Chile
-New Laws/Regulations,1,Colombia
-New Laws/Regulations,1,Costa Rica
-New Laws/Regulations,1,Denmark
-New Laws/Regulations,1,Egypt
-New Laws/Regulations,1,El Salvador
-New Laws/Regulations,1,Eritrea
-New Laws/Regulations,1,Eswatini
-New Laws/Regulations,1,Ethiopia
-New Laws/Regulations,1,Fiji
-New Laws/Regulations,1,Finland
-New Laws/Regulations,0,France
-New Laws/Regulations,1,Germany
-New Laws/Regulations,1,Ghana
-New Laws/Regulations,1,India
-New Laws/Regulations,1,Iran
-New Laws/Regulations,1,Ireland
-New Laws/Regulations,1,Kenya
-New Laws/Regulations,1,Kuwait
-New Laws/Regulations,1,Lebanon
-New Laws/Regulations,1,Liberia
-New Laws/Regulations,1,Libya
-New Laws/Regulations,1,Malawi
-New Laws/Regulations,1,Malaysia
-New Laws/Regulations,1,Maldives
-New Laws/Regulations,1,Malta
-New Laws/Regulations,1,Mauritius
-New Laws/Regulations,1,Micronesia
-New Laws/Regulations,1,Mongolia
-New Laws/Regulations,1,Myanmar
-New Laws/Regulations,1,Namibia
-New Laws/Regulations,1,Nauru
-New Laws/Regulations,1,Nepal
-New Laws/Regulations,1,Netherlands
-New Laws/Regulations,1,Nigeria
-New Laws/Regulations,1,Norway
-New Laws/Regulations,1,Oman
-New Laws/Regulations,1,Pakistan
-New Laws/Regulations,1,Palestine
-New Laws/Regulations,1,Papua New Guinea
-New Laws/Regulations,1,Paraguay
-New Laws/Regulations,1,Peru
-New Laws/Regulations,1,Qatar
-New Laws/Regulations,0,North Macedonia
-New Laws/Regulations,1,Rwanda
-New Laws/Regulations,1,Samoa
-New Laws/Regulations,1,Saudi Arabia
-New Laws/Regulations,1,Sierra Leone
-New Laws/Regulations,1,Solomon Islands
-New Laws/Regulations,1,Somalia
-New Laws/Regulations,1,South Africa
-New Laws/Regulations,1,Spain
-New Laws/Regulations,1,Sri Lanka
-New Laws/Regulations,1,Sudan
-New Laws/Regulations,1,Sweden
-New Laws/Regulations,1,Switzerland
-New Laws/Regulations,1,Syria
-New Laws/Regulations,1,Tajikistan
-New Laws/Regulations,1,Tanzania
-New Laws/Regulations,1,Thailand
-New Laws/Regulations,1,Timor-Leste
-New Laws/Regulations,1,Tonga
-New Laws/Regulations,1,Tunisia
-New Laws/Regulations,1,Turkmenistan
-New Laws/Regulations,1,Tuvalu
-New Laws/Regulations,1,United Kingdom
-New Laws/Regulations,1,United States
-New Laws/Regulations,1,Uruguay
-New Laws/Regulations,1,Vietnam
-New Laws/Regulations,1,Yemen
-New Laws/Regulations,1,Zambia
-Professional Training,1,Afghanistan
-Professional Training,1,Albania
-Professional Training,1,United Arab Emirates
-Professional Training,1,Argentina
-Professional Training,1,Australia
-Professional Training,1,Bangladesh
-Professional Training,1,Barbados
-Professional Training,1,Brunei
-Professional Training,1,Canada
-Professional Training,1,Cayman Islands
-Professional Training,1,Chile
-Professional Training,1,Colombia
-Professional Training,1,Costa Rica
-Professional Training,1,Denmark
-Professional Training,1,Egypt
-Professional Training,1,El Salvador
-Professional Training,1,Eritrea
-Professional Training,1,Eswatini
-Professional Training,1,Ethiopia
-Professional Training,1,Fiji
-Professional Training,1,Finland
-Professional Training,1,France
-Professional Training,1,Germany
-Professional Training,1,Ghana
-Professional Training,1,India
-Professional Training,1,Iran
-Professional Training,1,Ireland
-Professional Training,1,Kenya
-Professional Training,1,Kuwait
-Professional Training,1,Lebanon
-Professional Training,1,Liberia
-Professional Training,1,Libya
-Professional Training,1,Malawi
-Professional Training,1,Malaysia
-Professional Training,1,Maldives
-Professional Training,1,Malta
-Professional Training,1,Mauritius
-Professional Training,1,Micronesia
-Professional Training,1,Mongolia
-Professional Training,1,Myanmar
-Professional Training,1,Namibia
-Professional Training,1,Nauru
-Professional Training,1,Nepal
-Professional Training,1,Netherlands
-Professional Training,1,Nigeria
-Professional Training,1,Norway
-Professional Training,1,Oman
-Professional Training,1,Pakistan
-Professional Training,1,Palestine
-Professional Training,1,Papua New Guinea
-Professional Training,1,Paraguay
-Professional Training,1,Peru
-Professional Training,1,Qatar
-Professional Training,1,North Macedonia
-Professional Training,1,Rwanda
-Professional Training,1,Samoa
-Professional Training,1,Saudi Arabia
-Professional Training,1,Sierra Leone
-Professional Training,1,Solomon Islands
-Professional Training,1,Somalia
-Professional Training,1,South Africa
-Professional Training,1,Spain
-Professional Training,1,Sri Lanka
-Professional Training,1,Sudan
-Professional Training,1,Sweden
-Professional Training,1,Switzerland
-Professional Training,1,Syria
-Professional Training,1,Tajikistan
-Professional Training,1,Tanzania
-Professional Training,1,Thailand
-Professional Training,1,Timor-Leste
-Professional Training,1,Tonga
-Professional Training,1,Tunisia
-Professional Training,1,Turkmenistan
-Professional Training,1,Tuvalu
-Professional Training,1,United Kingdom
-Professional Training,1,United States
-Professional Training,1,Uruguay
-Professional Training,1,Vietnam
-Professional Training,1,Yemen
-Professional Training,1,Zambia
-Public Awareness,1,Afghanistan
-Public Awareness,1,Albania
-Public Awareness,1,United Arab Emirates
-Public Awareness,1,Argentina
-Public Awareness,1,Australia
-Public Awareness,1,Bangladesh
-Public Awareness,1,Barbados
-Public Awareness,1,Brunei
-Public Awareness,1,Canada
-Public Awareness,1,Cayman Islands
-Public Awareness,1,Chile
-Public Awareness,1,Colombia
-Public Awareness,1,Costa Rica
-Public Awareness,1,Denmark
-Public Awareness,1,Egypt
-Public Awareness,1,El Salvador
-Public Awareness,1,Eritrea
-Public Awareness,1,Eswatini
-Public Awareness,1,Ethiopia
-Public Awareness,1,Fiji
-Public Awareness,1,Finland
-Public Awareness,1,France
-Public Awareness,1,Germany
-Public Awareness,1,Ghana
-Public Awareness,1,India
-Public Awareness,1,Iran
-Public Awareness,1,Ireland
-Public Awareness,1,Kenya
-Public Awareness,1,Kuwait
-Public Awareness,1,Lebanon
-Public Awareness,1,Liberia
-Public Awareness,1,Libya
-Public Awareness,1,Malawi
-Public Awareness,1,Malaysia
-Public Awareness,1,Maldives
-Public Awareness,1,Malta
-Public Awareness,1,Mauritius
-Public Awareness,1,Micronesia
-Public Awareness,1,Mongolia
-Public Awareness,1,Myanmar
-Public Awareness,1,Namibia
-Public Awareness,1,Nauru
-Public Awareness,1,Nepal
-Public Awareness,1,Netherlands
-Public Awareness,1,Nigeria
-Public Awareness,1,Norway
-Public Awareness,1,Oman
-Public Awareness,1,Pakistan
-Public Awareness,1,Palestine
-Public Awareness,1,Papua New Guinea
-Public Awareness,1,Paraguay
-Public Awareness,1,Peru
-Public Awareness,1,Qatar
-Public Awareness,1,North Macedonia
-Public Awareness,1,Rwanda
-Public Awareness,1,Samoa
-Public Awareness,1,Saudi Arabia
-Public Awareness,1,Sierra Leone
-Public Awareness,1,Solomon Islands
-Public Awareness,1,Somalia
-Public Awareness,1,South Africa
-Public Awareness,1,Spain
-Public Awareness,1,Sri Lanka
-Public Awareness,1,Sudan
-Public Awareness,1,Sweden
-Public Awareness,1,Switzerland
-Public Awareness,1,Syria
-Public Awareness,1,Tajikistan
-Public Awareness,1,Tanzania
-Public Awareness,1,Thailand
-Public Awareness,1,Timor-Leste
-Public Awareness,1,Tonga
-Public Awareness,1,Tunisia
-Public Awareness,1,Turkmenistan
-Public Awareness,1,Tuvalu
-Public Awareness,1,United Kingdom
-Public Awareness,1,United States
-Public Awareness,1,Uruguay
-Public Awareness,1,Vietnam
-Public Awareness,1,Yemen
-Public Awareness,1,Zambia
-International Collaboration,1,Afghanistan
-International Collaboration,1,Albania
-International Collaboration,1,United Arab Emirates
-International Collaboration,1,Argentina
-International Collaboration,1,Australia
-International Collaboration,1,Bangladesh
-International Collaboration,1,Barbados
-International Collaboration,1,Brunei
-International Collaboration,1,Canada
-International Collaboration,1,Cayman Islands
-International Collaboration,1,Chile
-International Collaboration,1,Colombia
-International Collaboration,1,Costa Rica
-International Collaboration,1,Denmark
-International Collaboration,1,Egypt
-International Collaboration,1,El Salvador
-International Collaboration,1,Eritrea
-International Collaboration,1,Eswatini
-International Collaboration,1,Ethiopia
-International Collaboration,1,Fiji
-International Collaboration,1,Finland
-International Collaboration,1,France
-International Collaboration,1,Germany
-International Collaboration,1,Ghana
-International Collaboration,1,India
-International Collaboration,1,Iran
-International Collaboration,1,Ireland
-International Collaboration,1,Kenya
-International Collaboration,1,Kuwait
-International Collaboration,1,Lebanon
-International Collaboration,1,Liberia
-International Collaboration,1,Libya
-International Collaboration,1,Malawi
-International Collaboration,1,Malaysia
-International Collaboration,1,Maldives
-International Collaboration,1,Malta
-International Collaboration,1,Mauritius
-International Collaboration,1,Micronesia
-International Collaboration,1,Mongolia
-International Collaboration,1,Myanmar
-International Collaboration,1,Namibia
-International Collaboration,1,Nauru
-International Collaboration,1,Nepal
-International Collaboration,1,Netherlands
-International Collaboration,1,Nigeria
-International Collaboration,1,Norway
-International Collaboration,1,Oman
-International Collaboration,1,Pakistan
-International Collaboration,1,Palestine
-International Collaboration,1,Papua New Guinea
-International Collaboration,1,Paraguay
-International Collaboration,1,Peru
-International Collaboration,1,Qatar
-International Collaboration,1,North Macedonia
-International Collaboration,1,Rwanda
-International Collaboration,1,Samoa
-International Collaboration,1,Saudi Arabia
-International Collaboration,1,Sierra Leone
-International Collaboration,1,Solomon Islands
-International Collaboration,1,Somalia
-International Collaboration,1,South Africa
-International Collaboration,1,Spain
-International Collaboration,1,Sri Lanka
-International Collaboration,1,Sudan
-International Collaboration,1,Sweden
-International Collaboration,1,Switzerland
-International Collaboration,1,Syria
-International Collaboration,1,Tajikistan
-International Collaboration,1,Tanzania
-International Collaboration,1,Thailand
-International Collaboration,1,Timor-Leste
-International Collaboration,1,Tonga
-International Collaboration,1,Tunisia
-International Collaboration,1,Turkmenistan
-International Collaboration,1,Tuvalu
-International Collaboration,1,United Kingdom
-International Collaboration,1,United States
-International Collaboration,1,Uruguay
-International Collaboration,1,Vietnam
-International Collaboration,1,Yemen
-International Collaboration,1,Zambia
-Surveillance,1,Afghanistan
-Surveillance,1,Albania
-Surveillance,1,United Arab Emirates
-Surveillance,1,Argentina
-Surveillance,1,Australia
-Surveillance,1,Bangladesh
-Surveillance,1,Barbados
-Surveillance,1,Brunei
-Surveillance,1,Canada
-Surveillance,1,Cayman Islands
-Surveillance,1,Chile
-Surveillance,1,Colombia
-Surveillance,1,Costa Rica
-Surveillance,1,Denmark
-Surveillance,1,Egypt
-Surveillance,1,El Salvador
-Surveillance,1,Eritrea
-Surveillance,1,Eswatini
-Surveillance,1,Ethiopia
-Surveillance,1,Fiji
-Surveillance,1,Finland
-Surveillance,1,France
-Surveillance,1,Germany
-Surveillance,1,Ghana
-Surveillance,1,India
-Surveillance,1,Iran
-Surveillance,1,Ireland
-Surveillance,1,Kenya
-Surveillance,1,Kuwait
-Surveillance,1,Lebanon
-Surveillance,1,Liberia
-Surveillance,1,Libya
-Surveillance,1,Malawi
-Surveillance,1,Malaysia
-Surveillance,1,Maldives
-Surveillance,1,Malta
-Surveillance,1,Mauritius
-Surveillance,1,Micronesia
-Surveillance,1,Mongolia
-Surveillance,1,Myanmar
-Surveillance,1,Namibia
-Surveillance,1,Nauru
-Surveillance,1,Nepal
-Surveillance,1,Netherlands
-Surveillance,1,Nigeria
-Surveillance,1,Norway
-Surveillance,1,Oman
-Surveillance,1,Pakistan
-Surveillance,1,Palestine
-Surveillance,1,Papua New Guinea
-Surveillance,1,Paraguay
-Surveillance,1,Peru
-Surveillance,1,Qatar
-Surveillance,1,North Macedonia
-Surveillance,1,Rwanda
-Surveillance,1,Samoa
-Surveillance,1,Saudi Arabia
-Surveillance,1,Sierra Leone
-Surveillance,1,Solomon Islands
-Surveillance,1,Somalia
-Surveillance,1,South Africa
-Surveillance,1,Spain
-Surveillance,1,Sri Lanka
-Surveillance,1,Sudan
-Surveillance,1,Sweden
-Surveillance,1,Switzerland
-Surveillance,1,Syria
-Surveillance,1,Tajikistan
-Surveillance,1,Tanzania
-Surveillance,1,Thailand
-Surveillance,1,Timor-Leste
-Surveillance,1,Tonga
-Surveillance,1,Tunisia
-Surveillance,1,Turkmenistan
-Surveillance,1,Tuvalu
-Surveillance,1,United Kingdom
-Surveillance,1,United States
-Surveillance,1,Uruguay
-Surveillance,1,Vietnam
-Surveillance,1,Yemen
-Surveillance,1,Zambia
-Emergent Resistance Detection,1,Afghanistan
-Emergent Resistance Detection,1,Albania
-Emergent Resistance Detection,1,United Arab Emirates
-Emergent Resistance Detection,1,Argentina
-Emergent Resistance Detection,1,Australia
-Emergent Resistance Detection,0,Bangladesh
-Emergent Resistance Detection,1,Barbados
-Emergent Resistance Detection,1,Brunei
-Emergent Resistance Detection,1,Canada
-Emergent Resistance Detection,1,Cayman Islands
-Emergent Resistance Detection,1,Chile
-Emergent Resistance Detection,1,Colombia
-Emergent Resistance Detection,1,Costa Rica
-Emergent Resistance Detection,0,Denmark
-Emergent Resistance Detection,1,Egypt
-Emergent Resistance Detection,0,El Salvador
-Emergent Resistance Detection,1,Eritrea
-Emergent Resistance Detection,1,Eswatini
-Emergent Resistance Detection,1,Ethiopia
-Emergent Resistance Detection,1,Fiji
-Emergent Resistance Detection,1,Finland
-Emergent Resistance Detection,0,France
-Emergent Resistance Detection,1,Germany
-Emergent Resistance Detection,1,Ghana
-Emergent Resistance Detection,1,India
-Emergent Resistance Detection,1,Iran
-Emergent Resistance Detection,1,Ireland
-Emergent Resistance Detection,1,Kenya
-Emergent Resistance Detection,1,Kuwait
-Emergent Resistance Detection,1,Lebanon
-Emergent Resistance Detection,1,Liberia
-Emergent Resistance Detection,1,Libya
-Emergent Resistance Detection,1,Malawi
-Emergent Resistance Detection,1,Malaysia
-Emergent Resistance Detection,1,Maldives
-Emergent Resistance Detection,1,Malta
-Emergent Resistance Detection,1,Mauritius
-Emergent Resistance Detection,1,Micronesia
-Emergent Resistance Detection,1,Mongolia
-Emergent Resistance Detection,1,Myanmar
-Emergent Resistance Detection,1,Namibia
-Emergent Resistance Detection,1,Nauru
-Emergent Resistance Detection,1,Nepal
-Emergent Resistance Detection,1,Netherlands
-Emergent Resistance Detection,1,Nigeria
-Emergent Resistance Detection,1,Norway
-Emergent Resistance Detection,1,Oman
-Emergent Resistance Detection,1,Pakistan
-Emergent Resistance Detection,1,Palestine
-Emergent Resistance Detection,1,Papua New Guinea
-Emergent Resistance Detection,1,Paraguay
-Emergent Resistance Detection,1,Peru
-Emergent Resistance Detection,1,Qatar
-Emergent Resistance Detection,0,North Macedonia
-Emergent Resistance Detection,1,Rwanda
-Emergent Resistance Detection,1,Samoa
-Emergent Resistance Detection,1,Saudi Arabia
-Emergent Resistance Detection,1,Sierra Leone
-Emergent Resistance Detection,1,Solomon Islands
-Emergent Resistance Detection,1,Somalia
-Emergent Resistance Detection,1,South Africa
-Emergent Resistance Detection,1,Spain
-Emergent Resistance Detection,1,Sri Lanka
-Emergent Resistance Detection,1,Sudan
-Emergent Resistance Detection,1,Sweden
-Emergent Resistance Detection,1,Switzerland
-Emergent Resistance Detection,1,Syria
-Emergent Resistance Detection,1,Tajikistan
-Emergent Resistance Detection,1,Tanzania
-Emergent Resistance Detection,1,Thailand
-Emergent Resistance Detection,1,Timor-Leste
-Emergent Resistance Detection,1,Tonga
-Emergent Resistance Detection,1,Tunisia
-Emergent Resistance Detection,1,Turkmenistan
-Emergent Resistance Detection,1,Tuvalu
-Emergent Resistance Detection,1,United Kingdom
-Emergent Resistance Detection,1,United States
-Emergent Resistance Detection,1,Uruguay
-Emergent Resistance Detection,1,Vietnam
-Emergent Resistance Detection,1,Yemen
-Emergent Resistance Detection,1,Zambia
-IPC,1,Afghanistan
-IPC,1,Albania
-IPC,1,United Arab Emirates
-IPC,1,Argentina
-IPC,1,Australia
-IPC,1,Bangladesh
-IPC,1,Barbados
-IPC,1,Brunei
-IPC,1,Canada
-IPC,1,Cayman Islands
-IPC,1,Chile
-IPC,1,Colombia
-IPC,1,Costa Rica
-IPC,1,Denmark
-IPC,1,Egypt
-IPC,1,El Salvador
-IPC,1,Eritrea
-IPC,1,Eswatini
-IPC,1,Ethiopia
-IPC,1,Fiji
-IPC,1,Finland
-IPC,1,France
-IPC,1,Germany
-IPC,1,Ghana
-IPC,1,India
-IPC,1,Iran
-IPC,1,Ireland
-IPC,1,Kenya
-IPC,1,Kuwait
-IPC,1,Lebanon
-IPC,1,Liberia
-IPC,1,Libya
-IPC,1,Malawi
-IPC,1,Malaysia
-IPC,1,Maldives
-IPC,1,Malta
-IPC,1,Mauritius
-IPC,1,Micronesia
-IPC,1,Mongolia
-IPC,1,Myanmar
-IPC,1,Namibia
-IPC,1,Nauru
-IPC,1,Nepal
-IPC,1,Netherlands
-IPC,1,Nigeria
-IPC,1,Norway
-IPC,1,Oman
-IPC,1,Pakistan
-IPC,1,Palestine
-IPC,1,Papua New Guinea
-IPC,1,Paraguay
-IPC,1,Peru
-IPC,1,Qatar
-IPC,1,North Macedonia
-IPC,1,Rwanda
-IPC,1,Samoa
-IPC,1,Saudi Arabia
-IPC,1,Sierra Leone
-IPC,1,Solomon Islands
-IPC,1,Somalia
-IPC,1,South Africa
-IPC,1,Spain
-IPC,1,Sri Lanka
-IPC,1,Sudan
-IPC,1,Sweden
-IPC,1,Switzerland
-IPC,1,Syria
-IPC,1,Tajikistan
-IPC,1,Tanzania
-IPC,1,Thailand
-IPC,1,Timor-Leste
-IPC,1,Tonga
-IPC,1,Tunisia
-IPC,1,Turkmenistan
-IPC,1,Tuvalu
-IPC,1,United Kingdom
-IPC,1,United States
-IPC,1,Uruguay
-IPC,1,Vietnam
-IPC,1,Yemen
-IPC,1,Zambia
-OIE/FAO Standards,1,Afghanistan
-OIE/FAO Standards,1,Albania
-OIE/FAO Standards,1,United Arab Emirates
-OIE/FAO Standards,1,Argentina
-OIE/FAO Standards,1,Australia
-OIE/FAO Standards,0,Bangladesh
-OIE/FAO Standards,1,Barbados
-OIE/FAO Standards,1,Brunei
-OIE/FAO Standards,1,Canada
-OIE/FAO Standards,1,Cayman Islands
-OIE/FAO Standards,1,Chile
-OIE/FAO Standards,1,Colombia
-OIE/FAO Standards,1,Costa Rica
-OIE/FAO Standards,1,Denmark
-OIE/FAO Standards,1,Egypt
-OIE/FAO Standards,0,El Salvador
-OIE/FAO Standards,1,Eritrea
-OIE/FAO Standards,1,Eswatini
-OIE/FAO Standards,1,Ethiopia
-OIE/FAO Standards,1,Fiji
-OIE/FAO Standards,1,Finland
-OIE/FAO Standards,0,France
-OIE/FAO Standards,1,Germany
-OIE/FAO Standards,1,Ghana
-OIE/FAO Standards,1,India
-OIE/FAO Standards,1,Iran
-OIE/FAO Standards,1,Ireland
-OIE/FAO Standards,1,Kenya
-OIE/FAO Standards,1,Kuwait
-OIE/FAO Standards,1,Lebanon
-OIE/FAO Standards,1,Liberia
-OIE/FAO Standards,1,Libya
-OIE/FAO Standards,1,Malawi
-OIE/FAO Standards,1,Malaysia
-OIE/FAO Standards,1,Maldives
-OIE/FAO Standards,1,Malta
-OIE/FAO Standards,1,Mauritius
-OIE/FAO Standards,1,Micronesia
-OIE/FAO Standards,1,Mongolia
-OIE/FAO Standards,1,Myanmar
-OIE/FAO Standards,1,Namibia
-OIE/FAO Standards,1,Nauru
-OIE/FAO Standards,1,Nepal
-OIE/FAO Standards,1,Netherlands
-OIE/FAO Standards,1,Nigeria
-OIE/FAO Standards,1,Norway
-OIE/FAO Standards,1,Oman
-OIE/FAO Standards,1,Pakistan
-OIE/FAO Standards,1,Palestine
-OIE/FAO Standards,1,Papua New Guinea
-OIE/FAO Standards,1,Paraguay
-OIE/FAO Standards,1,Peru
-OIE/FAO Standards,1,Qatar
-OIE/FAO Standards,0,North Macedonia
-OIE/FAO Standards,1,Rwanda
-OIE/FAO Standards,1,Samoa
-OIE/FAO Standards,1,Saudi Arabia
-OIE/FAO Standards,1,Sierra Leone
-OIE/FAO Standards,1,Solomon Islands
-OIE/FAO Standards,1,Somalia
-OIE/FAO Standards,1,South Africa
-OIE/FAO Standards,1,Spain
-OIE/FAO Standards,1,Sri Lanka
-OIE/FAO Standards,1,Sudan
-OIE/FAO Standards,1,Sweden
-OIE/FAO Standards,1,Switzerland
-OIE/FAO Standards,1,Syria
-OIE/FAO Standards,1,Tajikistan
-OIE/FAO Standards,1,Tanzania
-OIE/FAO Standards,1,Thailand
-OIE/FAO Standards,1,Timor-Leste
-OIE/FAO Standards,1,Tonga
-OIE/FAO Standards,1,Tunisia
-OIE/FAO Standards,1,Turkmenistan
-OIE/FAO Standards,1,Tuvalu
-OIE/FAO Standards,1,United Kingdom
-OIE/FAO Standards,1,United States
-OIE/FAO Standards,1,Uruguay
-OIE/FAO Standards,1,Vietnam
-OIE/FAO Standards,1,Yemen
-OIE/FAO Standards,1,Zambia
-Antibiotic Prescription and Dispensation,1,Afghanistan
-Antibiotic Prescription and Dispensation,1,Albania
-Antibiotic Prescription and Dispensation,1,United Arab Emirates
-Antibiotic Prescription and Dispensation,1,Argentina
-Antibiotic Prescription and Dispensation,1,Australia
-Antibiotic Prescription and Dispensation,1,Bangladesh
-Antibiotic Prescription and Dispensation,1,Barbados
-Antibiotic Prescription and Dispensation,1,Brunei
-Antibiotic Prescription and Dispensation,1,Canada
-Antibiotic Prescription and Dispensation,1,Cayman Islands
-Antibiotic Prescription and Dispensation,1,Chile
-Antibiotic Prescription and Dispensation,1,Colombia
-Antibiotic Prescription and Dispensation,1,Costa Rica
-Antibiotic Prescription and Dispensation,1,Denmark
-Antibiotic Prescription and Dispensation,1,Egypt
-Antibiotic Prescription and Dispensation,1,El Salvador
-Antibiotic Prescription and Dispensation,1,Eritrea
-Antibiotic Prescription and Dispensation,1,Eswatini
-Antibiotic Prescription and Dispensation,1,Ethiopia
-Antibiotic Prescription and Dispensation,1,Fiji
-Antibiotic Prescription and Dispensation,1,Finland
-Antibiotic Prescription and Dispensation,0,France
-Antibiotic Prescription and Dispensation,1,Germany
-Antibiotic Prescription and Dispensation,1,Ghana
-Antibiotic Prescription and Dispensation,1,India
-Antibiotic Prescription and Dispensation,1,Iran
-Antibiotic Prescription and Dispensation,1,Ireland
-Antibiotic Prescription and Dispensation,1,Kenya
-Antibiotic Prescription and Dispensation,1,Kuwait
-Antibiotic Prescription and Dispensation,1,Lebanon
-Antibiotic Prescription and Dispensation,1,Liberia
-Antibiotic Prescription and Dispensation,1,Libya
-Antibiotic Prescription and Dispensation,1,Malawi
-Antibiotic Prescription and Dispensation,1,Malaysia
-Antibiotic Prescription and Dispensation,1,Maldives
-Antibiotic Prescription and Dispensation,1,Malta
-Antibiotic Prescription and Dispensation,1,Mauritius
-Antibiotic Prescription and Dispensation,1,Micronesia
-Antibiotic Prescription and Dispensation,1,Mongolia
-Antibiotic Prescription and Dispensation,1,Myanmar
-Antibiotic Prescription and Dispensation,1,Namibia
-Antibiotic Prescription and Dispensation,1,Nauru
-Antibiotic Prescription and Dispensation,1,Nepal
-Antibiotic Prescription and Dispensation,1,Netherlands
-Antibiotic Prescription and Dispensation,1,Nigeria
-Antibiotic Prescription and Dispensation,1,Norway
-Antibiotic Prescription and Dispensation,1,Oman
-Antibiotic Prescription and Dispensation,1,Pakistan
-Antibiotic Prescription and Dispensation,1,Palestine
-Antibiotic Prescription and Dispensation,1,Papua New Guinea
-Antibiotic Prescription and Dispensation,1,Paraguay
-Antibiotic Prescription and Dispensation,1,Peru
-Antibiotic Prescription and Dispensation,1,Qatar
-Antibiotic Prescription and Dispensation,0,North Macedonia
-Antibiotic Prescription and Dispensation,1,Rwanda
-Antibiotic Prescription and Dispensation,1,Samoa
-Antibiotic Prescription and Dispensation,1,Saudi Arabia
-Antibiotic Prescription and Dispensation,1,Sierra Leone
-Antibiotic Prescription and Dispensation,1,Solomon Islands
-Antibiotic Prescription and Dispensation,1,Somalia
-Antibiotic Prescription and Dispensation,1,South Africa
-Antibiotic Prescription and Dispensation,1,Spain
-Antibiotic Prescription and Dispensation,1,Sri Lanka
-Antibiotic Prescription and Dispensation,1,Sudan
-Antibiotic Prescription and Dispensation,1,Sweden
-Antibiotic Prescription and Dispensation,1,Switzerland
-Antibiotic Prescription and Dispensation,1,Syria
-Antibiotic Prescription and Dispensation,1,Tajikistan
-Antibiotic Prescription and Dispensation,1,Tanzania
-Antibiotic Prescription and Dispensation,1,Thailand
-Antibiotic Prescription and Dispensation,1,Timor-Leste
-Antibiotic Prescription and Dispensation,1,Tonga
-Antibiotic Prescription and Dispensation,1,Tunisia
-Antibiotic Prescription and Dispensation,1,Turkmenistan
-Antibiotic Prescription and Dispensation,1,Tuvalu
-Antibiotic Prescription and Dispensation,1,United Kingdom
-Antibiotic Prescription and Dispensation,1,United States
-Antibiotic Prescription and Dispensation,1,Uruguay
-Antibiotic Prescription and Dispensation,1,Vietnam
-Antibiotic Prescription and Dispensation,1,Yemen
-Antibiotic Prescription and Dispensation,1,Zambia
-Rational Antibiotic Use Laws,1,Afghanistan
-Rational Antibiotic Use Laws,1,Albania
-Rational Antibiotic Use Laws,1,United Arab Emirates
-Rational Antibiotic Use Laws,1,Argentina
-Rational Antibiotic Use Laws,1,Australia
-Rational Antibiotic Use Laws,1,Bangladesh
-Rational Antibiotic Use Laws,1,Barbados
-Rational Antibiotic Use Laws,1,Brunei
-Rational Antibiotic Use Laws,1,Canada
-Rational Antibiotic Use Laws,1,Cayman Islands
-Rational Antibiotic Use Laws,1,Chile
-Rational Antibiotic Use Laws,1,Colombia
-Rational Antibiotic Use Laws,1,Costa Rica
-Rational Antibiotic Use Laws,1,Denmark
-Rational Antibiotic Use Laws,1,Egypt
-Rational Antibiotic Use Laws,1,El Salvador
-Rational Antibiotic Use Laws,1,Eritrea
-Rational Antibiotic Use Laws,1,Eswatini
-Rational Antibiotic Use Laws,1,Ethiopia
-Rational Antibiotic Use Laws,1,Fiji
-Rational Antibiotic Use Laws,1,Finland
-Rational Antibiotic Use Laws,0,France
-Rational Antibiotic Use Laws,1,Germany
-Rational Antibiotic Use Laws,1,Ghana
-Rational Antibiotic Use Laws,1,India
-Rational Antibiotic Use Laws,1,Iran
-Rational Antibiotic Use Laws,1,Ireland
-Rational Antibiotic Use Laws,1,Kenya
-Rational Antibiotic Use Laws,1,Kuwait
-Rational Antibiotic Use Laws,1,Lebanon
-Rational Antibiotic Use Laws,1,Liberia
-Rational Antibiotic Use Laws,1,Libya
-Rational Antibiotic Use Laws,1,Malawi
-Rational Antibiotic Use Laws,1,Malaysia
-Rational Antibiotic Use Laws,1,Maldives
-Rational Antibiotic Use Laws,1,Malta
-Rational Antibiotic Use Laws,1,Mauritius
-Rational Antibiotic Use Laws,1,Micronesia
-Rational Antibiotic Use Laws,1,Mongolia
-Rational Antibiotic Use Laws,1,Myanmar
-Rational Antibiotic Use Laws,1,Namibia
-Rational Antibiotic Use Laws,1,Nauru
-Rational Antibiotic Use Laws,1,Nepal
-Rational Antibiotic Use Laws,1,Netherlands
-Rational Antibiotic Use Laws,1,Nigeria
-Rational Antibiotic Use Laws,1,Norway
-Rational Antibiotic Use Laws,1,Oman
-Rational Antibiotic Use Laws,1,Pakistan
-Rational Antibiotic Use Laws,1,Palestine
-Rational Antibiotic Use Laws,1,Papua New Guinea
-Rational Antibiotic Use Laws,1,Paraguay
-Rational Antibiotic Use Laws,1,Peru
-Rational Antibiotic Use Laws,1,Qatar
-Rational Antibiotic Use Laws,0,North Macedonia
-Rational Antibiotic Use Laws,1,Rwanda
-Rational Antibiotic Use Laws,1,Samoa
-Rational Antibiotic Use Laws,1,Saudi Arabia
-Rational Antibiotic Use Laws,1,Sierra Leone
-Rational Antibiotic Use Laws,1,Solomon Islands
-Rational Antibiotic Use Laws,1,Somalia
-Rational Antibiotic Use Laws,1,South Africa
-Rational Antibiotic Use Laws,1,Spain
-Rational Antibiotic Use Laws,1,Sri Lanka
-Rational Antibiotic Use Laws,1,Sudan
-Rational Antibiotic Use Laws,1,Sweden
-Rational Antibiotic Use Laws,1,Switzerland
-Rational Antibiotic Use Laws,1,Syria
-Rational Antibiotic Use Laws,1,Tajikistan
-Rational Antibiotic Use Laws,1,Tanzania
-Rational Antibiotic Use Laws,1,Thailand
-Rational Antibiotic Use Laws,1,Timor-Leste
-Rational Antibiotic Use Laws,1,Tonga
-Rational Antibiotic Use Laws,1,Tunisia
-Rational Antibiotic Use Laws,1,Turkmenistan
-Rational Antibiotic Use Laws,1,Tuvalu
-Rational Antibiotic Use Laws,1,United Kingdom
-Rational Antibiotic Use Laws,1,United States
-Rational Antibiotic Use Laws,1,Uruguay
-Rational Antibiotic Use Laws,1,Vietnam
-Rational Antibiotic Use Laws,1,Yemen
-Rational Antibiotic Use Laws,1,Zambia
-Research and Development,1,Afghanistan
-Research and Development,1,Albania
-Research and Development,1,United Arab Emirates
-Research and Development,1,Argentina
-Research and Development,1,Australia
-Research and Development,0,Bangladesh
-Research and Development,1,Barbados
-Research and Development,1,Brunei
-Research and Development,1,Canada
-Research and Development,1,Cayman Islands
-Research and Development,1,Chile
-Research and Development,1,Colombia
-Research and Development,1,Costa Rica
-Research and Development,0,Denmark
-Research and Development,1,Egypt
-Research and Development,0,El Salvador
-Research and Development,1,Eritrea
-Research and Development,1,Eswatini
-Research and Development,1,Ethiopia
-Research and Development,1,Fiji
-Research and Development,1,Finland
-Research and Development,1,France
-Research and Development,1,Germany
-Research and Development,1,Ghana
-Research and Development,1,India
-Research and Development,1,Iran
-Research and Development,1,Ireland
-Research and Development,1,Kenya
-Research and Development,1,Kuwait
-Research and Development,1,Lebanon
-Research and Development,1,Liberia
-Research and Development,1,Libya
-Research and Development,1,Malawi
-Research and Development,1,Malaysia
-Research and Development,1,Maldives
-Research and Development,1,Malta
-Research and Development,1,Mauritius
-Research and Development,1,Micronesia
-Research and Development,1,Mongolia
-Research and Development,1,Myanmar
-Research and Development,0,Namibia
-Research and Development,1,Nauru
-Research and Development,1,Nepal
-Research and Development,1,Netherlands
-Research and Development,1,Nigeria
-Research and Development,1,Norway
-Research and Development,1,Oman
-Research and Development,1,Pakistan
-Research and Development,1,Palestine
-Research and Development,1,Papua New Guinea
-Research and Development,1,Paraguay
-Research and Development,1,Peru
-Research and Development,1,Qatar
-Research and Development,0,North Macedonia
-Research and Development,1,Rwanda
-Research and Development,0,Samoa
-Research and Development,1,Saudi Arabia
-Research and Development,1,Sierra Leone
-Research and Development,1,Solomon Islands
-Research and Development,1,Somalia
-Research and Development,1,South Africa
-Research and Development,1,Spain
-Research and Development,1,Sri Lanka
-Research and Development,1,Sudan
-Research and Development,1,Sweden
-Research and Development,1,Switzerland
-Research and Development,0,Syria
-Research and Development,1,Tajikistan
-Research and Development,1,Tanzania
-Research and Development,1,Thailand
-Research and Development,1,Timor-Leste
-Research and Development,1,Tonga
-Research and Development,1,Tunisia
-Research and Development,1,Turkmenistan
-Research and Development,1,Tuvalu
-Research and Development,1,United Kingdom
-Research and Development,1,United States
-Research and Development,0,Uruguay
-Research and Development,1,Vietnam
-Research and Development,1,Yemen
-Research and Development,1,Zambia
+One Health,Yes,Afghanistan
+One Health,Yes,Albania
+One Health,Yes,United Arab Emirates
+One Health,Yes,Argentina
+One Health,Yes,Australia
+One Health,Yes,Bangladesh
+One Health,Yes,Barbados
+One Health,Yes,Brunei
+One Health,Yes,Canada
+One Health,Yes,Cayman Islands
+One Health,Yes,Chile
+One Health,Yes,Colombia
+One Health,Yes,Costa Rica
+One Health,Yes,Denmark
+One Health,Yes,Egypt
+One Health,Yes,El Salvador
+One Health,Yes,Eritrea
+One Health,Yes,Eswatini
+One Health,Yes,Ethiopia
+One Health,Yes,Fiji
+One Health,Yes,Finland
+One Health,Yes,France
+One Health,Yes,Germany
+One Health,Yes,Ghana
+One Health,Yes,India
+One Health,Yes,Iran
+One Health,Yes,Ireland
+One Health,Yes,Kenya
+One Health,Yes,Kuwait
+One Health,Yes,Lebanon
+One Health,Yes,Liberia
+One Health,Yes,Libya
+One Health,Yes,Malawi
+One Health,Yes,Malaysia
+One Health,Yes,Maldives
+One Health,Yes,Malta
+One Health,Yes,Mauritius
+One Health,Yes,Micronesia
+One Health,Yes,Mongolia
+One Health,Yes,Myanmar
+One Health,Yes,Namibia
+One Health,Yes,Nauru
+One Health,Yes,Nepal
+One Health,Yes,Netherlands
+One Health,Yes,Nigeria
+One Health,Yes,Norway
+One Health,Yes,Oman
+One Health,Yes,Pakistan
+One Health,Yes,Palestine
+One Health,Yes,Papua New Guinea
+One Health,Yes,Paraguay
+One Health,Yes,Peru
+One Health,Yes,Qatar
+One Health,Yes,North Macedonia
+One Health,Yes,Rwanda
+One Health,Yes,Samoa
+One Health,Yes,Saudi Arabia
+One Health,Yes,Sierra Leone
+One Health,Yes,Solomon Islands
+One Health,Yes,Somalia
+One Health,Yes,South Africa
+One Health,Yes,Spain
+One Health,Yes,Sri Lanka
+One Health,Yes,Sudan
+One Health,Yes,Sweden
+One Health,Yes,Switzerland
+One Health,Yes,Syria
+One Health,Yes,Tajikistan
+One Health,Yes,Tanzania
+One Health,Yes,Thailand
+One Health,Yes,Timor-Leste
+One Health,Yes,Tonga
+One Health,Yes,Tunisia
+One Health,Yes,Turkmenistan
+One Health,Yes,Tuvalu
+One Health,Yes,United Kingdom
+One Health,Yes,United States
+One Health,Yes,Uruguay
+One Health,Yes,Vietnam
+One Health,Yes,Yemen
+One Health,Yes,Zambia
+Human Health,Yes,Afghanistan
+Human Health,Yes,Albania
+Human Health,Yes,United Arab Emirates
+Human Health,Yes,Argentina
+Human Health,Yes,Australia
+Human Health,Yes,Bangladesh
+Human Health,Yes,Barbados
+Human Health,Yes,Brunei
+Human Health,Yes,Canada
+Human Health,Yes,Cayman Islands
+Human Health,Yes,Chile
+Human Health,Yes,Colombia
+Human Health,Yes,Costa Rica
+Human Health,Yes,Denmark
+Human Health,Yes,Egypt
+Human Health,Yes,El Salvador
+Human Health,Yes,Eritrea
+Human Health,Yes,Eswatini
+Human Health,Yes,Ethiopia
+Human Health,Yes,Fiji
+Human Health,Yes,Finland
+Human Health,Yes,France
+Human Health,Yes,Germany
+Human Health,Yes,Ghana
+Human Health,Yes,India
+Human Health,Yes,Iran
+Human Health,Yes,Ireland
+Human Health,Yes,Kenya
+Human Health,Yes,Kuwait
+Human Health,Yes,Lebanon
+Human Health,Yes,Liberia
+Human Health,Yes,Libya
+Human Health,Yes,Malawi
+Human Health,Yes,Malaysia
+Human Health,Yes,Maldives
+Human Health,Yes,Malta
+Human Health,Yes,Mauritius
+Human Health,Yes,Micronesia
+Human Health,Yes,Mongolia
+Human Health,Yes,Myanmar
+Human Health,Yes,Namibia
+Human Health,Yes,Nauru
+Human Health,Yes,Nepal
+Human Health,Yes,Netherlands
+Human Health,Yes,Nigeria
+Human Health,Yes,Norway
+Human Health,Yes,Oman
+Human Health,Yes,Pakistan
+Human Health,Yes,Palestine
+Human Health,Yes,Papua New Guinea
+Human Health,Yes,Paraguay
+Human Health,Yes,Peru
+Human Health,Yes,Qatar
+Human Health,Yes,North Macedonia
+Human Health,Yes,Rwanda
+Human Health,Yes,Samoa
+Human Health,Yes,Saudi Arabia
+Human Health,Yes,Sierra Leone
+Human Health,Yes,Solomon Islands
+Human Health,Yes,Somalia
+Human Health,Yes,South Africa
+Human Health,Yes,Spain
+Human Health,Yes,Sri Lanka
+Human Health,Yes,Sudan
+Human Health,Yes,Sweden
+Human Health,Yes,Switzerland
+Human Health,Yes,Syria
+Human Health,Yes,Tajikistan
+Human Health,Yes,Tanzania
+Human Health,Yes,Thailand
+Human Health,Yes,Timor-Leste
+Human Health,Yes,Tonga
+Human Health,Yes,Tunisia
+Human Health,Yes,Turkmenistan
+Human Health,Yes,Tuvalu
+Human Health,Yes,United Kingdom
+Human Health,Yes,United States
+Human Health,Yes,Uruguay
+Human Health,Yes,Vietnam
+Human Health,Yes,Yemen
+Human Health,Yes,Zambia
+Animal Health,Yes,Afghanistan
+Animal Health,Yes,Albania
+Animal Health,Yes,United Arab Emirates
+Animal Health,Yes,Argentina
+Animal Health,Yes,Australia
+Animal Health,Yes,Bangladesh
+Animal Health,Yes,Barbados
+Animal Health,Yes,Brunei
+Animal Health,Yes,Canada
+Animal Health,Yes,Cayman Islands
+Animal Health,Yes,Chile
+Animal Health,Yes,Colombia
+Animal Health,Yes,Costa Rica
+Animal Health,Yes,Denmark
+Animal Health,Yes,Egypt
+Animal Health,Yes,El Salvador
+Animal Health,Yes,Eritrea
+Animal Health,Yes,Eswatini
+Animal Health,Yes,Ethiopia
+Animal Health,Yes,Fiji
+Animal Health,Yes,Finland
+Animal Health,No,France
+Animal Health,Yes,Germany
+Animal Health,Yes,Ghana
+Animal Health,Yes,India
+Animal Health,Yes,Iran
+Animal Health,Yes,Ireland
+Animal Health,Yes,Kenya
+Animal Health,Yes,Kuwait
+Animal Health,Yes,Lebanon
+Animal Health,Yes,Liberia
+Animal Health,Yes,Libya
+Animal Health,Yes,Malawi
+Animal Health,Yes,Malaysia
+Animal Health,Yes,Maldives
+Animal Health,Yes,Malta
+Animal Health,Yes,Mauritius
+Animal Health,Yes,Micronesia
+Animal Health,Yes,Mongolia
+Animal Health,Yes,Myanmar
+Animal Health,Yes,Namibia
+Animal Health,Yes,Nauru
+Animal Health,Yes,Nepal
+Animal Health,Yes,Netherlands
+Animal Health,Yes,Nigeria
+Animal Health,Yes,Norway
+Animal Health,Yes,Oman
+Animal Health,Yes,Pakistan
+Animal Health,Yes,Palestine
+Animal Health,Yes,Papua New Guinea
+Animal Health,Yes,Paraguay
+Animal Health,Yes,Peru
+Animal Health,Yes,Qatar
+Animal Health,Yes,North Macedonia
+Animal Health,Yes,Rwanda
+Animal Health,Yes,Samoa
+Animal Health,Yes,Saudi Arabia
+Animal Health,Yes,Sierra Leone
+Animal Health,Yes,Solomon Islands
+Animal Health,Yes,Somalia
+Animal Health,Yes,South Africa
+Animal Health,Yes,Spain
+Animal Health,Yes,Sri Lanka
+Animal Health,Yes,Sudan
+Animal Health,Yes,Sweden
+Animal Health,Yes,Switzerland
+Animal Health,Yes,Syria
+Animal Health,Yes,Tajikistan
+Animal Health,Yes,Tanzania
+Animal Health,Yes,Thailand
+Animal Health,Yes,Timor-Leste
+Animal Health,Yes,Tonga
+Animal Health,Yes,Tunisia
+Animal Health,Yes,Turkmenistan
+Animal Health,Yes,Tuvalu
+Animal Health,Yes,United Kingdom
+Animal Health,Yes,United States
+Animal Health,Yes,Uruguay
+Animal Health,Yes,Vietnam
+Animal Health,Yes,Yemen
+Animal Health,Yes,Zambia
+Environment,Yes,Afghanistan
+Environment,Yes,Albania
+Environment,Yes,United Arab Emirates
+Environment,No,Argentina
+Environment,Yes,Australia
+Environment,Yes,Bangladesh
+Environment,Yes,Barbados
+Environment,Yes,Brunei
+Environment,Yes,Canada
+Environment,Yes,Cayman Islands
+Environment,Yes,Chile
+Environment,Yes,Colombia
+Environment,Yes,Costa Rica
+Environment,Yes,Denmark
+Environment,Yes,Egypt
+Environment,No,El Salvador
+Environment,Yes,Eritrea
+Environment,Yes,Eswatini
+Environment,Yes,Ethiopia
+Environment,Yes,Fiji
+Environment,Yes,Finland
+Environment,Yes,France
+Environment,Yes,Germany
+Environment,Yes,Ghana
+Environment,Yes,India
+Environment,Yes,Iran
+Environment,Yes,Ireland
+Environment,Yes,Kenya
+Environment,Yes,Kuwait
+Environment,Yes,Lebanon
+Environment,Yes,Liberia
+Environment,Yes,Libya
+Environment,Yes,Malawi
+Environment,Yes,Malaysia
+Environment,Yes,Maldives
+Environment,Yes,Malta
+Environment,Yes,Mauritius
+Environment,Yes,Micronesia
+Environment,Yes,Mongolia
+Environment,Yes,Myanmar
+Environment,Yes,Namibia
+Environment,Yes,Nauru
+Environment,Yes,Nepal
+Environment,Yes,Netherlands
+Environment,Yes,Nigeria
+Environment,Yes,Norway
+Environment,No,Oman
+Environment,Yes,Pakistan
+Environment,Yes,Palestine
+Environment,Yes,Papua New Guinea
+Environment,Yes,Paraguay
+Environment,Yes,Peru
+Environment,Yes,Qatar
+Environment,No,North Macedonia
+Environment,Yes,Rwanda
+Environment,Yes,Samoa
+Environment,Yes,Saudi Arabia
+Environment,Yes,Sierra Leone
+Environment,Yes,Solomon Islands
+Environment,No,Somalia
+Environment,Yes,South Africa
+Environment,Yes,Spain
+Environment,Yes,Sri Lanka
+Environment,Yes,Sudan
+Environment,Yes,Sweden
+Environment,Yes,Switzerland
+Environment,Yes,Syria
+Environment,Yes,Tajikistan
+Environment,Yes,Tanzania
+Environment,Yes,Thailand
+Environment,Yes,Timor-Leste
+Environment,Yes,Tonga
+Environment,Yes,Tunisia
+Environment,Yes,Turkmenistan
+Environment,Yes,Tuvalu
+Environment,Yes,United Kingdom
+Environment,Yes,United States
+Environment,No,Uruguay
+Environment,Yes,Vietnam
+Environment,Yes,Yemen
+Environment,Yes,Zambia
+Food Security,Yes,Afghanistan
+Food Security,Yes,Albania
+Food Security,Yes,United Arab Emirates
+Food Security,Yes,Argentina
+Food Security,Yes,Australia
+Food Security,Yes,Bangladesh
+Food Security,Yes,Barbados
+Food Security,Yes,Brunei
+Food Security,Yes,Canada
+Food Security,Yes,Cayman Islands
+Food Security,Yes,Chile
+Food Security,Yes,Colombia
+Food Security,Yes,Costa Rica
+Food Security,Yes,Denmark
+Food Security,Yes,Egypt
+Food Security,Yes,El Salvador
+Food Security,Yes,Eritrea
+Food Security,Yes,Eswatini
+Food Security,Yes,Ethiopia
+Food Security,Yes,Fiji
+Food Security,Yes,Finland
+Food Security,No,France
+Food Security,Yes,Germany
+Food Security,Yes,Ghana
+Food Security,Yes,India
+Food Security,Yes,Iran
+Food Security,Yes,Ireland
+Food Security,Yes,Kenya
+Food Security,Yes,Kuwait
+Food Security,Yes,Lebanon
+Food Security,Yes,Liberia
+Food Security,Yes,Libya
+Food Security,Yes,Malawi
+Food Security,Yes,Malaysia
+Food Security,Yes,Maldives
+Food Security,Yes,Malta
+Food Security,Yes,Mauritius
+Food Security,Yes,Micronesia
+Food Security,Yes,Mongolia
+Food Security,Yes,Myanmar
+Food Security,Yes,Namibia
+Food Security,Yes,Nauru
+Food Security,Yes,Nepal
+Food Security,Yes,Netherlands
+Food Security,Yes,Nigeria
+Food Security,Yes,Norway
+Food Security,Yes,Oman
+Food Security,Yes,Pakistan
+Food Security,Yes,Palestine
+Food Security,Yes,Papua New Guinea
+Food Security,Yes,Paraguay
+Food Security,Yes,Peru
+Food Security,Yes,Qatar
+Food Security,Yes,North Macedonia
+Food Security,Yes,Rwanda
+Food Security,Yes,Samoa
+Food Security,Yes,Saudi Arabia
+Food Security,Yes,Sierra Leone
+Food Security,Yes,Solomon Islands
+Food Security,Yes,Somalia
+Food Security,Yes,South Africa
+Food Security,No,Spain
+Food Security,Yes,Sri Lanka
+Food Security,Yes,Sudan
+Food Security,Yes,Sweden
+Food Security,Yes,Switzerland
+Food Security,Yes,Syria
+Food Security,Yes,Tajikistan
+Food Security,Yes,Tanzania
+Food Security,Yes,Thailand
+Food Security,Yes,Timor-Leste
+Food Security,Yes,Tonga
+Food Security,Yes,Tunisia
+Food Security,Yes,Turkmenistan
+Food Security,Yes,Tuvalu
+Food Security,Yes,United Kingdom
+Food Security,Yes,United States
+Food Security,Yes,Uruguay
+Food Security,Yes,Vietnam
+Food Security,Yes,Yemen
+Food Security,Yes,Zambia
+Progress Reporting,Yes,Afghanistan
+Progress Reporting,Yes,Albania
+Progress Reporting,Yes,United Arab Emirates
+Progress Reporting,Yes,Argentina
+Progress Reporting,Yes,Australia
+Progress Reporting,No,Bangladesh
+Progress Reporting,Yes,Barbados
+Progress Reporting,Yes,Brunei
+Progress Reporting,Yes,Canada
+Progress Reporting,Yes,Cayman Islands
+Progress Reporting,Yes,Chile
+Progress Reporting,Yes,Colombia
+Progress Reporting,No,Costa Rica
+Progress Reporting,Yes,Denmark
+Progress Reporting,Yes,Egypt
+Progress Reporting,Yes,El Salvador
+Progress Reporting,Yes,Eritrea
+Progress Reporting,Yes,Eswatini
+Progress Reporting,Yes,Ethiopia
+Progress Reporting,Yes,Fiji
+Progress Reporting,Yes,Finland
+Progress Reporting,Yes,France
+Progress Reporting,Yes,Germany
+Progress Reporting,Yes,Ghana
+Progress Reporting,Yes,India
+Progress Reporting,Yes,Iran
+Progress Reporting,Yes,Ireland
+Progress Reporting,Yes,Kenya
+Progress Reporting,Yes,Kuwait
+Progress Reporting,Yes,Lebanon
+Progress Reporting,Yes,Liberia
+Progress Reporting,Yes,Libya
+Progress Reporting,Yes,Malawi
+Progress Reporting,Yes,Malaysia
+Progress Reporting,Yes,Maldives
+Progress Reporting,Yes,Malta
+Progress Reporting,Yes,Mauritius
+Progress Reporting,Yes,Micronesia
+Progress Reporting,Yes,Mongolia
+Progress Reporting,Yes,Myanmar
+Progress Reporting,Yes,Namibia
+Progress Reporting,Yes,Nauru
+Progress Reporting,Yes,Nepal
+Progress Reporting,Yes,Netherlands
+Progress Reporting,Yes,Nigeria
+Progress Reporting,Yes,Norway
+Progress Reporting,Yes,Oman
+Progress Reporting,Yes,Pakistan
+Progress Reporting,Yes,Palestine
+Progress Reporting,Yes,Papua New Guinea
+Progress Reporting,Yes,Paraguay
+Progress Reporting,Yes,Peru
+Progress Reporting,Yes,Qatar
+Progress Reporting,No,North Macedonia
+Progress Reporting,Yes,Rwanda
+Progress Reporting,Yes,Samoa
+Progress Reporting,Yes,Saudi Arabia
+Progress Reporting,Yes,Sierra Leone
+Progress Reporting,Yes,Solomon Islands
+Progress Reporting,Yes,Somalia
+Progress Reporting,Yes,South Africa
+Progress Reporting,Yes,Spain
+Progress Reporting,Yes,Sri Lanka
+Progress Reporting,Yes,Sudan
+Progress Reporting,Yes,Sweden
+Progress Reporting,Yes,Switzerland
+Progress Reporting,Yes,Syria
+Progress Reporting,Yes,Tajikistan
+Progress Reporting,Yes,Tanzania
+Progress Reporting,Yes,Thailand
+Progress Reporting,Yes,Timor-Leste
+Progress Reporting,Yes,Tonga
+Progress Reporting,Yes,Tunisia
+Progress Reporting,Yes,Turkmenistan
+Progress Reporting,Yes,Tuvalu
+Progress Reporting,Yes,United Kingdom
+Progress Reporting,Yes,United States
+Progress Reporting,Yes,Uruguay
+Progress Reporting,Yes,Vietnam
+Progress Reporting,Yes,Yemen
+Progress Reporting,Yes,Zambia
+Time-bound Targets,Yes,Afghanistan
+Time-bound Targets,Yes,Albania
+Time-bound Targets,Yes,United Arab Emirates
+Time-bound Targets,No,Argentina
+Time-bound Targets,No,Australia
+Time-bound Targets,No,Bangladesh
+Time-bound Targets,Yes,Barbados
+Time-bound Targets,Yes,Brunei
+Time-bound Targets,Yes,Canada
+Time-bound Targets,Yes,Cayman Islands
+Time-bound Targets,Yes,Chile
+Time-bound Targets,Yes,Colombia
+Time-bound Targets,No,Costa Rica
+Time-bound Targets,Yes,Denmark
+Time-bound Targets,Yes,Egypt
+Time-bound Targets,No,El Salvador
+Time-bound Targets,Yes,Eritrea
+Time-bound Targets,Yes,Eswatini
+Time-bound Targets,Yes,Ethiopia
+Time-bound Targets,Yes,Fiji
+Time-bound Targets,Yes,Finland
+Time-bound Targets,Yes,France
+Time-bound Targets,Yes,Germany
+Time-bound Targets,Yes,Ghana
+Time-bound Targets,Yes,India
+Time-bound Targets,Yes,Iran
+Time-bound Targets,Yes,Ireland
+Time-bound Targets,Yes,Kenya
+Time-bound Targets,Yes,Kuwait
+Time-bound Targets,Yes,Lebanon
+Time-bound Targets,Yes,Liberia
+Time-bound Targets,Yes,Libya
+Time-bound Targets,Yes,Malawi
+Time-bound Targets,Yes,Malaysia
+Time-bound Targets,Yes,Maldives
+Time-bound Targets,Yes,Malta
+Time-bound Targets,Yes,Mauritius
+Time-bound Targets,Yes,Micronesia
+Time-bound Targets,Yes,Mongolia
+Time-bound Targets,Yes,Myanmar
+Time-bound Targets,Yes,Namibia
+Time-bound Targets,Yes,Nauru
+Time-bound Targets,Yes,Nepal
+Time-bound Targets,Yes,Netherlands
+Time-bound Targets,Yes,Nigeria
+Time-bound Targets,Yes,Norway
+Time-bound Targets,No,Oman
+Time-bound Targets,Yes,Pakistan
+Time-bound Targets,Yes,Palestine
+Time-bound Targets,No,Papua New Guinea
+Time-bound Targets,Yes,Paraguay
+Time-bound Targets,Yes,Peru
+Time-bound Targets,Yes,Qatar
+Time-bound Targets,No,North Macedonia
+Time-bound Targets,Yes,Rwanda
+Time-bound Targets,Yes,Samoa
+Time-bound Targets,Yes,Saudi Arabia
+Time-bound Targets,Yes,Sierra Leone
+Time-bound Targets,Yes,Solomon Islands
+Time-bound Targets,Yes,Somalia
+Time-bound Targets,Yes,South Africa
+Time-bound Targets,Yes,Spain
+Time-bound Targets,Yes,Sri Lanka
+Time-bound Targets,Yes,Sudan
+Time-bound Targets,Yes,Sweden
+Time-bound Targets,Yes,Switzerland
+Time-bound Targets,Yes,Syria
+Time-bound Targets,Yes,Tajikistan
+Time-bound Targets,Yes,Tanzania
+Time-bound Targets,Yes,Thailand
+Time-bound Targets,Yes,Timor-Leste
+Time-bound Targets,Yes,Tonga
+Time-bound Targets,Yes,Tunisia
+Time-bound Targets,Yes,Turkmenistan
+Time-bound Targets,Yes,Tuvalu
+Time-bound Targets,Yes,United Kingdom
+Time-bound Targets,Yes,United States
+Time-bound Targets,No,Uruguay
+Time-bound Targets,Yes,Vietnam
+Time-bound Targets,Yes,Yemen
+Time-bound Targets,Yes,Zambia
+Quantitative Targets,No,Afghanistan
+Quantitative Targets,Yes,Albania
+Quantitative Targets,Yes,United Arab Emirates
+Quantitative Targets,No,Argentina
+Quantitative Targets,No,Australia
+Quantitative Targets,No,Bangladesh
+Quantitative Targets,Yes,Barbados
+Quantitative Targets,Yes,Brunei
+Quantitative Targets,Yes,Canada
+Quantitative Targets,No,Cayman Islands
+Quantitative Targets,Yes,Chile
+Quantitative Targets,Yes,Colombia
+Quantitative Targets,No,Costa Rica
+Quantitative Targets,Yes,Denmark
+Quantitative Targets,Yes,Egypt
+Quantitative Targets,No,El Salvador
+Quantitative Targets,No,Eritrea
+Quantitative Targets,Yes,Eswatini
+Quantitative Targets,No,Ethiopia
+Quantitative Targets,Yes,Fiji
+Quantitative Targets,No,Finland
+Quantitative Targets,Yes,France
+Quantitative Targets,Yes,Germany
+Quantitative Targets,No,Ghana
+Quantitative Targets,No,India
+Quantitative Targets,Yes,Iran
+Quantitative Targets,No,Ireland
+Quantitative Targets,No,Kenya
+Quantitative Targets,Yes,Kuwait
+Quantitative Targets,Yes,Lebanon
+Quantitative Targets,Yes,Liberia
+Quantitative Targets,Yes,Libya
+Quantitative Targets,Yes,Malawi
+Quantitative Targets,Yes,Malaysia
+Quantitative Targets,Yes,Maldives
+Quantitative Targets,Yes,Malta
+Quantitative Targets,No,Mauritius
+Quantitative Targets,Yes,Micronesia
+Quantitative Targets,Yes,Mongolia
+Quantitative Targets,No,Myanmar
+Quantitative Targets,No,Namibia
+Quantitative Targets,No,Nauru
+Quantitative Targets,Yes,Nepal
+Quantitative Targets,Yes,Netherlands
+Quantitative Targets,Yes,Nigeria
+Quantitative Targets,Yes,Norway
+Quantitative Targets,No,Oman
+Quantitative Targets,No,Pakistan
+Quantitative Targets,Yes,Palestine
+Quantitative Targets,No,Papua New Guinea
+Quantitative Targets,No,Paraguay
+Quantitative Targets,No,Peru
+Quantitative Targets,Yes,Qatar
+Quantitative Targets,No,North Macedonia
+Quantitative Targets,Yes,Rwanda
+Quantitative Targets,No,Samoa
+Quantitative Targets,Yes,Saudi Arabia
+Quantitative Targets,No,Sierra Leone
+Quantitative Targets,No,Solomon Islands
+Quantitative Targets,No,Somalia
+Quantitative Targets,Yes,South Africa
+Quantitative Targets,Yes,Spain
+Quantitative Targets,Yes,Sri Lanka
+Quantitative Targets,No,Sudan
+Quantitative Targets,Yes,Sweden
+Quantitative Targets,Yes,Switzerland
+Quantitative Targets,No,Syria
+Quantitative Targets,No,Tajikistan
+Quantitative Targets,Yes,Tanzania
+Quantitative Targets,Yes,Thailand
+Quantitative Targets,Yes,Timor-Leste
+Quantitative Targets,Yes,Tonga
+Quantitative Targets,No,Tunisia
+Quantitative Targets,Yes,Turkmenistan
+Quantitative Targets,Yes,Tuvalu
+Quantitative Targets,Yes,United Kingdom
+Quantitative Targets,Yes,United States
+Quantitative Targets,No,Uruguay
+Quantitative Targets,Yes,Vietnam
+Quantitative Targets,Yes,Yemen
+Quantitative Targets,Yes,Zambia
+Budget Allocation,Yes,Afghanistan
+Budget Allocation,Yes,Albania
+Budget Allocation,Yes,United Arab Emirates
+Budget Allocation,No,Argentina
+Budget Allocation,No,Australia
+Budget Allocation,No,Bangladesh
+Budget Allocation,No,Barbados
+Budget Allocation,Yes,Brunei
+Budget Allocation,No,Canada
+Budget Allocation,Yes,Cayman Islands
+Budget Allocation,No,Chile
+Budget Allocation,No,Colombia
+Budget Allocation,No,Costa Rica
+Budget Allocation,Yes,Denmark
+Budget Allocation,Yes,Egypt
+Budget Allocation,No,El Salvador
+Budget Allocation,Yes,Eritrea
+Budget Allocation,Yes,Eswatini
+Budget Allocation,Yes,Ethiopia
+Budget Allocation,Yes,Fiji
+Budget Allocation,No,Finland
+Budget Allocation,No,France
+Budget Allocation,No,Germany
+Budget Allocation,Yes,Ghana
+Budget Allocation,No,India
+Budget Allocation,No,Iran
+Budget Allocation,Yes,Ireland
+Budget Allocation,No,Kenya
+Budget Allocation,Yes,Kuwait
+Budget Allocation,Yes,Lebanon
+Budget Allocation,Yes,Liberia
+Budget Allocation,Yes,Libya
+Budget Allocation,Yes,Malawi
+Budget Allocation,No,Malaysia
+Budget Allocation,Yes,Maldives
+Budget Allocation,No,Malta
+Budget Allocation,Yes,Mauritius
+Budget Allocation,Yes,Micronesia
+Budget Allocation,Yes,Mongolia
+Budget Allocation,No,Myanmar
+Budget Allocation,No,Namibia
+Budget Allocation,Yes,Nauru
+Budget Allocation,Yes,Nepal
+Budget Allocation,No,Netherlands
+Budget Allocation,Yes,Nigeria
+Budget Allocation,No,Norway
+Budget Allocation,No,Oman
+Budget Allocation,No,Pakistan
+Budget Allocation,Yes,Palestine
+Budget Allocation,Yes,Papua New Guinea
+Budget Allocation,Yes,Paraguay
+Budget Allocation,Yes,Peru
+Budget Allocation,Yes,Qatar
+Budget Allocation,No,North Macedonia
+Budget Allocation,Yes,Rwanda
+Budget Allocation,Yes,Samoa
+Budget Allocation,Yes,Saudi Arabia
+Budget Allocation,Yes,Sierra Leone
+Budget Allocation,Yes,Solomon Islands
+Budget Allocation,No,Somalia
+Budget Allocation,Yes,South Africa
+Budget Allocation,No,Spain
+Budget Allocation,Yes,Sri Lanka
+Budget Allocation,Yes,Sudan
+Budget Allocation,No,Sweden
+Budget Allocation,Yes,Switzerland
+Budget Allocation,No,Syria
+Budget Allocation,No,Tajikistan
+Budget Allocation,Yes,Tanzania
+Budget Allocation,No,Thailand
+Budget Allocation,No,Timor-Leste
+Budget Allocation,Yes,Tonga
+Budget Allocation,Yes,Tunisia
+Budget Allocation,Yes,Turkmenistan
+Budget Allocation,Yes,Tuvalu
+Budget Allocation,No,United Kingdom
+Budget Allocation,No,United States
+Budget Allocation,No,Uruguay
+Budget Allocation,Yes,Vietnam
+Budget Allocation,Yes,Yemen
+Budget Allocation,Yes,Zambia
+Future Budget Assessment,Yes,Afghanistan
+Future Budget Assessment,Yes,Albania
+Future Budget Assessment,Yes,United Arab Emirates
+Future Budget Assessment,No,Argentina
+Future Budget Assessment,No,Australia
+Future Budget Assessment,No,Bangladesh
+Future Budget Assessment,No,Barbados
+Future Budget Assessment,Yes,Brunei
+Future Budget Assessment,No,Canada
+Future Budget Assessment,Yes,Cayman Islands
+Future Budget Assessment,No,Chile
+Future Budget Assessment,No,Colombia
+Future Budget Assessment,No,Costa Rica
+Future Budget Assessment,No,Denmark
+Future Budget Assessment,Yes,Egypt
+Future Budget Assessment,No,El Salvador
+Future Budget Assessment,Yes,Eritrea
+Future Budget Assessment,Yes,Eswatini
+Future Budget Assessment,Yes,Ethiopia
+Future Budget Assessment,Yes,Fiji
+Future Budget Assessment,No,Finland
+Future Budget Assessment,No,France
+Future Budget Assessment,No,Germany
+Future Budget Assessment,Yes,Ghana
+Future Budget Assessment,No,India
+Future Budget Assessment,No,Iran
+Future Budget Assessment,No,Ireland
+Future Budget Assessment,No,Kenya
+Future Budget Assessment,Yes,Kuwait
+Future Budget Assessment,Yes,Lebanon
+Future Budget Assessment,Yes,Liberia
+Future Budget Assessment,Yes,Libya
+Future Budget Assessment,Yes,Malawi
+Future Budget Assessment,No,Malaysia
+Future Budget Assessment,Yes,Maldives
+Future Budget Assessment,No,Malta
+Future Budget Assessment,Yes,Mauritius
+Future Budget Assessment,Yes,Micronesia
+Future Budget Assessment,Yes,Mongolia
+Future Budget Assessment,No,Myanmar
+Future Budget Assessment,No,Namibia
+Future Budget Assessment,Yes,Nauru
+Future Budget Assessment,Yes,Nepal
+Future Budget Assessment,No,Netherlands
+Future Budget Assessment,Yes,Nigeria
+Future Budget Assessment,No,Norway
+Future Budget Assessment,No,Oman
+Future Budget Assessment,No,Pakistan
+Future Budget Assessment,Yes,Palestine
+Future Budget Assessment,Yes,Papua New Guinea
+Future Budget Assessment,Yes,Paraguay
+Future Budget Assessment,Yes,Peru
+Future Budget Assessment,Yes,Qatar
+Future Budget Assessment,No,North Macedonia
+Future Budget Assessment,Yes,Rwanda
+Future Budget Assessment,Yes,Samoa
+Future Budget Assessment,Yes,Saudi Arabia
+Future Budget Assessment,Yes,Sierra Leone
+Future Budget Assessment,Yes,Solomon Islands
+Future Budget Assessment,No,Somalia
+Future Budget Assessment,Yes,South Africa
+Future Budget Assessment,No,Spain
+Future Budget Assessment,Yes,Sri Lanka
+Future Budget Assessment,Yes,Sudan
+Future Budget Assessment,No,Sweden
+Future Budget Assessment,Yes,Switzerland
+Future Budget Assessment,No,Syria
+Future Budget Assessment,No,Tajikistan
+Future Budget Assessment,Yes,Tanzania
+Future Budget Assessment,No,Thailand
+Future Budget Assessment,No,Timor-Leste
+Future Budget Assessment,Yes,Tonga
+Future Budget Assessment,No,Tunisia
+Future Budget Assessment,Yes,Turkmenistan
+Future Budget Assessment,Yes,Tuvalu
+Future Budget Assessment,No,United Kingdom
+Future Budget Assessment,No,United States
+Future Budget Assessment,No,Uruguay
+Future Budget Assessment,Yes,Vietnam
+Future Budget Assessment,Yes,Yemen
+Future Budget Assessment,Yes,Zambia
+Muli-sectoral Committee,Yes,Afghanistan
+Muli-sectoral Committee,Yes,Albania
+Muli-sectoral Committee,Yes,United Arab Emirates
+Muli-sectoral Committee,Yes,Argentina
+Muli-sectoral Committee,Yes,Australia
+Muli-sectoral Committee,Yes,Bangladesh
+Muli-sectoral Committee,Yes,Barbados
+Muli-sectoral Committee,Yes,Brunei
+Muli-sectoral Committee,Yes,Canada
+Muli-sectoral Committee,Yes,Cayman Islands
+Muli-sectoral Committee,Yes,Chile
+Muli-sectoral Committee,Yes,Colombia
+Muli-sectoral Committee,Yes,Costa Rica
+Muli-sectoral Committee,Yes,Denmark
+Muli-sectoral Committee,Yes,Egypt
+Muli-sectoral Committee,Yes,El Salvador
+Muli-sectoral Committee,Yes,Eritrea
+Muli-sectoral Committee,Yes,Eswatini
+Muli-sectoral Committee,Yes,Ethiopia
+Muli-sectoral Committee,Yes,Fiji
+Muli-sectoral Committee,Yes,Finland
+Muli-sectoral Committee,Yes,France
+Muli-sectoral Committee,Yes,Germany
+Muli-sectoral Committee,Yes,Ghana
+Muli-sectoral Committee,Yes,India
+Muli-sectoral Committee,Yes,Iran
+Muli-sectoral Committee,Yes,Ireland
+Muli-sectoral Committee,Yes,Kenya
+Muli-sectoral Committee,Yes,Kuwait
+Muli-sectoral Committee,Yes,Lebanon
+Muli-sectoral Committee,Yes,Liberia
+Muli-sectoral Committee,Yes,Libya
+Muli-sectoral Committee,Yes,Malawi
+Muli-sectoral Committee,Yes,Malaysia
+Muli-sectoral Committee,Yes,Maldives
+Muli-sectoral Committee,Yes,Malta
+Muli-sectoral Committee,Yes,Mauritius
+Muli-sectoral Committee,Yes,Micronesia
+Muli-sectoral Committee,Yes,Mongolia
+Muli-sectoral Committee,Yes,Myanmar
+Muli-sectoral Committee,Yes,Namibia
+Muli-sectoral Committee,Yes,Nauru
+Muli-sectoral Committee,Yes,Nepal
+Muli-sectoral Committee,No,Netherlands
+Muli-sectoral Committee,Yes,Nigeria
+Muli-sectoral Committee,Yes,Norway
+Muli-sectoral Committee,Yes,Oman
+Muli-sectoral Committee,Yes,Pakistan
+Muli-sectoral Committee,Yes,Palestine
+Muli-sectoral Committee,Yes,Papua New Guinea
+Muli-sectoral Committee,Yes,Paraguay
+Muli-sectoral Committee,Yes,Peru
+Muli-sectoral Committee,Yes,Qatar
+Muli-sectoral Committee,Yes,North Macedonia
+Muli-sectoral Committee,Yes,Rwanda
+Muli-sectoral Committee,Yes,Samoa
+Muli-sectoral Committee,Yes,Saudi Arabia
+Muli-sectoral Committee,Yes,Sierra Leone
+Muli-sectoral Committee,Yes,Solomon Islands
+Muli-sectoral Committee,Yes,Somalia
+Muli-sectoral Committee,Yes,South Africa
+Muli-sectoral Committee,Yes,Spain
+Muli-sectoral Committee,Yes,Sri Lanka
+Muli-sectoral Committee,Yes,Sudan
+Muli-sectoral Committee,Yes,Sweden
+Muli-sectoral Committee,Yes,Switzerland
+Muli-sectoral Committee,Yes,Syria
+Muli-sectoral Committee,Yes,Tajikistan
+Muli-sectoral Committee,Yes,Tanzania
+Muli-sectoral Committee,Yes,Thailand
+Muli-sectoral Committee,Yes,Timor-Leste
+Muli-sectoral Committee,Yes,Tonga
+Muli-sectoral Committee,Yes,Tunisia
+Muli-sectoral Committee,Yes,Turkmenistan
+Muli-sectoral Committee,Yes,Tuvalu
+Muli-sectoral Committee,Yes,United Kingdom
+Muli-sectoral Committee,Yes,United States
+Muli-sectoral Committee,Yes,Uruguay
+Muli-sectoral Committee,Yes,Vietnam
+Muli-sectoral Committee,Yes,Yemen
+Muli-sectoral Committee,Yes,Zambia
+New Laws/Regulations,Yes,Afghanistan
+New Laws/Regulations,Yes,Albania
+New Laws/Regulations,Yes,United Arab Emirates
+New Laws/Regulations,Yes,Argentina
+New Laws/Regulations,Yes,Australia
+New Laws/Regulations,Yes,Bangladesh
+New Laws/Regulations,Yes,Barbados
+New Laws/Regulations,Yes,Brunei
+New Laws/Regulations,Yes,Canada
+New Laws/Regulations,Yes,Cayman Islands
+New Laws/Regulations,Yes,Chile
+New Laws/Regulations,Yes,Colombia
+New Laws/Regulations,Yes,Costa Rica
+New Laws/Regulations,Yes,Denmark
+New Laws/Regulations,Yes,Egypt
+New Laws/Regulations,Yes,El Salvador
+New Laws/Regulations,Yes,Eritrea
+New Laws/Regulations,Yes,Eswatini
+New Laws/Regulations,Yes,Ethiopia
+New Laws/Regulations,Yes,Fiji
+New Laws/Regulations,Yes,Finland
+New Laws/Regulations,No,France
+New Laws/Regulations,Yes,Germany
+New Laws/Regulations,Yes,Ghana
+New Laws/Regulations,Yes,India
+New Laws/Regulations,Yes,Iran
+New Laws/Regulations,Yes,Ireland
+New Laws/Regulations,Yes,Kenya
+New Laws/Regulations,Yes,Kuwait
+New Laws/Regulations,Yes,Lebanon
+New Laws/Regulations,Yes,Liberia
+New Laws/Regulations,Yes,Libya
+New Laws/Regulations,Yes,Malawi
+New Laws/Regulations,Yes,Malaysia
+New Laws/Regulations,Yes,Maldives
+New Laws/Regulations,Yes,Malta
+New Laws/Regulations,Yes,Mauritius
+New Laws/Regulations,Yes,Micronesia
+New Laws/Regulations,Yes,Mongolia
+New Laws/Regulations,Yes,Myanmar
+New Laws/Regulations,Yes,Namibia
+New Laws/Regulations,Yes,Nauru
+New Laws/Regulations,Yes,Nepal
+New Laws/Regulations,Yes,Netherlands
+New Laws/Regulations,Yes,Nigeria
+New Laws/Regulations,Yes,Norway
+New Laws/Regulations,Yes,Oman
+New Laws/Regulations,Yes,Pakistan
+New Laws/Regulations,Yes,Palestine
+New Laws/Regulations,Yes,Papua New Guinea
+New Laws/Regulations,Yes,Paraguay
+New Laws/Regulations,Yes,Peru
+New Laws/Regulations,Yes,Qatar
+New Laws/Regulations,No,North Macedonia
+New Laws/Regulations,Yes,Rwanda
+New Laws/Regulations,Yes,Samoa
+New Laws/Regulations,Yes,Saudi Arabia
+New Laws/Regulations,Yes,Sierra Leone
+New Laws/Regulations,Yes,Solomon Islands
+New Laws/Regulations,Yes,Somalia
+New Laws/Regulations,Yes,South Africa
+New Laws/Regulations,Yes,Spain
+New Laws/Regulations,Yes,Sri Lanka
+New Laws/Regulations,Yes,Sudan
+New Laws/Regulations,Yes,Sweden
+New Laws/Regulations,Yes,Switzerland
+New Laws/Regulations,Yes,Syria
+New Laws/Regulations,Yes,Tajikistan
+New Laws/Regulations,Yes,Tanzania
+New Laws/Regulations,Yes,Thailand
+New Laws/Regulations,Yes,Timor-Leste
+New Laws/Regulations,Yes,Tonga
+New Laws/Regulations,Yes,Tunisia
+New Laws/Regulations,Yes,Turkmenistan
+New Laws/Regulations,Yes,Tuvalu
+New Laws/Regulations,Yes,United Kingdom
+New Laws/Regulations,Yes,United States
+New Laws/Regulations,Yes,Uruguay
+New Laws/Regulations,Yes,Vietnam
+New Laws/Regulations,Yes,Yemen
+New Laws/Regulations,Yes,Zambia
+Professional Training,Yes,Afghanistan
+Professional Training,Yes,Albania
+Professional Training,Yes,United Arab Emirates
+Professional Training,Yes,Argentina
+Professional Training,Yes,Australia
+Professional Training,Yes,Bangladesh
+Professional Training,Yes,Barbados
+Professional Training,Yes,Brunei
+Professional Training,Yes,Canada
+Professional Training,Yes,Cayman Islands
+Professional Training,Yes,Chile
+Professional Training,Yes,Colombia
+Professional Training,Yes,Costa Rica
+Professional Training,Yes,Denmark
+Professional Training,Yes,Egypt
+Professional Training,Yes,El Salvador
+Professional Training,Yes,Eritrea
+Professional Training,Yes,Eswatini
+Professional Training,Yes,Ethiopia
+Professional Training,Yes,Fiji
+Professional Training,Yes,Finland
+Professional Training,Yes,France
+Professional Training,Yes,Germany
+Professional Training,Yes,Ghana
+Professional Training,Yes,India
+Professional Training,Yes,Iran
+Professional Training,Yes,Ireland
+Professional Training,Yes,Kenya
+Professional Training,Yes,Kuwait
+Professional Training,Yes,Lebanon
+Professional Training,Yes,Liberia
+Professional Training,Yes,Libya
+Professional Training,Yes,Malawi
+Professional Training,Yes,Malaysia
+Professional Training,Yes,Maldives
+Professional Training,Yes,Malta
+Professional Training,Yes,Mauritius
+Professional Training,Yes,Micronesia
+Professional Training,Yes,Mongolia
+Professional Training,Yes,Myanmar
+Professional Training,Yes,Namibia
+Professional Training,Yes,Nauru
+Professional Training,Yes,Nepal
+Professional Training,Yes,Netherlands
+Professional Training,Yes,Nigeria
+Professional Training,Yes,Norway
+Professional Training,Yes,Oman
+Professional Training,Yes,Pakistan
+Professional Training,Yes,Palestine
+Professional Training,Yes,Papua New Guinea
+Professional Training,Yes,Paraguay
+Professional Training,Yes,Peru
+Professional Training,Yes,Qatar
+Professional Training,Yes,North Macedonia
+Professional Training,Yes,Rwanda
+Professional Training,Yes,Samoa
+Professional Training,Yes,Saudi Arabia
+Professional Training,Yes,Sierra Leone
+Professional Training,Yes,Solomon Islands
+Professional Training,Yes,Somalia
+Professional Training,Yes,South Africa
+Professional Training,Yes,Spain
+Professional Training,Yes,Sri Lanka
+Professional Training,Yes,Sudan
+Professional Training,Yes,Sweden
+Professional Training,Yes,Switzerland
+Professional Training,Yes,Syria
+Professional Training,Yes,Tajikistan
+Professional Training,Yes,Tanzania
+Professional Training,Yes,Thailand
+Professional Training,Yes,Timor-Leste
+Professional Training,Yes,Tonga
+Professional Training,Yes,Tunisia
+Professional Training,Yes,Turkmenistan
+Professional Training,Yes,Tuvalu
+Professional Training,Yes,United Kingdom
+Professional Training,Yes,United States
+Professional Training,Yes,Uruguay
+Professional Training,Yes,Vietnam
+Professional Training,Yes,Yemen
+Professional Training,Yes,Zambia
+Public Awareness,Yes,Afghanistan
+Public Awareness,Yes,Albania
+Public Awareness,Yes,United Arab Emirates
+Public Awareness,Yes,Argentina
+Public Awareness,Yes,Australia
+Public Awareness,Yes,Bangladesh
+Public Awareness,Yes,Barbados
+Public Awareness,Yes,Brunei
+Public Awareness,Yes,Canada
+Public Awareness,Yes,Cayman Islands
+Public Awareness,Yes,Chile
+Public Awareness,Yes,Colombia
+Public Awareness,Yes,Costa Rica
+Public Awareness,Yes,Denmark
+Public Awareness,Yes,Egypt
+Public Awareness,Yes,El Salvador
+Public Awareness,Yes,Eritrea
+Public Awareness,Yes,Eswatini
+Public Awareness,Yes,Ethiopia
+Public Awareness,Yes,Fiji
+Public Awareness,Yes,Finland
+Public Awareness,Yes,France
+Public Awareness,Yes,Germany
+Public Awareness,Yes,Ghana
+Public Awareness,Yes,India
+Public Awareness,Yes,Iran
+Public Awareness,Yes,Ireland
+Public Awareness,Yes,Kenya
+Public Awareness,Yes,Kuwait
+Public Awareness,Yes,Lebanon
+Public Awareness,Yes,Liberia
+Public Awareness,Yes,Libya
+Public Awareness,Yes,Malawi
+Public Awareness,Yes,Malaysia
+Public Awareness,Yes,Maldives
+Public Awareness,Yes,Malta
+Public Awareness,Yes,Mauritius
+Public Awareness,Yes,Micronesia
+Public Awareness,Yes,Mongolia
+Public Awareness,Yes,Myanmar
+Public Awareness,Yes,Namibia
+Public Awareness,Yes,Nauru
+Public Awareness,Yes,Nepal
+Public Awareness,Yes,Netherlands
+Public Awareness,Yes,Nigeria
+Public Awareness,Yes,Norway
+Public Awareness,Yes,Oman
+Public Awareness,Yes,Pakistan
+Public Awareness,Yes,Palestine
+Public Awareness,Yes,Papua New Guinea
+Public Awareness,Yes,Paraguay
+Public Awareness,Yes,Peru
+Public Awareness,Yes,Qatar
+Public Awareness,Yes,North Macedonia
+Public Awareness,Yes,Rwanda
+Public Awareness,Yes,Samoa
+Public Awareness,Yes,Saudi Arabia
+Public Awareness,Yes,Sierra Leone
+Public Awareness,Yes,Solomon Islands
+Public Awareness,Yes,Somalia
+Public Awareness,Yes,South Africa
+Public Awareness,Yes,Spain
+Public Awareness,Yes,Sri Lanka
+Public Awareness,Yes,Sudan
+Public Awareness,Yes,Sweden
+Public Awareness,Yes,Switzerland
+Public Awareness,Yes,Syria
+Public Awareness,Yes,Tajikistan
+Public Awareness,Yes,Tanzania
+Public Awareness,Yes,Thailand
+Public Awareness,Yes,Timor-Leste
+Public Awareness,Yes,Tonga
+Public Awareness,Yes,Tunisia
+Public Awareness,Yes,Turkmenistan
+Public Awareness,Yes,Tuvalu
+Public Awareness,Yes,United Kingdom
+Public Awareness,Yes,United States
+Public Awareness,Yes,Uruguay
+Public Awareness,Yes,Vietnam
+Public Awareness,Yes,Yemen
+Public Awareness,Yes,Zambia
+International Collaboration,Yes,Afghanistan
+International Collaboration,Yes,Albania
+International Collaboration,Yes,United Arab Emirates
+International Collaboration,Yes,Argentina
+International Collaboration,Yes,Australia
+International Collaboration,Yes,Bangladesh
+International Collaboration,Yes,Barbados
+International Collaboration,Yes,Brunei
+International Collaboration,Yes,Canada
+International Collaboration,Yes,Cayman Islands
+International Collaboration,Yes,Chile
+International Collaboration,Yes,Colombia
+International Collaboration,Yes,Costa Rica
+International Collaboration,Yes,Denmark
+International Collaboration,Yes,Egypt
+International Collaboration,Yes,El Salvador
+International Collaboration,Yes,Eritrea
+International Collaboration,Yes,Eswatini
+International Collaboration,Yes,Ethiopia
+International Collaboration,Yes,Fiji
+International Collaboration,Yes,Finland
+International Collaboration,Yes,France
+International Collaboration,Yes,Germany
+International Collaboration,Yes,Ghana
+International Collaboration,Yes,India
+International Collaboration,Yes,Iran
+International Collaboration,Yes,Ireland
+International Collaboration,Yes,Kenya
+International Collaboration,Yes,Kuwait
+International Collaboration,Yes,Lebanon
+International Collaboration,Yes,Liberia
+International Collaboration,Yes,Libya
+International Collaboration,Yes,Malawi
+International Collaboration,Yes,Malaysia
+International Collaboration,Yes,Maldives
+International Collaboration,Yes,Malta
+International Collaboration,Yes,Mauritius
+International Collaboration,Yes,Micronesia
+International Collaboration,Yes,Mongolia
+International Collaboration,Yes,Myanmar
+International Collaboration,Yes,Namibia
+International Collaboration,Yes,Nauru
+International Collaboration,Yes,Nepal
+International Collaboration,Yes,Netherlands
+International Collaboration,Yes,Nigeria
+International Collaboration,Yes,Norway
+International Collaboration,Yes,Oman
+International Collaboration,Yes,Pakistan
+International Collaboration,Yes,Palestine
+International Collaboration,Yes,Papua New Guinea
+International Collaboration,Yes,Paraguay
+International Collaboration,Yes,Peru
+International Collaboration,Yes,Qatar
+International Collaboration,Yes,North Macedonia
+International Collaboration,Yes,Rwanda
+International Collaboration,Yes,Samoa
+International Collaboration,Yes,Saudi Arabia
+International Collaboration,Yes,Sierra Leone
+International Collaboration,Yes,Solomon Islands
+International Collaboration,Yes,Somalia
+International Collaboration,Yes,South Africa
+International Collaboration,Yes,Spain
+International Collaboration,Yes,Sri Lanka
+International Collaboration,Yes,Sudan
+International Collaboration,Yes,Sweden
+International Collaboration,Yes,Switzerland
+International Collaboration,Yes,Syria
+International Collaboration,Yes,Tajikistan
+International Collaboration,Yes,Tanzania
+International Collaboration,Yes,Thailand
+International Collaboration,Yes,Timor-Leste
+International Collaboration,Yes,Tonga
+International Collaboration,Yes,Tunisia
+International Collaboration,Yes,Turkmenistan
+International Collaboration,Yes,Tuvalu
+International Collaboration,Yes,United Kingdom
+International Collaboration,Yes,United States
+International Collaboration,Yes,Uruguay
+International Collaboration,Yes,Vietnam
+International Collaboration,Yes,Yemen
+International Collaboration,Yes,Zambia
+Surveillance,Yes,Afghanistan
+Surveillance,Yes,Albania
+Surveillance,Yes,United Arab Emirates
+Surveillance,Yes,Argentina
+Surveillance,Yes,Australia
+Surveillance,Yes,Bangladesh
+Surveillance,Yes,Barbados
+Surveillance,Yes,Brunei
+Surveillance,Yes,Canada
+Surveillance,Yes,Cayman Islands
+Surveillance,Yes,Chile
+Surveillance,Yes,Colombia
+Surveillance,Yes,Costa Rica
+Surveillance,Yes,Denmark
+Surveillance,Yes,Egypt
+Surveillance,Yes,El Salvador
+Surveillance,Yes,Eritrea
+Surveillance,Yes,Eswatini
+Surveillance,Yes,Ethiopia
+Surveillance,Yes,Fiji
+Surveillance,Yes,Finland
+Surveillance,Yes,France
+Surveillance,Yes,Germany
+Surveillance,Yes,Ghana
+Surveillance,Yes,India
+Surveillance,Yes,Iran
+Surveillance,Yes,Ireland
+Surveillance,Yes,Kenya
+Surveillance,Yes,Kuwait
+Surveillance,Yes,Lebanon
+Surveillance,Yes,Liberia
+Surveillance,Yes,Libya
+Surveillance,Yes,Malawi
+Surveillance,Yes,Malaysia
+Surveillance,Yes,Maldives
+Surveillance,Yes,Malta
+Surveillance,Yes,Mauritius
+Surveillance,Yes,Micronesia
+Surveillance,Yes,Mongolia
+Surveillance,Yes,Myanmar
+Surveillance,Yes,Namibia
+Surveillance,Yes,Nauru
+Surveillance,Yes,Nepal
+Surveillance,Yes,Netherlands
+Surveillance,Yes,Nigeria
+Surveillance,Yes,Norway
+Surveillance,Yes,Oman
+Surveillance,Yes,Pakistan
+Surveillance,Yes,Palestine
+Surveillance,Yes,Papua New Guinea
+Surveillance,Yes,Paraguay
+Surveillance,Yes,Peru
+Surveillance,Yes,Qatar
+Surveillance,Yes,North Macedonia
+Surveillance,Yes,Rwanda
+Surveillance,Yes,Samoa
+Surveillance,Yes,Saudi Arabia
+Surveillance,Yes,Sierra Leone
+Surveillance,Yes,Solomon Islands
+Surveillance,Yes,Somalia
+Surveillance,Yes,South Africa
+Surveillance,Yes,Spain
+Surveillance,Yes,Sri Lanka
+Surveillance,Yes,Sudan
+Surveillance,Yes,Sweden
+Surveillance,Yes,Switzerland
+Surveillance,Yes,Syria
+Surveillance,Yes,Tajikistan
+Surveillance,Yes,Tanzania
+Surveillance,Yes,Thailand
+Surveillance,Yes,Timor-Leste
+Surveillance,Yes,Tonga
+Surveillance,Yes,Tunisia
+Surveillance,Yes,Turkmenistan
+Surveillance,Yes,Tuvalu
+Surveillance,Yes,United Kingdom
+Surveillance,Yes,United States
+Surveillance,Yes,Uruguay
+Surveillance,Yes,Vietnam
+Surveillance,Yes,Yemen
+Surveillance,Yes,Zambia
+Emergent Resistance Detection,Yes,Afghanistan
+Emergent Resistance Detection,Yes,Albania
+Emergent Resistance Detection,Yes,United Arab Emirates
+Emergent Resistance Detection,Yes,Argentina
+Emergent Resistance Detection,Yes,Australia
+Emergent Resistance Detection,No,Bangladesh
+Emergent Resistance Detection,Yes,Barbados
+Emergent Resistance Detection,Yes,Brunei
+Emergent Resistance Detection,Yes,Canada
+Emergent Resistance Detection,Yes,Cayman Islands
+Emergent Resistance Detection,Yes,Chile
+Emergent Resistance Detection,Yes,Colombia
+Emergent Resistance Detection,Yes,Costa Rica
+Emergent Resistance Detection,No,Denmark
+Emergent Resistance Detection,Yes,Egypt
+Emergent Resistance Detection,No,El Salvador
+Emergent Resistance Detection,Yes,Eritrea
+Emergent Resistance Detection,Yes,Eswatini
+Emergent Resistance Detection,Yes,Ethiopia
+Emergent Resistance Detection,Yes,Fiji
+Emergent Resistance Detection,Yes,Finland
+Emergent Resistance Detection,No,France
+Emergent Resistance Detection,Yes,Germany
+Emergent Resistance Detection,Yes,Ghana
+Emergent Resistance Detection,Yes,India
+Emergent Resistance Detection,Yes,Iran
+Emergent Resistance Detection,Yes,Ireland
+Emergent Resistance Detection,Yes,Kenya
+Emergent Resistance Detection,Yes,Kuwait
+Emergent Resistance Detection,Yes,Lebanon
+Emergent Resistance Detection,Yes,Liberia
+Emergent Resistance Detection,Yes,Libya
+Emergent Resistance Detection,Yes,Malawi
+Emergent Resistance Detection,Yes,Malaysia
+Emergent Resistance Detection,Yes,Maldives
+Emergent Resistance Detection,Yes,Malta
+Emergent Resistance Detection,Yes,Mauritius
+Emergent Resistance Detection,Yes,Micronesia
+Emergent Resistance Detection,Yes,Mongolia
+Emergent Resistance Detection,Yes,Myanmar
+Emergent Resistance Detection,Yes,Namibia
+Emergent Resistance Detection,Yes,Nauru
+Emergent Resistance Detection,Yes,Nepal
+Emergent Resistance Detection,Yes,Netherlands
+Emergent Resistance Detection,Yes,Nigeria
+Emergent Resistance Detection,Yes,Norway
+Emergent Resistance Detection,Yes,Oman
+Emergent Resistance Detection,Yes,Pakistan
+Emergent Resistance Detection,Yes,Palestine
+Emergent Resistance Detection,Yes,Papua New Guinea
+Emergent Resistance Detection,Yes,Paraguay
+Emergent Resistance Detection,Yes,Peru
+Emergent Resistance Detection,Yes,Qatar
+Emergent Resistance Detection,No,North Macedonia
+Emergent Resistance Detection,Yes,Rwanda
+Emergent Resistance Detection,Yes,Samoa
+Emergent Resistance Detection,Yes,Saudi Arabia
+Emergent Resistance Detection,Yes,Sierra Leone
+Emergent Resistance Detection,Yes,Solomon Islands
+Emergent Resistance Detection,Yes,Somalia
+Emergent Resistance Detection,Yes,South Africa
+Emergent Resistance Detection,Yes,Spain
+Emergent Resistance Detection,Yes,Sri Lanka
+Emergent Resistance Detection,Yes,Sudan
+Emergent Resistance Detection,Yes,Sweden
+Emergent Resistance Detection,Yes,Switzerland
+Emergent Resistance Detection,Yes,Syria
+Emergent Resistance Detection,Yes,Tajikistan
+Emergent Resistance Detection,Yes,Tanzania
+Emergent Resistance Detection,Yes,Thailand
+Emergent Resistance Detection,Yes,Timor-Leste
+Emergent Resistance Detection,Yes,Tonga
+Emergent Resistance Detection,Yes,Tunisia
+Emergent Resistance Detection,Yes,Turkmenistan
+Emergent Resistance Detection,Yes,Tuvalu
+Emergent Resistance Detection,Yes,United Kingdom
+Emergent Resistance Detection,Yes,United States
+Emergent Resistance Detection,Yes,Uruguay
+Emergent Resistance Detection,Yes,Vietnam
+Emergent Resistance Detection,Yes,Yemen
+Emergent Resistance Detection,Yes,Zambia
+IPC,Yes,Afghanistan
+IPC,Yes,Albania
+IPC,Yes,United Arab Emirates
+IPC,Yes,Argentina
+IPC,Yes,Australia
+IPC,Yes,Bangladesh
+IPC,Yes,Barbados
+IPC,Yes,Brunei
+IPC,Yes,Canada
+IPC,Yes,Cayman Islands
+IPC,Yes,Chile
+IPC,Yes,Colombia
+IPC,Yes,Costa Rica
+IPC,Yes,Denmark
+IPC,Yes,Egypt
+IPC,Yes,El Salvador
+IPC,Yes,Eritrea
+IPC,Yes,Eswatini
+IPC,Yes,Ethiopia
+IPC,Yes,Fiji
+IPC,Yes,Finland
+IPC,Yes,France
+IPC,Yes,Germany
+IPC,Yes,Ghana
+IPC,Yes,India
+IPC,Yes,Iran
+IPC,Yes,Ireland
+IPC,Yes,Kenya
+IPC,Yes,Kuwait
+IPC,Yes,Lebanon
+IPC,Yes,Liberia
+IPC,Yes,Libya
+IPC,Yes,Malawi
+IPC,Yes,Malaysia
+IPC,Yes,Maldives
+IPC,Yes,Malta
+IPC,Yes,Mauritius
+IPC,Yes,Micronesia
+IPC,Yes,Mongolia
+IPC,Yes,Myanmar
+IPC,Yes,Namibia
+IPC,Yes,Nauru
+IPC,Yes,Nepal
+IPC,Yes,Netherlands
+IPC,Yes,Nigeria
+IPC,Yes,Norway
+IPC,Yes,Oman
+IPC,Yes,Pakistan
+IPC,Yes,Palestine
+IPC,Yes,Papua New Guinea
+IPC,Yes,Paraguay
+IPC,Yes,Peru
+IPC,Yes,Qatar
+IPC,Yes,North Macedonia
+IPC,Yes,Rwanda
+IPC,Yes,Samoa
+IPC,Yes,Saudi Arabia
+IPC,Yes,Sierra Leone
+IPC,Yes,Solomon Islands
+IPC,Yes,Somalia
+IPC,Yes,South Africa
+IPC,Yes,Spain
+IPC,Yes,Sri Lanka
+IPC,Yes,Sudan
+IPC,Yes,Sweden
+IPC,Yes,Switzerland
+IPC,Yes,Syria
+IPC,Yes,Tajikistan
+IPC,Yes,Tanzania
+IPC,Yes,Thailand
+IPC,Yes,Timor-Leste
+IPC,Yes,Tonga
+IPC,Yes,Tunisia
+IPC,Yes,Turkmenistan
+IPC,Yes,Tuvalu
+IPC,Yes,United Kingdom
+IPC,Yes,United States
+IPC,Yes,Uruguay
+IPC,Yes,Vietnam
+IPC,Yes,Yemen
+IPC,Yes,Zambia
+OIE/FAO Standards,Yes,Afghanistan
+OIE/FAO Standards,Yes,Albania
+OIE/FAO Standards,Yes,United Arab Emirates
+OIE/FAO Standards,Yes,Argentina
+OIE/FAO Standards,Yes,Australia
+OIE/FAO Standards,No,Bangladesh
+OIE/FAO Standards,Yes,Barbados
+OIE/FAO Standards,Yes,Brunei
+OIE/FAO Standards,Yes,Canada
+OIE/FAO Standards,Yes,Cayman Islands
+OIE/FAO Standards,Yes,Chile
+OIE/FAO Standards,Yes,Colombia
+OIE/FAO Standards,Yes,Costa Rica
+OIE/FAO Standards,Yes,Denmark
+OIE/FAO Standards,Yes,Egypt
+OIE/FAO Standards,No,El Salvador
+OIE/FAO Standards,Yes,Eritrea
+OIE/FAO Standards,Yes,Eswatini
+OIE/FAO Standards,Yes,Ethiopia
+OIE/FAO Standards,Yes,Fiji
+OIE/FAO Standards,Yes,Finland
+OIE/FAO Standards,No,France
+OIE/FAO Standards,Yes,Germany
+OIE/FAO Standards,Yes,Ghana
+OIE/FAO Standards,Yes,India
+OIE/FAO Standards,Yes,Iran
+OIE/FAO Standards,Yes,Ireland
+OIE/FAO Standards,Yes,Kenya
+OIE/FAO Standards,Yes,Kuwait
+OIE/FAO Standards,Yes,Lebanon
+OIE/FAO Standards,Yes,Liberia
+OIE/FAO Standards,Yes,Libya
+OIE/FAO Standards,Yes,Malawi
+OIE/FAO Standards,Yes,Malaysia
+OIE/FAO Standards,Yes,Maldives
+OIE/FAO Standards,Yes,Malta
+OIE/FAO Standards,Yes,Mauritius
+OIE/FAO Standards,Yes,Micronesia
+OIE/FAO Standards,Yes,Mongolia
+OIE/FAO Standards,Yes,Myanmar
+OIE/FAO Standards,Yes,Namibia
+OIE/FAO Standards,Yes,Nauru
+OIE/FAO Standards,Yes,Nepal
+OIE/FAO Standards,Yes,Netherlands
+OIE/FAO Standards,Yes,Nigeria
+OIE/FAO Standards,Yes,Norway
+OIE/FAO Standards,Yes,Oman
+OIE/FAO Standards,Yes,Pakistan
+OIE/FAO Standards,Yes,Palestine
+OIE/FAO Standards,Yes,Papua New Guinea
+OIE/FAO Standards,Yes,Paraguay
+OIE/FAO Standards,Yes,Peru
+OIE/FAO Standards,Yes,Qatar
+OIE/FAO Standards,No,North Macedonia
+OIE/FAO Standards,Yes,Rwanda
+OIE/FAO Standards,Yes,Samoa
+OIE/FAO Standards,Yes,Saudi Arabia
+OIE/FAO Standards,Yes,Sierra Leone
+OIE/FAO Standards,Yes,Solomon Islands
+OIE/FAO Standards,Yes,Somalia
+OIE/FAO Standards,Yes,South Africa
+OIE/FAO Standards,Yes,Spain
+OIE/FAO Standards,Yes,Sri Lanka
+OIE/FAO Standards,Yes,Sudan
+OIE/FAO Standards,Yes,Sweden
+OIE/FAO Standards,Yes,Switzerland
+OIE/FAO Standards,Yes,Syria
+OIE/FAO Standards,Yes,Tajikistan
+OIE/FAO Standards,Yes,Tanzania
+OIE/FAO Standards,Yes,Thailand
+OIE/FAO Standards,Yes,Timor-Leste
+OIE/FAO Standards,Yes,Tonga
+OIE/FAO Standards,Yes,Tunisia
+OIE/FAO Standards,Yes,Turkmenistan
+OIE/FAO Standards,Yes,Tuvalu
+OIE/FAO Standards,Yes,United Kingdom
+OIE/FAO Standards,Yes,United States
+OIE/FAO Standards,Yes,Uruguay
+OIE/FAO Standards,Yes,Vietnam
+OIE/FAO Standards,Yes,Yemen
+OIE/FAO Standards,Yes,Zambia
+Antibiotic Prescription and Dispensation,Yes,Afghanistan
+Antibiotic Prescription and Dispensation,Yes,Albania
+Antibiotic Prescription and Dispensation,Yes,United Arab Emirates
+Antibiotic Prescription and Dispensation,Yes,Argentina
+Antibiotic Prescription and Dispensation,Yes,Australia
+Antibiotic Prescription and Dispensation,Yes,Bangladesh
+Antibiotic Prescription and Dispensation,Yes,Barbados
+Antibiotic Prescription and Dispensation,Yes,Brunei
+Antibiotic Prescription and Dispensation,Yes,Canada
+Antibiotic Prescription and Dispensation,Yes,Cayman Islands
+Antibiotic Prescription and Dispensation,Yes,Chile
+Antibiotic Prescription and Dispensation,Yes,Colombia
+Antibiotic Prescription and Dispensation,Yes,Costa Rica
+Antibiotic Prescription and Dispensation,Yes,Denmark
+Antibiotic Prescription and Dispensation,Yes,Egypt
+Antibiotic Prescription and Dispensation,Yes,El Salvador
+Antibiotic Prescription and Dispensation,Yes,Eritrea
+Antibiotic Prescription and Dispensation,Yes,Eswatini
+Antibiotic Prescription and Dispensation,Yes,Ethiopia
+Antibiotic Prescription and Dispensation,Yes,Fiji
+Antibiotic Prescription and Dispensation,Yes,Finland
+Antibiotic Prescription and Dispensation,No,France
+Antibiotic Prescription and Dispensation,Yes,Germany
+Antibiotic Prescription and Dispensation,Yes,Ghana
+Antibiotic Prescription and Dispensation,Yes,India
+Antibiotic Prescription and Dispensation,Yes,Iran
+Antibiotic Prescription and Dispensation,Yes,Ireland
+Antibiotic Prescription and Dispensation,Yes,Kenya
+Antibiotic Prescription and Dispensation,Yes,Kuwait
+Antibiotic Prescription and Dispensation,Yes,Lebanon
+Antibiotic Prescription and Dispensation,Yes,Liberia
+Antibiotic Prescription and Dispensation,Yes,Libya
+Antibiotic Prescription and Dispensation,Yes,Malawi
+Antibiotic Prescription and Dispensation,Yes,Malaysia
+Antibiotic Prescription and Dispensation,Yes,Maldives
+Antibiotic Prescription and Dispensation,Yes,Malta
+Antibiotic Prescription and Dispensation,Yes,Mauritius
+Antibiotic Prescription and Dispensation,Yes,Micronesia
+Antibiotic Prescription and Dispensation,Yes,Mongolia
+Antibiotic Prescription and Dispensation,Yes,Myanmar
+Antibiotic Prescription and Dispensation,Yes,Namibia
+Antibiotic Prescription and Dispensation,Yes,Nauru
+Antibiotic Prescription and Dispensation,Yes,Nepal
+Antibiotic Prescription and Dispensation,Yes,Netherlands
+Antibiotic Prescription and Dispensation,Yes,Nigeria
+Antibiotic Prescription and Dispensation,Yes,Norway
+Antibiotic Prescription and Dispensation,Yes,Oman
+Antibiotic Prescription and Dispensation,Yes,Pakistan
+Antibiotic Prescription and Dispensation,Yes,Palestine
+Antibiotic Prescription and Dispensation,Yes,Papua New Guinea
+Antibiotic Prescription and Dispensation,Yes,Paraguay
+Antibiotic Prescription and Dispensation,Yes,Peru
+Antibiotic Prescription and Dispensation,Yes,Qatar
+Antibiotic Prescription and Dispensation,No,North Macedonia
+Antibiotic Prescription and Dispensation,Yes,Rwanda
+Antibiotic Prescription and Dispensation,Yes,Samoa
+Antibiotic Prescription and Dispensation,Yes,Saudi Arabia
+Antibiotic Prescription and Dispensation,Yes,Sierra Leone
+Antibiotic Prescription and Dispensation,Yes,Solomon Islands
+Antibiotic Prescription and Dispensation,Yes,Somalia
+Antibiotic Prescription and Dispensation,Yes,South Africa
+Antibiotic Prescription and Dispensation,Yes,Spain
+Antibiotic Prescription and Dispensation,Yes,Sri Lanka
+Antibiotic Prescription and Dispensation,Yes,Sudan
+Antibiotic Prescription and Dispensation,Yes,Sweden
+Antibiotic Prescription and Dispensation,Yes,Switzerland
+Antibiotic Prescription and Dispensation,Yes,Syria
+Antibiotic Prescription and Dispensation,Yes,Tajikistan
+Antibiotic Prescription and Dispensation,Yes,Tanzania
+Antibiotic Prescription and Dispensation,Yes,Thailand
+Antibiotic Prescription and Dispensation,Yes,Timor-Leste
+Antibiotic Prescription and Dispensation,Yes,Tonga
+Antibiotic Prescription and Dispensation,Yes,Tunisia
+Antibiotic Prescription and Dispensation,Yes,Turkmenistan
+Antibiotic Prescription and Dispensation,Yes,Tuvalu
+Antibiotic Prescription and Dispensation,Yes,United Kingdom
+Antibiotic Prescription and Dispensation,Yes,United States
+Antibiotic Prescription and Dispensation,Yes,Uruguay
+Antibiotic Prescription and Dispensation,Yes,Vietnam
+Antibiotic Prescription and Dispensation,Yes,Yemen
+Antibiotic Prescription and Dispensation,Yes,Zambia
+Rational Antibiotic Use Laws,Yes,Afghanistan
+Rational Antibiotic Use Laws,Yes,Albania
+Rational Antibiotic Use Laws,Yes,United Arab Emirates
+Rational Antibiotic Use Laws,Yes,Argentina
+Rational Antibiotic Use Laws,Yes,Australia
+Rational Antibiotic Use Laws,Yes,Bangladesh
+Rational Antibiotic Use Laws,Yes,Barbados
+Rational Antibiotic Use Laws,Yes,Brunei
+Rational Antibiotic Use Laws,Yes,Canada
+Rational Antibiotic Use Laws,Yes,Cayman Islands
+Rational Antibiotic Use Laws,Yes,Chile
+Rational Antibiotic Use Laws,Yes,Colombia
+Rational Antibiotic Use Laws,Yes,Costa Rica
+Rational Antibiotic Use Laws,Yes,Denmark
+Rational Antibiotic Use Laws,Yes,Egypt
+Rational Antibiotic Use Laws,Yes,El Salvador
+Rational Antibiotic Use Laws,Yes,Eritrea
+Rational Antibiotic Use Laws,Yes,Eswatini
+Rational Antibiotic Use Laws,Yes,Ethiopia
+Rational Antibiotic Use Laws,Yes,Fiji
+Rational Antibiotic Use Laws,Yes,Finland
+Rational Antibiotic Use Laws,No,France
+Rational Antibiotic Use Laws,Yes,Germany
+Rational Antibiotic Use Laws,Yes,Ghana
+Rational Antibiotic Use Laws,Yes,India
+Rational Antibiotic Use Laws,Yes,Iran
+Rational Antibiotic Use Laws,Yes,Ireland
+Rational Antibiotic Use Laws,Yes,Kenya
+Rational Antibiotic Use Laws,Yes,Kuwait
+Rational Antibiotic Use Laws,Yes,Lebanon
+Rational Antibiotic Use Laws,Yes,Liberia
+Rational Antibiotic Use Laws,Yes,Libya
+Rational Antibiotic Use Laws,Yes,Malawi
+Rational Antibiotic Use Laws,Yes,Malaysia
+Rational Antibiotic Use Laws,Yes,Maldives
+Rational Antibiotic Use Laws,Yes,Malta
+Rational Antibiotic Use Laws,Yes,Mauritius
+Rational Antibiotic Use Laws,Yes,Micronesia
+Rational Antibiotic Use Laws,Yes,Mongolia
+Rational Antibiotic Use Laws,Yes,Myanmar
+Rational Antibiotic Use Laws,Yes,Namibia
+Rational Antibiotic Use Laws,Yes,Nauru
+Rational Antibiotic Use Laws,Yes,Nepal
+Rational Antibiotic Use Laws,Yes,Netherlands
+Rational Antibiotic Use Laws,Yes,Nigeria
+Rational Antibiotic Use Laws,Yes,Norway
+Rational Antibiotic Use Laws,Yes,Oman
+Rational Antibiotic Use Laws,Yes,Pakistan
+Rational Antibiotic Use Laws,Yes,Palestine
+Rational Antibiotic Use Laws,Yes,Papua New Guinea
+Rational Antibiotic Use Laws,Yes,Paraguay
+Rational Antibiotic Use Laws,Yes,Peru
+Rational Antibiotic Use Laws,Yes,Qatar
+Rational Antibiotic Use Laws,No,North Macedonia
+Rational Antibiotic Use Laws,Yes,Rwanda
+Rational Antibiotic Use Laws,Yes,Samoa
+Rational Antibiotic Use Laws,Yes,Saudi Arabia
+Rational Antibiotic Use Laws,Yes,Sierra Leone
+Rational Antibiotic Use Laws,Yes,Solomon Islands
+Rational Antibiotic Use Laws,Yes,Somalia
+Rational Antibiotic Use Laws,Yes,South Africa
+Rational Antibiotic Use Laws,Yes,Spain
+Rational Antibiotic Use Laws,Yes,Sri Lanka
+Rational Antibiotic Use Laws,Yes,Sudan
+Rational Antibiotic Use Laws,Yes,Sweden
+Rational Antibiotic Use Laws,Yes,Switzerland
+Rational Antibiotic Use Laws,Yes,Syria
+Rational Antibiotic Use Laws,Yes,Tajikistan
+Rational Antibiotic Use Laws,Yes,Tanzania
+Rational Antibiotic Use Laws,Yes,Thailand
+Rational Antibiotic Use Laws,Yes,Timor-Leste
+Rational Antibiotic Use Laws,Yes,Tonga
+Rational Antibiotic Use Laws,Yes,Tunisia
+Rational Antibiotic Use Laws,Yes,Turkmenistan
+Rational Antibiotic Use Laws,Yes,Tuvalu
+Rational Antibiotic Use Laws,Yes,United Kingdom
+Rational Antibiotic Use Laws,Yes,United States
+Rational Antibiotic Use Laws,Yes,Uruguay
+Rational Antibiotic Use Laws,Yes,Vietnam
+Rational Antibiotic Use Laws,Yes,Yemen
+Rational Antibiotic Use Laws,Yes,Zambia
+Research and Development,Yes,Afghanistan
+Research and Development,Yes,Albania
+Research and Development,Yes,United Arab Emirates
+Research and Development,Yes,Argentina
+Research and Development,Yes,Australia
+Research and Development,No,Bangladesh
+Research and Development,Yes,Barbados
+Research and Development,Yes,Brunei
+Research and Development,Yes,Canada
+Research and Development,Yes,Cayman Islands
+Research and Development,Yes,Chile
+Research and Development,Yes,Colombia
+Research and Development,Yes,Costa Rica
+Research and Development,No,Denmark
+Research and Development,Yes,Egypt
+Research and Development,No,El Salvador
+Research and Development,Yes,Eritrea
+Research and Development,Yes,Eswatini
+Research and Development,Yes,Ethiopia
+Research and Development,Yes,Fiji
+Research and Development,Yes,Finland
+Research and Development,Yes,France
+Research and Development,Yes,Germany
+Research and Development,Yes,Ghana
+Research and Development,Yes,India
+Research and Development,Yes,Iran
+Research and Development,Yes,Ireland
+Research and Development,Yes,Kenya
+Research and Development,Yes,Kuwait
+Research and Development,Yes,Lebanon
+Research and Development,Yes,Liberia
+Research and Development,Yes,Libya
+Research and Development,Yes,Malawi
+Research and Development,Yes,Malaysia
+Research and Development,Yes,Maldives
+Research and Development,Yes,Malta
+Research and Development,Yes,Mauritius
+Research and Development,Yes,Micronesia
+Research and Development,Yes,Mongolia
+Research and Development,Yes,Myanmar
+Research and Development,No,Namibia
+Research and Development,Yes,Nauru
+Research and Development,Yes,Nepal
+Research and Development,Yes,Netherlands
+Research and Development,Yes,Nigeria
+Research and Development,Yes,Norway
+Research and Development,Yes,Oman
+Research and Development,Yes,Pakistan
+Research and Development,Yes,Palestine
+Research and Development,Yes,Papua New Guinea
+Research and Development,Yes,Paraguay
+Research and Development,Yes,Peru
+Research and Development,Yes,Qatar
+Research and Development,No,North Macedonia
+Research and Development,Yes,Rwanda
+Research and Development,No,Samoa
+Research and Development,Yes,Saudi Arabia
+Research and Development,Yes,Sierra Leone
+Research and Development,Yes,Solomon Islands
+Research and Development,Yes,Somalia
+Research and Development,Yes,South Africa
+Research and Development,Yes,Spain
+Research and Development,Yes,Sri Lanka
+Research and Development,Yes,Sudan
+Research and Development,Yes,Sweden
+Research and Development,Yes,Switzerland
+Research and Development,No,Syria
+Research and Development,Yes,Tajikistan
+Research and Development,Yes,Tanzania
+Research and Development,Yes,Thailand
+Research and Development,Yes,Timor-Leste
+Research and Development,Yes,Tonga
+Research and Development,Yes,Tunisia
+Research and Development,Yes,Turkmenistan
+Research and Development,Yes,Tuvalu
+Research and Development,Yes,United Kingdom
+Research and Development,Yes,United States
+Research and Development,No,Uruguay
+Research and Development,Yes,Vietnam
+Research and Development,Yes,Yemen
+Research and Development,Yes,Zambia
